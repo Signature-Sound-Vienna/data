@@ -10,7 +10,7 @@
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "dcterms": "http://purl.org/dc/terms/"
   },
-  "@id": "musMat:ExampleK",
+  "@id": "musMat:ExampleK.jsonld",
   "@type": [
     "mao:MusicalMaterial",
     "schema:Dataset"
@@ -22,7 +22,7 @@
   "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
   "rdfs:label": "Example K",
   "mao:setting": {
-    "@id": "extract:ExampleK"
+    "@id": "extract:ExampleK.jsonld"
   },
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"

@@ -10,7 +10,7 @@
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "dcterms": "http://purl.org/dc/terms/"
   },
-  "@id": "extract:ExampleK",
+  "@id": "extract:ExampleK.jsonld",
   "@type": [
     "mao:Extract",
     "schema:Dataset"
@@ -21,7 +21,7 @@
   },
   "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
   "frbr:embodiment": {
-    "@id": "selection:ExampleK"
+    "@id": "selection:ExampleK.jsonld"
   },
   "rdfs:label": "Example K",
   "schema:about": {

@@ -10,7 +10,7 @@
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "dcterms": "http://purl.org/dc/terms/"
   },
-  "@id": "selection:ExampleI",
+  "@id": "selection:ExampleI.jsonld",
   "@type": [
     "mao:Selection",
     "schema:Dataset"
