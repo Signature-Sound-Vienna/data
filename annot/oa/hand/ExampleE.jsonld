@@ -15,7 +15,7 @@
     "rdfs:label": "Dr. Chanda VanderHart"
   },
   "@type": "oa:Annotation",
-  "@id": "anno:ExampleE",
+  "@id": "anno:ExampleE.jsonld",
   "oa:motivatedBy": "mao:commentary",
   "oa:hasBody": [
     {
@@ -25,7 +25,7 @@
   ],
   "oa:hasTarget": [
     {
-      "@id": "musMat:ExampleE"
+      "@id": "musMat:ExampleE.jsonld"
     }
   ]
 }
