@@ -1,0 +1,60 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/1990#1> a ns1:Track ;
+    rdfs:label "Track: \"Einzugsmarsch aus \"Der Zigeunerbaron\" - Johann Strauss, Jr.\"" ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#10> a ns1:Track ;
+    rdfs:label "Track: \"Tritsch-Tratsch Polka, op. 214 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#11> a ns1:Track ;
+    rdfs:label "Track: \"Eplosions-Polka, op. 43 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#12> a ns1:Track ;
+    rdfs:label "Track: \"Eingesendet, Polka schnell op. 240 - Joseph Strauss\"" ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#13> a ns1:Track ;
+    rdfs:label "Track: \"An der schoenen blauen Donau, Walzer op. 314 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#14> a ns1:Track ;
+    rdfs:label "Track: \"Radetzky March, op. 228 - Johann Strauss, Sr.\"" ;
+    ns1:track_number 14 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#2> a ns1:Track ;
+    rdfs:label "Track: \"Die Emancipirte, Polka mazur op. 282 - Joseph Strauss\"" ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#3> a ns1:Track ;
+    rdfs:label "Track: \"Indianer Galopp, op. 111 - Johann Strauss, Sr.\"" ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#4> a ns1:Track ;
+    rdfs:label "Track: \"Donauweibchen, Walzer op. 427 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#5> a ns1:Track ;
+    rdfs:label "Track: \"Sport-Polka, op. 170 - Joseph Strauss\"" ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#6> a ns1:Track ;
+    rdfs:label "Track: \"Sympathie, Polka mazur op. 73 - Joseph Strauss\"" ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#7> a ns1:Track ;
+    rdfs:label "Track: \"Wiener Blut, Walzer op. 354 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#8> a ns1:Track ;
+    rdfs:label "Track: \"Im Sturmschritt, Polka schnell op. 348 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/1990#9> a ns1:Track ;
+    rdfs:label "Track: \"Geschichten aus dem Wienerwald, Walzer op. 325 - Johann Strauss, Jr.\"" ;
+    ns1:track_number 9 .
+

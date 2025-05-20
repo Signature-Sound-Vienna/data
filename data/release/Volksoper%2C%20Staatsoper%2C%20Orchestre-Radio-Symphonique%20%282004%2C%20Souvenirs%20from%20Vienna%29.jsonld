@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\""
+      },
+      {
+        "@value": "Record: \"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\""
+      }
+    ]
+  }
+]

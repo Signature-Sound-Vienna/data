@@ -1,0 +1,266 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/fae5b95d-ddf0-46d5-a950-899d7ae58399"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Champagner-Polka (Strauss-Orchester Wien, Norbert Neukamp)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5b426237-70bb-4bf9-b9e5-26918e1a3aef"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiserwalzer (André Rieu, Johann Strauss Orchester)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bebe2cc8-88b9-456e-b78f-1f829314c887"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf der Jagd ( Rieu, Johann Strauss Orchester)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/3ce4bf3c-6552-4850-8e21-c35def86aee6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Unter Donner und Blitz (Strauss-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/3d98157a-1152-4ff9-b9ad-bad680e0e54e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wein, Weib und Gesang (Strauss-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8d338b05-7cb3-488c-872d-e61c1470dcc3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rosen aus dem Süden (Strauss-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/3c133ec5-4da3-4a71-bad9-8157206ca606"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Moulinet Polka (Rieu, Johann Strauss Orchester)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e7510bef-1de5-4b60-9b3f-367f6df17735"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Frühlingsstimmen (Rieu, Johann Strauss Orchester)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0b38b70e-929e-4144-8030-918e6b19cd4d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre aus 'Die Fledermaus' (Strauss-Orchester Wien, Joseph Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/17b32aec-6315-48e7-aec2-6ca1b25eb18e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G ́schichten aus dem Wienerwald (Wiener Sängerknaben, Marschik)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/28df786c-a69e-4e9c-8eee-5e941a4b0238"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tritsch-Tratsch-Polka (Wiener Sängerknaben, Marschik)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/44a16421-25a2-4293-9510-6fabe467fcaf"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut (Strauss-Orchester Wien, Francek)\""
+      }
+    ]
+  }
+]

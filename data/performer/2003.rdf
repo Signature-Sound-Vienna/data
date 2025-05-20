@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performer/2003#23">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/data/0.9/performance/2003#23"/>
+    <foaf:name>"Wiener Philharmoniker , Nikolaus Harnoncourt"</foaf:name>
+    <rdfs:label>Performer: "Wiener Philharmoniker , Nikolaus Harnoncourt"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/98b95966-64db-4631-8b9f-8aa66f32cc98"/>
+  </rdf:Description>
+</rdf:RDF>

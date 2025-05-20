@@ -1,0 +1,60 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/2014%2FCD1",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"New Year's Concert 2014 [Disc 1]\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#9"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/2014%2FCD1"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"New Year's Concert 2014 [Disc 1]\""
+      },
+      {
+        "@value": "Record: \"New Year's Concert 2014 [Disc 1]\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/record/1996%2FCD2> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/data/0.9/track/1996%2FCD2#1>,
+        <https://w3id.org/ssv/data/0.9/track/1996%2FCD2#2>,
+        <https://w3id.org/ssv/data/0.9/track/1996%2FCD2#3> ;
+    ns1:track_count 4 .
+

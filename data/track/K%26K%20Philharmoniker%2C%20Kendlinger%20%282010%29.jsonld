@@ -1,0 +1,244 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c37b1efb-0fe8-4dac-9dd9-3267c3a3fa5a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre zur Operette 'Die Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d7973f7f-08b9-4630-9846-4dd3ca75b5ed"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Einzugsmarsch aus der Operette 'Der Zigeunerbaron'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/950f8a85-73f6-4548-b296-809ded5b0da0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Klänge der Heimat, Csárdás der Rosalinde aus 'Die Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c65f1aab-1cfb-4c63-b0af-7f13c985423d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch op. 228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b7f7ef30-6723-4b17-8f88-56c9db34f054"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Im Krapfenwaldl op. 336, Polka francaise\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/da0f683d-e3e1-4f57-9644-3b0e5901d723"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Éljen a Magýar! op. 332, Polka schnell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b9c01d6a-8df8-4ce5-843a-0e6e681805d6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Egyptischer Marsch op. 335\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/804e38d3-0636-40db-be15-4f13b166b049"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen, blauen Donau op. 314, Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9fdf2d30-028d-469e-bdd1-7f0ec7238228"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiserwalzer op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/351346db-67fb-4743-9e4b-9befc62a8789"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Nordseebilder op. 390, Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rosen aus dem Süden op. 388, Walzer\""
+      }
+    ]
+  }
+]

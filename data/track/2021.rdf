@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#17">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ba3dfa4f-1a99-4353-bdd0-581bd170a2df"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <rdfs:label>Track: "Neujahrsgruß/ New Year ́s Address"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cb1b9615-503e-4c53-86d0-fd0fe071adee"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Niko-Polka, op. 228"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e2d7751e-7885-4b4e-826d-e9de6601f969"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Kaiserwalzer, op. 437"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d022aed5-126f-4e76-8a2a-b556157f0c48"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Ohne Sorgen, op. 271"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7e19301e-9239-41e9-b22e-46c87699a379"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Dichter und Bauer, Ouvertüre"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8a7237f2-5742-46f7-820e-83633f3b3382"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: Fatinitza-Marsch</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5febcec4-502e-4f77-9a39-62ed56c396ac"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Neue Melodien-Quadrille, op. 254"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/309404c3-9051-4484-bf72-13c56e618d79"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/328fed84-a208-40f3-8b8b-7dae337a182b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "In Saus und Braus"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f71b70a9-996d-42f8-ad9b-2d3fd2e994be"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Frühlingsstimmen, op. 410"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/143f1f82-6293-4aa1-9e67-82503756fb9b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Stürmisch in Lieb'und Tanz, op. 393"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b3f92105-bb7b-40ed-9e55-10fed2e2f2e5"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Bad'ner Mad'ln, op. 257"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f464e462-22a2-4e90-b92a-b2fc94f33ffb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Margherita-Polka, op. 244"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/575c612b-4536-488c-84b2-f3be54f2ca42"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: Grubenlichter</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fea701d9-7bdf-4b9c-85d0-86b48fa556c9"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
+    <rdfs:label>Track: "Furioso-Polka, op. 260"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a21c543c-0903-49e3-ab31-5acda7a44e1e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Schallwellen, op. 148"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c5033218-7ce2-49d8-877f-36c0b47ef103"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Venetianer-Galopp, op. 74"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#18">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ccf43e4b-9916-4a60-a2eb-c45842fc523a"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau, op. 314"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/2021#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2a06ac8f-be44-46f8-a436-ca653b21d963"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Im Krapfenwald'l, op. 336"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

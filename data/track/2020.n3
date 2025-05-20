@@ -1,0 +1,104 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/2020#1> a ns1:Track ;
+    rdfs:label "Track: \"Die Landstreicher, Ouvertüre\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/6601dac5-d770-4e34-bae2-0d42aff096b1> ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#10> a ns1:Track ;
+    rdfs:label "Track: \"Eisblume, op. 55\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f2c8fa4d-054b-43c3-b45f-e4961e1afe69> ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#11> a ns1:Track ;
+    rdfs:label "Track: Gavotte" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a1ba7567-f5ff-4b23-9f57-3b8b724d0033> ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#12> a ns1:Track ;
+    rdfs:label "Track: \"Postillon Galop, op. 16, 2\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/7cbd08c3-f59f-4727-8202-0a07fc70522d> ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#13> a ns1:Track ;
+    rdfs:label "Track: \"12 Contretänze, WoO 14\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/05916d6a-16ea-4126-a84a-329012d2cbcb> ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#14> a ns1:Track ;
+    rdfs:label "Track: \"Freuet euch des Lebens, op. 340\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/eca736f8-cef9-4ff0-b872-98841b6c2ea7> ;
+    ns1:track_number 14 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#15> a ns1:Track ;
+    rdfs:label "Track: \"Tritsch-Tratsch Polka, op. 214\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/d25433da-1d82-4b80-9bae-824bcd1cae81> ;
+    ns1:track_number 15 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#16> a ns1:Track ;
+    rdfs:label "Track: \"Dynamiden (Geheime Anziehungskräfte), op. 173\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/74a25108-d5ff-4864-aeab-fca5427b26d8> ;
+    ns1:track_number 16 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#17> a ns1:Track ;
+    rdfs:label "Track: \"Im Fluge, op. 230\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/9ba610e0-b19b-4ef8-9e1e-02ee35e91ec8> ;
+    ns1:track_number 17 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#18> a ns1:Track ;
+    rdfs:label "Track: Neujahrsgruß" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ed365990-37d7-48cb-9836-2de730ae998a> ;
+    ns1:track_number 18 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#19> a ns1:Track ;
+    rdfs:label "Track: \"An der schönen blauen Donau, op. 314\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/4975dd19-48e9-4bc3-8fe0-046486d7899c> ;
+    ns1:track_number 19 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#2> a ns1:Track ;
+    rdfs:label "Track: \"Liebesgrüße, op. 56\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/96bca611-3c40-447d-92de-41f12cd501b6> ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#20> a ns1:Track ;
+    rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/017a21fa-cc36-4e78-91d0-8f150d1f8cc1> ;
+    ns1:track_number 20 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#3> a ns1:Track ;
+    rdfs:label "Track: \"Liechtenstein-Marsch, op. 36\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/9c3a3831-66ec-445b-b2d9-eec1e9919698> ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#4> a ns1:Track ;
+    rdfs:label "Track: \"Blumenfest-Polka, op. 111\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f8c2f2f0-b1e8-43cf-b8af-b3272757ac21> ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#5> a ns1:Track ;
+    rdfs:label "Track: \"Wo die Zitronen blüh ́n, op. 364\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a2af6bdf-4570-40fe-a67f-c9eefd675504> ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#6> a ns1:Track ;
+    rdfs:label "Track: \"Knall und Fall, op. 132\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/70eb3ceb-8ecf-4ea0-b315-641e218f491b> ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#7> a ns1:Track ;
+    rdfs:label "Track: \"Leichte Kavalliere, Ouvertüre\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/8ed6389c-80fc-4cd8-9a28-c6263668d749> ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#8> a ns1:Track ;
+    rdfs:label "Track: \"Cupido, op. 81\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b9605f8c-fd91-4ee9-bf9f-dc0349ea44e8> ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/2020#9> a ns1:Track ;
+    rdfs:label "Track: \"Seid umschlungen, Millionen!, op. 443\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/e9192581-4337-4801-9a93-cb0cfed861da> ;
+    ns1:track_number 9 .
+

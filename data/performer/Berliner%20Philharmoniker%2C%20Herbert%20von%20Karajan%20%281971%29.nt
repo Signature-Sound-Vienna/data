@@ -1,0 +1,4 @@
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Berliner Philharmoniker - Herbert von Karajan\"" .
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> <http://xmlns.com/foaf/0.1/name> "\"Berliner Philharmoniker - Herbert von Karajan\"" .
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> .
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .

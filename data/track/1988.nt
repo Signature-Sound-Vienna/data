@@ -1,0 +1,45 @@
+<https://w3id.org/ssv/data/0.9/track/1988#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Donna Diana - Emil Nikolaus von Reznicek\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Brennende Liebe - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Seid umschlungen, Millionen - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Fledermaus - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freut euch des Lebens - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichtes Blut - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neue Pizzicato - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"In Fluge - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum mobile - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch - Johann Strauss I\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Banditen-Galopp - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Auf Ferienreise - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Un ballo in maschera - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1988#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1988#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1988#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tritsch-Trasch-Polka - Johann Strauss II\"" .

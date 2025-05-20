@@ -1,0 +1,119 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/2005#1> a ns1:Track ;
+    rdfs:label "Track: \"Opening Credits/ Vorspann\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/3953997b-33d5-42c4-9b87-5b89c6b5cd3c> ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#10> a ns1:Track ;
+    rdfs:label "Track: \"Klipp-Klapp, Galopp, op. 466\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/38471a39-0635-4126-8e12-21516032d00d> ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#11> a ns1:Track ;
+    rdfs:label "Track: \"Nordseebilder, Walzer, op. 390\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/75afc8b3-af65-4215-a3ae-cfd00f8615b3> ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#12> a ns1:Track ;
+    rdfs:label "Track: \"Bauern-Polka, op. 276\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ddd512a1-528f-40f0-bef4-59d56126a990> ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#13> a ns1:Track ;
+    rdfs:label "Track: \"Fata Morgana, Polka mazur, op. 330\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/9927d6dd-74d9-4c01-8a55-ce12fef13eed> ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#14> a ns1:Track ;
+    rdfs:label "Track: \"Vergnügungszug, Polka schnell, op. 281\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/01468ebc-9309-4919-9b9d-99ef7d291dd4> ;
+    ns1:track_number 14 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#15> a ns1:Track ;
+    rdfs:label "Track: \"Auf Wiener Art, Polka francaise\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ecc2a6be-5871-4f90-918b-52abc25ae3dc> ;
+    ns1:track_number 15 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#16> a ns1:Track ;
+    rdfs:label "Track: \"Russische Marsch-Fantasie, op. 353\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/daab15f7-5cad-4e66-bfe3-6ce0e966d94d> ;
+    ns1:track_number 16 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#17> a ns1:Track ;
+    rdfs:label "Track: \"Ein Herz, ein Sinn, Polka mazur, op. 323\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b598b340-0a48-4ce1-88ed-0f24b813fa65> ;
+    ns1:track_number 17 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#18> a ns1:Track ;
+    rdfs:label "Track: Pizzicato-Polka" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/cbdd6fff-05ee-4419-8a16-01a62ee9e63f> ;
+    ns1:track_number 18 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#19> a ns1:Track ;
+    rdfs:label "Track: \"Geschichten aus dem Wienerwald, Walzer, op. 325\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/334bd1f7-0dd0-420f-92be-a89463e57c48> ;
+    ns1:track_number 19 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#2> a ns1:Track ;
+    rdfs:label "Track: \"Indigo-Marsch, op. 349\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f9752466-3ac2-432c-8045-01bafbe2551c> ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#20> a ns1:Track ;
+    rdfs:label "Track: \"Electrisch, Polka schnell\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/325db3da-7979-4895-bf80-58c12ba5b8d4> ;
+    ns1:track_number 20 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#21> a ns1:Track ;
+    rdfs:label "Track: \"Auf der Jagd, Polka schnell, op. 373\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/94bde9de-d7b7-46c9-b360-2793af16df1f> ;
+    ns1:track_number 21 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#22> a ns1:Track ;
+    rdfs:label "Track: \"New Year ́s Address/ Neujahrsgruß\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/5dfcee13-13fc-4263-94ff-0240989c775e> ;
+    ns1:track_number 22 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#23> a ns1:Track ;
+    rdfs:label "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/d7304110-ca64-489e-a285-debd3775699c> ;
+    ns1:track_number 23 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#3> a ns1:Track ;
+    rdfs:label "Track: \"Haute-Volée-Polka, op. 155\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a4bd6e34-6e94-4a58-99c3-67f0be67e303> ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#4> a ns1:Track ;
+    rdfs:label "Track: \"Lustschwärmer, Walzer, op. 91\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/94045b35-09ba-4851-85b9-729bcedb6837> ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#5> a ns1:Track ;
+    rdfs:label "Track: \"Winterlust, Polka schnell, op. 121\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/d0a795a9-3dc9-4078-938c-19d4e2b72c68> ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#6> a ns1:Track ;
+    rdfs:label "Track: \"Die Emancipirte, Polka mazur, op. 282\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/dfa06a8e-4c56-4355-a80e-50535386161d> ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#7> a ns1:Track ;
+    rdfs:label "Track: \"Tausend und eine Nacht, Walzer, op. 346\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/08ce12ee-6664-4b99-a2b1-e2d6b03c1d7b> ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#8> a ns1:Track ;
+    rdfs:label "Track: \"Die Bajadere, Polka schnell, op. 351\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/6f00629d-b3d0-49d9-b55d-c2542a7f143d> ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/2005#9> a ns1:Track ;
+    rdfs:label "Track: \"Ouvertüre zur Operette 'Die schöne Galathée'\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/3c7a553e-9676-4d6a-8530-b29953a9a3c8> ;
+    ns1:track_number 9 .
+

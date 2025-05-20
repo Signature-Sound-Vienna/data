@@ -1,0 +1,223 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Sekunden-Polka op.258 - Polka française - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mit Vergnügen op.228 - Polka schnell - Eduard Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Jokey-Polka op.278 - Polka schnell - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Blumenfest-Polka op.111 - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Fest-Marsch op. 452 (live) - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiser-Walzer op.437 - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Waldmeister: Ouvertüre - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Lagunen-Walzer op.411 - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Göttin der Vernunft Ouvertüre - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Bürger op. 419 (live) - Carl Michael Ziehrer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Naßwalderin op.267 - Ländler im Tempo der Polka mazur - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Phönix-Schwingen op.125 - Walzer - Johann Strauss jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1996%2FCD1#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die tanzende Muse op.266 - Walzer - Josef Strauss\""
+      }
+    ]
+  }
+]

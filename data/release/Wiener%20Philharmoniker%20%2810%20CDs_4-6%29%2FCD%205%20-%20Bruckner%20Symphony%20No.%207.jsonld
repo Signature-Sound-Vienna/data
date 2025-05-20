@@ -1,0 +1,45 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Wiener Philharmoniker CD 5 Bruckner Symphony No. 7\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Wiener Philharmoniker CD 5 Bruckner Symphony No. 7\""
+      },
+      {
+        "@value": "Record: \"Wiener Philharmoniker CD 5 Bruckner Symphony No. 7\""
+      }
+    ]
+  }
+]

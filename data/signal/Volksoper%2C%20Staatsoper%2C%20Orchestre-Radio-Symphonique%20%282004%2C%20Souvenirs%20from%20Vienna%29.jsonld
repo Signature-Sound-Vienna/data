@@ -1,0 +1,101 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#5"
+      }
+    ]
+  }
+]

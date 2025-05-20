@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/release/2000">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <dcterms:title>"NEW YEAR ́S CONCERT 2000"</dcterms:title>
+    <rdfs:label>Release: "NEW YEAR ́S CONCERT 2000"</rdfs:label>
+    <rdfs:label>Record: "NEW YEAR ́S CONCERT 2000"</rdfs:label>
+    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
+    <ns1:record rdf:resource="https://w3id.org/ssv/data/0.9/record/2000"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#12"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#13"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#14"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#15"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#16"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#17"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#18"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/2000#19"/>
+  </rdf:Description>
+</rdf:RDF>

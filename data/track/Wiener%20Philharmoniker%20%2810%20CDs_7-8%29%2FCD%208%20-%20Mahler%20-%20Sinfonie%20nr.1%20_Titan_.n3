@@ -1,0 +1,309 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#1> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 94 in G-Dur 'Surprise': I. Adagio Cantabile. Vivace Assai\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ab24d901-695f-4e90-831f-0970e3051be5> ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#10> a ns1:Track ;
+    rdfs:label "Track: \"II. Adagio\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/898f5f96-431f-46d2-9036-a5664858bd0b> ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#11> a ns1:Track ;
+    rdfs:label "Track: \"III. Menuett: Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/48761f60-5b37-4cb7-9698-d1689cbcea84> ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#12> a ns1:Track ;
+    rdfs:label "Track: \"IV. Finale: Presto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/060dc359-8252-4283-993d-3728255ef735> ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#13> a ns1:Track ;
+    rdfs:label "Track: \"Serenade No. 13 in G major, KV 525 'Eine kleine Nachtmusik': I. Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/6e9d7e68-67e8-4048-9a16-9b82ea3da649> ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#14> a ns1:Track ;
+    rdfs:label "Track: \"II. Romanze. Andante\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/fc3c9159-203b-4cd3-a50b-882bb8e6cc8b> ;
+    ns1:track_number 14 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#15> a ns1:Track ;
+    rdfs:label "Track: \"III. Menuetto: Allegrp &Trio\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/046a8614-d9f6-499c-96d5-a21a1769dba6> ;
+    ns1:track_number 15 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#16> a ns1:Track ;
+    rdfs:label "Track: \"IV. Rondo: Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/9e00a622-829b-4493-8cfb-ee40231ee4b4> ;
+    ns1:track_number 16 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#17> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 38 in D major KV 504 'Prague': I. Adagio. Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/7738e5ec-f126-468c-95ae-37be207aedc3> ;
+    ns1:track_number 17 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#18> a ns1:Track ;
+    rdfs:label "Track: \"II. Andante\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/8d68cb29-3e6d-4630-b459-8c432067c94c> ;
+    ns1:track_number 18 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#19> a ns1:Track ;
+    rdfs:label "Track: \"III. Finale. Presto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/50faea1c-b180-4d1b-8c7b-c0d44a4a33c8> ;
+    ns1:track_number 19 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#2> a ns1:Track ;
+    rdfs:label "Track: \"II. Andante\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ef457af6-b859-4c1c-b4f2-18fc52f34256> ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#20> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No, 41 in C major KV 551 'Jupiter': I. Allegro vivace\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a9391b94-45a6-40c1-95c3-38ff89a07aa7> ;
+    ns1:track_number 20 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#21> a ns1:Track ;
+    rdfs:label "Track: \"II. Andante cantabile\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/01e020ef-5d2d-4efe-99da-eb72a11ac458> ;
+    ns1:track_number 21 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#22> a ns1:Track ;
+    rdfs:label "Track: \"III, Menuetto: Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/dd94e13e-1979-438a-bce6-944b4c308221> ;
+    ns1:track_number 22 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#23> a ns1:Track ;
+    rdfs:label "Track: \"IV. Molto Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/9cfc2723-eb9c-4f45-a76e-850e75c69638> ;
+    ns1:track_number 23 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#24> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 9 in D minor Op. 125 'Choral': I. Allegro ma non troppo un poco maestoso\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/d771d5be-62e4-4157-b086-f2c78687142b> ;
+    ns1:track_number 24 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#25> a ns1:Track ;
+    rdfs:label "Track: \"II. Molto vivacel. Presto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/1d35d5fb-3e94-4c0d-8401-401b2d34813f> ;
+    ns1:track_number 25 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#26> a ns1:Track ;
+    rdfs:label "Track: \"III. Adagio molto cantabile\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/e3d0862c-f9c7-4aca-8924-2e49957e8461> ;
+    ns1:track_number 26 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#27> a ns1:Track ;
+    rdfs:label "Track: \"IV. Presto. Allegro assai. Presto. 'Oh, Freunde, nicht diese Töne', Allegro assai\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/e930d1d3-5169-45a2-bc40-4db1859ce261> ;
+    ns1:track_number 27 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#28> a ns1:Track ;
+    rdfs:label "Track: \"Overture 'Die Hebriden' Op. 26\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f5dfb642-d92b-449b-a2be-2a62d6a9fc98> ;
+    ns1:track_number 28 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#29> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 1 in C minor Op. 68: I. Un poco sostenuto. Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a1132a72-ef26-40ea-b4bb-441cb24662df> ;
+    ns1:track_number 29 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#3> a ns1:Track ;
+    rdfs:label "Track: \"III. Menuett: Allegro Molto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/7e5fb757-4200-4699-ac17-04fbe024f14b> ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#30> a ns1:Track ;
+    rdfs:label "Track: \"II. Andante sostenuto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b20c5f1c-8fb1-4b30-999b-e77291449ee0> ;
+    ns1:track_number 30 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#31> a ns1:Track ;
+    rdfs:label "Track: \"III. Un poco Allegretto e grazioso\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/997bddd7-4b10-41e3-a70b-1bb7e0d16769> ;
+    ns1:track_number 31 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#32> a ns1:Track ;
+    rdfs:label "Track: \"IV. Adagio. Più Andante. Allegro non troppo\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/6fb0c566-496b-4449-81fc-07d150608ffb> ;
+    ns1:track_number 32 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#33> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 7 in E major (Edition Gutmann 1885): I. Allegro moderato\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/4163ec4e-3b36-491b-89de-cdf16b6b00ba> ;
+    ns1:track_number 33 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#34> a ns1:Track ;
+    rdfs:label "Track: \"II. Adagio. Sehr feierlich und sehr langsam\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b2817db4-72ce-426e-a99d-3fea19039895> ;
+    ns1:track_number 34 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#35> a ns1:Track ;
+    rdfs:label "Track: \"III. Scherzo. Sehr schnell\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/dd68fa59-7c52-463f-8ec7-78c4694b1bd2> ;
+    ns1:track_number 35 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#36> a ns1:Track ;
+    rdfs:label "Track: \"IV. Finale. Bewegt, doch nicht zu schnell\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/531d02ec-85c3-47e2-8f54-b38eff924729> ;
+    ns1:track_number 36 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#37> a ns1:Track ;
+    rdfs:label "Track: \"An der schönen blauen Donau Op. 314\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b5921e81-e25b-4bb6-adea-072431597b7a> ;
+    ns1:track_number 37 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#38> a ns1:Track ;
+    rdfs:label "Track: \"Kaiserwalzer Op. 437\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/64022c93-49d7-482e-aa83-ed5def7f51ca> ;
+    ns1:track_number 38 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#39> a ns1:Track ;
+    rdfs:label "Track: \"Künstlerleben Op. 316\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/26344daf-b346-4f6f-afe4-8e7e3833f1ac> ;
+    ns1:track_number 39 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#4> a ns1:Track ;
+    rdfs:label "Track: \"IV. Finale: Allegro Molto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/0cdf057d-137a-43af-b4e9-ecc1fa68a1df> ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#40> a ns1:Track ;
+    rdfs:label "Track: \"Geschichten aus dem Wienerwald Op. 325\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ad8fa156-44d1-41c1-91a7-80a696ee4baa> ;
+    ns1:track_number 40 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#41> a ns1:Track ;
+    rdfs:label "Track: \"Wiener Blut Op. 354\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ad7de2c5-a046-4cd8-bd19-ad92f4774a42> ;
+    ns1:track_number 41 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#42> a ns1:Track ;
+    rdfs:label "Track: \"Wein, Weib und Gesang Op. 333\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/644e1aee-0d66-4c8a-9464-e42941f53f76> ;
+    ns1:track_number 42 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#43> a ns1:Track ;
+    rdfs:label "Track: \"Der Zigeunerbaron: Overture\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ed103b58-5b9d-4a41-89b4-b135a16b1680> ;
+    ns1:track_number 43 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#44> a ns1:Track ;
+    rdfs:label "Track: \"Rienzi: Overture\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/5ee54e63-bdc5-49e9-ab73-75ded08dd8aa> ;
+    ns1:track_number 44 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#45> a ns1:Track ;
+    rdfs:label "Track: \"Der fliegende Holländer: Overture\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/80a351ec-6aa0-4eb6-bd4f-7cc2ea577f4a> ;
+    ns1:track_number 45 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#46> a ns1:Track ;
+    rdfs:label "Track: \"Tannhäuser: Overture\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/359b4f1a-132a-45cd-bea1-bdbd8621a5cb> ;
+    ns1:track_number 46 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#47> a ns1:Track ;
+    rdfs:label "Track: \"Götterdämmerung: Siegfrieds Trauermarsch\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/cc86cc80-e8ad-44e4-92e5-180efec53365> ;
+    ns1:track_number 47 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#48> a ns1:Track ;
+    rdfs:label "Track: \"Lohengrin: Act 1, Prelude\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/c8bb85f8-6c7b-49f9-8427-d45b5df8545a> ;
+    ns1:track_number 48 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#49> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 1 in D major 'Titan': I. Langsam, schleppend\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/90e9e098-dd32-4a1a-86d7-73521df6e2df> ;
+    ns1:track_number 49 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#5> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 96 in D major 'Miracle': I. Adagio. Allegro\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/12c9cc62-22d0-4113-b35f-bb5a3f9b9702> ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#50> a ns1:Track ;
+    rdfs:label "Track: \"II. Kraeftig bewegt\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/86081447-3ce2-4f5e-bf5d-c47c07a0cd1e> ;
+    ns1:track_number 50 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#51> a ns1:Track ;
+    rdfs:label "Track: \"III. Feierlich und gemessen\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/7eecda93-f344-4b05-b400-0d4efc835500> ;
+    ns1:track_number 51 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#52> a ns1:Track ;
+    rdfs:label "Track: \"IV. Stuermisch bewegt\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/8a7666c8-b0b5-4577-a42e-d5f8f01b83da> ;
+    ns1:track_number 52 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#53> a ns1:Track ;
+    rdfs:label "Track: \"Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/13401d81-501d-4356-ae19-ab3bc25ac8be> ;
+    ns1:track_number 53 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#54> a ns1:Track ;
+    rdfs:label "Track: \"II. Der Einsame im Herbst\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/c2ec05ad-0047-49b1-94c4-3c460b70f839> ;
+    ns1:track_number 54 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#55> a ns1:Track ;
+    rdfs:label "Track: \"III. Von der Jugend\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/936e0062-f918-433f-a08c-d42d1d236b5a> ;
+    ns1:track_number 55 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#56> a ns1:Track ;
+    rdfs:label "Track: \"IV. Von der Schönheit\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/e31bce6b-5814-444a-b6b5-d52992323c0f> ;
+    ns1:track_number 56 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#57> a ns1:Track ;
+    rdfs:label "Track: \"V. Der Trunkene im Frühling\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f74af41a-361a-42f2-88fc-12284d25a4e0> ;
+    ns1:track_number 57 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#58> a ns1:Track ;
+    rdfs:label "Track: \"VI. Der Abschied\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/e93d71e1-4678-4faf-afcf-b59cd18159ba> ;
+    ns1:track_number 58 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#59> a ns1:Track ;
+    rdfs:label "Track: \"Don Juan Op. 20\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/5428c624-1973-4591-9971-5f5579c6c086> ;
+    ns1:track_number 59 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#6> a ns1:Track ;
+    rdfs:label "Track: \"II. Andante\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/242ff7fc-2dc1-4a39-9563-7418e5cf0cb2> ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#60> a ns1:Track ;
+    rdfs:label "Track: \"Tod und Verklärung Op. 24\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ae692156-5bec-4545-841c-0e0bf5bc186b> ;
+    ns1:track_number 60 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#61> a ns1:Track ;
+    rdfs:label "Track: Metamorphosen" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b792cdc8-c0a4-4b9f-827c-d3139b543bde> ;
+    ns1:track_number 61 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#7> a ns1:Track ;
+    rdfs:label "Track: \"III. Menuett: Allegretto\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/2b2106f3-a992-4e0a-aa98-e8dd63dc96bc> ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#8> a ns1:Track ;
+    rdfs:label "Track: \"IV. Finale: Vivace Assai\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/74a8855b-ebdf-4c2b-be05-b0d780a4cfc5> ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#9> a ns1:Track ;
+    rdfs:label "Track: \"Symphony No. 101 in D major 'Clock': I. Largo. Allegro Vivace\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/81a22962-dc06-4bd9-be37-485978474435> ;
+    ns1:track_number 9 .
+

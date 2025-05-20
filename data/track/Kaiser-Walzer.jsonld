@@ -1,0 +1,200 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2d1d2a41-3bb3-4840-bfbe-87a62ef7a1cf"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5705c069-b73e-41c2-9cba-d7c4e878e0c1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Cagliostro in Wien (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/32f232f2-52e4-4189-b4f8-eda26bc96192"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Loreley - Rhein Klänge (Orchester der Wiener Staatsoper, Josef Drexler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/db002b7f-f395-44c8-85c8-ed149b9044b7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5d4aeb17-7e69-4794-a93f-91354a27e4a9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morgenblätter (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1b8ea78b-c011-4ab7-bf7d-a983e4be41b3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Delirien (Royal Philharmonic Orchestra, Norman Shetler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/61236c91-96bb-4272-b662-f061b1da034e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wein, Weib ud Gesang (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5cb2f564-a6df-4c81-9c8d-9ed0efdd2e1e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen a Magyar (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  }
+]

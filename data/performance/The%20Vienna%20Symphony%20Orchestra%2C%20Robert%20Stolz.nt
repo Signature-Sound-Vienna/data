@@ -1,0 +1,4 @@
+<https://w3id.org/ssv/data/0.9/performance/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
+<https://w3id.org/ssv/data/0.9/performance/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"You And You Waltz\"" .
+<https://w3id.org/ssv/data/0.9/performance/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/0d9e25d6-cdc5-4201-9099-82dd6f0be680> .
+<https://w3id.org/ssv/data/0.9/performance/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/data/0.9/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> .

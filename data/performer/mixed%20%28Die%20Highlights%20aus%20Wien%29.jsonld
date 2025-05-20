@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/mixed%20%28Die%20Highlights%20aus%20Wien%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Golden Classics\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Golden Classics\""
+      }
+    ]
+  }
+]

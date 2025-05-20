@@ -1,0 +1,52 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#1> a ns1:Track ;
+    rdfs:label "Track: \"Ouvertüre aus \"Die Fledermaus\" - Johann Strauss II (Strauss-Orchester Wien, Joseph Francek)\"" ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10> a ns1:Track ;
+    rdfs:label "Track: \"G´schichten aus dem Wienerwald - Johann Strauss II (Wiener Sängerknaben, Marschik)\"" ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11> a ns1:Track ;
+    rdfs:label "Track: \"Frühlingsstimmen - Johann Strauss II (Rieu, Johann Strauss Orchester)\"" ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12> a ns1:Track ;
+    rdfs:label "Track: \"Rosen aus dem Süden - Johann Strauss II (Strauss-Orchester Wien, Francek)\"" ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2> a ns1:Track ;
+    rdfs:label "Track: \"Tritsch-Tratsch-Polka - Johann Strauss II (Wiener Sängerknaben, Marschik)\"" ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3> a ns1:Track ;
+    rdfs:label "Track: \"Kaiserwalzer - Johann Strauss II (André Rieu, Johann Strauss Orchester)\"" ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4> a ns1:Track ;
+    rdfs:label "Track: \"Unter Donner und Blitz - Johann Strauss II (Strauss-Orchester Wien, Francek)\"" ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5> a ns1:Track ;
+    rdfs:label "Track: \"Champagner-Polka - Johann Strauss II (Strauss-Orchester Wien, Norbert Neukamp)\"" ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6> a ns1:Track ;
+    rdfs:label "Track: \"Auf der Jagd - Johann Strauss II ( Rieu, Johann Strauss Orchester)\"" ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#7> a ns1:Track ;
+    rdfs:label "Track: \"Wiener Blut - Johann Strauss II (Strauss-Orchester Wien, Francek)\"" ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#8> a ns1:Track ;
+    rdfs:label "Track: \"Moulinet Polka - Josef Strauss (Rieu, Johann Strauss Orchester)\"" ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#9> a ns1:Track ;
+    rdfs:label "Track: \"Wein, Weib und Gesang - Johann Strauss II (Strauss-Orchester Wien, Francek)\"" ;
+    ns1:track_number 9 .
+

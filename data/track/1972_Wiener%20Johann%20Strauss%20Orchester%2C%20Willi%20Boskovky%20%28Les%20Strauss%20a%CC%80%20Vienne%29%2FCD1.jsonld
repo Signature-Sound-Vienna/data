@@ -1,0 +1,206 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf der Jagd, polka Op. 373\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Roses du Sud, valse Op. 388\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Valse de l'Empereur Op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Aimer, boire et chanter, valse Op. 333\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Seufzer (galop)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Immer Heiterer, valse Op. 235\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Champagne Polka Op. 211\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Blinde Kuh, Ouverture\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Im Krapfenwald, polka Op. 336\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Legendes de la forêt viennoise, valse Op.325\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Le beau de Danube bleu, valse Op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Marche de Radetzky, Op. 228\""
+      }
+    ]
+  }
+]

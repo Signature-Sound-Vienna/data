@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Strauss\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Strauss\""
+      }
+    ]
+  }
+]

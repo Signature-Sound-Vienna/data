@@ -1,0 +1,109 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/2019#1> a ns1:Track ;
+    rdfs:label "Track: \"Schönfeld-Marsch, op. 422\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/956cb899-a13a-4340-9019-b618321f93d9> ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#10> a ns1:Track ;
+    rdfs:label "Track: \"Die Bajadere, op. 351\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/3eb1939d-881a-45ea-95e6-dbb26521d56f> ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#11> a ns1:Track ;
+    rdfs:label "Track: \"Opern-Soirée, op. 162\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a3dcc504-bcac-40d8-af6e-d9aaa5a5ccf1> ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#12> a ns1:Track ;
+    rdfs:label "Track: \"Eva-Walzer aus 'Ritter Pásmán'\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/0e368c8f-f1d8-456c-8aee-fd47e4cce486> ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#13> a ns1:Track ;
+    rdfs:label "Track: \"Csárdás aus 'Ritter Pásmán'\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/4d13c9ee-9f5d-4001-9264-60ca133f4872> ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#14> a ns1:Track ;
+    rdfs:label "Track: \"Egyptischer Marsch, op. 335\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/54a93dc1-5af4-4e81-93eb-4d1e32fa6d58> ;
+    ns1:track_number 14 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#15> a ns1:Track ;
+    rdfs:label "Track: \"Entr'acte Valse\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/fa839109-20eb-4504-aa8a-c6a713751a03> ;
+    ns1:track_number 15 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#16> a ns1:Track ;
+    rdfs:label "Track: \"Lob der Frauen, op. 315\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/8a26929a-3a44-419c-b691-250aa60f1fc6> ;
+    ns1:track_number 16 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#17> a ns1:Track ;
+    rdfs:label "Track: \"Sphärenklänge, op. 235\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/736e3600-3b0b-4067-86cc-59908635a3cb> ;
+    ns1:track_number 17 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#18> a ns1:Track ;
+    rdfs:label "Track: \"Im Sturmschritt, op. 348\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b0b9a7bf-c88a-4e58-9de0-419c4df5987d> ;
+    ns1:track_number 18 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#19> a ns1:Track ;
+    rdfs:label "Track: Neujahrsgruß" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/14aac9f0-e72f-4e3d-98ee-41c153145207> ;
+    ns1:track_number 19 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#2> a ns1:Track ;
+    rdfs:label "Track: \"Transactionen, op. 184\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/5e8a6238-0c53-4491-8818-6579e7bc6134> ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#20> a ns1:Track ;
+    rdfs:label "Track: \"An der schönen blauen Donau, op. 314\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/bef2f7d4-57cc-471f-8afd-e404933c3e5a> ;
+    ns1:track_number 20 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#21> a ns1:Track ;
+    rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/9e18e388-8034-4702-a896-954b47493ae5> ;
+    ns1:track_number 21 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#3> a ns1:Track ;
+    rdfs:label "Track: Elfenreigen" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a8aa1048-ec27-4c39-bd83-650df8b24b28> ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#4> a ns1:Track ;
+    rdfs:label "Track: \"Express, op. 311\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/651b7b99-9086-413a-aab3-bf47b52c4cf5> ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#5> a ns1:Track ;
+    rdfs:label "Track: \"Nordseebilder, op. 390\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/dac23736-35d2-4bb2-bcd5-412a126c475d> ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#6> a ns1:Track ;
+    rdfs:label "Track: \"Mit Extrapost, op. 259\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/437e21d8-7ff2-4fc2-a78f-efc0f980b123> ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#7> a ns1:Track ;
+    rdfs:label "Track: \"Der Zigeunerbaron, Ouvertüre\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/8b5592e2-25c6-45fe-bd3e-e0c1d4555fea> ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#8> a ns1:Track ;
+    rdfs:label "Track: \"Die Tänzerin, op. 227\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f4f39fba-855a-4dd3-88c5-fdf2e54dcd7e> ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/2019#9> a ns1:Track ;
+    rdfs:label "Track: \"Künstlerleben, op. 316\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/d8c2e405-4658-4155-9e82-d785f4b3db4e> ;
+    ns1:track_number 9 .
+

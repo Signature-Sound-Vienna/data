@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performer/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/data/0.9/performance/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11"/>
+    <foaf:name>"Vienna Johann Strauss Orchestra, Johannes Wildner"</foaf:name>
+    <rdfs:label>Performer: "Vienna Johann Strauss Orchestra, Johannes Wildner"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

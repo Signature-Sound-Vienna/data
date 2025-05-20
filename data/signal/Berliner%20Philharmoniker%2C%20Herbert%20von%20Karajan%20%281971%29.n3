@@ -1,0 +1,46 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903880> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056906350> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056906360> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903890> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903900> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903910> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903920> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903930> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903940> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056903950> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8> .
+
+<https://w3id.org/ssv/data/0.9/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#9> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEF056906340> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#9> .
+

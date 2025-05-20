@@ -1,0 +1,43 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/record/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29",
+    "@type": [
+      "http://purl.org/ontology/mo/Record"
+    ],
+    "http://purl.org/ontology/mo/track": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_count": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ]
+  }
+]

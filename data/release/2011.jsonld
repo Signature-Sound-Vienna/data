@@ -1,0 +1,96 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/2011",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Neujahrskonzert 2011\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#16"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#18"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#19"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2011#21"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/2011"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Neujahrskonzert 2011\""
+      },
+      {
+        "@value": "Record: \"Neujahrskonzert 2011\""
+      }
+    ]
+  }
+]

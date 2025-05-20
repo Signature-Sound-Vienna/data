@@ -1,0 +1,36 @@
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eingesendet, Polka schnell op. 240 - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichtfüßig, Polka schnell - Joseph Hellmesberger\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dynamiden, Walzer op. 173 - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Vorwärts!, Polka schnell op, 127 - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Walzer op. 314 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Fata Morgana, Polka mazur op. 330 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neue-Pizzicato-Polka op. 449 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Russicher Marsch op. 426 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freuet euch des Lebens, Walzer op. 340 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Patronessen, Polka française op. 286 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD2#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouverture zu \"Leichte Kavallerie\" - Franz von Suppé\"" .

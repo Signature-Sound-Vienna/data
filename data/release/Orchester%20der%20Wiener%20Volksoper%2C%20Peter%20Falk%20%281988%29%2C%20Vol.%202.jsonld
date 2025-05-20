@@ -1,0 +1,57 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
+      },
+      {
+        "@value": "Record: \"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/release/2019> a ns1:Release ;
+    rdfs:label "Record: \"Neujahrskonzert 2019\"",
+        "Release: \"Neujahrskonzert 2019\"" ;
+    dcterms:title "\"Neujahrskonzert 2019\"" ;
+    ns1:catalogue_number "__NONE__" ;
+    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/2019#1>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#10>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#11>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#12>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#13>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#14>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#15>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#16>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#17>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#18>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#19>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#2>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#20>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#21>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#3>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#4>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#5>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#6>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#7>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#8>,
+        <https://w3id.org/ssv/data/0.9/signal/2019#9> ;
+    ns1:record <https://w3id.org/ssv/data/0.9/record/2019> .
+

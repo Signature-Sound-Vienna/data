@@ -1,0 +1,75 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"no title\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#14"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"no title\""
+      },
+      {
+        "@value": "Record: \"no title\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Wiener Blut, op. 354"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "G'schichten aus dem Wiener Wald, op. 325"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Persischer Marsch, op. 289"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd, op. 373"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Postillon d'amour, op. 317"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Unter Donner und Blitz, op. 324"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Morgenblätter, op. 279"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Leichtes Blut, op. 319"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Sphärenklänge, op. 235"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Pizzicato-Polka"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Ägyptischer Marsch, op. 335"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

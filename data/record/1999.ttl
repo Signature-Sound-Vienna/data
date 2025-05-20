@@ -1,0 +1,20 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/record/1999> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/data/0.9/track/1999#1>,
+        <https://w3id.org/ssv/data/0.9/track/1999#10>,
+        <https://w3id.org/ssv/data/0.9/track/1999#11>,
+        <https://w3id.org/ssv/data/0.9/track/1999#12>,
+        <https://w3id.org/ssv/data/0.9/track/1999#13>,
+        <https://w3id.org/ssv/data/0.9/track/1999#14>,
+        <https://w3id.org/ssv/data/0.9/track/1999#2>,
+        <https://w3id.org/ssv/data/0.9/track/1999#3>,
+        <https://w3id.org/ssv/data/0.9/track/1999#4>,
+        <https://w3id.org/ssv/data/0.9/track/1999#5>,
+        <https://w3id.org/ssv/data/0.9/track/1999#6>,
+        <https://w3id.org/ssv/data/0.9/track/1999#7>,
+        <https://w3id.org/ssv/data/0.9/track/1999#8>,
+        <https://w3id.org/ssv/data/0.9/track/1999#9> ;
+    ns1:track_count 15 .
+

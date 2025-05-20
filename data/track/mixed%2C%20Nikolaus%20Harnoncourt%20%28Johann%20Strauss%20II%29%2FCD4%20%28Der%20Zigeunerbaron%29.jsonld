@@ -1,0 +1,512 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Barinkay, Saffi, Czipra 'Da klingt es hohl'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#26",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 26
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Zsupan, Mirabella, Carnero, Arsena 'Ja mein Gott, ich könnte'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Homonay, Carnero, Barinkay, Saffi, Czipra 'Beruhigen Sie sich, meine Damen'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Zsupan 'Mir helfen die Doktoren nicht'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Zsupan, Mirabella, Ottokar, Arsena, Homonay 'Nach Wien?'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#28",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 28
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Homonay, Barinkay, Mirabella 'Ihr alle, alle habt wacker Eure Schuldigkeit getan'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Saffi, Arsena, Mirabella, Czipra, Barinkay, Ottokar, Zsupan 'O voll Fröhlichkeit'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ensemble 'Vater! Vater!'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#30",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 30
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ensemble 'Als flotter Geist und früh verwaist'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Homonay, Barinkay, Chor 'Hier die Hand, es muß ja sein'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Czupan, Mirabella u.a. 'Noch eben in Gloria'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Saffi, Czipra, Barinkay 'Ein Greis ist mir im Traum erschienen'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 23
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Arsena, Mirabella, Carnero 'Ein Mädchen hat es gar nicht gut'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Saffi, Barinkay, Chorus, Czipra u.a. 'O welch ein Glück!'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#20",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"3. Akt - Zwischenaktmusik\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Pali 'Auf, auf, auf! Vorbei ist die Nacht'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Czipra, Barinkay, Saffi 'Mein Aug' bewacht'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Barinkay, Carnero, Zsupan, Mirabella, Arsena 'Ah, das ist ja großartig'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Saffi, Czipra, Barinkay 'Ei, ei, er lacht'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chor 'Freuet euch, freuet euch'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#24",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 24
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Mirabella, Homonay 'Allen Respekt! Sie wissen genug'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chorus 'Ha, das Eisen wird gefüge'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"2. Akt - Zwischenaktmusik\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#27",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 27
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chorus 'Hurrah, die Schlacht mitgemacht'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#25",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 25
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Zsupan, Chorus 'Von des Tajo Strand'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Barinkay, Saffi, Chorus 'Wer hat euch denn getraut?'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mirabella, Arsena, Carnero 'Ist es also wahr?'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Barinkay, Czipra, Homonay, Chor 'Was gafft ihr noch? Ergreifet sie!'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Mirabella, Zsupan, Chorus 'Ich will Euch... Nur keusch und rein'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#29",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 29
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chor, Ensemble 'Heiraten, Vivat!'\""
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Various\"" .
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17> <http://xmlns.com/foaf/0.1/name> "\"Various\"" .
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17> .

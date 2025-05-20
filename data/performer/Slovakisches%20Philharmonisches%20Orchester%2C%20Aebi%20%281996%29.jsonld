@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Johann Strauss II\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Johann Strauss II\""
+      }
+    ]
+  }
+]

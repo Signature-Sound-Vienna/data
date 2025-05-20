@@ -1,0 +1,44 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#1> a ns1:Track ;
+    rdfs:label "Track: \"An Der Schönen, Blauen Donau, Waltz Op. 314\"" ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10> a ns1:Track ;
+    rdfs:label "Track: \"Kaiser-Walzer, Op.437\"" ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#2> a ns1:Track ;
+    rdfs:label "Track: \"Auf Der Jagd, Polka Op. 373\"" ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#3> a ns1:Track ;
+    rdfs:label "Track: \"Wein, Weib Und Gesang, Waltz Op. 333\"" ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#4> a ns1:Track ;
+    rdfs:label "Track: \"Neue Pizzicato Polka, Op. 449\"" ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#5> a ns1:Track ;
+    rdfs:label "Track: \"Künstlerleben, Waltz Op. 316e\"" ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#6> a ns1:Track ;
+    rdfs:label "Track: \"Eine Nacht In Venedig - Overture\"" ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7> a ns1:Track ;
+    rdfs:label "Track: \"Geschichten Aus Dem Wienerwald, Waltz Op.325\"" ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8> a ns1:Track ;
+    rdfs:label "Track: \"Eljen A Magyar, Polka Op.332\"" ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9> a ns1:Track ;
+    rdfs:label "Track: \"Wienerblut, Waltz Op.354\"" ;
+    ns1:track_number 9 .
+

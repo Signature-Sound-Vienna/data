@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#6"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF059102090"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#11"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF059102130"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#2"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058100390"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#1"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058602700"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#7"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058100350"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#8"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF059102100"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#3"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058602800"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#10"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058104220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#5"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058203640"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#9"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058602750"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#12"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058602810"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/mixed%20%28Golden%20Classics%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#4"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DEF058702530"/>
+  </rdf:Description>
+</rdf:RDF>

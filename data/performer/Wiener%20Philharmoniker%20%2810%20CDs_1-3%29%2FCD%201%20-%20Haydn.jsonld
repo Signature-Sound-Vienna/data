@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Haydn J - Wr. Philharmoniker - Furtwängler - Walter - Busch\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Haydn J - Wr. Philharmoniker - Furtwängler - Walter - Busch\""
+      }
+    ]
+  }
+]

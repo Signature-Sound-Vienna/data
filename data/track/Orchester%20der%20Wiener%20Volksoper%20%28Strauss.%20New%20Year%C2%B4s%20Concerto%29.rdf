@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b432bad3-0124-3896-a307-f22e7593baba"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Tritsch-Tratsch-Polka, Op. 214"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2180dae6-e1c8-3491-80b3-c6a3ec1b4797"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Kaiserwalzer / Emperor Waltz, Op. 437"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b15642ec-5222-336c-b524-a7d52c0708df"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Wiener Bonbons-Walzer / Viennese Bonbons-Waltz, Op.307"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/74d8c22b-25d0-38bf-a910-6e32c117240f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "An Der Schönen Blauen Donau-Walzer / On the Beautiful Blue Danube-Waltz, Op. 314"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9c6f377a-2460-39c5-afbf-d2bf3f358f54"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Pizzicato Polka"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1fdd1dc5-77c7-3dfd-bfa7-e3573ce370a1"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Vergnügungszug-Polka-Galop / Luxury Train-Polka-Galop, Op. 281"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6b5c11c3-69ab-3e2d-ac3f-78d4c30cea2b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "G'schichte aus dem Wienderwald-Walzer / Tales from the Vienna Forest - Waltz, Op. 325"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/205cfd81-4437-3872-be17-f2c5727883ea"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Radetzky March, Op. 228"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

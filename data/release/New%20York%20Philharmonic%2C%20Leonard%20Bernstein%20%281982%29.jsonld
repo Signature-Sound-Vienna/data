@@ -1,0 +1,48 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\""
+      },
+      {
+        "@value": "Record: \"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\""
+      }
+    ]
+  }
+]

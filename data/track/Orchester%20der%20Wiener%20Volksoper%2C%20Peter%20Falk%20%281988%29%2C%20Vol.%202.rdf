@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b9422daf-f6e2-4b5c-97db-3b3dc6d8bdc7"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch op. 228"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1fbe11c7-e945-452e-afeb-a50d1fffc2cb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Seid umschlungen, Millionen op. 443"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/40bcc2f9-38a3-4d06-aa4d-0ed61ba6d9da"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Kaiserwalzer op. 437"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0ae9d618-92f3-42bf-9edc-c962ea8b937f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Geschichten aus dem Wiener Wald op. 325"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9f2e52fa-17f0-4185-af39-f2d23dac7484"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Accelerationen op. 234"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3b909f0c-3e61-407f-b88b-d4469f359989"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: Pizzicato-Polka</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/43057a35-e1a7-4c00-ab8f-e78ca5fa9d86"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Tritsch-Tratsch-Polka op. 214"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a0ece59f-8558-4090-bc0c-b79482bf6d76"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Dorfschwalben aus Österreich op. 164"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

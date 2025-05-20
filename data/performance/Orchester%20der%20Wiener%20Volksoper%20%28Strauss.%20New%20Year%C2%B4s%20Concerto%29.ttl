@@ -1,0 +1,8 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performance/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8> a ns1:Performance ;
+    rdfs:label "Performance: \"Tritsch-Tratsch-Polka, Op. 214\"" ;
+    ns1:performance_of <http://musicbrainz.org/work/38ed9e44-839d-3088-b66a-45c6e2399ec6> ;
+    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8> .
+

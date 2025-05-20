@@ -1,0 +1,50 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#1> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/NLA506100440> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#1> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#10> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012302> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#10> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#11> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012310> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#11> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#12> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012260> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#12> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#2> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/NLA506100433> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#2> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#3> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/NLA506100441> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#3> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#4> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012281> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#4> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#5> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012282> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#5> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#6> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012321> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#6> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#7> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012290> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#7> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#8> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012270> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#8> .
+
+<https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#9> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF076012301> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#9> .
+

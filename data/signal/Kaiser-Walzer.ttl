@@ -1,0 +1,29 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#1> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#2> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#3> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#4> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#5> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#6> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#7> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#8> .
+
+<https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#9> .
+

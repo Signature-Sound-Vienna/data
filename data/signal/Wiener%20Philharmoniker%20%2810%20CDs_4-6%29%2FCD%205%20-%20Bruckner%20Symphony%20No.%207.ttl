@@ -1,0 +1,18 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+
+<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEU240410489> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1> .
+
+<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEU240410490> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2> .
+
+<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEU240410491> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3> .
+
+<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/DEU240410492> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4> .
+

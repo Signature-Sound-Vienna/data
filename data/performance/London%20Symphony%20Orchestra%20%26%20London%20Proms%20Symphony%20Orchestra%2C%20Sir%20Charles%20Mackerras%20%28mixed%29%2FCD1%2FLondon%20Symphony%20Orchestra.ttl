@@ -1,0 +1,7 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performance/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#14> a ns1:Performance ;
+    rdfs:label "Performance: \"AudioTrack 14\"" ;
+    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD1%2FLondon%20Symphony%20Orchestra#14> .
+

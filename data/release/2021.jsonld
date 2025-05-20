@@ -1,0 +1,90 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/2021",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Neujahrskonzert / New Year ́s Concert 2021\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#16"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#18"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/2021#19"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/2021"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Neujahrskonzert / New Year ́s Concert 2021\""
+      },
+      {
+        "@value": "Record: \"Neujahrskonzert / New Year ́s Concert 2021\""
+      }
+    ]
+  }
+]

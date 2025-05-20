@@ -1,0 +1,29 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/release/2022> a ns1:Release ;
+    rdfs:label "Record: \"NEW YEAER ́S CONCERT 2022\"",
+        "Release: \"NEW YEAER ́S CONCERT 2022\"" ;
+    dcterms:title "\"NEW YEAER ́S CONCERT 2022\"" ;
+    ns1:catalogue_number "__NONE__" ;
+    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/2022#1>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#10>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#11>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#12>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#13>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#14>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#15>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#16>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#17>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#18>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#2>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#3>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#4>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#5>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#6>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#7>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#8>,
+        <https://w3id.org/ssv/data/0.9/signal/2022#9> ;
+    ns1:record <https://w3id.org/ssv/data/0.9/record/2022> .
+

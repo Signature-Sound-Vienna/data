@@ -1,0 +1,90 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#6"
+      }
+    ]
+  }
+]

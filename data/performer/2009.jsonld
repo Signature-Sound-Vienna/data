@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/2009#22",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"
+      },
+      {
+        "@id": "https://musicbrainz.org/artist/fac566b2-7a0e-4977-ad92-533f43420975"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/2009#22"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Wiener Philharmoniker , Daniel Barenboim\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Wiener Philharmoniker , Daniel Barenboim\""
+      }
+    ]
+  }
+]

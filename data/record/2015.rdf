@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/record/2015">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
+    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_count>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#1"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#2"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#3"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#4"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#5"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#6"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#7"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#8"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#9"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#10"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#11"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#12"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#13"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#14"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#15"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#16"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#17"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#18"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#19"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#20"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/0.9/track/2015#21"/>
+  </rdf:Description>
+</rdf:RDF>

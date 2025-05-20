@@ -1,0 +1,8 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performance/2005#23> a ns1:Performance ;
+    rdfs:label "Performance: \"An der schönen blauen Donau, Walzer, op. 314\"" ;
+    ns1:performance_of <http://musicbrainz.org/work/6763c20d-f2df-3347-8a0e-7abad42a5a56> ;
+    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/2005#23> .
+

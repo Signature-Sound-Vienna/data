@@ -1,0 +1,11 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performer/2003#23> a ns1:MusicArtist ;
+    rdfs:label "Performer: \"Wiener Philharmoniker , Nikolaus Harnoncourt\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/artist/98b95966-64db-4631-8b9f-8aa66f32cc98>,
+        <https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6> ;
+    ns1:performed <https://w3id.org/ssv/data/0.9/performance/2003#23> ;
+    foaf:name "\"Wiener Philharmoniker , Nikolaus Harnoncourt\"" .
+

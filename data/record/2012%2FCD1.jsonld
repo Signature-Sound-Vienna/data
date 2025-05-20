@@ -1,0 +1,91 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/record/2012%2FCD1",
+    "@type": [
+      "http://purl.org/ontology/mo/Record"
+    ],
+    "http://purl.org/ontology/mo/track": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#16"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#18"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#19"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#21"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#22"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#23"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#24"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/track/2012%2FCD1#25"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_count": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 26
+      }
+    ]
+  }
+]

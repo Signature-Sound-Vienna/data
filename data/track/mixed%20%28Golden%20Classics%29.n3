@@ -1,0 +1,52 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#1> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - Die Fledermaus (Herbert von Karajan) 1987\"" ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#10> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - Unter Donner und Blitz (Lorin Maazel) 1983\"" ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#11> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - Kaiserwalzer (Claudio Abbado) 1991\"" ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#12> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987\"" ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#2> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - Tritsch-Tratsch-Polka (Lorin Maazel) 1981\"" ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#3> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - An der schönen blauen Donau (Herbert von Karajan) 1987\"" ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#4> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - Auf Ferienreisen (Claudio Abbado) 1988\"" ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#5> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Sohn - G'Schichten aus dem Wienerwald (Lorin Maazel) 1983\"" ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#6> a ns1:Track ;
+    rdfs:label "Track: \"Johann Strauß, Vater - Seufzer-Galopp (Claudio Abbado) 1991\"" ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#7> a ns1:Track ;
+    rdfs:label "Track: \"Josef Strauß - Ohne Sorgen (Lorin Maazel) 1981\"" ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#8> a ns1:Track ;
+    rdfs:label "Track: \"Josef Strauß - Aquarellen (Claudio Abbado) 1991\"" ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#9> a ns1:Track ;
+    rdfs:label "Track: \"Johann und Josef Strauß - Pizzicato-Polka (Herbert von Karajan) 1987\"" ;
+    ns1:track_number 9 .
+

@@ -1,0 +1,32 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#1> a ns1:Track ;
+    rdfs:label "Track: \"Motoren, Walzer op. 265 - Johann Strauss II\"" ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#2> a ns1:Track ;
+    rdfs:label "Track: \"'s gibt nur a Kaiserstadt, 's gibt nur a Wien,  Polka schnell op. 291 - Johann Strauss II\"" ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#3> a ns1:Track ;
+    rdfs:label "Track: \"Carrière, Polka schnell op.200 - Josef Strauss\"" ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#4> a ns1:Track ;
+    rdfs:label "Track: \"Frauenherz, Polka mazur op. 166 - Josef Strauss\"" ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#5> a ns1:Track ;
+    rdfs:label "Track: \"Hofballtänze, Walzer op. 298 - Johann Strauss II\"" ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#6> a ns1:Track ;
+    rdfs:label "Track: \"Bluette, Polka française  op. 271 - Johann Strauss II\"" ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/1997%2FCD1#7> a ns1:Track ;
+    rdfs:label "Track: \"Die Bajadere, Polka schnell  op. 351 - Johann Strauss II\"" ;
+    ns1:track_number 7 .
+

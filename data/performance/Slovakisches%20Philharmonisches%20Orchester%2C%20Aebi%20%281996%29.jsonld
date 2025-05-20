@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performance/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/54fe325f-e04a-3849-bc0d-867b110724cf"
+      }
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: \"Wiener Blut\""
+      }
+    ]
+  }
+]

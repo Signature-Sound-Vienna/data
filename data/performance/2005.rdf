@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performance/2005#23">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/0.9/signal/2005#23"/>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/6763c20d-f2df-3347-8a0e-7abad42a5a56"/>
+    <rdfs:label>Performance: "An der schönen blauen Donau, Walzer, op. 314"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

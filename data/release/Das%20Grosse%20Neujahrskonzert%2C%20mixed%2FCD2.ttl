@@ -1,0 +1,23 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/release/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2> a ns1:Release ;
+    rdfs:label "Record: \"CD2\"",
+        "Release: \"CD2\"" ;
+    dcterms:title "\"CD2\"" ;
+    ns1:catalogue_number "__NONE__" ;
+    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#10>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#11>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#2>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#4>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#5>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#7>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8>,
+        <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9> ;
+    ns1:record <https://w3id.org/ssv/data/0.9/record/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2> .
+

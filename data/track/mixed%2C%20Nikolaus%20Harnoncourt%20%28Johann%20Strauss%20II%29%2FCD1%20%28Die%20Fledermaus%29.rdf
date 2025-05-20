@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Terzett (Rosalind, Eisenstein, Blind)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Akt II - Frosch"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Akt II - Duett (Rosalinde, Eisenstein)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Akt II - Couplet (Orlofsky)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Akt II - Ensemble and Couplet (Adele, Ida, Orlofsky)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Introduktion (Adele, Alfred)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Terzett (Rosalinde, Alfred, Frank)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Ouverture"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Akt II - Choir und Ensemble"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Duett (Eisenstein, Falke)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Finale I. (Rosalind, Alfred, Frank)"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Frosch"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD1%20%28Die%20Fledermaus%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Akt I - Duettino (Rosalinde, Adele)"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

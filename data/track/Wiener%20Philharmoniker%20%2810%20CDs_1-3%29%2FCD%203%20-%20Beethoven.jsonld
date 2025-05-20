@@ -1,0 +1,70 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 9 in D minor Op. 125 \"Choral\" I. Allegro ma non troppo un poco maestoso\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Presto. Allegro assai. Presto. \"Oh, Freunde, nicht diese Töne\", Allegro assai.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Adagio molto cantabile.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Molto vivacel. Presto.\""
+      }
+    ]
+  }
+]

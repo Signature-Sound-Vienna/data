@@ -1,0 +1,81 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/release/1992",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"New Year ́s Concert / Neujahrskonzert 1992\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1992#16"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/record/1992"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"New Year ́s Concert / Neujahrskonzert 1992\""
+      },
+      {
+        "@value": "Record: \"New Year ́s Concert / Neujahrskonzert 1992\""
+      }
+    ]
+  }
+]

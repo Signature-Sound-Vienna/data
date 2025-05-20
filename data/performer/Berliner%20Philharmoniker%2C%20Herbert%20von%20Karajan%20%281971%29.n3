@@ -1,0 +1,9 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> a ns1:MusicArtist ;
+    rdfs:label "Performer: \"Berliner Philharmoniker - Herbert von Karajan\"" ;
+    ns1:performed <https://w3id.org/ssv/data/0.9/performance/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11> ;
+    foaf:name "\"Berliner Philharmoniker - Herbert von Karajan\"" .
+

@@ -1,0 +1,4 @@
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4> <http://xmlns.com/foaf/0.1/name> "\"Beethoven - E. Kleiber\"" .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4> .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Beethoven - E. Kleiber\"" .

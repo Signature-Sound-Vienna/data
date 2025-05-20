@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Johann Strauss II\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Johann Strauss II\""
+      }
+    ]
+  }
+]

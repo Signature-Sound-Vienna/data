@@ -1,0 +1,51 @@
+<https://w3id.org/ssv/data/0.9/track/1991#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Seufzer-Galopp op. 9 - Johann Strauss I\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiser-Walzer op. 437 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freikugeln, Polka schnell op. 326 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kontretanz Nr.3 KV 609 - W. A. Mozart\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die tanzende Muse, Polka mazur op. 266 - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kontretanz Nr.1 KV 609 - W. A. Mozart\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Aquarellen, Walzer op. 258 - Josef Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell op. 393 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Furioso-Polka, quasi Galopp op. 260 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouverture zu \"Waldmeister\" - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Werber, Walzer op. 103 - Joseph Lanner\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Polka, Galopp D 735 - Franz Schubert\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Carmen-Quadrille op. 134 - Eduard Strauss\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Galopp, Ecossaise Nr.1 D 735 - Franz Schubert\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/0.9/track/1991#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau op. 314 - Johann Strauss II\"" .
+<https://w3id.org/ssv/data/0.9/track/1991#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/0.9/track/1991#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Schlitenfahrt, Deutscher Tanz Nr.3 KV 605 - W. A. Mozart\"" .

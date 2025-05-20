@@ -1,0 +1,18 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/record/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#1>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#10>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#11>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#12>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#2>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#3>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#4>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#5>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#6>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#7>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#8>,
+        <https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#9> ;
+    ns1:track_count 13 .
+

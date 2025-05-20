@@ -1,0 +1,56 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1> a ns1:Track ;
+    rdfs:label "Track: \"Ouvertüre zu \"Fledermaus\" - Johann Strauss II\"" ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10> a ns1:Track ;
+    rdfs:label "Track: \"Mein Herr Marquis - Johann Strauss II\"" ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11> a ns1:Track ;
+    rdfs:label "Track: \"Braune Augen, schware Brauen - Ukrainisches Lied\"" ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12> a ns1:Track ;
+    rdfs:label "Track: \"Impressionen - Kurt Schmid/ Doblinger\"" ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> a ns1:Track ;
+    rdfs:label "Track: \"An der schönen blauen Donau - Johann Strauss II\"" ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2> a ns1:Track ;
+    rdfs:label "Track: \"Wiener Veilchen - Johann Strauss II\"" ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3> a ns1:Track ;
+    rdfs:label "Track: \"Neue Pizzicato-Polka - Kurt Schmid\"" ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4> a ns1:Track ;
+    rdfs:label "Track: \"Wiener Bonbons - Johann Strauss II\"" ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5> a ns1:Track ;
+    rdfs:label "Track: \"Der Mond am Himmel - Ukrainisches Lied\"" ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6> a ns1:Track ;
+    rdfs:label "Track: \"Auf nach Lugansk - Kurt Schmid\"" ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7> a ns1:Track ;
+    rdfs:label "Track: \"Leichtes Blut - Johann Strauss II\"" ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8> a ns1:Track ;
+    rdfs:label "Track: \"Botschafter Micheal-Miess-Walzer - Kurt Schmid\"" ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9> a ns1:Track ;
+    rdfs:label "Track: \"Egtyptischer Marsch - Johann Strauss II\"" ;
+    ns1:track_number 9 .
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performer/1951-1954%2FCD2#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/data/0.9/performance/1951-1954%2FCD2#16"/>
+    <foaf:name>"Clemens Krauss - Wiener Philharmoniker"</foaf:name>
+    <rdfs:label>Performer: "Clemens Krauss - Wiener Philharmoniker"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

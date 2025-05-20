@@ -1,0 +1,7 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performance/2009#22> a ns1:Performance ;
+    rdfs:label "Performance: \"Closing Credits\"" ;
+    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/2009#22> .
+

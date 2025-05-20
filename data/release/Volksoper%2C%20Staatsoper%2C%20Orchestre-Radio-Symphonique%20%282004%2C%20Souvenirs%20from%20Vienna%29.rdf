@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/release/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <dcterms:title>"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures"</dcterms:title>
+    <rdfs:label>Release: "Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures"</rdfs:label>
+    <rdfs:label>Record: "Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures"</rdfs:label>
+    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
+    <ns1:record rdf:resource="https://w3id.org/ssv/data/0.9/record/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9"/>
+  </rdf:Description>
+</rdf:RDF>

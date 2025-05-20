@@ -1,0 +1,5 @@
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%204%20-%20Mendelssohn%20-%20Brahms#61> <http://xmlns.com/foaf/0.1/name> "\"Richard Strauss\"" .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%204%20-%20Mendelssohn%20-%20Brahms#61> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Richard Strauss\"" .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%204%20-%20Mendelssohn%20-%20Brahms#61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%204%20-%20Mendelssohn%20-%20Brahms#61> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16> .
+<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%204%20-%20Mendelssohn%20-%20Brahms#61> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%204%20-%20Mendelssohn%20-%20Brahms#61> .

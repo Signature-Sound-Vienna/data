@@ -1,0 +1,10 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/0.9/performer/2000#19> a ns1:MusicArtist ;
+    rdfs:label "Performer: \"Johann Strauss I\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5> ;
+    ns1:performed <https://w3id.org/ssv/data/0.9/performance/2000#19> ;
+    foaf:name "\"Johann Strauss I\"" .
+

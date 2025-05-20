@@ -1,0 +1,29 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/0.9/record/1980-1983> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/data/0.9/track/1980-1983#1>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#10>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#11>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#12>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#13>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#14>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#15>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#16>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#17>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#18>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#19>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#2>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#20>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#21>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#22>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#23>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#3>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#4>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#5>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#6>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#7>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#8>,
+        <https://w3id.org/ssv/data/0.9/track/1980-1983#9> ;
+    ns1:track_count 24 .
+

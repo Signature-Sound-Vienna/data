@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performance/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: \"Auf der Jagd, op. 373: Polka schnell\""
+      }
+    ]
+  }
+]

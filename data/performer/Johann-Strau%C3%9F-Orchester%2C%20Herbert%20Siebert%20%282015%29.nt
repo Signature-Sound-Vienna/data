@@ -1,0 +1,5 @@
+<https://w3id.org/ssv/data/0.9/performer/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Johann Strauss I\"" .
+<https://w3id.org/ssv/data/0.9/performer/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16> <http://xmlns.com/foaf/0.1/name> "\"Johann Strauss I\"" .
+<https://w3id.org/ssv/data/0.9/performer/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5> .
+<https://w3id.org/ssv/data/0.9/performer/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16> .
+<https://w3id.org/ssv/data/0.9/performer/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .

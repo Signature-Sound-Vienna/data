@@ -1,0 +1,31 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/0.9/performer/2002#22",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"
+      },
+      {
+        "@id": "https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/data/0.9/performance/2002#22"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Wiener Philharmoniker , Seiji Ozawa\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Wiener Philharmoniker , Seiji Ozawa\""
+      }
+    ]
+  }
+]

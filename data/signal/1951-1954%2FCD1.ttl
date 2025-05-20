@@ -1,0 +1,54 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#1> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075010700> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#1> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#10> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110121> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#10> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#11> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110127> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#11> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#12> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110128> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#12> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#13> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110129> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#13> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#2> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075010250> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#2> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#3> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110250> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#3> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#4> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075010220> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#4> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#5> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110122> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#5> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#6> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#6> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#7> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110124> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#7> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#8> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110125> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#8> .
+
+<https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#9> a ns1:Signal ;
+    ns1:isrc <https://musicbrainz.org/isrc/GBF075110126> ;
+    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#9> .
+
