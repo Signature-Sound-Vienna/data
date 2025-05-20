@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "oa": "http://www.w3.org/ns/oa#",
+    "anno": "http://localhost:8080/ssv/hand/annot/oa/",
+    "musMat": "http://localhost:8080/ssv/hand/annot/mao/musicalMaterial/",
+    "extract": "http://localhost:8080/ssv/hand/annot/mao/extract/",
+    "selection": "http://localhost:8080/ssv/hand/annot/mao/selection/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "dcterms:creator": {
+    "@id": "https://orcid.org/0000-0002-2055-273X",
+    "rdfs:label": "Dr. Chanda VanderHart"
+  },
+  "@type": "oa:Annotation",
+  "@id": "anno:TEST",
+  "oa:motivatedBy": "mao:commentary",
+  "oa:hasBody": [
+    {
+      "@type": "oa:TextualBody",
+      "rdf:value": "TEST of content negotiation with w3id"
+    }
+  ],
+  "oa:hasTarget": [
+    {
+      "@id": "musMat:TEST"
+    }
+  ]
+}
