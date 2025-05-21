@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12"/>
     <rdfs:label>Performance: "Rosen aus dem Süden - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

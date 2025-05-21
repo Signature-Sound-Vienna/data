@@ -1,74 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Johann Strauß, Sohn - Tritsch-Tratsch-Polka (Lorin Maazel) 1981\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Johann Strauß, Sohn - Kaiserwalzer (Claudio Abbado) 1991\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Johann Strauß, Sohn - G'Schichten aus dem Wienerwald (Lorin Maazel) 1983\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -85,24 +17,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 11
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Josef Strauß - Ohne Sorgen (Lorin Maazel) 1981\""
+        "@value": "Track: \"Johann Strauß, Sohn - Kaiserwalzer (Claudio Abbado) 1991\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -119,58 +51,58 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Johann Strauß, Sohn - Unter Donner und Blitz (Lorin Maazel) 1983\""
+        "@value": "Track: \"Josef Strauß - Ohne Sorgen (Lorin Maazel) 1981\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Johann Strauß, Sohn - Die Fledermaus (Herbert von Karajan) 1987\""
+        "@value": "Track: \"Johann Strauß, Sohn - G'Schichten aus dem Wienerwald (Lorin Maazel) 1983\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Johann Strauß, Vater - Seufzer-Galopp (Claudio Abbado) 1991\""
+        "@value": "Track: \"Johann Strauß, Sohn - An der schönen blauen Donau (Herbert von Karajan) 1987\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -187,19 +119,87 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%20%28Golden%20Classics%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Johann Strauß, Sohn - An der schönen blauen Donau (Herbert von Karajan) 1987\""
+        "@value": "Track: \"Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Johann Strauß, Sohn - Unter Donner und Blitz (Lorin Maazel) 1983\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Johann Strauß, Vater - Seufzer-Galopp (Claudio Abbado) 1991\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Johann Strauß, Sohn - Die Fledermaus (Herbert von Karajan) 1987\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Johann Strauß, Sohn - Tritsch-Tratsch-Polka (Lorin Maazel) 1981\""
       }
     ]
   }

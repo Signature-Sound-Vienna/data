@@ -2,9 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performer/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8> a ns1:MusicArtist ;
+<https://w3id.org/ssv/0.9/data/performer/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8> a ns1:MusicArtist ;
     rdfs:label "Performer: \"Vienna Opera Orchestra\"" ;
     ns1:musicbrainz <https://musicbrainz.org/artist/df7727c9-2b6d-4472-a4b1-bc57e0fdd0ff> ;
-    ns1:performed <https://w3id.org/ssv/data/0.9/performance/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8> ;
+    ns1:performed <https://w3id.org/ssv/0.9/data/performance/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8> ;
     foaf:name "\"Vienna Opera Orchestra\"" .
 

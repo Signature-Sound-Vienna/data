@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performance/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/0.9/signal/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20"/>
     <rdfs:label>Performance: "Alexander-Quadrille, Op. 33"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

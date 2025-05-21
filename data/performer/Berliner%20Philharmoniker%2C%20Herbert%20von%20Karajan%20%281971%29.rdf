@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/data/0.9/performance/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11"/>
     <foaf:name>"Berliner Philharmoniker - Herbert von Karajan"</foaf:name>
     <rdfs:label>Performer: "Berliner Philharmoniker - Herbert von Karajan"</rdfs:label>
   </rdf:Description>

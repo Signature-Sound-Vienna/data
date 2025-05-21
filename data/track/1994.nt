@@ -1,45 +1,45 @@
-<https://w3id.org/ssv/data/0.9/track/1994#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Lieder-Quadrille op. 275 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau, Walzer op. 314 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Sorgen, Polka schnell op. 271 - Josef Strauss\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mit Chic, Polka schnell  op.275 - Eduard Strauss\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"L'Enfantillage, Polka française op. 202 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Schönbrunner, Walzer op. 200 - Joseph Lanner\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Caroussel-Marsch op. 133 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch op. 228 - Johann Strauss, Sr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Csardas aus \"Die Fledermaus\" - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Accelerationen, Walzer  op. 234 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"G'schichten aus dem Wienerwald, Walzer op. 325 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Feuerfest, Polka française op. 269 - Josef Strauss\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Lucifer-Polka schnell op. 266 - Johann Strauss, Jr.\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Aus der Ferne, Polka mazur op. 270 - Josef Strauss\"" .
-<https://w3id.org/ssv/data/0.9/track/1994#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/1994#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ein Herz, ein Sinn, Polka mazur  op. 323 - Johann Strauss, Jr. \"" .
-<https://w3id.org/ssv/data/0.9/track/1994#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/1994#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Feuerfest, Polka française op. 269 - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Schönbrunner, Walzer op. 200 - Joseph Lanner\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mit Chic, Polka schnell  op.275 - Eduard Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Lucifer-Polka schnell op. 266 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Accelerationen, Walzer  op. 234 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"G'schichten aus dem Wienerwald, Walzer op. 325 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Sorgen, Polka schnell op. 271 - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Caroussel-Marsch op. 133 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Lieder-Quadrille op. 275 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"L'Enfantillage, Polka française op. 202 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ein Herz, ein Sinn, Polka mazur  op. 323 - Johann Strauss, Jr. \"" .
+<https://w3id.org/ssv/0.9/data/track/1994#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau, Walzer op. 314 - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Csardas aus \"Die Fledermaus\" - Johann Strauss, Jr.\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1994#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Aus der Ferne, Polka mazur op. 270 - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1994#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1994#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch op. 228 - Johann Strauss, Sr.\"" .

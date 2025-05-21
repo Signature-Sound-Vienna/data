@@ -5,19 +5,19 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/release/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Kaiser–Walzer"</dcterms:title>
     <rdfs:label>Release: "Kaiser–Walzer"</rdfs:label>
     <rdfs:label>Record: "Kaiser–Walzer"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/0.9/record/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7"/>
   </rdf:Description>
 </rdf:RDF>

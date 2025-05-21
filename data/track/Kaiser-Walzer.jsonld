@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -44,73 +44,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/32f232f2-52e4-4189-b4f8-eda26bc96192"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Loreley - Rhein Klänge (Orchester der Wiener Staatsoper, Josef Drexler)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/db002b7f-f395-44c8-85c8-ed149b9044b7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -132,7 +66,51 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5cb2f564-a6df-4c81-9c8d-9ed0efdd2e1e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen a Magyar (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/32f232f2-52e4-4189-b4f8-eda26bc96192"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Loreley - Rhein Klänge (Orchester der Wiener Staatsoper, Josef Drexler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -154,7 +132,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -176,24 +154,46 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Kaiser-Walzer#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5cb2f564-a6df-4c81-9c8d-9ed0efdd2e1e"
+        "@id": "https://musicbrainz.org/track/db002b7f-f395-44c8-85c8-ed149b9044b7"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Eljen a Magyar (Johann-Strauß-Orchester Wien, Francek)\""
+        "@value": "Track: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
       }
     ]
   }

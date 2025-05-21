@@ -2,63 +2,63 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/1988#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#1> a ns1:Track ;
     rdfs:label "Track: \"Donna Diana - Emil Nikolaus von Reznicek\"" ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#10> a ns1:Track ;
     rdfs:label "Track: \"Seid umschlungen, Millionen - Johann Strauss II\"" ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#11> a ns1:Track ;
     rdfs:label "Track: \"Perpetuum mobile - Johann Strauss II\"" ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#12> a ns1:Track ;
     rdfs:label "Track: \"In Fluge - Josef Strauss\"" ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#13> a ns1:Track ;
     rdfs:label "Track: \"Banditen-Galopp - Johann Strauss II\"" ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#14> a ns1:Track ;
     rdfs:label "Track: \"An der schönen, blauen Donau - Johann Strauss II\"" ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#15> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch - Johann Strauss I\"" ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#2> a ns1:Track ;
     rdfs:label "Track: \"Brennende Liebe - Josef Strauss\"" ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#3> a ns1:Track ;
     rdfs:label "Track: \"Auf Ferienreise - Josef Strauss\"" ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#4> a ns1:Track ;
     rdfs:label "Track: \"Die Fledermaus - Johann Strauss II\"" ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#5> a ns1:Track ;
     rdfs:label "Track: \"Neue Pizzicato - Johann Strauss II\"" ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#6> a ns1:Track ;
     rdfs:label "Track: \"Freut euch des Lebens - Johann Strauss II\"" ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#7> a ns1:Track ;
     rdfs:label "Track: \"Un ballo in maschera - Johann Strauss II\"" ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#8> a ns1:Track ;
     rdfs:label "Track: \"Tritsch-Trasch-Polka - Johann Strauss II\"" ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/1988#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1988#9> a ns1:Track ;
     rdfs:label "Track: \"Leichtes Blut - Johann Strauss II\"" ;
     ns1:track_number 9 .
 

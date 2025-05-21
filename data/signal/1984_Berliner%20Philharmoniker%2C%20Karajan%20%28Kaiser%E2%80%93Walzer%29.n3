@@ -1,30 +1,30 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001220> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001230> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001240> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001250> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001260> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001270> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6> .
 
-<https://w3id.org/ssv/data/0.9/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEF058001280> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> .
 

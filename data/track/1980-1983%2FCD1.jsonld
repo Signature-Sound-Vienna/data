@@ -1,159 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Josef  / Ohne Sorgen, Op.271\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Johann Jr  / Perpetuum Mobile, Op.257\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Johann Jr  / G'schichten aus dem Wienerwald, Op.325 (Tales from the Vienna Woods)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Josef  / Frauenherz, Op.166\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Johann Jr  / Tritsch-Tratsch-Polka, Op.214\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Johann Jr  / Accelerationen, Op.234\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Johann Jr  / Kaiser-Walzer (Emperor Waltz), Op.437\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Josef  / Sphärenklänge (Music of the Spheres), Op.235\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Josef  / Aquarellen, Op.258\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -170,7 +17,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980-1983%2FCD1#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Josef  / Frauenherz, Op.166\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -183,6 +47,142 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Strauss Johann Jr  / Unter Donner und Blitz, Op.324\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Johann Jr  / Tritsch-Tratsch-Polka, Op.214\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Johann Jr  / Kaiser-Walzer (Emperor Waltz), Op.437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Josef  / Aquarellen, Op.258\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Josef  / Ohne Sorgen, Op.271\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Johann Jr  / Accelerationen, Op.234\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Josef  / Sphärenklänge (Music of the Spheres), Op.235\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Johann Jr  / G'schichten aus dem Wienerwald, Op.325 (Tales from the Vienna Woods)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980-1983%2FCD1#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Strauss Johann Jr  / Perpetuum Mobile, Op.257\""
       }
     ]
   }

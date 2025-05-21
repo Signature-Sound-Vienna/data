@@ -2,8 +2,8 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> a ns1:MusicArtist ;
+<https://w3id.org/ssv/0.9/data/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> a ns1:MusicArtist ;
     rdfs:label "Performer: \"Haydn J - Wr. Philharmoniker - Furtwängler - Walter - Busch\"" ;
-    ns1:performed <https://w3id.org/ssv/data/0.9/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> ;
+    ns1:performed <https://w3id.org/ssv/0.9/data/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> ;
     foaf:name "\"Haydn J - Wr. Philharmoniker - Furtwängler - Walter - Busch\"" .
 

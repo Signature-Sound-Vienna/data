@@ -2,127 +2,127 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/2006#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#1> a ns1:Track ;
     rdfs:label "Track: \"Opening Credits/ Vorspann\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/168e3939-135d-409e-95c0-5179c9c63e71> ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#10> a ns1:Track ;
     rdfs:label "Track: \"Ouvertuere aus 'Le nozze di Figaro'\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/33795bd2-a101-4f3a-a554-80d7de79032e> ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#11> a ns1:Track ;
     rdfs:label "Track: \"Die Mozartisten, Walzer, op. 196\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e9091ec8-3794-496e-8ec8-beb0dbaf8b1e> ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#12> a ns1:Track ;
     rdfs:label "Track: \"Liebesbotschaft, Galopp\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/00aa16bb-8f4f-44ba-84f1-a810128283b1> ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#13> a ns1:Track ;
     rdfs:label "Track: \"Neue Pizzicato-Polka, op. 449\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/62e22309-859e-4cee-b4cd-e359ca36229f> ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#14> a ns1:Track ;
     rdfs:label "Track: \"Kuenstler-Quadrille, op. 201\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/9ffc5e2e-1288-4d24-a4d1-448c957c3199> ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#15> a ns1:Track ;
     rdfs:label "Track: \"Spanischer Marsch, op. 201\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/ce477d06-8f09-4bee-89cc-6ec66441cbe1> ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#16> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#16> a ns1:Track ;
     rdfs:label "Track: \"Du und Du, Walzer, op. 433\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/b0601230-ae52-4bc3-b5e9-a56a7f99494a> ;
     ns1:track_number 16 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#17> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#17> a ns1:Track ;
     rdfs:label "Track: \"Im Krapfenwald'l, Polka francaisa, op. 336\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/a0286b8d-52d8-4324-96e0-1db5fd205600> ;
     ns1:track_number 17 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#18> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#18> a ns1:Track ;
     rdfs:label "Track: \"Furioso-Polka, quasi Galopp, op. 260\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/2c1e80eb-7520-471d-89db-1579982b0852> ;
     ns1:track_number 18 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#19> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#19> a ns1:Track ;
     rdfs:label "Track: \"Telephon Polka, op. 165\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/b21c498b-ad50-43c4-a96b-8cefb114ce96> ;
     ns1:track_number 19 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#2> a ns1:Track ;
     rdfs:label "Track: \"Auf's Kron!, op. 478\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/510c87ec-04a5-4e93-a48e-9b1a285c05ac> ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#20> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#20> a ns1:Track ;
     rdfs:label "Track: \"Lagunen-Walzer, op. 411\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e6a373c4-c73c-44b1-8f9e-9a95407761e3> ;
     ns1:track_number 20 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#21> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#21> a ns1:Track ;
     rdfs:label "Track: \"Eljen a Magyar!, Polka schnell, op. 332\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/b3879b19-0b48-4f5c-b609-2c025a6a2977> ;
     ns1:track_number 21 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#22> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#22> a ns1:Track ;
     rdfs:label "Track: \"Banditen-Galopp, op. 378\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/608b5cd9-e2c2-4ecd-9d1a-b5865fe3f216> ;
     ns1:track_number 22 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#23> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#23> a ns1:Track ;
     rdfs:label "Track: \"New Year ́s Address/ Neujahrsgruß\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/0d95d090-8a96-4c0d-9805-52d668e7074b> ;
     ns1:track_number 23 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#24> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#24> a ns1:Track ;
     rdfs:label "Track: \"An der schoenen blauen Donau, Walzer, op. 314\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/3187e20c-7c33-4b28-a1c3-442a897e07dd> ;
     ns1:track_number 24 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#25> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#25> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/18f81a3b-9a4e-4faa-9abc-33b051885b5c> ;
     ns1:track_number 25 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#3> a ns1:Track ;
     rdfs:label "Track: \"Fruehlingsstimmen, Walzer, op. 410\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/86b36db3-426f-4143-9108-726f4e49d802> ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#4> a ns1:Track ;
     rdfs:label "Track: \"Diplomaten Polka, op. 448\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/b4540de2-9470-4cb6-ada3-5a3b146c94f1> ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#5> a ns1:Track ;
     rdfs:label "Track: \"Eingesendet, Polka schnell, op. 240\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/c3893b01-d430-4be4-8717-813433a98f23> ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#6> a ns1:Track ;
     rdfs:label "Track: \"Lob der Frauen, Polka Mazur, op. 315\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/eaafaf4a-6c5a-46c9-9f90-2897f893a59e> ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#7> a ns1:Track ;
     rdfs:label "Track: \"Kuenstlerleben, Walzer, op. 316\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/629af5a4-e3a9-4a3e-97b4-c989dd17bf4f> ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#8> a ns1:Track ;
     rdfs:label "Track: \"Ohne Sorgen!, Polka schnell, op. 271\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/290d36cd-3507-4ab7-b9a4-41ca15dfc04d> ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/2006#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2006#9> a ns1:Track ;
     rdfs:label "Track: \"Der Zigeunerbaron Einzugsmarsch\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/58e3e143-3477-4666-9873-9d0f069914f2> ;
     ns1:track_number 9 .

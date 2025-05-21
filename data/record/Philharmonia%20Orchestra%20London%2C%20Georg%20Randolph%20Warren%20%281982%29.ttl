@@ -1,13 +1,13 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/record/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#1>,
-        <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#2>,
-        <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#3>,
-        <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#4>,
-        <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#5>,
-        <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#6>,
-        <https://w3id.org/ssv/data/0.9/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#7> ;
+<https://w3id.org/ssv/0.9/data/record/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#1>,
+        <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#2>,
+        <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#3>,
+        <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#4>,
+        <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#5>,
+        <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#6>,
+        <https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#7> ;
     ns1:track_count 8 .
 

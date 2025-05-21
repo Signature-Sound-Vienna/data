@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/release/2009",
+    "@id": "https://w3id.org/ssv/0.9/data/release/2009",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,75 +16,75 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#3"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#4"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#4"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#5"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#5"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#6"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#6"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#7"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#7"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#8"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#8"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#9"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#9"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#10"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#10"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#11"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#11"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#12"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#12"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#13"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#13"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#14"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#14"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#15"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#15"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#16"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#16"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#17"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#17"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#18"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#18"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#19"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#19"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#20"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#20"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#21"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#21"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/2009#22"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2009#22"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/record/2009"
+        "@id": "https://w3id.org/ssv/0.9/data/record/2009"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

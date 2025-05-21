@@ -4,79 +4,79 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Sperl-Galopp, op. 42 - Johann Strauss I"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Transaktionen, Walzer op. 184 - Josef Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau, Walzer op. 314 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Veilchen-Polka, op. 132 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Diplomaten-Polka française op. 448 - Johann Strauss II"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau, Walzer op. 314 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Pizzicato Polka française op. 234 - Johann Strauss II &amp; Josef Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Egyptischer Marsch, op. 335 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Hans Jorgel Polka, op. 141 - Joseph Lanner"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Klipp-Klapp, Galopp op. 466 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Ouverture zu Indigo und die 40 Räuber - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Steyrische Tänze, Walzer op. 165 Joseph Lanner"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Auf Der Jagd, Polka schnell op. 373 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "Radetzky Marsch, op. 228 - Johann Strauss I"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Diplomaten-Polka française op. 448 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Perpetuum Mobile, Musikalischer Scherz op. 257 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Steyrische Tänze, Walzer op. 165 Joseph Lanner"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Auf Der Jagd, Polka schnell op. 373 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Klipp-Klapp, Galopp op. 466 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Die Publizisten, Walzer op. 321 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1993#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Perpetuum Mobile, Musikalischer Scherz op. 257 - Johann Strauss II"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Pizzicato Polka française op. 234 - Johann Strauss II &amp; Josef Strauss"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Ouverture zu Indigo und die 40 Räuber - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Hans Jorgel Polka, op. 141 - Joseph Lanner"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Egyptischer Marsch, op. 335 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Sperl-Galopp, op. 42 - Johann Strauss I"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Transaktionen, Walzer op. 184 - Josef Strauss"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

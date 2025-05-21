@@ -4,40 +4,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Dorfschwalben, Walzer, Op. 164"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/54e96e83-a619-4c45-8acd-d07111ea979e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Frühlingsstimmen-Walzer, Op. 410"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9265b766-e85b-4490-8d10-223a1c2d0d83"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Liebeslieder-Walzer, Op. 114"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5161708a-19e0-412d-9e89-6e18959f415d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Wiener Bonbons, Op. 307"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Dorfschwalben, Walzer, Op. 164"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/67ea6f21-d3ec-4819-8cb0-9995f0bc5848"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Künstlerleben, Walzer"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b42dda4a-1514-4dc4-aa3d-13df07e3233d"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "An der schönen blauen Donau, Op. 314"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/67ea6f21-d3ec-4819-8cb0-9995f0bc5848"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Künstlerleben, Walzer"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5161708a-19e0-412d-9e89-6e18959f415d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Wiener Bonbons, Op. 307"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

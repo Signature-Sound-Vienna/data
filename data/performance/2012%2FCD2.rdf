@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performance/2012%2FCD2#25">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/2012%2FCD2#25">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/0.9/signal/2012%2FCD2#25"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/2012%2FCD2#25"/>
     <rdfs:label>Performance: "Radetzky-Marsch, op. 228"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

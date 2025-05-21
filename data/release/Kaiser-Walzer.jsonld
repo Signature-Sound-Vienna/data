@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/release/Kaiser-Walzer",
+    "@id": "https://w3id.org/ssv/0.9/data/release/Kaiser-Walzer",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,36 +16,36 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#3"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#4"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#4"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#5"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#5"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#6"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#6"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#7"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#7"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#8"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#8"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#9"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#9"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/record/Kaiser-Walzer"
+        "@id": "https://w3id.org/ssv/0.9/data/record/Kaiser-Walzer"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

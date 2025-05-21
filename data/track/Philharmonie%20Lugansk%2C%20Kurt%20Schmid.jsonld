@@ -1,159 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Neue Pizzicato-Polka - Kurt Schmid\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Veilchen - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Bonbons - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Botschafter Micheal-Miess-Walzer - Kurt Schmid\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Impressionen - Kurt Schmid/ Doblinger\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Auf nach Lugansk - Kurt Schmid\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Egtyptischer Marsch - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Leichtes Blut - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Mein Herr Marquis - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -170,7 +17,75 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Botschafter Micheal-Miess-Walzer - Kurt Schmid\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Impressionen - Kurt Schmid/ Doblinger\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mein Herr Marquis - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf nach Lugansk - Kurt Schmid\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -187,7 +102,75 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Veilchen - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Egtyptischer Marsch - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Bonbons - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Leichtes Blut - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -204,7 +187,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -217,6 +200,23 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Braune Augen, schware Brauen - Ukrainisches Lied\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Neue Pizzicato-Polka - Kurt Schmid\""
       }
     ]
   }

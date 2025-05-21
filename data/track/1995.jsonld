@@ -1,193 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Perpetuum mobile, Musikalischer Scherz op. 257 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Electrisch, Polka Schnell - Eduard Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Alice-Polka, op. 238 - Johann Strauss, Sr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Auf Ferienreisen, Polka schnell op. 133 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morgenblätter, Walzer op. 279 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Arm In Arm, Polka mazur op. 215 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Mein Lebenslauf Ist Lieb' Und Lust, Walzer op. 263 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Russische Marsch Phantasie, op. 353 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky Marsch, op. 228 - Johann Strauss, Sr,\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Reiter Marsch, op. 428 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Process-Polka, Polka Schnell op. 294 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -204,7 +17,92 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#15",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morgenblätter, Walzer op. 279 - Johann Strauss, Jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Electrisch, Polka Schnell - Eduard Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Russische Marsch Phantasie, op. 353 - Johann Strauss, Jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Reiter Marsch, op. 428 - Johann Strauss, Jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Process-Polka, Polka Schnell op. 294 - Johann Strauss, Jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -221,7 +119,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#13",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Arm In Arm, Polka mazur op. 215 - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -238,7 +153,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -255,7 +170,41 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1995#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile, Musikalischer Scherz op. 257 - Johann Strauss, Jr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mein Lebenslauf Ist Lieb' Und Lust, Walzer op. 263 - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -268,6 +217,57 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Favorit-Polka, op. 201 - Joseph Lanner\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf Ferienreisen, Polka schnell op. 133 - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Alice-Polka, op. 238 - Johann Strauss, Sr.\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky Marsch, op. 228 - Johann Strauss, Sr,\""
       }
     ]
   }

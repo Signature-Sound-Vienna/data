@@ -1,80 +1,80 @@
-<https://w3id.org/ssv/data/0.9/track/2018#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Der Zigeunerbaron: Einzugsmarsch\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8e463da3-e633-4842-b248-3958cde555b9> .
-<https://w3id.org/ssv/data/0.9/track/2018#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/861f7aad-c98e-42e0-b9c3-c1687434d84d> .
-<https://w3id.org/ssv/data/0.9/track/2018#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0bd7f881-a98e-4432-8bd3-4248237e22e4> .
-<https://w3id.org/ssv/data/0.9/track/2018#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0ae9d7ff-dc21-425c-a59c-d76fbc1a33c1> .
-<https://w3id.org/ssv/data/0.9/track/2018#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Fresken, Walzer, op. 249\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/44f3855d-6a74-46f7-aab3-46d6150b941e> .
-<https://w3id.org/ssv/data/0.9/track/2018#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e268b9d9-fe49-4cea-baf0-d5032fc9b5a4> .
-<https://w3id.org/ssv/data/0.9/track/2018#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4872fb37-e2a3-49ff-b656-e749d02f381e> .
-<https://w3id.org/ssv/data/0.9/track/2018#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9744dc15-d1eb-435e-94ac-c5e0730edece> .
-<https://w3id.org/ssv/data/0.9/track/2018#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Geschichten aus dem Wienerwald, Walzer, op. 325\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d78164ac-884f-4d54-ad88-98b324c97d7e> .
-<https://w3id.org/ssv/data/0.9/track/2018#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Rosen aus dem Süden, Walzer, op. 388\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2f67588b-6bf2-4ab5-b0f9-fe2b309579df> .
-<https://w3id.org/ssv/data/0.9/track/2018#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Unter Donner und Blitz, Polka schnell, op. 324\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ef960355-8627-4588-b47c-de7c027477da> .
-<https://w3id.org/ssv/data/0.9/track/2018#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Un ballo in maschera, Quadrille, op. 272\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eingesendet, Polka schnell, op. 240\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5a671597-aa3b-411f-8dfc-7069d142fa21> .
-<https://w3id.org/ssv/data/0.9/track/2018#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Marienwalzer, op. 212\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5b4345b9-cff0-4ff1-972f-8bdb259b16cf> .
-<https://w3id.org/ssv/data/0.9/track/2018#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stephanie-Gavotte, op. 312\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stadt und Land, Polka Mazurka, op. 322\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7d93f162-3924-4b8e-938f-ecf0babc52fc> .
-<https://w3id.org/ssv/data/0.9/track/2018#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Festmarsch, op. 452\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Myrthenblüten, Walzer, op. 395\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichtes Blut, Polka schnell, op. 319\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Boccaccio: Ouvertüre\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2b23043d-e5e6-4224-a188-9f300c8e6b68> .
-<https://w3id.org/ssv/data/0.9/track/2018#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wilhelm Tell Galopp, op. 29b\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/779201cd-1bc3-47fb-b006-fe594a452ac0> .
-<https://w3id.org/ssv/data/0.9/track/2018#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/63e1da36-2c15-438d-92ab-671df61b6272> .
-<https://w3id.org/ssv/data/0.9/track/2018#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
-<https://w3id.org/ssv/data/0.9/track/2018#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7c14de95-afd9-48c9-87b0-1bd7363f3b83> .
-<https://w3id.org/ssv/data/0.9/track/2018#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/640c6b82-ceb3-464e-900b-f599fcd6b0eb> .
-<https://w3id.org/ssv/data/0.9/track/2018#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freikugeln, Polka schnell, op. 326\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ae371f1b-282d-4c7c-b87a-bb6be2621020> .
-<https://w3id.org/ssv/data/0.9/track/2018#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/data/0.9/track/2018#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/data/0.9/track/2018#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Brautschau, Polka française, op. 417\"" .
-<https://w3id.org/ssv/data/0.9/track/2018#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/861f7aad-c98e-42e0-b9c3-c1687434d84d> .
+<https://w3id.org/ssv/0.9/data/track/2018#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Festmarsch, op. 452\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Geschichten aus dem Wienerwald, Walzer, op. 325\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/63e1da36-2c15-438d-92ab-671df61b6272> .
+<https://w3id.org/ssv/0.9/data/track/2018#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5b4345b9-cff0-4ff1-972f-8bdb259b16cf> .
+<https://w3id.org/ssv/0.9/data/track/2018#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Brautschau, Polka française, op. 417\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichtes Blut, Polka schnell, op. 319\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Boccaccio: Ouvertüre\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Unter Donner und Blitz, Polka schnell, op. 324\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d78164ac-884f-4d54-ad88-98b324c97d7e> .
+<https://w3id.org/ssv/0.9/data/track/2018#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7d93f162-3924-4b8e-938f-ecf0babc52fc> .
+<https://w3id.org/ssv/0.9/data/track/2018#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Rosen aus dem Süden, Walzer, op. 388\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
+<https://w3id.org/ssv/0.9/data/track/2018#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2b23043d-e5e6-4224-a188-9f300c8e6b68> .
+<https://w3id.org/ssv/0.9/data/track/2018#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Un ballo in maschera, Quadrille, op. 272\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freikugeln, Polka schnell, op. 326\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/44f3855d-6a74-46f7-aab3-46d6150b941e> .
+<https://w3id.org/ssv/0.9/data/track/2018#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2f67588b-6bf2-4ab5-b0f9-fe2b309579df> .
+<https://w3id.org/ssv/0.9/data/track/2018#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8e463da3-e633-4842-b248-3958cde555b9> .
+<https://w3id.org/ssv/0.9/data/track/2018#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0ae9d7ff-dc21-425c-a59c-d76fbc1a33c1> .
+<https://w3id.org/ssv/0.9/data/track/2018#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/779201cd-1bc3-47fb-b006-fe594a452ac0> .
+<https://w3id.org/ssv/0.9/data/track/2018#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eingesendet, Polka schnell, op. 240\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7c14de95-afd9-48c9-87b0-1bd7363f3b83> .
+<https://w3id.org/ssv/0.9/data/track/2018#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Fresken, Walzer, op. 249\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5a671597-aa3b-411f-8dfc-7069d142fa21> .
+<https://w3id.org/ssv/0.9/data/track/2018#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Marienwalzer, op. 212\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Der Zigeunerbaron: Einzugsmarsch\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9744dc15-d1eb-435e-94ac-c5e0730edece> .
+<https://w3id.org/ssv/0.9/data/track/2018#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0bd7f881-a98e-4432-8bd3-4248237e22e4> .
+<https://w3id.org/ssv/0.9/data/track/2018#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ef960355-8627-4588-b47c-de7c027477da> .
+<https://w3id.org/ssv/0.9/data/track/2018#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wilhelm Tell Galopp, op. 29b\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Myrthenblüten, Walzer, op. 395\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e268b9d9-fe49-4cea-baf0-d5032fc9b5a4> .
+<https://w3id.org/ssv/0.9/data/track/2018#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/640c6b82-ceb3-464e-900b-f599fcd6b0eb> .
+<https://w3id.org/ssv/0.9/data/track/2018#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stephanie-Gavotte, op. 312\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stadt und Land, Polka Mazurka, op. 322\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4872fb37-e2a3-49ff-b656-e749d02f381e> .
+<https://w3id.org/ssv/0.9/data/track/2018#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2018#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ae371f1b-282d-4c7c-b87a-bb6be2621020> .
+<https://w3id.org/ssv/0.9/data/track/2018#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/2018#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2018#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .

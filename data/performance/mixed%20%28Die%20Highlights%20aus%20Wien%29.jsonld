@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12",
+    "@id": "https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#12"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#12"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

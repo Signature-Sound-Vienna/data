@@ -1,4 +1,4 @@
-<https://w3id.org/ssv/data/0.9/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"no artist\"" .
-<https://w3id.org/ssv/data/0.9/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
-<https://w3id.org/ssv/data/0.9/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://xmlns.com/foaf/0.1/name> "\"no artist\"" .
-<https://w3id.org/ssv/data/0.9/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> .
+<https://w3id.org/ssv/0.9/data/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/0.9/data/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> .
+<https://w3id.org/ssv/0.9/data/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://xmlns.com/foaf/0.1/name> "\"no artist\"" .
+<https://w3id.org/ssv/0.9/data/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"no artist\"" .

@@ -1,46 +1,46 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246701> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246710> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246711> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246702> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246703> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246704> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246705> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246706> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246707> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246708> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8> .
 
-<https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/HKI191246709> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9> .
 

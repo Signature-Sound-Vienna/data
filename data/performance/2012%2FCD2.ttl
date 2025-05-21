@@ -1,7 +1,7 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performance/2012%2FCD2#25> a ns1:Performance ;
+<https://w3id.org/ssv/0.9/data/performance/2012%2FCD2#25> a ns1:Performance ;
     rdfs:label "Performance: \"Radetzky-Marsch, op. 228\"" ;
-    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/2012%2FCD2#25> .
+    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/2012%2FCD2#25> .
 

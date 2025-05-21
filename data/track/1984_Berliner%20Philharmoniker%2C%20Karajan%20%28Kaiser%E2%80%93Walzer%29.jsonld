@@ -1,23 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"»Der Zigeunerbaron«: Ouvertüre\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -34,24 +17,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Auf der Jagd, op. 373: Polka schnell\""
+        "@value": "Track: \"»Der Zigeunerbaron«: Ouvertüre\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -68,24 +51,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Tritsch–Tratsch–Polka, op. 214\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -102,7 +68,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -115,6 +81,40 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Annen–Polka, op. 117: Polka française\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf der Jagd, op. 373: Polka schnell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tritsch–Tratsch–Polka, op. 214\""
       }
     ]
   }

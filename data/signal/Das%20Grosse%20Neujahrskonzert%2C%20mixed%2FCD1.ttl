@@ -1,50 +1,50 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#1> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#1> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER411300220> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#1> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER411300222> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410900270> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410300192> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410700251> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410990079> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER411000068> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410400767> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410900274> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#7> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#7> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER411000370> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#7> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#8> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#8> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER411300221> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#8> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#8> .
 
-<https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#9> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#9> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DER410400772> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#9> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#9> .
 

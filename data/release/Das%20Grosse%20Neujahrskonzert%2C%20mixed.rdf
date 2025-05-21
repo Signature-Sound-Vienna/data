@@ -5,24 +5,24 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/release/Das%20Grosse%20Neujahrskonzert%2C%20mixed">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/Das%20Grosse%20Neujahrskonzert%2C%20mixed">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Das Grosse Neujahrskonzert"</dcterms:title>
     <rdfs:label>Release: "Das Grosse Neujahrskonzert"</rdfs:label>
     <rdfs:label>Record: "Das Grosse Neujahrskonzert"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/0.9/record/Das%20Grosse%20Neujahrskonzert%2C%20mixed"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/Das%20Grosse%20Neujahrskonzert%2C%20mixed"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12"/>
   </rdf:Description>
 </rdf:RDF>

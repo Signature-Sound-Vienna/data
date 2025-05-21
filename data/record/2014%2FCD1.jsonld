@@ -1,36 +1,36 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/record/2014%2FCD1",
+    "@id": "https://w3id.org/ssv/0.9/data/record/2014%2FCD1",
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#2"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#3"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#4"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#5"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#6"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#7"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#8"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/2014%2FCD1#9"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2014%2FCD1#9"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [

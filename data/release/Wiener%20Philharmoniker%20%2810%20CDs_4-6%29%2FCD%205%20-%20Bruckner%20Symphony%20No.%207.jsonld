@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/release/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207",
+    "@id": "https://w3id.org/ssv/0.9/data/release/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,21 +16,21 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/record/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207"
+        "@id": "https://w3id.org/ssv/0.9/data/record/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

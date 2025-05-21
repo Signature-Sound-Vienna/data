@@ -2,31 +2,31 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/release/2015> a ns1:Release ;
+<https://w3id.org/ssv/0.9/data/release/2015> a ns1:Release ;
     rdfs:label "Record: \"Neujahrskonzert 2015\"",
         "Release: \"Neujahrskonzert 2015\"" ;
     dcterms:title "\"Neujahrskonzert 2015\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/2015#1>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#10>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#11>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#12>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#13>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#14>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#15>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#16>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#17>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#18>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#19>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#2>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#20>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#21>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#3>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#4>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#5>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#6>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#7>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#8>,
-        <https://w3id.org/ssv/data/0.9/signal/2015#9> ;
-    ns1:record <https://w3id.org/ssv/data/0.9/record/2015> .
+    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2015#1>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#10>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#11>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#12>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#13>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#14>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#15>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#16>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#17>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#18>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#19>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#2>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#20>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#21>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#3>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#4>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#5>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#6>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#7>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#8>,
+        <https://w3id.org/ssv/0.9/data/signal/2015#9> ;
+    ns1:record <https://w3id.org/ssv/0.9/data/record/2015> .
 

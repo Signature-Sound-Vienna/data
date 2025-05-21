@@ -1,7 +1,7 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performance/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> a ns1:Performance ;
+<https://w3id.org/ssv/0.9/data/performance/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> a ns1:Performance ;
     rdfs:label "Performance: \"An der schönen blauen Donau - Johann Strauss II\"" ;
-    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> .
+    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> .
 

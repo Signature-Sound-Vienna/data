@@ -1,22 +1,22 @@
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#2> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"Neujahrskonzert 1996\"" .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#4> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/dc/terms/title> "\"Neujahrskonzert 1996\"" .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#15> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#7> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"Neujahrskonzert 1996\"" .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#12> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#9> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#13> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#10> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#3> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#5> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#11> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#6> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#8> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#16> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/data/0.9/record/1996> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#14> .
-<https://w3id.org/ssv/data/0.9/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1996#1> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#14> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"Neujahrskonzert 1996\"" .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#16> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#12> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#15> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#11> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#9> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/0.9/data/record/1996> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"Neujahrskonzert 1996\"" .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#1> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#13> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/dc/terms/title> "\"Neujahrskonzert 1996\"" .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#7> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#2> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#8> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#10> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#4> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#5> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#6> .
+<https://w3id.org/ssv/0.9/data/release/1996> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1996#3> .

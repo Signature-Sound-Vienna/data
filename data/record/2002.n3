@@ -1,28 +1,28 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/record/2002> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/0.9/track/2002#1>,
-        <https://w3id.org/ssv/data/0.9/track/2002#10>,
-        <https://w3id.org/ssv/data/0.9/track/2002#11>,
-        <https://w3id.org/ssv/data/0.9/track/2002#12>,
-        <https://w3id.org/ssv/data/0.9/track/2002#13>,
-        <https://w3id.org/ssv/data/0.9/track/2002#14>,
-        <https://w3id.org/ssv/data/0.9/track/2002#15>,
-        <https://w3id.org/ssv/data/0.9/track/2002#16>,
-        <https://w3id.org/ssv/data/0.9/track/2002#17>,
-        <https://w3id.org/ssv/data/0.9/track/2002#18>,
-        <https://w3id.org/ssv/data/0.9/track/2002#19>,
-        <https://w3id.org/ssv/data/0.9/track/2002#2>,
-        <https://w3id.org/ssv/data/0.9/track/2002#20>,
-        <https://w3id.org/ssv/data/0.9/track/2002#21>,
-        <https://w3id.org/ssv/data/0.9/track/2002#22>,
-        <https://w3id.org/ssv/data/0.9/track/2002#3>,
-        <https://w3id.org/ssv/data/0.9/track/2002#4>,
-        <https://w3id.org/ssv/data/0.9/track/2002#5>,
-        <https://w3id.org/ssv/data/0.9/track/2002#6>,
-        <https://w3id.org/ssv/data/0.9/track/2002#7>,
-        <https://w3id.org/ssv/data/0.9/track/2002#8>,
-        <https://w3id.org/ssv/data/0.9/track/2002#9> ;
+<https://w3id.org/ssv/0.9/data/record/2002> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/0.9/data/track/2002#1>,
+        <https://w3id.org/ssv/0.9/data/track/2002#10>,
+        <https://w3id.org/ssv/0.9/data/track/2002#11>,
+        <https://w3id.org/ssv/0.9/data/track/2002#12>,
+        <https://w3id.org/ssv/0.9/data/track/2002#13>,
+        <https://w3id.org/ssv/0.9/data/track/2002#14>,
+        <https://w3id.org/ssv/0.9/data/track/2002#15>,
+        <https://w3id.org/ssv/0.9/data/track/2002#16>,
+        <https://w3id.org/ssv/0.9/data/track/2002#17>,
+        <https://w3id.org/ssv/0.9/data/track/2002#18>,
+        <https://w3id.org/ssv/0.9/data/track/2002#19>,
+        <https://w3id.org/ssv/0.9/data/track/2002#2>,
+        <https://w3id.org/ssv/0.9/data/track/2002#20>,
+        <https://w3id.org/ssv/0.9/data/track/2002#21>,
+        <https://w3id.org/ssv/0.9/data/track/2002#22>,
+        <https://w3id.org/ssv/0.9/data/track/2002#3>,
+        <https://w3id.org/ssv/0.9/data/track/2002#4>,
+        <https://w3id.org/ssv/0.9/data/track/2002#5>,
+        <https://w3id.org/ssv/0.9/data/track/2002#6>,
+        <https://w3id.org/ssv/0.9/data/track/2002#7>,
+        <https://w3id.org/ssv/0.9/data/track/2002#8>,
+        <https://w3id.org/ssv/0.9/data/track/2002#9> ;
     ns1:track_count 23 .
 

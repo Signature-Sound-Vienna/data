@@ -2,82 +2,82 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#1> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre zu 'Der Carneval in Rom'\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/404836f1-df14-40bb-b2dd-eb422616c458> ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#10> a ns1:Track ;
     rdfs:label "Track: Lucifer-Polka" ;
     ns1:musicbrainz <https://musicbrainz.org/track/36bd4bec-d0c4-449a-8410-e4645b08037d> ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#11> a ns1:Track ;
     rdfs:label "Track: \"Die Libelle\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e6e9fe4b-b376-485a-90c5-54b60eb7011a> ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#12> a ns1:Track ;
     rdfs:label "Track: Plappermäulchen!" ;
     ns1:musicbrainz <https://musicbrainz.org/track/4abcae3a-8cbe-408e-8a8c-b67b022617bb> ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#13> a ns1:Track ;
     rdfs:label "Track: \"Wiener Blut\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/1755d6e2-61db-4c5f-94ba-61f9e048cd2a> ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#14> a ns1:Track ;
     rdfs:label "Track: \"Furioso-Polka quasi Galopp\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/1204f4ac-b47c-4853-b922-aa0cfaf685d7> ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#15> a ns1:Track ;
     rdfs:label "Track: \"An der schönen, blauen Donau\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/86bcbd54-1127-451b-a957-41c72a551b64> ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#16> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#16> a ns1:Track ;
     rdfs:label "Track: Radetzky-Marsch" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e6a5a906-9f0d-4d00-8a3a-3d810207ab97> ;
     ns1:track_number 16 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#2> a ns1:Track ;
     rdfs:label "Track: \"Wien über Alles\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/8ad818f2-1243-42c0-b1b2-9634e6afba8b> ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#3> a ns1:Track ;
     rdfs:label "Track: \"Wo die Zitronen blüh ́n\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/b4de0b3e-65b3-4ade-9c0b-42be7397268f> ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#4> a ns1:Track ;
     rdfs:label "Track: \"Persischer Marsch\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/92e72730-271c-4da3-9980-b4a97905a72a> ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#5> a ns1:Track ;
     rdfs:label "Track: \"Draußen in Sievering\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/dbcbfeac-1a50-4bfc-bdb5-124285d1ae05> ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#6> a ns1:Track ;
     rdfs:label "Track: Künstler-Quadrille" ;
     ns1:musicbrainz <https://musicbrainz.org/track/a42b8186-c4cd-4c4e-9bbe-96f66fafe7d3> ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#7> a ns1:Track ;
     rdfs:label "Track: Dynamiden" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e5d5c0f6-f169-411a-88d2-c41ed3859c27> ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#8> a ns1:Track ;
     rdfs:label "Track: Banditen-Galopp" ;
     ns1:musicbrainz <https://musicbrainz.org/track/0ee1d7c5-cff7-4d85-9b0a-134abd2c8284> ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/2011%20%28Kendlinger%29#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/2011%20%28Kendlinger%29#9> a ns1:Track ;
     rdfs:label "Track: \"Intermezzo aus 'Tausendundeine Nacht'\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e82b72d8-658e-496c-8030-777a89aa611d> ;
     ns1:track_number 9 .

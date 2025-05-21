@@ -2,29 +2,29 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/release/2000> a ns1:Release ;
+<https://w3id.org/ssv/0.9/data/release/2000> a ns1:Release ;
     rdfs:label "Record: \"NEW YEAR ́S CONCERT 2000\"",
         "Release: \"NEW YEAR ́S CONCERT 2000\"" ;
     dcterms:title "\"NEW YEAR ́S CONCERT 2000\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/2000#1>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#10>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#11>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#12>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#13>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#14>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#15>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#16>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#17>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#18>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#19>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#2>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#3>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#4>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#5>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#6>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#7>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#8>,
-        <https://w3id.org/ssv/data/0.9/signal/2000#9> ;
-    ns1:record <https://w3id.org/ssv/data/0.9/record/2000> .
+    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2000#1>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#10>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#11>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#12>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#13>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#14>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#15>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#16>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#17>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#18>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#19>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#2>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#3>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#4>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#5>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#6>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#7>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#8>,
+        <https://w3id.org/ssv/0.9/data/signal/2000#9> ;
+    ns1:record <https://w3id.org/ssv/0.9/data/record/2000> .
 

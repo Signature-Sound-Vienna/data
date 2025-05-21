@@ -3,69 +3,69 @@
    xmlns:ns1="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#9"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110126"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#5"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#5"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110122"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#3"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110250"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#9"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110126"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#6"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#4"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075010220"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#13"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110129"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#8"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110125"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#11"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110127"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#12"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110128"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#10"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110121"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#7"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110124"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#1"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#1"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075010700"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/data/0.9/track/1951-1954%2FCD1#2"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#11"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#6"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#3"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110250"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#13"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110129"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#8"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#10"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110121"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#7"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110124"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#2"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075010250"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#4"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075010220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#12"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/GBF075110128"/>
   </rdf:Description>
 </rdf:RDF>

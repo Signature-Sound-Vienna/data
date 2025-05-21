@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#20",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#20",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -22,183 +22,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6354b59d-9aed-4b75-b6f7-e7397b36c5a1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Frauenherz, Polka mazur, op. 166 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7042101b-df70-49f8-857e-5a057fa0de61"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ein Herz, ein Sinn, Polka mazur, op. 323\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1db7e2bb-c1d1-4a36-bc70-4dcbed0a6623"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Closing Credits\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b9e421f5-45fc-45c9-bac1-d11f8053db7f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Der Carneval in Paris, Galopp, op. 100\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0fe067fa-2718-46f6-bab2-6b513e8c2c79"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wein, Weib und Gesang, Walzer, op. 333\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ece87ea6-7876-40ad-8281-c81555a8d23c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Opening Credits\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6a0a86a7-8a41-4107-ae0a-d744f89ccceb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau, Walzer, op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/30bfcc52-9bed-410d-968d-ac9cbeae1351"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Neujahrsgruß"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#14",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -220,7 +44,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -242,51 +66,51 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/978aebab-ff88-4eff-a6a8-6966be702ff6"
+        "@id": "https://musicbrainz.org/track/7042101b-df70-49f8-857e-5a057fa0de61"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 11
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell, op. 393\""
+        "@value": "Track: \"Ein Herz, ein Sinn, Polka mazur, op. 323\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/997631d4-336c-4785-953f-75f6405ba78d"
+        "@id": "https://musicbrainz.org/track/6354b59d-9aed-4b75-b6f7-e7397b36c5a1"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Bonbons, Walzer, op. 307\""
+        "@value": "Track: \"Frauenherz, Polka mazur, op. 166 - Josef Strauss\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -308,51 +132,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f03beb1d-3e6c-40f7-a5df-e85c5c6d5d89"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre aus 'Die Rheinnixen'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/3de7fe87-b28f-43a8-93f6-aefa15a097eb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre aus der Operette 'Die Fledermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#17",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#17",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -374,51 +154,95 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/26b3959e-efc8-40ca-9517-22d2a1ee92b2"
+        "@id": "https://musicbrainz.org/track/978aebab-ff88-4eff-a6a8-6966be702ff6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ouvertüre aus 'Die lustigen Weiber von Windsor' - Otto Nicolai\""
+        "@value": "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell, op. 393\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/56342cdd-5951-44a2-b59b-e1952f897a7c"
+        "@id": "https://musicbrainz.org/track/b9e421f5-45fc-45c9-bac1-d11f8053db7f"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Perpetuum mobile, Musikalischer Scherz, op. 257\""
+        "@value": "Track: \"Der Carneval in Paris, Galopp, op. 100\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#15",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/3de7fe87-b28f-43a8-93f6-aefa15a097eb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre aus der Operette 'Die Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f03beb1d-3e6c-40f7-a5df-e85c5c6d5d89"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre aus 'Die Rheinnixen'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -440,7 +264,95 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/2010#16",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/30bfcc52-9bed-410d-968d-ac9cbeae1351"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Neujahrsgruß"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0fe067fa-2718-46f6-bab2-6b513e8c2c79"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wein, Weib und Gesang, Walzer, op. 333\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6a0a86a7-8a41-4107-ae0a-d744f89ccceb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau, Walzer, op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/26b3959e-efc8-40ca-9517-22d2a1ee92b2"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre aus 'Die lustigen Weiber von Windsor' - Otto Nicolai\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -458,6 +370,94 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: Champagner-Galopp"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ece87ea6-7876-40ad-8281-c81555a8d23c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Opening Credits\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/997631d4-336c-4785-953f-75f6405ba78d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Bonbons, Walzer, op. 307\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/56342cdd-5951-44a2-b59b-e1952f897a7c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile, Musikalischer Scherz, op. 257\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2010#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1db7e2bb-c1d1-4a36-bc70-4dcbed0a6623"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Closing Credits\""
       }
     ]
   }

@@ -5,42 +5,42 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/release/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Der Zigeunerbaron (Harnoncourt, Wiener Symphoniker, Arnold Schoenberg Chor) - CD 2"</dcterms:title>
     <rdfs:label>Release: "Der Zigeunerbaron (Harnoncourt, Wiener Symphoniker, Arnold Schoenberg Chor) - CD 2"</rdfs:label>
     <rdfs:label>Record: "Der Zigeunerbaron (Harnoncourt, Wiener Symphoniker, Arnold Schoenberg Chor) - CD 2"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/0.9/record/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#14"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#15"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#16"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#17"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#18"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#19"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#20"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#21"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#22"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#23"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#24"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#25"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#26"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#27"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#28"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#30"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#12"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#13"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#14"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#15"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#16"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#17"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#18"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#19"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#20"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#21"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#22"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#23"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#24"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#25"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#26"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#27"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#28"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#30"/>
   </rdf:Description>
 </rdf:RDF>

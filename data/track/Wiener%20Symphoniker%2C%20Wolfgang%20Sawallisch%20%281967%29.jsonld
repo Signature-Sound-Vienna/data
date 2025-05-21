@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -44,29 +44,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/45ec397d-10c4-49ab-b88b-69f632c6ae6a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Feuerfest"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -88,95 +66,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/6d4a817f-fb3f-4a51-a702-d8012f04fdd9"
+        "@id": "https://musicbrainz.org/track/45ec397d-10c4-49ab-b88b-69f632c6ae6a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Auf der Jagd\""
+        "@value": "Track: Feuerfest"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d4eafc0c-03a1-48f3-a9fd-560c62769386"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Radetzky-Marsch"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/48b7f1ae-db42-43c4-b4a3-6d79d06197c1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Kaiserwalzer"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -198,7 +110,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Radetzky-Marsch"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -220,29 +154,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/92969db0-ab75-439d-9fd8-e6f19c66f6a1"
+        "@id": "https://musicbrainz.org/track/6d4a817f-fb3f-4a51-a702-d8012f04fdd9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Jockey polka\""
+        "@value": "Track: \"Auf der Jagd\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -260,6 +194,72 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Ouverture zu 'Die Feldermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/48b7f1ae-db42-43c4-b4a3-6d79d06197c1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Kaiserwalzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d4eafc0c-03a1-48f3-a9fd-560c62769386"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/92969db0-ab75-439d-9fd8-e6f19c66f6a1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Jockey polka\""
       }
     ]
   }

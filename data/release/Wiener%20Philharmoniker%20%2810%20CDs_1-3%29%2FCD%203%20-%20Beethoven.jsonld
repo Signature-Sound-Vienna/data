@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/release/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven",
+    "@id": "https://w3id.org/ssv/0.9/data/release/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,21 +16,21 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#3"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/record/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven"
+        "@id": "https://w3id.org/ssv/0.9/data/record/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

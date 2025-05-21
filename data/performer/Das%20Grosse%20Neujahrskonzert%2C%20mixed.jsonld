@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12",
+    "@id": "https://w3id.org/ssv/0.9/data/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12"
+        "@id": "https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed#12"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performance/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9",
+    "@id": "https://w3id.org/ssv/0.9/data/performance/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performance/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#32",
+    "@id": "https://w3id.org/ssv/0.9/data/performance/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#32",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#32"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#32"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

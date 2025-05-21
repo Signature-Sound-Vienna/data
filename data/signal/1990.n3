@@ -1,58 +1,58 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#1> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#1> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001098> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#1> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#10> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#10> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001107> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#10> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#10> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#11> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#11> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001108> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#11> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#11> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#12> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#12> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001109> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#12> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#12> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#13> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#13> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001110> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#13> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#13> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#14> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#14> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001111> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#14> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#14> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#2> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#2> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001099> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#2> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#3> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#3> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001100> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#3> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#4> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#4> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001101> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#4> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#5> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#5> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001102> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#5> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#6> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#6> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001103> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#6> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#7> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#7> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001104> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#7> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#8> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#8> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001105> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#8> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#8> .
 
-<https://w3id.org/ssv/data/0.9/signal/1990#9> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/1990#9> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/USSM19001106> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/1990#9> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#9> .
 

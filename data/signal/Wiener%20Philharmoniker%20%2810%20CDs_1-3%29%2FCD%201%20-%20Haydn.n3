@@ -1,50 +1,50 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#1> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#1> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453435> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#1> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#10> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#10> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453444> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#10> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#10> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#11> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#11> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453445> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#11> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#11> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453446> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#12> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#2> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#2> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453436> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#2> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#3> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#3> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453437> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#3> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#4> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#4> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453438> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#4> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#5> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#5> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453439> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#5> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#6> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#6> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453440> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#6> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#7> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#7> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453441> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#7> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#8> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#8> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453442> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#8> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#8> .
 
-<https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#9> a ns1:Signal ;
+<https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#9> a ns1:Signal ;
     ns1:isrc <https://musicbrainz.org/isrc/DEU240453443> ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#9> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%201%20-%20Haydn#9> .
 

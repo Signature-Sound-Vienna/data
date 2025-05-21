@@ -1,138 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/8513b7b8-418a-4592-9668-ce1ddce596f0"
+        "@id": "https://musicbrainz.org/track/140891a9-886a-4527-86dc-bda101bee385"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Kaiser Franz Joseph I.-Rettungs-Jubel-Marsch, Op.126\""
+        "@value": "Track: \"Eingesendet, Op.240\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5008de94-8766-441a-8356-1bf1ab686f82"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Fata Morgana, Op.330\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7562cb8d-8b52-476e-9e99-81eb6fa7301c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau, Op.314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7c295867-14d0-4a76-bdef-a8356c77950d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Perpetuum mobile, Op.257\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6dc005cb-e5d5-485e-8b35-54be594c459c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Blut, Op.354\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ea2c4886-df2c-4f6c-8f55-a2a7579ef70f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch, Op.228\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -154,7 +44,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7c295867-14d0-4a76-bdef-a8356c77950d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile, Op.257\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -176,7 +88,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5008de94-8766-441a-8356-1bf1ab686f82"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Fata Morgana, Op.330\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -198,29 +132,73 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/918b0705-fe8f-4f0a-baaa-7cf75f0522b5"
+        "@id": "https://musicbrainz.org/track/ea2c4886-df2c-4f6c-8f55-a2a7579ef70f"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Loslassen!, Op.386\""
+        "@value": "Track: \"Radetzky-Marsch, Op.228\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7562cb8d-8b52-476e-9e99-81eb6fa7301c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau, Op.314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6dc005cb-e5d5-485e-8b35-54be594c459c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut, Op.354\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -242,24 +220,46 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1980#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/140891a9-886a-4527-86dc-bda101bee385"
+        "@id": "https://musicbrainz.org/track/918b0705-fe8f-4f0a-baaa-7cf75f0522b5"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Eingesendet, Op.240\""
+        "@value": "Track: \"Loslassen!, Op.386\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1980#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8513b7b8-418a-4592-9668-ce1ddce596f0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiser Franz Joseph I.-Rettungs-Jubel-Marsch, Op.126\""
       }
     ]
   }

@@ -1,29 +1,38 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix ns1: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns2: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#1> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#1> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#1> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/1.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#2> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#2> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#2> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/2.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#3> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#3> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#3> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/3.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#4> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#4> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#4> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/4.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#5> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#5> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#5> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/5.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#6> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#6> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#6> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/6.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#7> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#7> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#7> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/7.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#8> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#8> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#8> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203/8.peaks.json> .
 
-<https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Carl%20Michalski%20%281988%29%2C%20Vol.%203#9> .
 

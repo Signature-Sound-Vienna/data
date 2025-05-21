@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4",
+    "@id": "https://w3id.org/ssv/0.9/data/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4"
+        "@id": "https://w3id.org/ssv/0.9/data/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

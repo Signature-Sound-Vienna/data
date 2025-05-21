@@ -2,67 +2,67 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#1> a ns1:Track ;
     rdfs:label "Track: \"Wo uns're Fahne weht, op.473 - Marsch - Johann Strauss II\"" ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#10> a ns1:Track ;
     rdfs:label "Track: \"Marianka-Polka, op.173 - Johann Strauss I\"" ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#11> a ns1:Track ;
     rdfs:label "Track: \"In der Heimat!, op.231 - Polka Mazur - Josef Strauss\"" ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#12> a ns1:Track ;
     rdfs:label "Track: \"Annen-Polka, op.117 - Johann Strauss II\"" ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#13> a ns1:Track ;
     rdfs:label "Track: \"Plappermäulchen (Musikalischer Scherz), op.245 - Polkaschnell - Josef Strauss\"" ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#14> a ns1:Track ;
     rdfs:label "Track: \"Neue Melodien-Quadrille, op.254 - Josef Strauss\"" ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#15> a ns1:Track ;
     rdfs:label "Track: \"Rosen aus dem Süden, op.388 - Walzer - Johann Strauss II\"" ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#16> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#16> a ns1:Track ;
     rdfs:label "Track: \"Bahn frei, op.45 - Polka schnell - Eduard Strauss\"" ;
     ns1:track_number 16 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#2> a ns1:Track ;
     rdfs:label "Track: \"Nachtfalter, op.157 - Walzer - Johann Strauss II\"" ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#3> a ns1:Track ;
     rdfs:label "Track: \"Kleiner Anzeiger, Galopp - Joseph Hellmesberger\"" ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#4> a ns1:Track ;
     rdfs:label "Track: \"Die Schwebende, op.110 - Polka Mazur - Josef Strauss\"" ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#5> a ns1:Track ;
     rdfs:label "Track: \"Jocus Polka, op.216 - Polka schnell - Josef Strauss\"" ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#6> a ns1:Track ;
     rdfs:label "Track: \"Nordseebilder, op.390 - Walzer - Johann Strauss II\"" ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#7> a ns1:Track ;
     rdfs:label "Track: \"Tritsch-Tratsch Polka, op.214 - Polka schnell - Johann Strauss II\"" ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#8> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre zur Operette \"Prinz Methusalem\" - Johann Strauss II\"" ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/1998%2FCD1#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1998%2FCD1#9> a ns1:Track ;
     rdfs:label "Track: \"Wiener Bonbons, op.307 - Walzer - Johann Strauss II\"" ;
     ns1:track_number 9 .
 

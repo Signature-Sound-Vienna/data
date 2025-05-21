@@ -2,71 +2,71 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/1991#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#1> a ns1:Track ;
     rdfs:label "Track: \"Ouverture zu \"Waldmeister\" - Johann Strauss II\"" ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#10> a ns1:Track ;
     rdfs:label "Track: \"Aquarellen, Walzer op. 258 - Josef Strauss\"" ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#11> a ns1:Track ;
     rdfs:label "Track: \"Freikugeln, Polka schnell op. 326 - Johann Strauss II\"" ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#12> a ns1:Track ;
     rdfs:label "Track: \"Carmen-Quadrille op. 134 - Eduard Strauss\"" ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#13> a ns1:Track ;
     rdfs:label "Track: \"Kaiser-Walzer op. 437 - Johann Strauss II\"" ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#14> a ns1:Track ;
     rdfs:label "Track: \"Furioso-Polka, quasi Galopp op. 260 - Johann Strauss II\"" ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#15> a ns1:Track ;
     rdfs:label "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell op. 393 - Johann Strauss II\"" ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#16> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#16> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau op. 314 - Johann Strauss II\"" ;
     ns1:track_number 16 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#17> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#17> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\"" ;
     ns1:track_number 17 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#2> a ns1:Track ;
     rdfs:label "Track: \"Kontretanz Nr.1 KV 609 - W. A. Mozart\"" ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#3> a ns1:Track ;
     rdfs:label "Track: \"Kontretanz Nr.3 KV 609 - W. A. Mozart\"" ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#4> a ns1:Track ;
     rdfs:label "Track: \"Die Schlitenfahrt, Deutscher Tanz Nr.3 KV 605 - W. A. Mozart\"" ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#5> a ns1:Track ;
     rdfs:label "Track: \"Die tanzende Muse, Polka mazur op. 266 - Josef Strauss\"" ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#6> a ns1:Track ;
     rdfs:label "Track: \"Polka, Galopp D 735 - Franz Schubert\"" ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#7> a ns1:Track ;
     rdfs:label "Track: \"Galopp, Ecossaise Nr.1 D 735 - Franz Schubert\"" ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#8> a ns1:Track ;
     rdfs:label "Track: \"Die Werber, Walzer op. 103 - Joseph Lanner\"" ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/1991#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1991#9> a ns1:Track ;
     rdfs:label "Track: \"Seufzer-Galopp op. 9 - Johann Strauss I\"" ;
     ns1:track_number 9 .
 

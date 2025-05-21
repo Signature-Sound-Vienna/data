@@ -4,178 +4,178 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#18">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/11050ffb-5c02-4569-9a80-31b79356255f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd, Polka schnell, Op.373"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3a2dcfce-7171-4985-85a7-190e4e7f6308"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Im Krapfenwald ́l, Polka, Op.336"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/454a87f5-1d4f-488e-969e-9c3584acddde"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Pizzicato Polka"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e3d64a4b-5425-45f6-9da9-f3cb10e47d76"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Mein Lebenslauf Ist Lieb' und Lust, Walzer, Op.263"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#21">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c8f75ff6-96c6-4a72-b68f-cd7e226d14ba"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
-    <rdfs:label>Track: "Ritter Pásmán"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c59525a1-f1a6-464b-9c68-7a4979d801e2"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
-    <rdfs:label>Track: "Morgenblätter, Walzer, Op.279"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#28">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ecfd8594-71a7-4c49-a131-36f3cdf6745f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:track_number>
-    <rdfs:label>Track: "Plappermäulchen, Op.245, Polka schnell"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/133a2c60-afea-49a2-892c-969513bcd2d9"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Egyptischer Marsch, Op.335"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#22">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9fd8129d-97b9-44af-bbe8-7486df4b6f0c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
-    <rdfs:label>Track: "Perpetuum Mobile, Op.257"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#23">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5026aee3-d3b5-4a4f-8759-001368167fdf"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
-    <rdfs:label>Track: "An der Schonen Blauen Donau, Op.314, Walzer"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#27">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c0850b7b-e617-4322-8eef-5bb381467de0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns1:track_number>
-    <rdfs:label>Track: "Annen-Polka, Op.117"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5b06acad-aedd-4fab-8344-1bf568714f36"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Die Libelle, Polka-Mazurka, Op.204"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#26">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#26">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/68b84c6d-a08d-4eed-99bd-3fd6fcb23149"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns1:track_number>
     <rdfs:label>Track: "Sphärenklänge, Walzer, Op.235"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/01072982-8c95-49b9-a5b2-267288c34df2"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Dorfschwalben aus Osterreich, Walzer, Op.164"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3a2dcfce-7171-4985-85a7-190e4e7f6308"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Im Krapfenwald ́l, Polka, Op.336"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#29">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/95fd657b-d7e7-42b9-9f63-65cc8d0edf7d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns1:track_number>
-    <rdfs:label>Track: "Radetzky Marsch, Op.228"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#24">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#24">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0b967f07-ec51-4bec-95f7-d7efdccf3e2f"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:track_number>
     <rdfs:label>Track: "Auf Ferienreisen!, Op.133"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#20">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3e2bdb00-bb34-4e77-bc8a-06d95ed886e5"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
-    <rdfs:label>Track: "Feuerfest!, Polka schnell, Op.269"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1cf29f9b-0d36-46db-b394-4dc1efe74f5d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Vergnugunszug, Polka schnell, Op.281"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#25">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5e4ae6e3-730f-4cdd-a13f-f29d7a88a16d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns1:track_number>
-    <rdfs:label>Track: "Bei uns z' Haus, Walzer, Op.361"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f8d5113c-c877-4c8f-8f12-f8c1dcf7ab97"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Kunstlerleben, Walzer, Op.316"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d6b032a2-b36d-46dd-a4c9-717a92cba289"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Moulinet, Polka, Op.57"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/14819f23-e8e8-4519-a9f0-cbbd16e7d1ff"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Die Fledermaus, Overture"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#25">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5d683539-57ba-47f7-9929-e57600bd9952"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Éljen a Magyar, Polka, Op.332"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5e4ae6e3-730f-4cdd-a13f-f29d7a88a16d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns1:track_number>
+    <rdfs:label>Track: "Bei uns z' Haus, Walzer, Op.361"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/01072982-8c95-49b9-a5b2-267288c34df2"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Dorfschwalben aus Osterreich, Walzer, Op.164"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/01ad1d4b-0af0-40c8-a692-3aa3538a8cdc"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Fruhlingsstimme, Walzer, Op,410"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#17">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ba94b2b6-00f6-4857-a81c-a3678543c626"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
-    <rdfs:label>Track: "Stadt und Land, Polka-Mazurka, Op.322"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a0482c47-e2b0-41dc-ae2e-f3b873e1102e"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Der Ziguenerbaron, Overture"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6a2ec121-4ac6-4ccf-91a2-92a0ee12767b"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Jockey Polka Schnell, Op.278"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#16">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#20">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3e2bdb00-bb34-4e77-bc8a-06d95ed886e5"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
+    <rdfs:label>Track: "Feuerfest!, Polka schnell, Op.269"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#22">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9fd8129d-97b9-44af-bbe8-7486df4b6f0c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
+    <rdfs:label>Track: "Perpetuum Mobile, Op.257"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1cf29f9b-0d36-46db-b394-4dc1efe74f5d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Vergnugunszug, Polka schnell, Op.281"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a0482c47-e2b0-41dc-ae2e-f3b873e1102e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Der Ziguenerbaron, Overture"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d6b032a2-b36d-46dd-a4c9-717a92cba289"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Moulinet, Polka, Op.57"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d7f6f4e1-269f-4888-9c3d-129e131c34e4"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "G ́schichten aus Dem Wienerwald, Op.325"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/454a87f5-1d4f-488e-969e-9c3584acddde"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Pizzicato Polka"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#21">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c8f75ff6-96c6-4a72-b68f-cd7e226d14ba"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
+    <rdfs:label>Track: "Ritter Pásmán"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4d8234e2-51c3-41f6-9b49-144574c300ee"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: "Ohne Sorgen, Polka schnell, Op.271"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1951-1954#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#18">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d7f6f4e1-269f-4888-9c3d-129e131c34e4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "G ́schichten aus Dem Wienerwald, Op.325"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/11050ffb-5c02-4569-9a80-31b79356255f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd, Polka schnell, Op.373"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c59525a1-f1a6-464b-9c68-7a4979d801e2"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "Morgenblätter, Walzer, Op.279"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#27">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c0850b7b-e617-4322-8eef-5bb381467de0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns1:track_number>
+    <rdfs:label>Track: "Annen-Polka, Op.117"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#28">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ecfd8594-71a7-4c49-a131-36f3cdf6745f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:track_number>
+    <rdfs:label>Track: "Plappermäulchen, Op.245, Polka schnell"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5d683539-57ba-47f7-9929-e57600bd9952"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Éljen a Magyar, Polka, Op.332"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#23">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5026aee3-d3b5-4a4f-8759-001368167fdf"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
+    <rdfs:label>Track: "An der Schonen Blauen Donau, Op.314, Walzer"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f8d5113c-c877-4c8f-8f12-f8c1dcf7ab97"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Kunstlerleben, Walzer, Op.316"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#29">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/95fd657b-d7e7-42b9-9f63-65cc8d0edf7d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns1:track_number>
+    <rdfs:label>Track: "Radetzky Marsch, Op.228"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e3d64a4b-5425-45f6-9da9-f3cb10e47d76"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Mein Lebenslauf Ist Lieb' und Lust, Walzer, Op.263"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/133a2c60-afea-49a2-892c-969513bcd2d9"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Egyptischer Marsch, Op.335"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5b06acad-aedd-4fab-8344-1bf568714f36"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Die Libelle, Polka-Mazurka, Op.204"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1951-1954#17">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ba94b2b6-00f6-4857-a81c-a3678543c626"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <rdfs:label>Track: "Stadt und Land, Polka-Mazurka, Op.322"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

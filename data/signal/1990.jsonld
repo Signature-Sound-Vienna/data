@@ -1,214 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001106"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#9"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001105"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#8"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001104"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001108"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#11"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001103"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001099"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#2"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001107"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001100"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#3"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001098"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001111"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#14"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001101"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#4"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001109"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/USSM19001110"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#13"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/1990#5",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -219,7 +11,215 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1990#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001098"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001103"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001109"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#12"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001105"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001108"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#11"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001110"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#13"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001107"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001100"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001111"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#14"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001104"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001106"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001099"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/1990#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/USSM19001101"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#4"
       }
     ]
   }

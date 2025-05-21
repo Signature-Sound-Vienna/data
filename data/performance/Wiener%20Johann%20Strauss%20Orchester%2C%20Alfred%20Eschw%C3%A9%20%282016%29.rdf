@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performance/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/0.9/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14"/>
     <rdfs:label>Performance: "Radetzky-Marsch op. 228 - Johann Strauss I"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

@@ -2,23 +2,23 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/release/1951-1954%2FCD1> a ns1:Release ;
+<https://w3id.org/ssv/0.9/data/release/1951-1954%2FCD1> a ns1:Release ;
     rdfs:label "Record: \"Clemens Krauss_The New Year Concert 1951-54_CD1\"",
         "Release: \"Clemens Krauss_The New Year Concert 1951-54_CD1\"" ;
     dcterms:title "\"Clemens Krauss_The New Year Concert 1951-54_CD1\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#1>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#10>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#11>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#12>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#13>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#2>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#3>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#4>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#5>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#6>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#7>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#8>,
-        <https://w3id.org/ssv/data/0.9/signal/1951-1954%2FCD1#9> ;
-    ns1:record <https://w3id.org/ssv/data/0.9/record/1951-1954%2FCD1> .
+    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#1>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#10>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#11>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#12>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#13>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#2>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#3>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#4>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#5>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#6>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#7>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#8>,
+        <https://w3id.org/ssv/0.9/data/signal/1951-1954%2FCD1#9> ;
+    ns1:record <https://w3id.org/ssv/0.9/data/record/1951-1954%2FCD1> .
 

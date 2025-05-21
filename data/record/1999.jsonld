@@ -1,51 +1,51 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/record/1999",
+    "@id": "https://w3id.org/ssv/0.9/data/record/1999",
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#2"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#3"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#4"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#5"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#6"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#7"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#8"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#9"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#9"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#10"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#10"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#11"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#11"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#12"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#12"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#13"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#13"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/1999#14"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#14"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [

@@ -2,9 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performer/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> a ns1:MusicArtist ;
+<https://w3id.org/ssv/0.9/data/performer/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> a ns1:MusicArtist ;
     rdfs:label "Performer: \"Johann Strauss II\"" ;
     ns1:musicbrainz <https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a> ;
-    ns1:performed <https://w3id.org/ssv/data/0.9/performance/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> ;
+    ns1:performed <https://w3id.org/ssv/0.9/data/performance/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13> ;
     foaf:name "\"Johann Strauss II\"" .
 

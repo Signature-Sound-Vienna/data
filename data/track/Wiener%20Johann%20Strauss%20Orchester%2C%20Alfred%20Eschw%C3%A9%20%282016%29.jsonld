@@ -1,142 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Martha-Quadrille op. 46 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Dorfschwalben aus Österreich, Walzer op. 164 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Fransactionen, Walzer op. 184 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Neues Leben, Polka francaise op. 278 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre zur Operette 'Carneval in Rom' - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Éljen a Magyár, Polka schnell op. 332 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Vélocipède, Polka schnell op. 259 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#13",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -153,58 +17,109 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Geschichten aus dem Wienerwald, Walzer op. 325 - Johann Strauss II\""
+        "@value": "Track: \"Dorfschwalben aus Österreich, Walzer op. 164 - Josef Strauss\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die tanzende Muse, Polka Mazur op. 266 - Josef Strauss\""
+        "@value": "Track: \"Fransactionen, Walzer op. 184 - Josef Strauss\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Klipp-Klapp, Galopp op. 466 - Johann Strauss II\""
+        "@value": "Track: \"Vélocipède, Polka schnell op. 259 - Josef Strauss\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Éljen a Magyár, Polka schnell op. 332 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Martha-Quadrille op. 46 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -221,7 +136,92 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre zur Operette 'Carneval in Rom' - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Klipp-Klapp, Galopp op. 466 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Neues Leben, Polka francaise op. 278 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Geschichten aus dem Wienerwald, Walzer op. 325 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die tanzende Muse, Polka Mazur op. 266 - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],

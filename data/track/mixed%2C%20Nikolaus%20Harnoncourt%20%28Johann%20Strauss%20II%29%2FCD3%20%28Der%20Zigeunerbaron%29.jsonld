@@ -1,193 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Zsupan, Carnero, Chor ''Hier bin ich... Ja das Schreiben und das Lesen''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Carnero, Czipra, Barinkay, Saffi ''Herrgott, ein altes Weib!''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Mirabella, Chor ''Just sind es zweiundzwanzig Jahre''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 23
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Chor und Ensemble ''Wojwode, der Zigeuner?''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Chor, Arsena, Barinkay, Zsupan, Carnero ''Dem Freier naht die Braut''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#22",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 22
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Barinkay, Zsupan, Arsena, Mirabella u.a. ''Nun zu des bösen Nachbarn Haus''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ottokar, Arsena, Barinkay, Saffi, Czipra ''Arsena! Arsena!''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Saffi, Barinkay ''So elend und so treu''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Mirabella, Chor, Barinkay, Carnera, Arsena ''Bitte zu versuchen!... Hochzeitskuchen''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Barinkay, Czipra, Saffi, Chor ''Wie wechselvoll beteilt mein Schicksal''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Chor der Schiffer ''Das wär' kein rechter Schifferknecht''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -204,143 +17,58 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#21",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 21
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ottokar. ''Jeden Tag Müh' und Plag''\""
+        "@value": "Track: \"Barinkay, Czipra, Saffi, Chor ''Wie wechselvoll beteilt mein Schicksal''\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Barinkay, Zsupan, Carnero, Mirabella, Ottokar ''Wir wollen offen miteinander reden!''\""
+        "@value": "Track: \"Carnero, Czipra, Barinkay, Saffi ''Herrgott, ein altes Weib!''\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"1. Akt - Introduktion\""
+        "@value": "Track: \"Chor der Schiffer ''Das wär' kein rechter Schifferknecht''\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Melodram. Zsupan, Czipra, Ottokar, Chor ''Zum Teufel! Wieder die alte Hex!''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#20",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 20
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Chor, Barinkay, Czipra, Saffi ''Dschingrah, Dschingrah''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Carnero, Czipra, Barinkay, Chor ''Zum Reichtum gratulier' ich Euch''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Barinkay, Czipra, Saffi ''Ich kenne die Weise! Wer ist dieses schöne Kind''\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -357,7 +85,160 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#15",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ottokar. ''Jeden Tag Müh' und Plag''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Barinkay, Czipra, Saffi ''Ich kenne die Weise! Wer ist dieses schöne Kind''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mirabella, Chor, Barinkay, Carnera, Arsena ''Bitte zu versuchen!... Hochzeitskuchen''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Melodram. Zsupan, Czipra, Ottokar, Chor ''Zum Teufel! Wieder die alte Hex!''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ottokar, Arsena, Barinkay, Saffi, Czipra ''Arsena! Arsena!''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mirabella, Chor ''Just sind es zweiundzwanzig Jahre''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"1. Akt - Introduktion\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 23
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chor und Ensemble ''Wojwode, der Zigeuner?''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -374,7 +255,41 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#16",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Barinkay, Zsupan, Carnero, Mirabella, Ottokar ''Wir wollen offen miteinander reden!''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Barinkay, Zsupan, Arsena, Mirabella u.a. ''Nun zu des bösen Nachbarn Haus''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -387,6 +302,91 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Arsena ''Ein Falter schwirrt ums Licht''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chor, Arsena, Barinkay, Zsupan, Carnero ''Dem Freier naht die Braut''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#20",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Chor, Barinkay, Czipra, Saffi ''Dschingrah, Dschingrah''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Zsupan, Carnero, Chor ''Hier bin ich... Ja das Schreiben und das Lesen''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Saffi, Barinkay ''So elend und so treu''\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD3%20%28Der%20Zigeunerbaron%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carnero, Czipra, Barinkay, Chor ''Zum Reichtum gratulier' ich Euch''\""
       }
     ]
   }

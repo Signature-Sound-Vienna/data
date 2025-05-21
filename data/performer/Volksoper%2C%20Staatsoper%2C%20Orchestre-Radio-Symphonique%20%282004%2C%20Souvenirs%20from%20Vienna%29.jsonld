@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performer/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/performer/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/performance/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9"
+        "@id": "https://w3id.org/ssv/0.9/data/performance/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

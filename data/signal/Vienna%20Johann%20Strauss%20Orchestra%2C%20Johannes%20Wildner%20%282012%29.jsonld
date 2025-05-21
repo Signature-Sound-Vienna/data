@@ -1,54 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246705"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246704"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246703"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -59,92 +11,12 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246708"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246706"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246711"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246707"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/HKI191246710"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -155,12 +27,12 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -171,7 +43,135 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246708"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246711"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246703"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246710"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246705"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246704"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246707"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/HKI191246706"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#6"
       }
     ]
   }

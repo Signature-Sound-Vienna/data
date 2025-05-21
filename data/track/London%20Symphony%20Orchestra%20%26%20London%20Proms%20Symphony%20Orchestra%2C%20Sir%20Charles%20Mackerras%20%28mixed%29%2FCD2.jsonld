@@ -1,6 +1,23 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Coronation March - Giacomo Meyerbeer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -17,41 +34,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Finlandia op. 26 - Jean Sibelius\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Aufforderung zum Tanz op. 65 - Carl Maria von Weber\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -68,7 +51,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Finlandia op. 26 - Jean Sibelius\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -85,24 +85,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Two Elegiac Melodies no.1 op. 34 - Edvard Grieg\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -119,41 +102,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Pelléas et Mélisande no.7 op.46 - Jean Sibelius\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"King Christian Suite no.2 op. 27 - Jean Sibelius\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -170,7 +119,75 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Aufforderung zum Tanz op. 65 - Carl Maria von Weber\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Pelléas et Mélisande no.7 op.46 - Jean Sibelius\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"King Christian Suite no.2 op. 27 - Jean Sibelius\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Two Elegiac Melodies no.1 op. 34 - Edvard Grieg\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -183,23 +200,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Jota aragonesa - Mikhail Ivanovich Glinka\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/London%20Symphony%20Orchestra%20%26%20London%20Proms%20Symphony%20Orchestra%2C%20Sir%20Charles%20Mackerras%20%28mixed%29%2FCD2#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Coronation March - Giacomo Meyerbeer\""
       }
     ]
   }

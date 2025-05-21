@@ -2,14 +2,14 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/release/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207> a ns1:Release ;
+<https://w3id.org/ssv/0.9/data/release/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207> a ns1:Release ;
     rdfs:label "Record: \"Wiener Philharmoniker CD 5 Bruckner Symphony No. 7\"",
         "Release: \"Wiener Philharmoniker CD 5 Bruckner Symphony No. 7\"" ;
     dcterms:title "\"Wiener Philharmoniker CD 5 Bruckner Symphony No. 7\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1>,
-        <https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2>,
-        <https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3>,
-        <https://w3id.org/ssv/data/0.9/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4> ;
-    ns1:record <https://w3id.org/ssv/data/0.9/record/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207> .
+    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1>,
+        <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2>,
+        <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3>,
+        <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4> ;
+    ns1:record <https://w3id.org/ssv/0.9/data/record/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207> .
 

@@ -1,23 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Motoren, Walzer op. 265 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -34,58 +17,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Carrière, Polka schnell op.200 - Josef Strauss\""
+        "@value": "Track: \"Bluette, Polka française  op. 271 - Johann Strauss II\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Bajadere, Polka schnell  op. 351 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Hofballtänze, Walzer op. 298 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -102,19 +51,70 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/1997%2FCD1#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Bluette, Polka française  op. 271 - Johann Strauss II\""
+        "@value": "Track: \"Hofballtänze, Walzer op. 298 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Bajadere, Polka schnell  op. 351 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Carrière, Polka schnell op.200 - Josef Strauss\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Motoren, Walzer op. 265 - Johann Strauss II\""
       }
     ]
   }

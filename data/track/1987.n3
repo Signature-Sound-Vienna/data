@@ -2,77 +2,77 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/1987#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#1> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/4e8340c7-56c9-45cb-8390-f9b84eaa7bea> ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#10> a ns1:Track ;
     rdfs:label "Track: \"Perpetuum mobile, op. 257\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/b1e93d50-92bb-499f-9dce-6d1ee577c43f> ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#11> a ns1:Track ;
     rdfs:label "Track: \"Unter Donner und Blitz, op. 324\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/95d11e31-aa92-46f1-b13c-d02b782c66dc> ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#12> a ns1:Track ;
     rdfs:label "Track: \"Frühlingsstimmen, op. 410\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/c3fcbb58-1f59-4aea-acb8-3b2621bc17cb> ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#13> a ns1:Track ;
     rdfs:label "Track: \"Ohne Sorgen, op. 271\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/8c1e73d9-3cb1-4a5d-9c31-ce0173aff771> ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#14> a ns1:Track ;
     rdfs:label "Track: \"An der schönen, blauen donau, op. 3148\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/bd97fea4-3b69-4ff1-be3f-8f3a15173206> ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#15> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/0b1597b4-ed50-4846-8281-751130921dd4> ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#2> a ns1:Track ;
     rdfs:label "Track: \"Sphärenklänge, op. 235\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/02727be1-58c7-4e49-b0fe-16df25e50237> ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#3> a ns1:Track ;
     rdfs:label "Track: \"Annen-Polka, op. 117\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/82934693-67fe-49dc-a362-fad3b5e05485> ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#4> a ns1:Track ;
     rdfs:label "Track: \"Delirien-Walzer, op 212\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/0f24bcdd-0cc6-41db-96d5-67084b75c1cf> ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#5> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre aus 'Die Fledermaus'\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/03a03a64-a8b1-4fb5-a7f2-2da7d51f938d> ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#6> a ns1:Track ;
     rdfs:label "Track: \"Beliebte Annen-Polka, op. 137\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/933acbbf-a06d-42d8-8115-54f14658c200> ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#7> a ns1:Track ;
     rdfs:label "Track: \"Vergnügungszug, op. 281\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/2b3d7eee-a5a4-4a92-ab4b-1863b1dcf33a> ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#8> a ns1:Track ;
     rdfs:label "Track: Pizzikato-Polka" ;
     ns1:musicbrainz <https://musicbrainz.org/track/e5464a46-36c3-491f-9e0d-727287d56a0c> ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/1987#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1987#9> a ns1:Track ;
     rdfs:label "Track: \"Kaiser-Walzer, op. 43\"" ;
     ns1:musicbrainz <https://musicbrainz.org/track/defbb039-b864-47cf-af7b-f14882cce04d> ;
     ns1:track_number 9 .

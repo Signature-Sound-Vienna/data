@@ -2,67 +2,67 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/1995#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#1> a ns1:Track ;
     rdfs:label "Track: \"Reiter Marsch, op. 428 - Johann Strauss, Jr.\"" ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#10> a ns1:Track ;
     rdfs:label "Track: \"Alice-Polka, op. 238 - Johann Strauss, Sr.\"" ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#11> a ns1:Track ;
     rdfs:label "Track: \"Russische Marsch Phantasie, op. 353 - Johann Strauss, Jr.\"" ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#12> a ns1:Track ;
     rdfs:label "Track: \"Mein Lebenslauf Ist Lieb' Und Lust, Walzer op. 263 - Josef Strauss\"" ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#13> a ns1:Track ;
     rdfs:label "Track: \"Schützen Quadrille - Johann, Josef und Eduard Strauss\"" ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#14> a ns1:Track ;
     rdfs:label "Track: \"Auf Ferienreisen, Polka schnell op. 133 - Josef Strauss\"" ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#15> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, Walzer op. 314 - Johann Strauss, Jr.\"" ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#16> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#16> a ns1:Track ;
     rdfs:label "Track: \"Radetzky Marsch, op. 228 - Johann Strauss, Sr,\"" ;
     ns1:track_number 16 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#2> a ns1:Track ;
     rdfs:label "Track: \"Arm In Arm, Polka mazur op. 215 - Josef Strauss\"" ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#3> a ns1:Track ;
     rdfs:label "Track: \"Favorit-Polka, op. 201 - Joseph Lanner\"" ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#4> a ns1:Track ;
     rdfs:label "Track: \"Morgenblätter, Walzer op. 279 - Johann Strauss, Jr.\"" ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#5> a ns1:Track ;
     rdfs:label "Track: \"Process-Polka, Polka Schnell op. 294 - Johann Strauss, Jr.\"" ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#6> a ns1:Track ;
     rdfs:label "Track: \"Mephistos Höllenrufe, Walzer op. 101 - Johann Strauss, Jr.\"" ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#7> a ns1:Track ;
     rdfs:label "Track: \"Perpetuum mobile, Musikalischer Scherz op. 257 - Johann Strauss, Jr.\"" ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#8> a ns1:Track ;
     rdfs:label "Track: \"Thalia, Polka mazur op. 195 - Josef Strauss\"" ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/1995#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/1995#9> a ns1:Track ;
     rdfs:label "Track: \"Electrisch, Polka Schnell - Eduard Strauss\"" ;
     ns1:track_number 9 .
 

@@ -1,50 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"
+        "@id": "https://musicbrainz.org/track/57b0220f-8b85-34ab-80d3-d43a7b622c2c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"An der schönen blauen Donau\""
+        "@value": "Track: \"Perpetuum mobile\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ade9d5d7-74a2-321e-b205-916e892a1d1b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Leichtes Blut\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -66,73 +44,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/e4318efa-d00f-3ba5-ba7a-aab98a5c1a5c"
+        "@id": "https://musicbrainz.org/track/ade9d5d7-74a2-321e-b205-916e892a1d1b"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Schatz-Walzer"
+        "@value": "Track: \"Leichtes Blut\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b645eec0-10e3-3666-b380-5c208bd6f31c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Blut\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eljen A Magyar!\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -154,7 +88,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b645eec0-10e3-3666-b380-5c208bd6f31c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -176,24 +132,68 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/57b0220f-8b85-34ab-80d3-d43a7b622c2c"
+        "@id": "https://musicbrainz.org/track/e4318efa-d00f-3ba5-ba7a-aab98a5c1a5c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Perpetuum mobile\""
+        "@value": "Track: Schatz-Walzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen A Magyar!\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau\""
       }
     ]
   }

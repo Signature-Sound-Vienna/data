@@ -1,18 +1,18 @@
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/dc/terms/title> "\"New Year's Day Concert [Boskovsky, '79]\"" .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#3> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/data/0.9/record/1979> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#2> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#6> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#12> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#10> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"New Year's Day Concert [Boskovsky, '79]\"" .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#1> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#8> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#9> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#11> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#5> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"New Year's Day Concert [Boskovsky, '79]\"" .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#7> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/0.9/signal/1979#4> .
-<https://w3id.org/ssv/data/0.9/release/1979> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#9> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"New Year's Day Concert [Boskovsky, '79]\"" .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#2> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#8> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#7> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#1> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#10> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#3> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#11> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#12> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"New Year's Day Concert [Boskovsky, '79]\"" .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/0.9/data/record/1979> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#5> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/dc/terms/title> "\"New Year's Day Concert [Boskovsky, '79]\"" .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#6> .
+<https://w3id.org/ssv/0.9/data/release/1979> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1979#4> .

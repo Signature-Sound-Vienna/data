@@ -1,4 +1,4 @@
-<https://w3id.org/ssv/data/0.9/performance/Kaiser-Walzer#9> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/8c2a4db1-e69b-4290-a742-00268c55a2c5> .
-<https://w3id.org/ssv/data/0.9/performance/Kaiser-Walzer#9> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/data/0.9/signal/Kaiser-Walzer#9> .
-<https://w3id.org/ssv/data/0.9/performance/Kaiser-Walzer#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
-<https://w3id.org/ssv/data/0.9/performance/Kaiser-Walzer#9> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\"" .
+<https://w3id.org/ssv/0.9/data/performance/Kaiser-Walzer#9> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\"" .
+<https://w3id.org/ssv/0.9/data/performance/Kaiser-Walzer#9> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/8c2a4db1-e69b-4290-a742-00268c55a2c5> .
+<https://w3id.org/ssv/0.9/data/performance/Kaiser-Walzer#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
+<https://w3id.org/ssv/0.9/data/performance/Kaiser-Walzer#9> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#9> .

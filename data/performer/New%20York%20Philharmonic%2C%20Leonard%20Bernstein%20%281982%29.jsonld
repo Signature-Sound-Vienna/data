@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performer/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/performer/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/performance/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5"
+        "@id": "https://w3id.org/ssv/0.9/data/performance/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

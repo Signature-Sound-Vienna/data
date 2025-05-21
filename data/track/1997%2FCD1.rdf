@@ -4,39 +4,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Carrière, Polka schnell op.200 - Josef Strauss"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Die Bajadere, Polka schnell  op. 351 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Motoren, Walzer op. 265 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Hofballtänze, Walzer op. 298 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Bluette, Polka française  op. 271 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "'s gibt nur a Kaiserstadt, 's gibt nur a Wien,  Polka schnell op. 291 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1997%2FCD1#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Bluette, Polka française  op. 271 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Frauenherz, Polka mazur op. 166 - Josef Strauss"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Motoren, Walzer op. 265 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Die Bajadere, Polka schnell  op. 351 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1997%2FCD1#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Hofballtänze, Walzer op. 298 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

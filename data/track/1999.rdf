@@ -4,74 +4,74 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Hopser Polka, op.28 - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Furioso-Galopp (nach Franz Liszt), op.114 - Johann Strauss I"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Donauweibchen, op.427 - Walzer - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Walzer á la Paganini, op.11 - Johann Strauss I [violin &amp; orchestra]"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Geschichten aus dem Wienerwald, op.325 - Walzer - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Hopser Polka, op.28 - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Banditen-Galopp, op.378 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Tritsch-Tratsch-Polka, op.214 - Polka schnell - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Sinngedichte, op.1 - Walzer - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Künstlerleben, op.316 - Walzer - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Radetzky-Marsch, op.228 - Johann Strauss I"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Scherz-Polka, op.72 - Johann Strauss II [violin &amp; orchestra]"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Sinngedichte, op.1 - Walzer - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "Unter Donner und Blitz, op.324 - Polka schnell - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Furioso-Galopp (nach Franz Liszt), op.114 - Johann Strauss I"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
     <rdfs:label>Track: "An der schönen, blauen Donau, op.314 - Walzer - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Tritsch-Tratsch-Polka, op.214 - Polka schnell - Johann Strauss II"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Perpetuum Mobile, op.257 - Johann Strauss II"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/track/1999#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Geschichten aus dem Wienerwald, op.325 - Walzer - Johann Strauss II"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch, op.228 - Johann Strauss I"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1999#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Künstlerleben, op.316 - Walzer - Johann Strauss II"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

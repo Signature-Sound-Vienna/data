@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/performer/2014%2FCD1#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/2014%2FCD1#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/data/0.9/performance/2014%2FCD1#9"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/2014%2FCD1#9"/>
     <foaf:name>"Daniel Barenboim: Vienna Philharmonic Orchestra"</foaf:name>
     <rdfs:label>Performer: "Daniel Barenboim: Vienna Philharmonic Orchestra"</rdfs:label>
   </rdf:Description>

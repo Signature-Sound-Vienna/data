@@ -1,26 +1,26 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/record/2013> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/0.9/track/2013#1>,
-        <https://w3id.org/ssv/data/0.9/track/2013#10>,
-        <https://w3id.org/ssv/data/0.9/track/2013#11>,
-        <https://w3id.org/ssv/data/0.9/track/2013#12>,
-        <https://w3id.org/ssv/data/0.9/track/2013#13>,
-        <https://w3id.org/ssv/data/0.9/track/2013#14>,
-        <https://w3id.org/ssv/data/0.9/track/2013#15>,
-        <https://w3id.org/ssv/data/0.9/track/2013#16>,
-        <https://w3id.org/ssv/data/0.9/track/2013#17>,
-        <https://w3id.org/ssv/data/0.9/track/2013#18>,
-        <https://w3id.org/ssv/data/0.9/track/2013#19>,
-        <https://w3id.org/ssv/data/0.9/track/2013#2>,
-        <https://w3id.org/ssv/data/0.9/track/2013#20>,
-        <https://w3id.org/ssv/data/0.9/track/2013#3>,
-        <https://w3id.org/ssv/data/0.9/track/2013#4>,
-        <https://w3id.org/ssv/data/0.9/track/2013#5>,
-        <https://w3id.org/ssv/data/0.9/track/2013#6>,
-        <https://w3id.org/ssv/data/0.9/track/2013#7>,
-        <https://w3id.org/ssv/data/0.9/track/2013#8>,
-        <https://w3id.org/ssv/data/0.9/track/2013#9> ;
+<https://w3id.org/ssv/0.9/data/record/2013> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/0.9/data/track/2013#1>,
+        <https://w3id.org/ssv/0.9/data/track/2013#10>,
+        <https://w3id.org/ssv/0.9/data/track/2013#11>,
+        <https://w3id.org/ssv/0.9/data/track/2013#12>,
+        <https://w3id.org/ssv/0.9/data/track/2013#13>,
+        <https://w3id.org/ssv/0.9/data/track/2013#14>,
+        <https://w3id.org/ssv/0.9/data/track/2013#15>,
+        <https://w3id.org/ssv/0.9/data/track/2013#16>,
+        <https://w3id.org/ssv/0.9/data/track/2013#17>,
+        <https://w3id.org/ssv/0.9/data/track/2013#18>,
+        <https://w3id.org/ssv/0.9/data/track/2013#19>,
+        <https://w3id.org/ssv/0.9/data/track/2013#2>,
+        <https://w3id.org/ssv/0.9/data/track/2013#20>,
+        <https://w3id.org/ssv/0.9/data/track/2013#3>,
+        <https://w3id.org/ssv/0.9/data/track/2013#4>,
+        <https://w3id.org/ssv/0.9/data/track/2013#5>,
+        <https://w3id.org/ssv/0.9/data/track/2013#6>,
+        <https://w3id.org/ssv/0.9/data/track/2013#7>,
+        <https://w3id.org/ssv/0.9/data/track/2013#8>,
+        <https://w3id.org/ssv/0.9/data/track/2013#9> ;
     ns1:track_count 21 .
 

@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/performer/1941%20%28%26%20unbekannt%29#15",
+    "@id": "https://w3id.org/ssv/0.9/data/performer/1941%20%28%26%20unbekannt%29#15",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/performance/1941%20%28%26%20unbekannt%29#15"
+        "@id": "https://w3id.org/ssv/0.9/data/performance/1941%20%28%26%20unbekannt%29#15"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -1,89 +1,124 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/1.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/7.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/5.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/4.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/6.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/3.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/2.peaks.json"
       }
     ]
   }

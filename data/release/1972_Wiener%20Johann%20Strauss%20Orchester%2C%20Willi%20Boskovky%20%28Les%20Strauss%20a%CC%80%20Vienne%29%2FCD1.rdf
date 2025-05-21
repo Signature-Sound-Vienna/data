@@ -5,24 +5,24 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/0.9/release/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Strauss, Les Strauss à Vienne"</dcterms:title>
     <rdfs:label>Release: "Strauss, Les Strauss à Vienne"</rdfs:label>
     <rdfs:label>Record: "Strauss, Les Strauss à Vienne"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/0.9/record/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/0.9/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#12"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#12"/>
   </rdf:Description>
 </rdf:RDF>

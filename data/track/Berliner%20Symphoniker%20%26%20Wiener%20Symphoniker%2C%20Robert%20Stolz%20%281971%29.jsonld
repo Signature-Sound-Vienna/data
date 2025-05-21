@@ -1,57 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Loreley-Rhein-Klänge, Walzer, Op. 154\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Explosions Polka, Op. 43\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Voslauer Polka, Op. 100\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -68,58 +17,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Gunstwerber, Op. 4\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Sorgenbrecher, Walzer, Op. 230\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Eisele und Beisele Sprünge-Polka, Op. 202\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -136,24 +34,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Zigeuner-Quadrille, Op. 24\""
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Pester Csardas, Op. 23\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#14",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -170,24 +68,41 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Symphoniker, Robert Stolz / Radetsky March, Op. 228\""
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Loreley-Rhein-Klänge, Walzer, Op. 154\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#16",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Explosions Polka, Op. 43\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -204,24 +119,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Liebeslieder-Walzer, Op. 114\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -238,24 +136,109 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#15",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Elektro-magnetische polka, Op. 110\""
+        "@value": "Track: \"Wiener Symphoniker, Robert Stolz / Radetsky March, Op. 228\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#12",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Eisele und Beisele Sprünge-Polka, Op. 202\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Voslauer Polka, Op. 100\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Liebeslieder-Walzer, Op. 114\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Sorgenbrecher, Walzer, Op. 230\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Gunstwerber, Op. 4\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -272,19 +255,36 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/0.9/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Pester Csardas, Op. 23\""
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Zigeuner-Quadrille, Op. 24\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Berliner Symphoniker, Robert Stolz / Elektro-magnetische polka, Op. 110\""
       }
     ]
   }

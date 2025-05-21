@@ -2,83 +2,83 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#1> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#1> a ns1:Track ;
     rdfs:label "Track: \"Newa-Polka, Op. 288\"" ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#10> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#10> a ns1:Track ;
     rdfs:label "Track: \"Großfürstin Marsch, Op. 107\"" ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#11> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#11> a ns1:Track ;
     rdfs:label "Track: \"Erste Liebe, Op. 14\"" ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#12> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#12> a ns1:Track ;
     rdfs:label "Track: \"Vergnügungszug, Op. 281\"" ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#13> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#13> a ns1:Track ;
     rdfs:label "Track: \"Wein, Weib Und Gesang!, Op. 333\"" ;
     ns1:track_number 13 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#14> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#14> a ns1:Track ;
     rdfs:label "Track: \"Krönungs-marsch, Op. 183\"" ;
     ns1:track_number 14 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#15> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#15> a ns1:Track ;
     rdfs:label "Track: \"Hofball-quadrille, Op. 116\"" ;
     ns1:track_number 15 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#16> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#16> a ns1:Track ;
     rdfs:label "Track: \"An Der Wolga, Polka Mazurka, Op. 425\"" ;
     ns1:track_number 16 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#17> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#17> a ns1:Track ;
     rdfs:label "Track: \"St. Petersburg, Op. 255, `Hommage À St. Pétersburg-Quadrille`\"" ;
     ns1:track_number 17 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#18> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#18> a ns1:Track ;
     rdfs:label "Track: \"Auf Zum Tanze!, Op. 436\"" ;
     ns1:track_number 18 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#19> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#19> a ns1:Track ;
     rdfs:label "Track: \"Russische Marsch-Fantasie, Op. 353\"" ;
     ns1:track_number 19 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#2> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#2> a ns1:Track ;
     rdfs:label "Track: \"Persischer Marsch, Op. 289\"" ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20> a ns1:Track ;
     rdfs:label "Track: \"Alexander-Quadrille, Op. 33\"" ;
     ns1:track_number 20 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#3> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#3> a ns1:Track ;
     rdfs:label "Track: \"Russischer Marsch, Op. 426, `Marche Des Gardes À Cheval`\"" ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#4> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#4> a ns1:Track ;
     rdfs:label "Track: \"Großfürstin Alexandra-Walzer, Op. 181\"" ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#5> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#5> a ns1:Track ;
     rdfs:label "Track: \"Olga-polka, Op. 196\"" ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#6> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#6> a ns1:Track ;
     rdfs:label "Track: \"Alexandrinen-polka, Op. 198\"" ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#7> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#7> a ns1:Track ;
     rdfs:label "Track: \"Abschied Von St. Petersburg, Walzer, Op. 210\\\\\"" ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#8> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#8> a ns1:Track ;
     rdfs:label "Track: \"Bauern-Polka, Op. 276\"" ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/data/0.9/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#9> a ns1:Track ;
+<https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#9> a ns1:Track ;
     rdfs:label "Track: \"Pizzicato-polka\"" ;
     ns1:track_number 9 .
 

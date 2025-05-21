@@ -1,7 +1,7 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> a ns1:Performance ;
+<https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> a ns1:Performance ;
     rdfs:label "Performance: \"Radetzky-Marsch - Johann Strauss I (Rieu, Johann Strauss Orchester)\"" ;
-    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> .
+    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12> .
 

@@ -1,4 +1,4 @@
-<https://w3id.org/ssv/data/0.9/performer/2014%2FCD1#9> <http://xmlns.com/foaf/0.1/name> "\"Daniel Barenboim: Vienna Philharmonic Orchestra\"" .
-<https://w3id.org/ssv/data/0.9/performer/2014%2FCD1#9> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Daniel Barenboim: Vienna Philharmonic Orchestra\"" .
-<https://w3id.org/ssv/data/0.9/performer/2014%2FCD1#9> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/data/0.9/performance/2014%2FCD1#9> .
-<https://w3id.org/ssv/data/0.9/performer/2014%2FCD1#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/0.9/data/performer/2014%2FCD1#9> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Daniel Barenboim: Vienna Philharmonic Orchestra\"" .
+<https://w3id.org/ssv/0.9/data/performer/2014%2FCD1#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/0.9/data/performer/2014%2FCD1#9> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/2014%2FCD1#9> .
+<https://w3id.org/ssv/0.9/data/performer/2014%2FCD1#9> <http://xmlns.com/foaf/0.1/name> "\"Daniel Barenboim: Vienna Philharmonic Orchestra\"" .

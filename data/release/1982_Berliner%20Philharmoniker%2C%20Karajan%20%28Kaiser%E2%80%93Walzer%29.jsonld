@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/0.9/release/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29",
+    "@id": "https://w3id.org/ssv/0.9/data/release/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,30 +16,30 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6"
       },
       {
-        "@id": "https://w3id.org/ssv/data/0.9/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/data/0.9/record/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29"
+        "@id": "https://w3id.org/ssv/0.9/data/record/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

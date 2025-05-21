@@ -1,7 +1,7 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/data/0.9/performance/2014%2FCD1#9> a ns1:Performance ;
+<https://w3id.org/ssv/0.9/data/performance/2014%2FCD1#9> a ns1:Performance ;
     rdfs:label "Performance: \"Strauss Jr. (J): G'schichten Aus Dem Wiener Wald, Walzer, Op. 325\"" ;
-    ns1:recorded_as <https://w3id.org/ssv/data/0.9/signal/2014%2FCD1#9> .
+    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/2014%2FCD1#9> .
 
