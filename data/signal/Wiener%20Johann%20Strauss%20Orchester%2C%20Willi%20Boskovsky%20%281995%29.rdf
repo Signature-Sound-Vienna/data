@@ -3,9 +3,9 @@
    xmlns:ns1="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#4"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#2">
@@ -18,14 +18,24 @@
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#1"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#3"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#4"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#6">
@@ -38,19 +48,9 @@
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#5"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#3"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/000000000000"/>
   </rdf:Description>
 </rdf:RDF>

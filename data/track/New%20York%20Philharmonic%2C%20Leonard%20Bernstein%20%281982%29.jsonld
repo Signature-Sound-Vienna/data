@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
         "@id": "https://musicbrainz.org/track/83f2844f-c9a3-4dd0-a0af-761ce66c9773"
@@ -22,53 +27,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5e177c46-a933-48c1-9bce-efe2eb45881f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Artist's Life, op. 316\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"The Emperor Waltz, op. 437\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/04-Artist%27s%20Life%2COP.316.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -88,9 +54,68 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/03-Vienna%20Blood%20Waltz%2COP.354.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"The Emperor Waltz, op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5e177c46-a933-48c1-9bce-efe2eb45881f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Artist's Life, op. 316\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/02-The%20Emperor%20Waltz%2COP.437.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {

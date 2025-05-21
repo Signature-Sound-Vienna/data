@@ -1,52 +1,13 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e4b96216-b429-4e19-a593-8a994fd402ad"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Emperor Waltz\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4ea7b3d5-87ff-4ff2-a000-21303524aee5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Tales From The Vienna Woods\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/03-Emperor%20Waltz.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -66,31 +27,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/78ef6945-e7f5-4c6e-9580-515b57a54a0f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"The Artist's Life Waltz\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -110,24 +54,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/04-Morning%20Papers%20Waltz%28Morgenblaetterwalzer%29.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/92e23073-4b29-4f03-87ba-7f78eceeca29"
+        "@id": "https://musicbrainz.org/track/e4b96216-b429-4e19-a593-8a994fd402ad"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Myrtle Blossom Waltz\""
+        "@value": "Track: \"Emperor Waltz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/07-Wine%2C%20Women%20and%20Song%20Waltz%28Wein%2C%20Weib%20and%20Gesang%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/78ef6945-e7f5-4c6e-9580-515b57a54a0f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"The Artist's Life Waltz\""
       }
     ]
   },
@@ -135,6 +111,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/11-Myrtle%20Blossom%20Waltz%28Kusswalzer%29.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -154,9 +135,41 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/05-Tales%20from%20the%20Vienna%20Words.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ae5bdb84-5909-4670-af48-4d2db413c1a7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morning Papers Waltz\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/08-Vienna%20Blood%28Wiener%20Blut%29.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -176,53 +189,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4d48a200-7bc3-45f0-9531-9701236c0a25"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Vienna Blood\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/194499d6-d8d0-4453-b82a-df14cb29a57b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"You And You Waltz\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/10-The%20Voices%20of%20Spring%20Waltz%20%28Freuhlingstimmenwalzer%29.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -242,9 +216,41 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/194499d6-d8d0-4453-b82a-df14cb29a57b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"You And You Waltz\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/02-Vienna%20Bon%20Bons.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -264,24 +270,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/12-The%20Kiss%20Waltz%20%28Kusswalzer%29.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ae5bdb84-5909-4670-af48-4d2db413c1a7"
+        "@id": "https://musicbrainz.org/track/92e23073-4b29-4f03-87ba-7f78eceeca29"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 11
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Morning Papers Waltz\""
+        "@value": "Track: \"Myrtle Blossom Waltz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/09-Cagliostrowalzer.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4d48a200-7bc3-45f0-9531-9701236c0a25"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Vienna Blood\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/06-The%20Artist%27s%20Life%20Waltz%28Kuenstlerlebenwalzer%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4ea7b3d5-87ff-4ff2-a000-21303524aee5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tales From The Vienna Woods\""
       }
     ]
   }

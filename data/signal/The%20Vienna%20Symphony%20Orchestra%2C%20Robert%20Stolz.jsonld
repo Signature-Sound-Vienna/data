@@ -11,6 +11,134 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/1.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/10.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/5.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/9.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/6.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/2.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/11.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/7.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -43,98 +171,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#12",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10"
+        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#12"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/10.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/6.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/1.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/2.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/7.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/9.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/12.peaks.json"
       }
     ]
   },
@@ -151,54 +199,6 @@
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/4.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/11.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/5.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#12"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/12.peaks.json"
       }
     ]
   }

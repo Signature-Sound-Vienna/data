@@ -1,661 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#56",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#28",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/e31bce6b-5814-444a-b6b5-d52992323c0f"
+        "@id": "https://musicbrainz.org/track/f5dfb642-d92b-449b-a2be-2a62d6a9fc98"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 56
+        "@value": 28
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"IV. Von der Schönheit\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9e00a622-829b-4493-8cfb-ee40231ee4b4"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Rondo: Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#26",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e3d0862c-f9c7-4aca-8924-2e49957e8461"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 26
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Adagio molto cantabile\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#22",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/dd94e13e-1979-438a-bce6-944b4c308221"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 22
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III, Menuetto: Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/81a22962-dc06-4bd9-be37-485978474435"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 101 in D major 'Clock': I. Largo. Allegro Vivace\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#48",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c8bb85f8-6c7b-49f9-8427-d45b5df8545a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 48
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Lohengrin: Act 1, Prelude\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/48761f60-5b37-4cb7-9698-d1689cbcea84"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Menuett: Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#36",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/531d02ec-85c3-47e2-8f54-b38eff924729"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 36
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Finale. Bewegt, doch nicht zu schnell\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7e5fb757-4200-4699-ac17-04fbe024f14b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Menuett: Allegro Molto\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7738e5ec-f126-468c-95ae-37be207aedc3"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 38 in D major KV 504 'Prague': I. Adagio. Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#41",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ad7de2c5-a046-4cd8-bd19-ad92f4774a42"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 41
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Blut Op. 354\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#20",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a9391b94-45a6-40c1-95c3-38ff89a07aa7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 20
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No, 41 in C major KV 551 'Jupiter': I. Allegro vivace\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/242ff7fc-2dc1-4a39-9563-7418e5cf0cb2"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"II. Andante\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ab24d901-695f-4e90-831f-0970e3051be5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 94 in G-Dur 'Surprise': I. Adagio Cantabile. Vivace Assai\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/060dc359-8252-4283-993d-3728255ef735"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Finale: Presto\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#49",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/90e9e098-dd32-4a1a-86d7-73521df6e2df"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 49
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 1 in D major 'Titan': I. Langsam, schleppend\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#47",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/cc86cc80-e8ad-44e4-92e5-180efec53365"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 47
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Götterdämmerung: Siegfrieds Trauermarsch\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#40",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ad8fa156-44d1-41c1-91a7-80a696ee4baa"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 40
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Geschichten aus dem Wienerwald Op. 325\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#27",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e930d1d3-5169-45a2-bc40-4db1859ce261"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 27
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Presto. Allegro assai. Presto. 'Oh, Freunde, nicht diese Töne', Allegro assai\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#58",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e93d71e1-4678-4faf-afcf-b59cd18159ba"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 58
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"VI. Der Abschied\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#57",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f74af41a-361a-42f2-88fc-12284d25a4e0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 57
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"V. Der Trunkene im Frühling\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/50faea1c-b180-4d1b-8c7b-c0d44a4a33c8"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Finale. Presto\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#44",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5ee54e63-bdc5-49e9-ab73-75ded08dd8aa"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 44
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Rienzi: Overture\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#45",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/80a351ec-6aa0-4eb6-bd4f-7cc2ea577f4a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 45
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Der fliegende Holländer: Overture\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#31",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/997bddd7-4b10-41e3-a70b-1bb7e0d16769"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 31
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Un poco Allegretto e grazioso\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/74a8855b-ebdf-4c2b-be05-b0d780a4cfc5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Finale: Vivace Assai\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9cfc2723-eb9c-4f45-a76e-850e75c69638"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 23
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Molto Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#33",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4163ec4e-3b36-491b-89de-cdf16b6b00ba"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 33
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 7 in E major (Edition Gutmann 1885): I. Allegro moderato\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#55",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/936e0062-f918-433f-a08c-d42d1d236b5a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 55
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Von der Jugend\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#52",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/8a7666c8-b0b5-4577-a42e-d5f8f01b83da"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 52
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Stuermisch bewegt\""
+        "@value": "Track: \"Overture 'Die Hebriden' Op. 26\""
       }
     ]
   },
@@ -663,6 +30,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -682,9 +54,1202 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/03-III.%20Menuetto_%20Allegrp%20%26Trio.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/fc3c9159-203b-4cd3-a50b-882bb8e6cc8b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Romanze. Andante\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2b2106f3-a992-4e0a-aa98-e8dd63dc96bc"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Menuett: Allegretto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9cfc2723-eb9c-4f45-a76e-850e75c69638"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 23
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Molto Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#57",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f74af41a-361a-42f2-88fc-12284d25a4e0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 57
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"V. Der Trunkene im Frühling\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#31",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/997bddd7-4b10-41e3-a70b-1bb7e0d16769"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 31
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Un poco Allegretto e grazioso\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#26",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e3d0862c-f9c7-4aca-8924-2e49957e8461"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 26
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Adagio molto cantabile\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#42",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/644e1aee-0d66-4c8a-9464-e42941f53f76"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 42
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wein, Weib und Gesang Op. 333\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0cdf057d-137a-43af-b4e9-ecc1fa68a1df"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Finale: Allegro Molto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ef457af6-b859-4c1c-b4f2-18fc52f34256"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Andante\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#25",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1d35d5fb-3e94-4c0d-8401-401b2d34813f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 25
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Molto vivacel. Presto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#47",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cc86cc80-e8ad-44e4-92e5-180efec53365"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 47
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Götterdämmerung: Siegfrieds Trauermarsch\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/08-Symphony%20No%2C%2041%20in%20C%20major%20KV%20551%20_Jupiter_%20I.%20Allegro%20vivace.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/50faea1c-b180-4d1b-8c7b-c0d44a4a33c8"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Finale. Presto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#46",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/359b4f1a-132a-45cd-bea1-bdbd8621a5cb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 46
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tannhäuser: Overture\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#41",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ad7de2c5-a046-4cd8-bd19-ad92f4774a42"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 41
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut Op. 354\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#59",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5428c624-1973-4591-9971-5f5579c6c086"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 59
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Don Juan Op. 20\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#52",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8a7666c8-b0b5-4577-a42e-d5f8f01b83da"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 52
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Stuermisch bewegt\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ab24d901-695f-4e90-831f-0970e3051be5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 94 in G-Dur 'Surprise': I. Adagio Cantabile. Vivace Assai\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#49",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/90e9e098-dd32-4a1a-86d7-73521df6e2df"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 49
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 1 in D major 'Titan': I. Langsam, schleppend\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/12c9cc62-22d0-4113-b35f-bb5a3f9b9702"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 96 in D major 'Miracle': I. Adagio. Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/07-III.%20Finale.%20Presto.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8d68cb29-3e6d-4630-b459-8c432067c94c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Andante\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#51",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7eecda93-f344-4b05-b400-0d4efc835500"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 51
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Feierlich und gemessen\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#56",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e31bce6b-5814-444a-b6b5-d52992323c0f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 56
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Von der Schönheit\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#40",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ad8fa156-44d1-41c1-91a7-80a696ee4baa"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 40
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Geschichten aus dem Wienerwald Op. 325\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/dd94e13e-1979-438a-bce6-944b4c308221"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III, Menuetto: Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#54",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c2ec05ad-0047-49b1-94c4-3c460b70f839"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 54
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Der Einsame im Herbst\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#30",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b20c5f1c-8fb1-4b30-999b-e77291449ee0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 30
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Andante sostenuto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/242ff7fc-2dc1-4a39-9563-7418e5cf0cb2"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Andante\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/01-Serenade%20No.%2013%20in%20G%20major%2C%20KV%20525%20_Eine%20kleine%20Nachtmusik_%20I.%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/060dc359-8252-4283-993d-3728255ef735"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Finale: Presto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#35",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/dd68fa59-7c52-463f-8ec7-78c4694b1bd2"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 35
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Scherzo. Sehr schnell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/48761f60-5b37-4cb7-9698-d1689cbcea84"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Menuett: Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#39",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/26344daf-b346-4f6f-afe4-8e7e3833f1ac"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 39
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Künstlerleben Op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/10-III%2C%20Menuetto_%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/01e020ef-5d2d-4efe-99da-eb72a11ac458"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"II. Andante cantabile\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#53",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/13401d81-501d-4356-ae19-ab3bc25ac8be"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 53
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#36",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/531d02ec-85c3-47e2-8f54-b38eff924729"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 36
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Finale. Bewegt, doch nicht zu schnell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#44",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5ee54e63-bdc5-49e9-ab73-75ded08dd8aa"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 44
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rienzi: Overture\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/04-IV.%20Rondo_%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/046a8614-d9f6-499c-96d5-a21a1769dba6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Menuetto: Allegrp &Trio\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/06-II.%20Andante.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7738e5ec-f126-468c-95ae-37be207aedc3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 38 in D major KV 504 'Prague': I. Adagio. Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/81a22962-dc06-4bd9-be37-485978474435"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 101 in D major 'Clock': I. Largo. Allegro Vivace\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7e5fb757-4200-4699-ac17-04fbe024f14b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"III. Menuett: Allegro Molto\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#29",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a1132a72-ef26-40ea-b4bb-441cb24662df"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 29
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Symphony No. 1 in C minor Op. 68: I. Un poco sostenuto. Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#48",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c8bb85f8-6c7b-49f9-8427-d45b5df8545a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 48
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Lohengrin: Act 1, Prelude\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#38",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/64022c93-49d7-482e-aa83-ed5def7f51ca"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 38
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiserwalzer Op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/02-II.%20Romanze.%20Andante.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6e9d7e68-67e8-4048-9a16-9b82ea3da649"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Serenade No. 13 in G major, KV 525 'Eine kleine Nachtmusik': I. Allegro\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#37",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b5921e81-e25b-4bb6-adea-072431597b7a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 37
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau Op. 314\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#50",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -708,6 +1273,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
         "@id": "https://musicbrainz.org/track/b2817db4-72ce-426e-a99d-3fea19039895"
@@ -726,244 +1296,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#18",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#33",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/8d68cb29-3e6d-4630-b459-8c432067c94c"
+        "@id": "https://musicbrainz.org/track/4163ec4e-3b36-491b-89de-cdf16b6b00ba"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
+        "@value": 33
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"II. Andante\""
+        "@value": "Track: \"Symphony No. 7 in E major (Edition Gutmann 1885): I. Allegro moderato\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#60",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/05-Symphony%20No.%2038%20in%20D%20major%20KV%20504%20_Prague_%20I.%20Adagio.%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ae692156-5bec-4545-841c-0e0bf5bc186b"
+        "@id": "https://musicbrainz.org/track/9e00a622-829b-4493-8cfb-ee40231ee4b4"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 60
+        "@value": 16
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Tod und Verklärung Op. 24\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#32",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6fb0c566-496b-4449-81fc-07d150608ffb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 32
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Adagio. Più Andante. Allegro non troppo\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#43",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ed103b58-5b9d-4a41-89b4-b135a16b1680"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 43
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Der Zigeunerbaron: Overture\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/12c9cc62-22d0-4113-b35f-bb5a3f9b9702"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 96 in D major 'Miracle': I. Adagio. Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ef457af6-b859-4c1c-b4f2-18fc52f34256"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"II. Andante\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2b2106f3-a992-4e0a-aa98-e8dd63dc96bc"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Menuett: Allegretto\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#53",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/13401d81-501d-4356-ae19-ab3bc25ac8be"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 53
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#51",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7eecda93-f344-4b05-b400-0d4efc835500"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 51
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Feierlich und gemessen\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/046a8614-d9f6-499c-96d5-a21a1769dba6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"III. Menuetto: Allegrp &Trio\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#59",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5428c624-1973-4591-9971-5f5579c6c086"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 59
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Don Juan Op. 20\""
+        "@value": "Track: \"IV. Rondo: Allegro\""
       }
     ]
   },
@@ -971,6 +1353,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#24",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -990,24 +1377,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#21",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#32",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/01e020ef-5d2d-4efe-99da-eb72a11ac458"
+        "@id": "https://musicbrainz.org/track/6fb0c566-496b-4449-81fc-07d150608ffb"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
+        "@value": 32
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"II. Andante cantabile\""
+        "@value": "Track: \"IV. Adagio. Più Andante. Allegro non troppo\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/74a8855b-ebdf-4c2b-be05-b0d780a4cfc5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Finale: Vivace Assai\""
       }
     ]
   },
@@ -1015,6 +1434,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#61",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -1034,310 +1458,191 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#42",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#58",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/644e1aee-0d66-4c8a-9464-e42941f53f76"
+        "@id": "https://musicbrainz.org/track/e93d71e1-4678-4faf-afcf-b59cd18159ba"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 42
+        "@value": 58
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wein, Weib und Gesang Op. 333\""
+        "@value": "Track: \"VI. Der Abschied\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#25",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#27",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/1d35d5fb-3e94-4c0d-8401-401b2d34813f"
+        "@id": "https://musicbrainz.org/track/e930d1d3-5169-45a2-bc40-4db1859ce261"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 25
+        "@value": 27
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"II. Molto vivacel. Presto\""
+        "@value": "Track: \"IV. Presto. Allegro assai. Presto. 'Oh, Freunde, nicht diese Töne', Allegro assai\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#35",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#60",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/dd68fa59-7c52-463f-8ec7-78c4694b1bd2"
+        "@id": "https://musicbrainz.org/track/ae692156-5bec-4545-841c-0e0bf5bc186b"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 35
+        "@value": 60
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"III. Scherzo. Sehr schnell\""
+        "@value": "Track: \"Tod und Verklärung Op. 24\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#30",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#45",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b20c5f1c-8fb1-4b30-999b-e77291449ee0"
+        "@id": "https://musicbrainz.org/track/80a351ec-6aa0-4eb6-bd4f-7cc2ea577f4a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 30
+        "@value": 45
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"II. Andante sostenuto\""
+        "@value": "Track: \"Der fliegende Holländer: Overture\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#28",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#20",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/09-II.%20Andante%20cantabile.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/f5dfb642-d92b-449b-a2be-2a62d6a9fc98"
+        "@id": "https://musicbrainz.org/track/a9391b94-45a6-40c1-95c3-38ff89a07aa7"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 28
+        "@value": 20
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Overture 'Die Hebriden' Op. 26\""
+        "@value": "Track: \"Symphony No, 41 in C major KV 551 'Jupiter': I. Allegro vivace\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#13",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#55",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/6e9d7e68-67e8-4048-9a16-9b82ea3da649"
+        "@id": "https://musicbrainz.org/track/936e0062-f918-433f-a08c-d42d1d236b5a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
+        "@value": 55
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Serenade No. 13 in G major, KV 525 'Eine kleine Nachtmusik': I. Allegro\""
+        "@value": "Track: \"III. Von der Jugend\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#46",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#43",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart/11-IV.%20Molto%20Allegro.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/359b4f1a-132a-45cd-bea1-bdbd8621a5cb"
+        "@id": "https://musicbrainz.org/track/ed103b58-5b9d-4a41-89b4-b135a16b1680"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 46
+        "@value": 43
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Tannhäuser: Overture\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#29",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a1132a72-ef26-40ea-b4bb-441cb24662df"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 29
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Symphony No. 1 in C minor Op. 68: I. Un poco sostenuto. Allegro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#37",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b5921e81-e25b-4bb6-adea-072431597b7a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 37
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau Op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#54",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c2ec05ad-0047-49b1-94c4-3c460b70f839"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 54
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"II. Der Einsame im Herbst\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/fc3c9159-203b-4cd3-a50b-882bb8e6cc8b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"II. Romanze. Andante\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#38",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/64022c93-49d7-482e-aa83-ed5def7f51ca"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 38
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Kaiserwalzer Op. 437\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#39",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/26344daf-b346-4f6f-afe4-8e7e3833f1ac"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 39
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Künstlerleben Op. 316\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%202%20-%20Mozart#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0cdf057d-137a-43af-b4e9-ecc1fa68a1df"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Finale: Allegro Molto\""
+        "@value": "Track: \"Der Zigeunerbaron: Overture\""
       }
     ]
   }

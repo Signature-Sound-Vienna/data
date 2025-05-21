@@ -1,42 +1,13 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Patronessen, Polka française op. 286 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Fata Morgana, Polka mazur op. 330 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -51,26 +22,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eingesendet, Polka schnell op. 240 - Josef Strauss\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -89,6 +48,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -106,6 +70,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -119,36 +88,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Vorwärts!, Polka schnell op, 127 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau, Walzer op. 314 - Johann Strauss II\""
+        "@value": "Track: \"Eingesendet, Polka schnell op. 240 - Josef Strauss\""
       }
     ]
   },
@@ -156,6 +113,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -170,9 +132,36 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Vorwärts!, Polka schnell op, 127 - Josef Strauss\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -187,9 +176,80 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau, Walzer op. 314 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Fata Morgana, Polka mazur op. 330 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Patronessen, Polka française op. 286 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD2#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {

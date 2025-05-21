@@ -4,30 +4,10 @@
    xmlns:ns2="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#9">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/9.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#2">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/2.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#2"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#8">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/8.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#8"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#3">
     <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/3.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#10">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/10.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#10"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#1">
     <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/1.peaks.json"/>
@@ -39,6 +19,11 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#4"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#7">
+    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/7.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#7"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#12"/>
@@ -48,19 +33,34 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#11"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#7">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/7.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#9">
+    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/9.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#5">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#5"/>
+    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#9"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#6">
     <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/6.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#8">
+    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/8.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#10">
+    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/10.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#2">
+    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/2.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#5">
+    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29/5.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolgan%20Sawallisch%20%281967%29#5"/>
   </rdf:Description>
 </rdf:RDF>

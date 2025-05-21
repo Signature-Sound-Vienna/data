@@ -1,25 +1,13 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Steyrische Tänze, op.165 \""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -34,43 +22,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Seid umschlungen, Millionen, op.443 - Walzer \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Lucifer-Polka, op.266 \""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -85,121 +44,46 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Jägers Lust, op.82 - Jagd-Galopp \""
+        "@value": "Track: \"Steyrische Tänze, op.165 \""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 14
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Electro-magnetische Polka, op.110 \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Vergnügungszug, op.281 - Polka schnell \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Schönbrunner, op.200 - Walzer \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch, op.228 -[original version]\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morgenblätter, op.279 - Walzer \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Dorfschwalben aus Österreich, op.164 - Walzer \""
+        "@value": "Track: \"Lucifer-Polka, op.266 \""
       }
     ]
   },
@@ -207,6 +91,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -221,9 +110,102 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Electro-magnetische Polka, op.110 \""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Schönbrunner, op.200 - Walzer \""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Dorfschwalben aus Österreich, op.164 - Walzer \""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morgenblätter, op.279 - Walzer \""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -234,6 +216,94 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Electrofor-Polka, op.297 - Polka schnell \""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch, op.228 -[original version]\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Jägers Lust, op.82 - Jagd-Galopp \""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Vergnügungszug, op.281 - Polka schnell \""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD7%20%28Neujahrskonzert%202001%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Seid umschlungen, Millionen, op.443 - Walzer \""
       }
     ]
   }

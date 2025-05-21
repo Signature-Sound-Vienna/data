@@ -4,17 +4,21 @@
 
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#1> a ns1:Track ;
     rdfs:label "Track: \"Symphony No. 9 in D minor Op. 125 \"Choral\" I. Allegro ma non troppo un poco maestoso\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#2> a ns1:Track ;
     rdfs:label "Track: \"II. Molto vivacel. Presto.\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#3> a ns1:Track ;
     rdfs:label "Track: \"III. Adagio molto cantabile.\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4> a ns1:Track ;
     rdfs:label "Track: \"IV. Presto. Allegro assai. Presto. \"Oh, Freunde, nicht diese Töne\", Allegro assai.\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 4 .
 

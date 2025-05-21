@@ -1,42 +1,13 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Cachucha Galopp - Johann Strauss I (Rieu, Johann Strauss Orchester)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Feuerfest-Polka - Johann Strauss II (Strauss-Orchester Wien, Neukamp)\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -51,53 +22,68 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Lagunen-Walzer - Johann Strauss II ((Strauss-Orchester Wien, Naukamp)\""
+        "@value": "Track: \"Cachucha Galopp - Johann Strauss I (Rieu, Johann Strauss Orchester)\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Einzugsmarsch aus \"Der Zigeunerbaron\" - Johann Strauss II (André Rieu, Johann Strauss Orchester)\""
+        "@value": "Track: \"Pizzicato-Polka - Johann Strauss II & Josef Strauss (Wiener Sängerknaben, Peter Marschik)\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Annen-Polka - Johann Strauss II (Wiener Sängerknaben, Marschik)\""
+        "@value": "Track: \"Carmen-Quadrille - Eduard Strauss (Strauss-Orchester Wien, Naukamp)\""
       }
     ]
   },
@@ -105,6 +91,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -119,9 +110,36 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Feuerfest-Polka - Johann Strauss II (Strauss-Orchester Wien, Neukamp)\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -140,6 +158,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -153,9 +176,80 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Einzugsmarsch aus \"Der Zigeunerbaron\" - Johann Strauss II (André Rieu, Johann Strauss Orchester)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Lagunen-Walzer - Johann Strauss II ((Strauss-Orchester Wien, Naukamp)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Annen-Polka - Johann Strauss II (Wiener Sängerknaben, Marschik)\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -166,40 +260,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Ohne Sorgen - Johann Strauss II (Rieu, Johann Strauss OrchesterI\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Carmen-Quadrille - Eduard Strauss (Strauss-Orchester Wien, Naukamp)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Pizzicato-Polka - Johann Strauss II & Josef Strauss (Wiener Sängerknaben, Peter Marschik)\""
       }
     ]
   }

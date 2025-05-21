@@ -4,52 +4,60 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4f4f90ea-3f62-4e1c-af0b-7c660c442308"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Sphärenklänge, Op. 235"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/05-Wiener%20Bonbons%2C%20Op.%20307%20-%20Johann%20Strauss%20%28son%29.wav"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/29e5ad54-a4aa-4c53-9a4a-e97caef0f942"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Frühlingsstimmen, Op. 410"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a75955a0-9efd-4f7a-a43b-36cdb0f8364f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Morgenblätter, Op. 279"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fce6d55a-b55c-4e94-9f2a-a1d66c07e215"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Künstlerleben, Op. 316"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/82c23138-590d-47b4-9f4b-3d7e2e380964"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Radetzsky-March, Op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/07-Morgenbl%C3%A4tter%2C%20Op.%20279%20-%20Johann%20Strauss%20%28son%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d878d678-1543-46d1-be7f-f818b6566202"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Die Fledermaus - Ouverture"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/02-K%C3%BCnstlerleben%2C%20Op.%20316%20-%20Johann%20Strauss%20%28son%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4f4f90ea-3f62-4e1c-af0b-7c660c442308"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Sphärenklänge, Op. 235"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/82c23138-590d-47b4-9f4b-3d7e2e380964"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Radetzsky-March, Op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/08-Radetzsky-March%2C%20Op.%20228%20-%20Johann%20Strauss%20%28father%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/88cfbe9d-187a-491f-b29a-561c318d56de"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Wiener Bonbons, Op. 307"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fce6d55a-b55c-4e94-9f2a-a1d66c07e215"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Künstlerleben, Op. 316"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/03-Pizzicato%20Polka%20-%20Johann%20and%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a75955a0-9efd-4f7a-a43b-36cdb0f8364f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Morgenblätter, Op. 279"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/08-Radetzsky-March%2C%20Op.%20228%20-%20Johann%20Strauss%20%28father%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0273d27d-ff96-472b-b4e5-919076a4280e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Pizzicato Polka"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/04-Sph%C3%A4renkl%C3%A4nge%2C%20Op.%20235%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/88cfbe9d-187a-491f-b29a-561c318d56de"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Wiener Bonbons, Op. 307"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/06-Fr%C3%BChlingsstimmen%2C%20Op.%20410%20-%20Johann%20Strauss%20%28son%29.wav"/>
   </rdf:Description>
 </rdf:RDF>

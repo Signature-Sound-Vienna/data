@@ -4,69 +4,82 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Der Mond am Himmel - Ukrainisches Lied"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Wiener Veilchen - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Mein Herr Marquis - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Egtyptischer Marsch - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Braune Augen, schware Brauen - Ukrainisches Lied"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Auf nach Lugansk - Kurt Schmid"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Impressionen - Kurt Schmid/ Doblinger"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Botschafter Micheal-Miess-Walzer - Kurt Schmid"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Wiener Bonbons - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Neue Pizzicato-Polka - Kurt Schmid"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Leichtes Blut - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Auf nach Lugansk - Kurt Schmid"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Wiener Veilchen - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Der Mond am Himmel - Ukrainisches Lied"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Ouvertüre zu "Fledermaus" - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Mein Herr Marquis - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Botschafter Micheal-Miess-Walzer - Kurt Schmid"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Impressionen - Kurt Schmid/ Doblinger"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Wiener Bonbons - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Egtyptischer Marsch - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Braune Augen, schware Brauen - Ukrainisches Lied"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
 </rdf:RDF>

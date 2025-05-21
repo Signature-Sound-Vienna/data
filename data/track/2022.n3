@@ -4,91 +4,109 @@
 
 <https://w3id.org/ssv/0.9/data/track/2022#1> a ns1:Track ;
     rdfs:label "Track: \"Phönix-Marsch op. 105\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/02%20-%20Ph%C3%B6nix-Schwingen%2C%20Walzer%2C%20op.%20125%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/f70bcc1a-57bf-4e15-8a2a-d2979d250f20> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#10> a ns1:Track ;
     rdfs:label "Track: \"Persischer Marsch op. 289\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/11%20-%20Tausend%20und%20eine%20Nacht%2C%20Walzer%2C%20op.%20346%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/be199064-58ab-4db3-9a36-2813ef5f259d> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#11> a ns1:Track ;
     rdfs:label "Track: \"Tausend und eine Nacht, Walzer, op. 346\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/12%20-%20Gru%C3%9F%20an%20Prag%2C%20Polka%20francaise%2C%20op.%20144%20-%20Eduard%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/1ed769ec-7810-48f5-85c9-19094a191dce> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#12> a ns1:Track ;
     rdfs:label "Track: \"Gruß an Prag, Polka francaise, op. 144\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/13%20-%20Heinzelm%C3%A4nnchen%2C%20Charakterst%C3%BCck%20-%20Joseph%20Hellmesberger%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/a9785665-8ccc-49c3-9ae8-531f80967da1> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#13> a ns1:Track ;
     rdfs:label "Track: \"Heinzelmännchen, Charakterstück\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/14%20-%20Nymphen-Polka%2C%20Polka%20francaise%2C%20op.%2050%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/c7b6fe50-9169-4c36-8ecb-3ce405d7df6d> ;
     ns1:track_number 13 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#14> a ns1:Track ;
     rdfs:label "Track: \"Nymphen-Polka, Polka francaise, op. 50\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/15%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20Walzer%2C%20op.%20235%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/8ece5b47-146d-4039-a493-d446d247922b> ;
     ns1:track_number 14 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#15> a ns1:Track ;
     rdfs:label "Track: \"Sphärenklänge, Walzer, op. 235\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/16%20-%20Auf%20der%20Jagd%2C%20Polka%20schnell%20op.%20373%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/eb1de826-e95d-437c-bc5e-8cfc1facaa83> ;
     ns1:track_number 15 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#16> a ns1:Track ;
     rdfs:label "Track: \"Auf der Jagd, Polka schnell op. 373\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/db99db1f-e331-41cd-b8d4-ebae3a2b7017> ;
     ns1:track_number 16 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#17> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/18%20-%20Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/c43137d6-5f49-41c0-8b2f-18b7d553e303> ;
     ns1:track_number 17 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#18> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch op. 228\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/18%20-%20Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/7f6ee590-bc0c-4506-91c2-8df8550d7ab0> ;
     ns1:track_number 18 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#2> a ns1:Track ;
     rdfs:label "Track: \"Phönix-Schwingen, Walzer, op. 125\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/03%20-%20Die%20Sirene%2C%20Polka%20mazur%2C%20op.%20248%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/699947cb-a62c-4fe9-af74-82bd9a9026ec> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#3> a ns1:Track ;
     rdfs:label "Track: \"Die Sirene, Polka mazur, op. 248\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/04%20-%20Kleiner%20Anzeiger%2C%20Galopp%2C%20op.%204%20-%20Joseph%20Hellmesberger%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/9baaa751-e2bc-43ef-920f-ccfe37e3ab61> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#4> a ns1:Track ;
     rdfs:label "Track: \"Kleiner Anzeiger, Galopp, op. 4\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/05%20-%20Morgenbl%C3%A4tter%2C%20Walzer%2C%20op.%20279%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/41e39b47-41d5-4552-965a-5d472cdb44df> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#5> a ns1:Track ;
     rdfs:label "Track: \"Morgenblätter, Walzer, op. 279\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/06%20-%20Kleine%20Chronik%2C%20Polka%20schnell%2C%20op.%20128%20-%20Eduard%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/33c6f100-884c-442d-9afb-2f63e8113684> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#6> a ns1:Track ;
     rdfs:label "Track: \"Kleine Chronik, Polka schnell, op. 128\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/07%20-%20Ouvert%C3%BCre%20zu%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/5cb08485-1bc7-4aa7-afd1-82222fce16d6> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#7> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre zu 'Die Fledermaus'\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/08%20-%20Champagner-Polka%2C%20Musikalischer%20Scherz%2C%20op.%20211%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/e4c76583-91dc-4791-afd9-4130c40f0ce4> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#8> a ns1:Track ;
     rdfs:label "Track: \"Champagner-Polka, Musikalischer Scherz, op. 211\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/09%20-%20Nachtschw%C3%A4rmer%2C%20Walzer%2C%20op.%20466%20-%20Carl%20Michael%20Ziehrer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/1932ea26-10c1-498f-a176-d1947146fc4d> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/2022#9> a ns1:Track ;
     rdfs:label "Track: \"Nachtschwärmer, Walzer, op. 466\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/10%20-%20Persischer%20Marsch%20op.%20289%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6d5d5814-940f-483a-ac94-327938f72719> ;
     ns1:track_number 9 .
 

@@ -1,8 +1,35 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Don Juan Op. 20\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -21,6 +48,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -30,23 +62,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Metamorphosen \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Don Juan Op. 20\""
       }
     ]
   }

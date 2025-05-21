@@ -9,131 +9,153 @@
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9ecc1780-6389-4be4-a1bc-921ea83c9211"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
     <rdfs:label>Track: "An der schönen, blauen Donau, Walzer, Op. 314"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/62da58b7-d4a6-415e-9290-34d2225256ea"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Carolinen-Galopp, Op. 21a"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/47bbb91a-a44e-4b53-a2ee-51e0bf9fffcb"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Seid umschlungen, Millionen, Walzer, Op. 443"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a1312131-615c-4943-8c3d-684bcfb0027d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "G'schichten aus dem Wiener Wald, Walzer, Op. 325"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#18">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/69753339-4263-4713-84b5-48e31853c8da"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
-    <rdfs:label>Track: "Ohne Sorgen! Polka schnell, Op. 271"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5fd26842-67e0-4953-bad5-07cdf9da0c8b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Capriccio: Mondscheinmusik"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5f3f436c-48f4-46ec-888c-cb9f165fa3c8"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Die Romantiker, Walzer, Op. 167"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d926d9bc-b2d4-4805-a17d-2d64a739ffad"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Vielliebchen, Polka francaise, Op. 1"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a22f45b2-73d9-4f88-9be0-a36896bc764a"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
-    <rdfs:label>Track: "Carrière-Polka, Polka schnell, Op. 200"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#17">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1b430673-924d-4dd9-aac0-d8e287b42beb"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
-    <rdfs:label>Track: "Geheime Anziehungskräfte (Dynamiden), Walzer, Op. 173"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/55155041-19d2-435b-b0d4-bc265adf28d3"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Schabernack-Polka, Polka schnell, Op. 98"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f4d36adf-a63b-4abb-b4f4-7a8486c6c3d1"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Egyptischer Marsch, Op. 335"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#20">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6bf2a9b3-a5a2-4469-a5f2-09ff2d2d2dd0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
-    <rdfs:label>Track: "Neujahrsgruß / New Year's Address / Allocution du Nouvel An"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6e1bf592-21a2-4104-8144-638bedccf3a7"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Waldmeister: Ouvertüre"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e2f6e1cd-aaa1-41ce-8b7d-ac7af3a6bf08"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Neckerei, Polka mazur, Op. 262"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8f93a2f7-c66b-4850-8b77-af49a1c8d76e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Helenen-Quadrille, Op. 14"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ad15fe0f-2740-41a5-9428-9eb4baf445ad"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Friedenspalmen, Walzer, Op. 207"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/47bbb91a-a44e-4b53-a2ee-51e0bf9fffcb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Seid umschlungen, Millionen, Walzer, Op. 443"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#18">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/69753339-4263-4713-84b5-48e31853c8da"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
+    <rdfs:label>Track: "Ohne Sorgen! Polka schnell, Op. 271"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5f3f436c-48f4-46ec-888c-cb9f165fa3c8"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Die Romantiker, Walzer, Op. 167"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#22">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ffa7bb11-d0cc-40e0-986b-12d3abb4b457"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
     <rdfs:label>Track: "Radetzky-Marsch, Op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1fd208e0-d2f9-44bf-b36a-9c238a014493"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Bouquet-Polka, Polka schnell, Op. 188"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f4d36adf-a63b-4abb-b4f4-7a8486c6c3d1"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Egyptischer Marsch, Op. 335"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#17">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1b430673-924d-4dd9-aac0-d8e287b42beb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <rdfs:label>Track: "Geheime Anziehungskräfte (Dynamiden), Walzer, Op. 173"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/62da58b7-d4a6-415e-9290-34d2225256ea"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Carolinen-Galopp, Op. 21a"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2450e276-aa7c-4b71-8428-d6cc3bcb09e1"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: "Sylvia: Pizzicati"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/55155041-19d2-435b-b0d4-bc265adf28d3"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Schabernack-Polka, Polka schnell, Op. 98"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a1312131-615c-4943-8c3d-684bcfb0027d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "G'schichten aus dem Wiener Wald, Walzer, Op. 325"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1fd208e0-d2f9-44bf-b36a-9c238a014493"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Bouquet-Polka, Polka schnell, Op. 188"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#20">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6bf2a9b3-a5a2-4469-a5f2-09ff2d2d2dd0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
+    <rdfs:label>Track: "Neujahrsgruß / New Year's Address / Allocution du Nouvel An"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ad15fe0f-2740-41a5-9428-9eb4baf445ad"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Friedenspalmen, Walzer, Op. 207"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e2f6e1cd-aaa1-41ce-8b7d-ac7af3a6bf08"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Neckerei, Polka mazur, Op. 262"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d926d9bc-b2d4-4805-a17d-2d64a739ffad"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Vielliebchen, Polka francaise, Op. 1"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5fd26842-67e0-4953-bad5-07cdf9da0c8b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Capriccio: Mondscheinmusik"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/59b85e69-63a4-4f8e-b90e-bbe070622e88"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Stürmisch in Lieb' und Tanz, Polka schnell, Op. 393"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8a2c8bab-1823-4255-a264-444a655ac5b5"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Klipp-Klapp, Galopp, Op. 466"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a22f45b2-73d9-4f88-9be0-a36896bc764a"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "Carrière-Polka, Polka schnell, Op. 200"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD2#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6e1bf592-21a2-4104-8144-638bedccf3a7"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Waldmeister: Ouvertüre"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
 </rdf:RDF>

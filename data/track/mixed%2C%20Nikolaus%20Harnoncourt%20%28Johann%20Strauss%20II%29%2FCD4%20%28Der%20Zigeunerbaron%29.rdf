@@ -4,154 +4,184 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Ensemble 'Vater! Vater!'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#30">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:track_number>
-    <rdfs:label>Track: "Ensemble 'Als flotter Geist und früh verwaist'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "2. Akt - Zwischenaktmusik"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#18">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
-    <rdfs:label>Track: "Saffi, Barinkay, Chorus, Czipra u.a. 'O welch ein Glück!'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Zsupan 'Mir helfen die Doktoren nicht'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#29">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns1:track_number>
-    <rdfs:label>Track: "Chor, Ensemble 'Heiraten, Vivat!'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Carnero, Zsupan, Mirabella, Ottokar, Arsena, Homonay 'Nach Wien?'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#22">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
-    <rdfs:label>Track: "Mirabella, Arsena, Carnero 'Ist es also wahr?'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#27">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns1:track_number>
-    <rdfs:label>Track: "Chorus 'Hurrah, die Schlacht mitgemacht'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Carnero, Barinkay, Saffi, Chorus 'Wer hat euch denn getraut?'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
-    <rdfs:label>Track: "Saffi, Arsena, Mirabella, Czipra, Barinkay, Ottokar, Zsupan 'O voll Fröhlichkeit'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#17">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
-    <rdfs:label>Track: "Carnero, Czupan, Mirabella u.a. 'Noch eben in Gloria'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Homonay, Carnero, Barinkay, Saffi, Czipra 'Beruhigen Sie sich, meine Damen'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Chorus 'Ha, das Eisen wird gefüge'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Carnero, Mirabella, Zsupan, Chorus 'Ich will Euch... Nur keusch und rein'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#24">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:track_number>
-    <rdfs:label>Track: "Carnero, Mirabella, Homonay 'Allen Respekt! Sie wissen genug'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#20">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
-    <rdfs:label>Track: "3. Akt - Zwischenaktmusik"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#23">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
-    <rdfs:label>Track: "Arsena, Mirabella, Carnero 'Ein Mädchen hat es gar nicht gut'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Carnero, Barinkay, Czipra, Homonay, Chor 'Was gafft ihr noch? Ergreifet sie!'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#21">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
-    <rdfs:label>Track: "Chor 'Freuet euch, freuet euch'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Barinkay, Carnero, Zsupan, Mirabella, Arsena 'Ah, das ist ja großartig'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#26">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns1:track_number>
-    <rdfs:label>Track: "Zsupan, Mirabella, Carnero, Arsena 'Ja mein Gott, ich könnte'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Czipra, Barinkay, Saffi 'Mein Aug' bewacht'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Saffi, Czipra, Barinkay 'Ei, ei, er lacht'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Saffi, Czipra, Barinkay 'Ein Greis ist mir im Traum erschienen'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Pali 'Auf, auf, auf! Vorbei ist die Nacht'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Barinkay, Saffi, Czipra 'Da klingt es hohl'"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#16">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
-    <rdfs:label>Track: "Homonay, Barinkay, Chor 'Hier die Hand, es muß ja sein'"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#25">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</ns1:track_number>
     <rdfs:label>Track: "Zsupan, Chorus 'Von des Tajo Strand'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#28">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</ns1:track_number>
     <rdfs:label>Track: "Homonay, Barinkay, Mirabella 'Ihr alle, alle habt wacker Eure Schuldigkeit getan'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#23">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
+    <rdfs:label>Track: "Arsena, Mirabella, Carnero 'Ein Mädchen hat es gar nicht gut'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Carnero, Mirabella, Zsupan, Chorus 'Ich will Euch... Nur keusch und rein'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Carnero, Barinkay, Czipra, Homonay, Chor 'Was gafft ihr noch? Ergreifet sie!'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Homonay, Carnero, Barinkay, Saffi, Czipra 'Beruhigen Sie sich, meine Damen'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Saffi, Czipra, Barinkay 'Ei, ei, er lacht'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Czipra, Barinkay, Saffi 'Mein Aug' bewacht'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#30">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</ns1:track_number>
+    <rdfs:label>Track: "Ensemble 'Als flotter Geist und früh verwaist'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#26">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</ns1:track_number>
+    <rdfs:label>Track: "Zsupan, Mirabella, Carnero, Arsena 'Ja mein Gott, ich könnte'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "2. Akt - Zwischenaktmusik"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#20">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
+    <rdfs:label>Track: "3. Akt - Zwischenaktmusik"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Barinkay, Saffi, Czipra 'Da klingt es hohl'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#27">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</ns1:track_number>
+    <rdfs:label>Track: "Chorus 'Hurrah, die Schlacht mitgemacht'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#29">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</ns1:track_number>
+    <rdfs:label>Track: "Chor, Ensemble 'Heiraten, Vivat!'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Ensemble 'Vater! Vater!'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#17">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <rdfs:label>Track: "Carnero, Czupan, Mirabella u.a. 'Noch eben in Gloria'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Pali 'Auf, auf, auf! Vorbei ist die Nacht'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Saffi, Czipra, Barinkay 'Ein Greis ist mir im Traum erschienen'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#24">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:track_number>
+    <rdfs:label>Track: "Carnero, Mirabella, Homonay 'Allen Respekt! Sie wissen genug'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#21">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
+    <rdfs:label>Track: "Chor 'Freuet euch, freuet euch'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#18">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
+    <rdfs:label>Track: "Saffi, Barinkay, Chorus, Czipra u.a. 'O welch ein Glück!'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Barinkay, Carnero, Zsupan, Mirabella, Arsena 'Ah, das ist ja großartig'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#22">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
+    <rdfs:label>Track: "Mirabella, Arsena, Carnero 'Ist es also wahr?'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Carnero, Barinkay, Saffi, Chorus 'Wer hat euch denn getraut?'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Carnero, Zsupan, Mirabella, Ottokar, Arsena, Homonay 'Nach Wien?'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Chorus 'Ha, das Eisen wird gefüge'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "Saffi, Arsena, Mirabella, Czipra, Barinkay, Ottokar, Zsupan 'O voll Fröhlichkeit'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Zsupan 'Mir helfen die Doktoren nicht'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%2C%20Nikolaus%20Harnoncourt%20%28Johann%20Strauss%20II%29%2FCD4%20%28Der%20Zigeunerbaron%29#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
+    <rdfs:label>Track: "Homonay, Barinkay, Chor 'Hier die Hand, es muß ja sein'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
 </rdf:RDF>

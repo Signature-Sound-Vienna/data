@@ -4,34 +4,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5caadb02-a961-43b5-92be-3c72cc87d1dd"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Donau Walzer"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dedc0994-3499-4c44-97b8-a24f44b26910"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Strauss Walzer"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6b70e9fd-57ba-4518-acc0-86e64874dc35"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: Lorelei</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/26f0a47d-39d3-4242-8196-40418574d9e4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Kaiser Walzer"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5caadb02-a961-43b5-92be-3c72cc87d1dd"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Donau Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/02-Johann%20Strauss%20Jr.%20-%20Kaiser%20Walzer.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/09a59cd1-36a9-48c4-ba5e-750c9420c352"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Wiener Blut"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/26f0a47d-39d3-4242-8196-40418574d9e4"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Kaiser Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/03-Johann%20%26%20Joseph%20Strauss%20-%20Strauss%20Walzer.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dedc0994-3499-4c44-97b8-a24f44b26910"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Strauss Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/04-Johann%20Strauss%20Sen.%20-%20Lorelei.wav"/>
   </rdf:Description>
 </rdf:RDF>

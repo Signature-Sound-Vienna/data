@@ -4,29 +4,36 @@
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#1> a ns1:Track ;
     rdfs:label "Track: \"Motoren, Walzer op. 265 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#2> a ns1:Track ;
     rdfs:label "Track: \"'s gibt nur a Kaiserstadt, 's gibt nur a Wien,  Polka schnell op. 291 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#3> a ns1:Track ;
     rdfs:label "Track: \"Carrière, Polka schnell op.200 - Josef Strauss\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#4> a ns1:Track ;
     rdfs:label "Track: \"Frauenherz, Polka mazur op. 166 - Josef Strauss\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#5> a ns1:Track ;
     rdfs:label "Track: \"Hofballtänze, Walzer op. 298 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#6> a ns1:Track ;
     rdfs:label "Track: \"Bluette, Polka française  op. 271 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD1#7> a ns1:Track ;
     rdfs:label "Track: \"Die Bajadere, Polka schnell  op. 351 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 7 .
 

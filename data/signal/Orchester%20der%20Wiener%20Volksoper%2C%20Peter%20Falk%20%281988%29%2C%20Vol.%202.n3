@@ -1,34 +1,34 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns2: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/1.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#1> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/2.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/3.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/4.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/5.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/6.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/7.peaks.json> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7> ;
+    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/7.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8> .
+<https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#8> .
 

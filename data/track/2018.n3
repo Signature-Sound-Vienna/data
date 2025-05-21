@@ -4,101 +4,121 @@
 
 <https://w3id.org/ssv/0.9/data/track/2018#1> a ns1:Track ;
     rdfs:label "Track: \"Der Zigeunerbaron: Einzugsmarsch\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/8e463da3-e633-4842-b248-3958cde555b9> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#10> a ns1:Track ;
     rdfs:label "Track: \"Freikugeln, Polka schnell, op. 326\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2b23043d-e5e6-4224-a188-9f300c8e6b68> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#11> a ns1:Track ;
     rdfs:label "Track: \"Geschichten aus dem Wienerwald, Walzer, op. 325\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2f67588b-6bf2-4ab5-b0f9-fe2b309579df> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#12> a ns1:Track ;
     rdfs:label "Track: \"Festmarsch, op. 452\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/0ae9d7ff-dc21-425c-a59c-d76fbc1a33c1> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#13> a ns1:Track ;
     rdfs:label "Track: \"Stadt und Land, Polka Mazurka, op. 322\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/4872fb37-e2a3-49ff-b656-e749d02f381e> ;
     ns1:track_number 13 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#14> a ns1:Track ;
     rdfs:label "Track: \"Un ballo in maschera, Quadrille, op. 272\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/0bd7f881-a98e-4432-8bd3-4248237e22e4> ;
     ns1:track_number 14 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#15> a ns1:Track ;
     rdfs:label "Track: \"Rosen aus dem Süden, Walzer, op. 388\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/7d93f162-3924-4b8e-938f-ecf0babc52fc> ;
     ns1:track_number 15 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#16> a ns1:Track ;
     rdfs:label "Track: \"Eingesendet, Polka schnell, op. 240\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/d78164ac-884f-4d54-ad88-98b324c97d7e> ;
     ns1:track_number 16 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#17> a ns1:Track ;
     rdfs:label "Track: \"Unter Donner und Blitz, Polka schnell, op. 324\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/7c14de95-afd9-48c9-87b0-1bd7363f3b83> ;
     ns1:track_number 17 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#18> a ns1:Track ;
     rdfs:label "Track: Neujahrsgruß" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/5a671597-aa3b-411f-8dfc-7069d142fa21> ;
     ns1:track_number 18 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#19> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/ef960355-8627-4588-b47c-de7c027477da> ;
     ns1:track_number 19 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#2> a ns1:Track ;
     rdfs:label "Track: \"Wiener Fresken, Walzer, op. 249\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/63e1da36-2c15-438d-92ab-671df61b6272> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#20> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/9744dc15-d1eb-435e-94ac-c5e0730edece> ;
     ns1:track_number 20 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#3> a ns1:Track ;
     rdfs:label "Track: \"Brautschau, Polka française, op. 417\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/e268b9d9-fe49-4cea-baf0-d5032fc9b5a4> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#4> a ns1:Track ;
     rdfs:label "Track: \"Leichtes Blut, Polka schnell, op. 319\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/861f7aad-c98e-42e0-b9c3-c1687434d84d> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#5> a ns1:Track ;
     rdfs:label "Track: \"Marienwalzer, op. 212\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/640c6b82-ceb3-464e-900b-f599fcd6b0eb> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#6> a ns1:Track ;
     rdfs:label "Track: \"Wilhelm Tell Galopp, op. 29b\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/779201cd-1bc3-47fb-b006-fe594a452ac0> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#7> a ns1:Track ;
     rdfs:label "Track: \"Boccaccio: Ouvertüre\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/44f3855d-6a74-46f7-aab3-46d6150b941e> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#8> a ns1:Track ;
     rdfs:label "Track: \"Myrthenblüten, Walzer, op. 395\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/5b4345b9-cff0-4ff1-972f-8bdb259b16cf> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/2018#9> a ns1:Track ;
     rdfs:label "Track: \"Stephanie-Gavotte, op. 312\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/ae371f1b-282d-4c7c-b87a-bb6be2621020> ;
     ns1:track_number 9 .
 

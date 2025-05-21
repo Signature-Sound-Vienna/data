@@ -1,24 +1,30 @@
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dorfschwalben, Walzer, Op. 164\"" .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Liebeslieder-Walzer, Op. 114\"" .
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/54e96e83-a619-4c45-8acd-d07111ea979e> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/05-Wiener%20Bonbons%2C%20Op.%20307.wav> .
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b42dda4a-1514-4dc4-aa3d-13df07e3233d> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Künstlerleben, Walzer\"" .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5161708a-19e0-412d-9e89-6e18959f415d> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Bonbons, Op. 307\"" .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/67ea6f21-d3ec-4819-8cb0-9995f0bc5848> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/03-Liebeslieder-Walzer%2C%20Op.%20114.wav> .
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9265b766-e85b-4490-8d10-223a1c2d0d83> .
-<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frühlingsstimmen-Walzer, Op. 410\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9265b766-e85b-4490-8d10-223a1c2d0d83> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Bonbons, Op. 307\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/67ea6f21-d3ec-4819-8cb0-9995f0bc5848> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/06-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Op.%20314.wav> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/02-K%C3%BCnstlerleben%2C%20Walzer.wav> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Liebeslieder-Walzer, Op. 114\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/06-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Op.%20314.wav> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Künstlerleben, Walzer\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/04-Fr%C3%BChlingsstimmen-Walzer%2C%20Op.%20410.wav> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5161708a-19e0-412d-9e89-6e18959f415d> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dorfschwalben, Walzer, Op. 164\"" .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .

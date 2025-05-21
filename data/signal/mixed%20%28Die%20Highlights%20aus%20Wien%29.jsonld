@@ -16,6 +16,54 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF058100390"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF058104220"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF058602810"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#12"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -32,18 +80,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/DEF058602700"
+        "@id": "https://musicbrainz.org/isrc/DEF058602750"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#9"
       }
     ]
   },
@@ -80,38 +128,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF058100390"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#2"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF058602810"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#12"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -128,34 +144,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/DEF058104220"
+        "@id": "https://musicbrainz.org/isrc/DEF058602700"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF059102100"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#1"
       }
     ]
   },
@@ -176,18 +176,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/DEF058602750"
+        "@id": "https://musicbrainz.org/isrc/DEF059102100"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#9"
+        "@id": "https://w3id.org/ssv/0.9/data/track/mixed%20%28Die%20Highlights%20aus%20Wien%29#8"
       }
     ]
   }

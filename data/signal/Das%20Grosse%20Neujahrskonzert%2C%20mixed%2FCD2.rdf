@@ -3,64 +3,64 @@
    xmlns:ns1="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300223"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410900278"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#4"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300224"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300225"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#7"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410900277"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411000073"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300226"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#5"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410900273"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#11"/>
-    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410300649"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#10"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300227"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#6"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411000073"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#7"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410900277"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410900276"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#8"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300225"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410900278"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#2"/>
     <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410100382"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#3"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#4"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300224"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#11"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER410300649"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#9"/>
+    <ns1:isrc rdf:resource="https://musicbrainz.org/isrc/DER411300226"/>
   </rdf:Description>
 </rdf:RDF>

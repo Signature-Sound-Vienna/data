@@ -4,64 +4,76 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Kaiserwalzer - Johann Strauss II (André Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Unter Donner und Blitz - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Ouvertüre aus "Die Fledermaus" - Johann Strauss II (Strauss-Orchester Wien, Joseph Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Wiener Blut - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Unter Donner und Blitz - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Frühlingsstimmen - Johann Strauss II (Rieu, Johann Strauss Orchester)"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd - Johann Strauss II ( Rieu, Johann Strauss Orchester)"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "G´schichten aus dem Wienerwald - Johann Strauss II (Wiener Sängerknaben, Marschik)"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Rosen aus dem Süden - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Champagner-Polka - Johann Strauss II (Strauss-Orchester Wien, Norbert Neukamp)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Wein, Weib und Gesang - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Tritsch-Tratsch-Polka - Johann Strauss II (Wiener Sängerknaben, Marschik)"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Rosen aus dem Süden - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Frühlingsstimmen - Johann Strauss II (Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd - Johann Strauss II ( Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Kaiserwalzer - Johann Strauss II (André Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Champagner-Polka - Johann Strauss II (Strauss-Orchester Wien, Norbert Neukamp)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Moulinet Polka - Josef Strauss (Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Tritsch-Tratsch-Polka - Johann Strauss II (Wiener Sängerknaben, Marschik)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "G´schichten aus dem Wienerwald - Johann Strauss II (Wiener Sängerknaben, Marschik)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav"/>
   </rdf:Description>
 </rdf:RDF>

@@ -8,45 +8,54 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Strauss Jr. (J): Seid Umschlungen, Millionen, Walzer, Op. 443"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Strauss Jr. (J): Waldmeister - Ouvertüre"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Strauss Jr. (J): G'schichten Aus Dem Wiener Wald, Walzer, Op. 325"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Strauss Jr. (J): Egyptischer Marsch, Op. 335"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Strauss Sr. (J): Carolinen-Galopp, Op. 21A"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Strauss Jr. (J): Klipp-Klapp, Galopp, Op. 466"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Strauss (E): Helenen-Quadrille, Op. 14"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Strauss (J): Friedenspalmen, Walzer, Op. 207"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Strauss Jr. (J): Stürmisch In Lieb' Und Tanz, Polka Schnell, Op. 393"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Strauss (E): Helenen-Quadrille, Op. 14"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Strauss Jr. (J): Waldmeister - Ouvertüre"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Strauss (J): Friedenspalmen, Walzer, Op. 207"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Strauss Jr. (J): Egyptischer Marsch, Op. 335"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Strauss Jr. (J): Klipp-Klapp, Galopp, Op. 466"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Strauss Jr. (J): G'schichten Aus Dem Wiener Wald, Walzer, Op. 325"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2014%2FCD1#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Strauss Sr. (J): Carolinen-Galopp, Op. 21A"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav"/>
   </rdf:Description>
 </rdf:RDF>

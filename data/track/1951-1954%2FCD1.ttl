@@ -4,53 +4,66 @@
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#1> a ns1:Track ;
     rdfs:label "Track: \"Strauss II_Die Fledermaus, overture\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#10> a ns1:Track ;
     rdfs:label "Track: \"StraussII_G´schichten aus Dem Wienerwald, Op.325\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#11> a ns1:Track ;
     rdfs:label "Track: \"StraussII & Josef Strauss_Pizzicato Polka\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#12> a ns1:Track ;
     rdfs:label "Track: \"StraussII_Egyptischer Marsch, Op.335\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#13> a ns1:Track ;
     rdfs:label "Track: \"StraussII_Vergnugunszug, Op.281, Polka schnell\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 13 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#2> a ns1:Track ;
     rdfs:label "Track: \"Strauss II_Der Ziguenerbaron, overture\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#3> a ns1:Track ;
     rdfs:label "Track: \"Strauss II_Kunstlerleben, Walzer, Op.316\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#4> a ns1:Track ;
     rdfs:label "Track: \"Strauss II_Fruhlingsstimme, Walzer, Op,410\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#5> a ns1:Track ;
     rdfs:label "Track: \"Josef Strauss_Mein Lebenslauf Ist Lieb' und Lust, Walzer, Op.263\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#6> a ns1:Track ;
     rdfs:label "Track: \"Josef Strauss_Die Libelle, Polka-Mazurka, Op.204\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#7> a ns1:Track ;
     rdfs:label "Track: \"Josef Strauss_Jockey Polka Schnell, Op.278\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#8> a ns1:Track ;
     rdfs:label "Track: \"StraussII_Im Krapfenwald´l, Op,336, Polka\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD1#9> a ns1:Track ;
     rdfs:label "Track: \"StraussII_Éljen a Magyar, Polka, Op.332\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> ;
     ns1:track_number 9 .
 

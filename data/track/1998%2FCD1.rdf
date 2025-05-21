@@ -4,84 +4,100 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Wo uns're Fahne weht, op.473 - Marsch - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Die Schwebende, op.110 - Polka Mazur - Josef Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Tritsch-Tratsch Polka, op.214 - Polka schnell - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Jocus Polka, op.216 - Polka schnell - Josef Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Nordseebilder, op.390 - Walzer - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Nachtfalter, op.157 - Walzer - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Neue Melodien-Quadrille, op.254 - Josef Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#16">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
-    <rdfs:label>Track: "Bahn frei, op.45 - Polka schnell - Eduard Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Ouvertüre zur Operette "Prinz Methusalem" - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "In der Heimat!, op.231 - Polka Mazur - Josef Strauss"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Marianka-Polka, op.173 - Johann Strauss I"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Plappermäulchen (Musikalischer Scherz), op.245 - Polkaschnell - Josef Strauss"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Wiener Bonbons, op.307 - Walzer - Johann Strauss II"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Kleiner Anzeiger, Galopp - Joseph Hellmesberger"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Die Schwebende, op.110 - Polka Mazur - Josef Strauss"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "Rosen aus dem Süden, op.388 - Walzer - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
+    <rdfs:label>Track: "Bahn frei, op.45 - Polka schnell - Eduard Strauss"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Marianka-Polka, op.173 - Johann Strauss I"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Kleiner Anzeiger, Galopp - Joseph Hellmesberger"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Annen-Polka, op.117 - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Ouvertüre zur Operette "Prinz Methusalem" - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Wo uns're Fahne weht, op.473 - Marsch - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Wiener Bonbons, op.307 - Walzer - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Plappermäulchen (Musikalischer Scherz), op.245 - Polkaschnell - Josef Strauss"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Nordseebilder, op.390 - Walzer - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Nachtfalter, op.157 - Walzer - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Neue Melodien-Quadrille, op.254 - Josef Strauss"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1998%2FCD1#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Tritsch-Tratsch Polka, op.214 - Polka schnell - Johann Strauss II"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"/>
   </rdf:Description>
 </rdf:RDF>

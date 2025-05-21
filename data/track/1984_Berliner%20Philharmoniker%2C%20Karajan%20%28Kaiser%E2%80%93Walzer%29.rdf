@@ -4,39 +4,46 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "»Der Zigeunerbaron«: Ouvertüre"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Tritsch–Tratsch–Polka, op. 214"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Annen–Polka, op. 117: Polka française"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd, op. 373: Polka schnell"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "»Der Zigeunerbaron«: Ouvertüre"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Kaiser–Walzer, op. 437"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Rosen aus dem Süden, op. 388: Waltzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Wein, Weib, Gesang, op. 333: Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Annen–Polka, op. 117: Polka française"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd, op. 373: Polka schnell"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2006/25%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
 </rdf:RDF>

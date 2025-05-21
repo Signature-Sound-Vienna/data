@@ -1,45 +1,60 @@
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Annen-Polka, Op. 117 - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Op. 314 - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum Mobile, Op. 257, musikalischer Scherz - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frauenwürde, Op. 277, Walzer - Josef Strauss\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Russischer Marsch, Op. 426 - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Pizzicato Polka - Josef Strauss & Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, Op. 228 - Johann Strauss I\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Demolirer-Polka, Op. 269, Polka francaise - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Moulinet, Op. 57, Polka francaise - Josef Strauss\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Rosen aus dem Süden, Op. 388, Walzer - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"I-Tüpferl Polka, Op. 377 - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eljen a Magyar, Op. 332, Polka schnell - Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eingesendet, Op. 240, Polka schnell - Josef Strauss\"" .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre zur Operette 'Der Zigeunerbaron' - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
 <https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Rosen aus dem Süden, Op. 388, Walzer - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Op. 314 - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frauenwürde, Op. 277, Walzer - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Demolirer-Polka, Op. 269, Polka francaise - Johann Strauss II\"" .
 <https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Blut, Op. 354, Walzer - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Annen-Polka, Op. 117 - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eljen a Magyar, Op. 332, Polka schnell - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eingesendet, Op. 240, Polka schnell - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Pizzicato Polka - Josef Strauss & Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"I-Tüpferl Polka, Op. 377 - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum Mobile, Op. 257, musikalischer Scherz - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Moulinet, Op. 57, Polka francaise - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, Op. 228 - Johann Strauss I\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Russischer Marsch, Op. 426 - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre zur Operette 'Der Zigeunerbaron' - Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1941%20%28%26%20unbekannt%29#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .

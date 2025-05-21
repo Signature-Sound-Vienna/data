@@ -4,37 +4,46 @@
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#1> a ns1:Track ;
     rdfs:label "Track: \"Strauss (E): Helenen-Quadrille, Op. 14\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#2> a ns1:Track ;
     rdfs:label "Track: \"Strauss (J): Friedenspalmen, Walzer, Op. 207\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#3> a ns1:Track ;
     rdfs:label "Track: \"Strauss Sr. (J): Carolinen-Galopp, Op. 21A\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#4> a ns1:Track ;
     rdfs:label "Track: \"Strauss Jr. (J): Egyptischer Marsch, Op. 335\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#5> a ns1:Track ;
     rdfs:label "Track: \"Strauss Jr. (J): Seid Umschlungen, Millionen, Walzer, Op. 443\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#6> a ns1:Track ;
     rdfs:label "Track: \"Strauss Jr. (J): Stürmisch In Lieb' Und Tanz, Polka Schnell, Op. 393\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#7> a ns1:Track ;
     rdfs:label "Track: \"Strauss Jr. (J): Waldmeister - Ouvertüre\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#8> a ns1:Track ;
     rdfs:label "Track: \"Strauss Jr. (J): Klipp-Klapp, Galopp, Op. 466\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/2014%2FCD1#9> a ns1:Track ;
     rdfs:label "Track: \"Strauss Jr. (J): G'schichten Aus Dem Wiener Wald, Walzer, Op. 325\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/07-Der%20Zigeunerbaron_%20Overture.wav> ;
     ns1:track_number 9 .
 

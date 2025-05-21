@@ -1,33 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/DEF056903910"
+        "@id": "https://musicbrainz.org/isrc/DEF056903940"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF056903950"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7"
       }
     ]
   },
@@ -48,70 +32,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF056903880"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF056906350"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF056903930"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEF056903920"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -124,6 +44,22 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF056903910"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4"
       }
     ]
   },
@@ -144,18 +80,82 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/DEF056903940"
+        "@id": "https://musicbrainz.org/isrc/DEF056903880"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF056903920"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF056906350"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF056903950"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEF056903930"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6"
       }
     ]
   },

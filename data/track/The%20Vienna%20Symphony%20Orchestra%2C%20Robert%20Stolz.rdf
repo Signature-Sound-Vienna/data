@@ -4,82 +4,95 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/92e23073-4b29-4f03-87ba-7f78eceeca29"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Myrtle Blossom Waltz"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ae5bdb84-5909-4670-af48-4d2db413c1a7"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Morning Papers Waltz"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4ea7b3d5-87ff-4ff2-a000-21303524aee5"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Tales From The Vienna Woods"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e8d05781-bffa-474d-9212-9f0d0ae40ae0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Wine, Women And Song Waltz"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f9aff878-c7f2-45a5-8067-afd42601e4fe"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: Cagliostrowalzer</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6ee7bb9b-13af-48cd-9e35-07bb00ad745c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Blue Danube Waltz"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e4b96216-b429-4e19-a593-8a994fd402ad"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Emperor Waltz"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fdc23a2e-7d78-4aee-8480-f83f06d003f4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Vienna Bon Bons"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d8f358d1-2539-4a9f-b115-7e34dbea1d1b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "The Voices Of Spring Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/11-Myrtle%20Blossom%20Waltz%28Kusswalzer%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/78ef6945-e7f5-4c6e-9580-515b57a54a0f"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "The Artist's Life Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/07-Wine%2C%20Women%20and%20Song%20Waltz%28Wein%2C%20Weib%20and%20Gesang%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/194499d6-d8d0-4453-b82a-df14cb29a57b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "You And You Waltz"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fdc23a2e-7d78-4aee-8480-f83f06d003f4"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Vienna Bon Bons"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/03-Emperor%20Waltz.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e4b96216-b429-4e19-a593-8a994fd402ad"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Emperor Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/04-Morning%20Papers%20Waltz%28Morgenblaetterwalzer%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/92e23073-4b29-4f03-87ba-7f78eceeca29"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Myrtle Blossom Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/12-The%20Kiss%20Waltz%20%28Kusswalzer%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ae5bdb84-5909-4670-af48-4d2db413c1a7"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Morning Papers Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/05-Tales%20from%20the%20Vienna%20Words.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f9aff878-c7f2-45a5-8067-afd42601e4fe"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: Cagliostrowalzer</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/10-The%20Voices%20of%20Spring%20Waltz%20%28Freuhlingstimmenwalzer%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6ee7bb9b-13af-48cd-9e35-07bb00ad745c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Blue Danube Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/02-Vienna%20Bon%20Bons.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e8d05781-bffa-474d-9212-9f0d0ae40ae0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Wine, Women And Song Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/08-Vienna%20Blood%28Wiener%20Blut%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/21fc7401-ebe0-4340-9453-9480dbf9ac98"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "The Kiss Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4d48a200-7bc3-45f0-9531-9701236c0a25"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Vienna Blood"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/09-Cagliostrowalzer.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d8f358d1-2539-4a9f-b115-7e34dbea1d1b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "The Voices Of Spring Waltz"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4ea7b3d5-87ff-4ff2-a000-21303524aee5"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Tales From The Vienna Woods"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/06-The%20Artist%27s%20Life%20Waltz%28Kuenstlerlebenwalzer%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/194499d6-d8d0-4453-b82a-df14cb29a57b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "You And You Waltz"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/The%20Vienna%20Symphony%20Orchestra%2C%20Robert%20Stolz/13-You%20and%20You%20Waltz%28Du%20and%20Du%29.wav"/>
   </rdf:Description>
 </rdf:RDF>

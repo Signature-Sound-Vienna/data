@@ -4,46 +4,55 @@
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#1> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/02-Radetzky%20Marsch%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2fca1418-839a-44a1-95d1-a73a9174f272> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#2> a ns1:Track ;
     rdfs:label "Track: \"Radetzky Marsch - Johann Strauss I\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/03-Wiener%20Blut%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/9df0616a-e855-4bd1-858d-ca16e09b4af4> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#3> a ns1:Track ;
     rdfs:label "Track: \"Wiener Blut - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/04-Fr%C3%BChlingsstimmen%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2634a0dd-dbbb-47b1-9ea4-fe10d93a14e7> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#4> a ns1:Track ;
     rdfs:label "Track: \"Frühlingsstimmen - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/05-Annen-Polka%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/3bc8d9e5-84f1-4ca7-a96a-f53ce1f5ca24> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#5> a ns1:Track ;
     rdfs:label "Track: \"Annen-Polka - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/06-Wein%2C%20Weib%20und%20Gesang%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/75b6d95f-86f2-4b93-a482-f78647c50567> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#6> a ns1:Track ;
     rdfs:label "Track: \"Wein, Weib und Gesang - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/07-Tritsch-Tratsch-Polka%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/915c2dda-8772-4646-859b-4a3379007f4b> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#7> a ns1:Track ;
     rdfs:label "Track: \"Tritsch-Tratsch-Polka - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/08-Geschichten%20aus%20dem%20Wiener%20Wald%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/430df1d4-fc0e-462a-a8c8-bab749a5b7ac> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#8> a ns1:Track ;
     rdfs:label "Track: \"Geschichten aus dem Wiener Wald - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/09-Aus%20_Leichte%20Kavallerie_%20-%20Franz%20von%20Supp%C3%A8.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/4fb8bd42-7897-4e2c-a2f6-d356ae793417> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29#9> a ns1:Track ;
     rdfs:label "Track: \"Aus 'Leichte Kavallerie' - Franz von Suppè\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper%2C%20Staatsoper%2C%20Orchestre-Radio-Symphonique%20%282004%2C%20Souvenirs%20from%20Vienna%29/09-Aus%20_Leichte%20Kavallerie_%20-%20Franz%20von%20Supp%C3%A8.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/fd0b515b-993e-4431-9551-1df0a75cce41> ;
     ns1:track_number 9 .
 

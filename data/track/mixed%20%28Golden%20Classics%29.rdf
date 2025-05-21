@@ -4,64 +4,76 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Vater - Seufzer-Galopp (Claudio Abbado) 1991"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Josef Strauß - Ohne Sorgen (Lorin Maazel) 1981"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Sohn - G'Schichten aus dem Wienerwald (Lorin Maazel) 1983"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Sohn - An der schönen blauen Donau (Herbert von Karajan) 1987"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Johann Strauß, Sohn - Auf Ferienreisen (Claudio Abbado) 1988"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Sohn - Kaiserwalzer (Claudio Abbado) 1991"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Vater - Seufzer-Galopp (Claudio Abbado) 1991"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Josef Strauß - Ohne Sorgen (Lorin Maazel) 1981"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Josef Strauß - Aquarellen (Claudio Abbado) 1991"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Sohn - An der schönen blauen Donau (Herbert von Karajan) 1987"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Sohn - Unter Donner und Blitz (Lorin Maazel) 1983"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Sohn - Tritsch-Tratsch-Polka (Lorin Maazel) 1981"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Johann und Josef Strauß - Pizzicato-Polka (Herbert von Karajan) 1987"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Sohn - Kaiserwalzer (Claudio Abbado) 1991"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Johann Strauß, Sohn - Die Fledermaus (Herbert von Karajan) 1987"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Sohn - G'Schichten aus dem Wienerwald (Lorin Maazel) 1983"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Johann und Josef Strauß - Pizzicato-Polka (Herbert von Karajan) 1987"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Sohn - Tritsch-Tratsch-Polka (Lorin Maazel) 1981"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Johann Strauß, Sohn - Unter Donner und Blitz (Lorin Maazel) 1983"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed%20%28Golden%20Classics%29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
 </rdf:RDF>

@@ -4,57 +4,71 @@
 
 <https://w3id.org/ssv/0.9/data/track/1999#1> a ns1:Track ;
     rdfs:label "Track: \"Sinngedichte, op.1 - Walzer - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#10> a ns1:Track ;
     rdfs:label "Track: \"Banditen-Galopp, op.378 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#11> a ns1:Track ;
     rdfs:label "Track: \"Unter Donner und Blitz, op.324 - Polka schnell - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#12> a ns1:Track ;
     rdfs:label "Track: \"Perpetuum Mobile, op.257 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#13> a ns1:Track ;
     rdfs:label "Track: \"An der schönen, blauen Donau, op.314 - Walzer - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 13 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#14> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch, op.228 - Johann Strauss I\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 14 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#2> a ns1:Track ;
     rdfs:label "Track: \"Scherz-Polka, op.72 - Johann Strauss II [violin & orchestra]\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#3> a ns1:Track ;
     rdfs:label "Track: \"Furioso-Galopp (nach Franz Liszt), op.114 - Johann Strauss I\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#4> a ns1:Track ;
     rdfs:label "Track: \"Geschichten aus dem Wienerwald, op.325 - Walzer - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#5> a ns1:Track ;
     rdfs:label "Track: \"Tritsch-Tratsch-Polka, op.214 - Polka schnell - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#6> a ns1:Track ;
     rdfs:label "Track: \"Donauweibchen, op.427 - Walzer - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#7> a ns1:Track ;
     rdfs:label "Track: \"Hopser Polka, op.28 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#8> a ns1:Track ;
     rdfs:label "Track: \"Walzer á la Paganini, op.11 - Johann Strauss I [violin & orchestra]\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/1999#9> a ns1:Track ;
     rdfs:label "Track: \"Künstlerleben, op.316 - Walzer - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/14-Radetzky%20March%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav> ;
     ns1:track_number 9 .
 

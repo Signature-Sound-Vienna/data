@@ -4,13 +4,16 @@
 
 <https://w3id.org/ssv/0.9/data/track/1998%2FCD2#1> a ns1:Track ;
     rdfs:label "Track: \"Nur fort!, op383 - Polka schnell - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1998%2FCD2#2> a ns1:Track ;
     rdfs:label "Track: \"An der schnen blauen Donau, op.314 - Walzer - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1998%2FCD2#3> a ns1:Track ;
     rdfs:label "Track: \"Radetzky Marsch, op.228 - Johann Strauss I\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav> ;
     ns1:track_number 3 .
 

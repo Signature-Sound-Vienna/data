@@ -4,124 +4,144 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ac7626a1-56db-436e-ba10-4f9a34f9d22f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Unter vier Augen, Polka Mazur, op. 279"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f18e2c21-815a-4b17-875d-e7708d123d6d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Wo die Citronen blüh ́n, Walzer, op. 364"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/44af651a-33c1-4bff-a119-8bdbec627d6c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Die Spinnerin, Polka francaise, op. 192"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8f1bdc92-b04f-4766-9d99-2f01b2c6326a"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Steyrische Tänze, op. 165"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e97856d5-df96-4a48-ac1e-af56062946a6"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Kuss-Walzer, op. 400"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/03%20-%20Theater-Quadrille%2C%20op.%20213%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cd3b4a30-f543-4142-837f-843c3820e925"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Sphären-Klänge, Walzer, op. 235"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f1f3bbf5-1946-4d6f-afb3-90083b65ae11"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Don Carlo, Prestissimo, Ballettmusik Akt III"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/07%20-%20Die%20Spinnerin%2C%20Polka%20francaise%2C%20op.%20192%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d8c0a89d-d886-4a32-be5b-5f6013d11944"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Theater-Quadrille, op. 213"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3f9b8f24-bf7b-4fed-8aec-9a439716ac32"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Galoppin, Polka schnell, op. 237"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/014fa252-8639-4edb-95bf-e028dadcd43e"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Lohengrin - Vorspiel zum Dritten Aufzug"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/04%20-%20Aus%20den%20Bergen%2C%20Walzer%2C%20op.%20292%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#17">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e8fef485-e2e0-4dd0-b746-edd97ee1bac7"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
     <rdfs:label>Track: "Plappermäulchen, Polka schnell, op. 245"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#20">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b8cdd3bb-2dbe-4bca-8e3e-6becd6668e93"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
-    <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#16">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fabee8e6-5a33-433d-a33d-2bb53ce09f06"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
-    <rdfs:label>Track: "Erinnerung an Ernst (Der Carneval in Venedig), Fantasie, op. 126"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/abbe44f7-aee6-4e51-91b1-0d9045d6f582"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Die Soubrette, Polka schnell, op. 109"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f5f04531-a215-440f-9e68-bfec7427f42d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau, Walzer, op. 314"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5107386b-34ea-4c43-a8ee-ca1841ef17cf"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Melodien-Quadrille, op. 112"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/17%20-%20Plapperm%C3%A4ulchen%2C%20Polka%20schnell%2C%20op.%20245%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/81b351c6-78e1-49f8-98ca-b54bc69b7809"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Aus den Bergen, Walzer, op. 292"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/05%20-%20Leichte%20Kavallerie%2C%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f5f04531-a215-440f-9e68-bfec7427f42d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau, Walzer, op. 314"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/abbe44f7-aee6-4e51-91b1-0d9045d6f582"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Die Soubrette, Polka schnell, op. 109"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/02%20-%20Kuss-Walzer%2C%20op.%20400%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3f9b8f24-bf7b-4fed-8aec-9a439716ac32"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Galoppin, Polka schnell, op. 237"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/12%20-%20Steyrische%20T%C3%A4nze%2C%20op.%20165%20-%20Josef%20Lanner.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ac7626a1-56db-436e-ba10-4f9a34f9d22f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Unter vier Augen, Polka Mazur, op. 279"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/10%20-%20Hesperusbahnen%2C%20Walzer%2C%20op.%20279%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f4001089-08f9-4ae1-bf73-8a07777b7c12"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Hesperusbahnen, Walzer, op. 279"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/11%20-%20Galoppin%2C%20Polka%20schnell%2C%20op.%20237%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/67431919-f922-4c61-b10e-d8b27fdb2e45"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Leichte Kavallerie, Ouvertüre"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f18e2c21-815a-4b17-875d-e7708d123d6d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Wo die Citronen blüh ́n, Walzer, op. 364"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/16%20-%20Erinnerung%20an%20Ernst%20%28Der%20Carneval%20in%20Venedig%29%2C%20Fantasie%2C%20op.%20126%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e97856d5-df96-4a48-ac1e-af56062946a6"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Kuss-Walzer, op. 400"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5107386b-34ea-4c43-a8ee-ca1841ef17cf"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Melodien-Quadrille, op. 112"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/14%20-%20Don%20Carlo%2C%20Prestissimo%2C%20Ballettmusik%20Akt%20III%20-%20Giuseppe%20Verdi.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fabee8e6-5a33-433d-a33d-2bb53ce09f06"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
+    <rdfs:label>Track: "Erinnerung an Ernst (Der Carneval in Venedig), Fantasie, op. 126"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/17%20-%20Plapperm%C3%A4ulchen%2C%20Polka%20schnell%2C%20op.%20245%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#18">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7114fedb-a1cf-48e5-a2a5-ebf9b5a301d6"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
     <rdfs:label>Track: Neujahrsgruß</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/18%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f1f3bbf5-1946-4d6f-afb3-90083b65ae11"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Don Carlo, Prestissimo, Ballettmusik Akt III"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/15%20-%20Wo%20die%20Citronen%20bl%C3%BCh%C2%B4n%2C%20Walzer%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8f1bdc92-b04f-4766-9d99-2f01b2c6326a"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Steyrische Tänze, op. 165"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/13%20-%20Melodien-Quadrille%2C%20op.%20112%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#20">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b8cdd3bb-2dbe-4bca-8e3e-6becd6668e93"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/44af651a-33c1-4bff-a119-8bdbec627d6c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Die Spinnerin, Polka francaise, op. 192"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/08%20-%20Lohengrin%20-%20Vorspiel%20zum%20Dritten%20Aufzug%20-%20Richard%20Wagner.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/67431919-f922-4c61-b10e-d8b27fdb2e45"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Leichte Kavallerie, Ouvertüre"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/06%20-%20Sph%C3%A4ren-Kl%C3%A4nge%2C%20Walzer%2C%20op.%20235%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2013#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/014fa252-8639-4edb-95bf-e028dadcd43e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Lohengrin - Vorspiel zum Dritten Aufzug"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2013/09%20-%20Unter%20vier%20Augen%2C%20Polka%20Mazur%2C%20op.%20279%20-%20Joseph%20Hellmesberger%20II.wav"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,97 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619808"
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619810"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#8"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619803"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#3"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619813"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#13"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619812"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619806"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619805"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10"
       }
     ]
   },
@@ -112,66 +32,82 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619801"
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619812"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#12"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619810"
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619803"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#3"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619814"
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619807"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#7"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619804"
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619806"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619813"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#13"
       }
     ]
   },
@@ -192,6 +128,22 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619804"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#4"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -208,18 +160,66 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/isrc": [
       {
-        "@id": "https://musicbrainz.org/isrc/ATAQ61619807"
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619805"
       }
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619814"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619801"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/ATAQ61619808"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#8"
       }
     ]
   }

@@ -1,37 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEU240410491"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/DEU240410489"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -60,6 +28,38 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEU240410491"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/DEU240410489"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%205%20-%20Bruckner%20Symphony%20No.%207#1"
       }
     ]
   }

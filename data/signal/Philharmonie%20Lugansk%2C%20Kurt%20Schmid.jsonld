@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -11,39 +11,7 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/000000000000"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/000000000000"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8"
       }
     ]
   },
@@ -64,7 +32,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -75,71 +43,7 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/000000000000"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/000000000000"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/000000000000"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/isrc": [
-      {
-        "@id": "https://musicbrainz.org/isrc/000000000000"
-      }
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2"
       }
     ]
   },
@@ -160,7 +64,7 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
@@ -171,7 +75,55 @@
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/000000000000"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/000000000000"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/000000000000"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6"
       }
     ]
   },
@@ -192,6 +144,38 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/000000000000"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/000000000000"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -204,6 +188,22 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/isrc": [
+      {
+        "@id": "https://musicbrainz.org/isrc/000000000000"
+      }
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7"
       }
     ]
   }

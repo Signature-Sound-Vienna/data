@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -17,26 +22,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Bluette, Polka française  op. 271 - Johann Strauss II\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -51,19 +44,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Hofballtänze, Walzer op. 298 - Johann Strauss II\""
+        "@value": "Track: \"Motoren, Walzer op. 265 - Johann Strauss II\""
       }
     ]
   },
@@ -71,6 +69,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -85,9 +88,58 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Bluette, Polka française  op. 271 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Hofballtänze, Walzer op. 298 - Johann Strauss II\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -98,23 +150,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Carrière, Polka schnell op.200 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1997%2FCD1#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Motoren, Walzer op. 265 - Johann Strauss II\""
       }
     ]
   }

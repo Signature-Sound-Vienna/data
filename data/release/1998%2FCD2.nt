@@ -1,9 +1,9 @@
 <https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"Neujahrskonzert 1998 - Zubin Mehta\"" .
-<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"Neujahrskonzert 1998 - Zubin Mehta\"" .
 <https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/dc/terms/title> "\"Neujahrskonzert 1998 - Zubin Mehta\"" .
-<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1998%2FCD2#2> .
-<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1998%2FCD2#1> .
-<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
-<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
 <https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/0.9/data/record/1998%2FCD2> .
 <https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1998%2FCD2#3> .
+<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
+<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"Neujahrskonzert 1998 - Zubin Mehta\"" .
+<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1998%2FCD2#2> .
+<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
+<https://w3id.org/ssv/0.9/data/release/1998%2FCD2> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/0.9/data/signal/1998%2FCD2#1> .

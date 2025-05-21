@@ -1,8 +1,35 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"IV. Presto. Allegro assai. Presto. \"Oh, Freunde, nicht diese Töne\", Allegro assai.\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"
+      }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
@@ -21,6 +48,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -38,6 +70,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven/04-IV.%20Presto.%20Allegro%20assai.%20Presto.%20_Oh%2C%20Freunde%2C%20nicht%20diese%20T%C3%B6ne_%2C%20Allegro%20assai.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -47,23 +84,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"II. Molto vivacel. Presto.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29%2FCD%203%20-%20Beethoven#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"IV. Presto. Allegro assai. Presto. \"Oh, Freunde, nicht diese Töne\", Allegro assai.\""
       }
     ]
   }

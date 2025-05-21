@@ -1,80 +1,100 @@
-<https://w3id.org/ssv/0.9/data/track/2007#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d58a2a41-ba42-4866-b7a9-b823c93a485d> .
-<https://w3id.org/ssv/0.9/data/track/2007#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f34982e6-d49f-41cb-a0a7-5f647dacbf79> .
-<https://w3id.org/ssv/0.9/data/track/2007#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c79ebc32-c4eb-4b49-8884-7165bf9ef95b> .
-<https://w3id.org/ssv/0.9/data/track/2007#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Irenen-Polka, op. 113\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/2007#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/adef7e79-7ee3-4dc0-a338-cd2d2bacf242> .
-<https://w3id.org/ssv/0.9/data/track/2007#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0a896241-4f20-4dc0-8610-931d84c88625> .
-<https://w3id.org/ssv/0.9/data/track/2007#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Elfenreigen, Charakterstück\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichtfüssig, Polka schnell\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2e8394f3-80a1-4137-be44-2f701332cd74> .
-<https://w3id.org/ssv/0.9/data/track/2007#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a6bc4971-00f6-432d-a7ef-6f99539d9d97> .
-<https://w3id.org/ssv/0.9/data/track/2007#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Zivio!, Marsch, op. 456\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Opening Credits/ Vorspann\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Moulinet-Polka, op. 57\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bc7a4ac4-1be1-4f06-af7f-18c86d008599> .
-<https://w3id.org/ssv/0.9/data/track/2007#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/acd6aa11-608e-48aa-ae89-2d68c0fc008f> .
-<https://w3id.org/ssv/0.9/data/track/2007#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Bremse, Polka schnell, op. 238\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Erinnerungen an Ernst od. Der Karneval von Venedig, Fantasie, op. 126\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stadt und Land, Polka mazur, op. 322\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/18f4cdd9-72c9-46bd-bea5-e0276c5dd070> .
-<https://w3id.org/ssv/0.9/data/track/2007#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau, Walzer, op. 314\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Furioso-Galopp, op. 114\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/41d805ba-e725-40c5-8633-2e767d475731> .
-<https://w3id.org/ssv/0.9/data/track/2007#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f171d9e5-9b11-40fe-9ba0-74f2884dfe6a> .
-<https://w3id.org/ssv/0.9/data/track/2007#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"New Year ́s Address/ Neujahrsgruß\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d6ce3854-e0cf-45c0-bb43-fc1c5fff3905> .
-<https://w3id.org/ssv/0.9/data/track/2007#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/30099f47-1506-4252-be39-a7204d902d3c> .
-<https://w3id.org/ssv/0.9/data/track/2007#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Flattergeister, Walzer, op. 62\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8fd4fc59-95bb-47d5-ad18-e62813381068> .
-<https://w3id.org/ssv/0.9/data/track/2007#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/821a3e6b-76a5-4c39-94e0-088f19663766> .
-<https://w3id.org/ssv/0.9/data/track/2007#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre zu der Operette 'Waldmeister'\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Matrosen-Polka, op. 52\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b085c16b-656c-4603-ad68-3adfbb01e833> .
-<https://w3id.org/ssv/0.9/data/track/2007#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dynamiden, Walzer, op. 173\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Einzugs-Galopp, op. 35\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Delirien, Walzer, op. 212\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2007#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wo die Zitronen blüh'n, Walzer, op. 364\"" .
-<https://w3id.org/ssv/0.9/data/track/2007#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/17be9049-ce34-457f-a4ab-e64f2e4b6fab> .
-<https://w3id.org/ssv/0.9/data/track/2007#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2007#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/1cddce2c-51bf-40d3-9efc-b3d728e5dc99> .
 <https://w3id.org/ssv/0.9/data/track/2007#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/05%20-%20Delirien%2C%20Walzer%2C%20op.%20212%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Irenen-Polka, op. 113\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/15%20-%20Furioso-Galopp%2C%20op.%20114%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Flattergeister, Walzer, op. 62\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/18f4cdd9-72c9-46bd-bea5-e0276c5dd070> .
+<https://w3id.org/ssv/0.9/data/track/2007#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Matrosen-Polka, op. 52\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/11%20-%20Stadt%20und%20Land%2C%20Polka%20mazur%2C%20op.%20322%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Einzugs-Galopp, op. 35\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Opening Credits/ Vorspann\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dynamiden, Walzer, op. 173\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/13%20-%20Dynamiden%2C%20Walzer%2C%20op.%20173%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/2007#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/460ddc86-d6bd-451c-9ae9-36501f1cbff1> .
+<https://w3id.org/ssv/0.9/data/track/2007#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8fd4fc59-95bb-47d5-ad18-e62813381068> .
+<https://w3id.org/ssv/0.9/data/track/2007#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/07%20-%20Ouvert%C3%BCre%20zu%20der%20Operette%20%27Waldmeister%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/30099f47-1506-4252-be39-a7204d902d3c> .
+<https://w3id.org/ssv/0.9/data/track/2007#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/02%20-%20Flattergeister%2C%20Walzer%2C%20op.%2062%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/10%20-%20Ohne%20Bremse%2C%20Polka%20schnell%2C%20op.%20238%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Erinnerungen an Ernst od. Der Karneval von Venedig, Fantasie, op. 126\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau, Walzer, op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Furioso-Galopp, op. 114\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2e8394f3-80a1-4137-be44-2f701332cd74> .
+<https://w3id.org/ssv/0.9/data/track/2007#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/14%20-%20Erinnerungen%20an%20Ernst%20od.%20Der%20Karneval%20von%20Venedig%2C%20Fantasie%2C%20op.%20126%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Zivio!, Marsch, op. 456\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a6bc4971-00f6-432d-a7ef-6f99539d9d97> .
+<https://w3id.org/ssv/0.9/data/track/2007#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/04%20-%20Elfenreigen%2C%20Charakterst%C3%BCck%20-%20Joseph%20Hellmesberger%20jr..wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre zu der Operette 'Waldmeister'\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/17be9049-ce34-457f-a4ab-e64f2e4b6fab> .
+<https://w3id.org/ssv/0.9/data/track/2007#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Bremse, Polka schnell, op. 238\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/1cddce2c-51bf-40d3-9efc-b3d728e5dc99> .
+<https://w3id.org/ssv/0.9/data/track/2007#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/12%20-%20Matrosen-Polka%2C%20op.%2052%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Delirien, Walzer, op. 212\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Elfenreigen, Charakterstück\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0a896241-4f20-4dc0-8610-931d84c88625> .
+<https://w3id.org/ssv/0.9/data/track/2007#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c79ebc32-c4eb-4b49-8884-7165bf9ef95b> .
+<https://w3id.org/ssv/0.9/data/track/2007#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/16%20-%20Leichtf%C3%BCssig%2C%20Polka%20schnell%20-%20Joseph%20Hellmesberger%20jr..wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wo die Zitronen blüh'n, Walzer, op. 364\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f34982e6-d49f-41cb-a0a7-5f647dacbf79> .
+<https://w3id.org/ssv/0.9/data/track/2007#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/08%20-%20Irenen-Polka%2C%20op.%20113%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/16%20-%20Leichtf%C3%BCssig%2C%20Polka%20schnell%20-%20Joseph%20Hellmesberger%20jr..wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/03%20-%20Moulinet-Polka%2C%20op.%2057%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichtfüssig, Polka schnell\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d6ce3854-e0cf-45c0-bb43-fc1c5fff3905> .
+<https://w3id.org/ssv/0.9/data/track/2007#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bc7a4ac4-1be1-4f06-af7f-18c86d008599> .
+<https://w3id.org/ssv/0.9/data/track/2007#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/821a3e6b-76a5-4c39-94e0-088f19663766> .
+<https://w3id.org/ssv/0.9/data/track/2007#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/01%20-%20Zivio%21%2C%20Marsch%2C%20op.%20456%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d58a2a41-ba42-4866-b7a9-b823c93a485d> .
+<https://w3id.org/ssv/0.9/data/track/2007#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/06%20-%20Einzugs-Galopp%2C%20op.%2035%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/acd6aa11-608e-48aa-ae89-2d68c0fc008f> .
+<https://w3id.org/ssv/0.9/data/track/2007#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"New Year ́s Address/ Neujahrsgruß\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2007#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f171d9e5-9b11-40fe-9ba0-74f2884dfe6a> .
+<https://w3id.org/ssv/0.9/data/track/2007#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Moulinet-Polka, op. 57\"" .
+<https://w3id.org/ssv/0.9/data/track/2007#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2007#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b085c16b-656c-4603-ad68-3adfbb01e833> .
+<https://w3id.org/ssv/0.9/data/track/2007#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/41d805ba-e725-40c5-8633-2e767d475731> .
+<https://w3id.org/ssv/0.9/data/track/2007#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/17%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2007/09%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%27n%2C%20Walzer%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2007#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stadt und Land, Polka mazur, op. 322\"" .

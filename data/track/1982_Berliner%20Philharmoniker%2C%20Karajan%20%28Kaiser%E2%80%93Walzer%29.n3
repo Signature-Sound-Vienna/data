@@ -4,29 +4,36 @@
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#1> a ns1:Track ;
     rdfs:label "Track: \"Kaiser–Walzer, op. 437\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#2> a ns1:Track ;
     rdfs:label "Track: \"Tritsch–Tratsch–Polka, op. 214\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#3> a ns1:Track ;
     rdfs:label "Track: \"Rosen aus dem Süden, op. 388: Waltzer\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#4> a ns1:Track ;
     rdfs:label "Track: \"»Der Zigeunerbaron«: Ouvertüre\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#5> a ns1:Track ;
     rdfs:label "Track: \"Annen–Polka, op. 117: Polka française\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#6> a ns1:Track ;
     rdfs:label "Track: \"Wein, Weib, Gesang, op. 333: Walzer\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1982_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> a ns1:Track ;
     rdfs:label "Track: \"Auf der Jagd, op. 373: Polka schnell\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
     ns1:track_number 7 .
 

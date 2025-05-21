@@ -4,104 +4,124 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Olga-polka, Op. 196"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Abschied Von St. Petersburg, Walzer, Op. 210\\"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Vergnügungszug, Op. 281"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#17">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
-    <rdfs:label>Track: "St. Petersburg, Op. 255, `Hommage À St. Pétersburg-Quadrille`"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Russischer Marsch, Op. 426, `Marche Des Gardes À Cheval`"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Großfürstin Marsch, Op. 107"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Großfürstin Alexandra-Walzer, Op. 181"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Alexandrinen-polka, Op. 198"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Erste Liebe, Op. 14"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
-    <rdfs:label>Track: "Russische Marsch-Fantasie, Op. 353"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Pizzicato-polka"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Hofball-quadrille, Op. 116"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Persischer Marsch, Op. 289"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Großfürstin Marsch, Op. 107"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Wein, Weib Und Gesang!, Op. 333"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Bauern-Polka, Op. 276"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#16">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
-    <rdfs:label>Track: "An Der Wolga, Polka Mazurka, Op. 425"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "Krönungs-marsch, Op. 183"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
     <rdfs:label>Track: "Alexander-Quadrille, Op. 33"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Newa-Polka, Op. 288"</rdfs:label>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Bauern-Polka, Op. 276"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Russischer Marsch, Op. 426, `Marche Des Gardes À Cheval`"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Erste Liebe, Op. 14"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#18">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
     <rdfs:label>Track: "Auf Zum Tanze!, Op. 436"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "Russische Marsch-Fantasie, Op. 353"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Newa-Polka, Op. 288"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Pizzicato-polka"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Wein, Weib Und Gesang!, Op. 333"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Abschied Von St. Petersburg, Walzer, Op. 210\\"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#17">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <rdfs:label>Track: "St. Petersburg, Op. 255, `Hommage À St. Pétersburg-Quadrille`"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "Krönungs-marsch, Op. 183"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Alexandrinen-polka, Op. 198"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Olga-polka, Op. 196"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Hofball-quadrille, Op. 116"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Vergnügungszug, Op. 281"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
+    <rdfs:label>Track: "An Der Wolga, Polka Mazurka, Op. 425"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Persischer Marsch, Op. 289"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29/20-Alexander-Quadrille%2C%20Op.%2033.wav"/>
   </rdf:Description>
 </rdf:RDF>

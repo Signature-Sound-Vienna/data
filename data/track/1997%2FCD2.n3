@@ -4,49 +4,61 @@
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#1> a ns1:Track ;
     rdfs:label "Track: \"Ouverture zu \"Leichte Kavallerie\" - Franz von Suppé\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#10> a ns1:Track ;
     rdfs:label "Track: \"Eingesendet, Polka schnell op. 240 - Josef Strauss\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#11> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, Walzer op. 314 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#12> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#2> a ns1:Track ;
     rdfs:label "Track: \"Freuet euch des Lebens, Walzer op. 340 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#3> a ns1:Track ;
     rdfs:label "Track: \"Patronessen, Polka française op. 286 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#4> a ns1:Track ;
     rdfs:label "Track: \"Leichtfüßig, Polka schnell - Joseph Hellmesberger\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#5> a ns1:Track ;
     rdfs:label "Track: \"Neue-Pizzicato-Polka op. 449 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#6> a ns1:Track ;
     rdfs:label "Track: \"Fata Morgana, Polka mazur op. 330 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#7> a ns1:Track ;
     rdfs:label "Track: \"Russicher Marsch op. 426 - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#8> a ns1:Track ;
     rdfs:label "Track: \"Dynamiden, Walzer op. 173 - Josef Strauss\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/1997%2FCD2#9> a ns1:Track ;
     rdfs:label "Track: \"Vorwärts!, Polka schnell op, 127 - Josef Strauss\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav> ;
     ns1:track_number 9 .
 

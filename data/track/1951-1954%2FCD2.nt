@@ -1,48 +1,64 @@
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Annen-Polka, Op.117\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_An der Schonen Blauen Donau, Op.314, Walzer\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss I_Radetzky Marsch, Op.228\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Ritter Pásmán - Csárdás, Op.441\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Moulinet, Op.57, Polka\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Ohne Sorgen, Op.271, Polka schnell\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Dorfschwalben aus Osterreich, Op.164, Walzer\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Perpetuum Mobile, Op.257\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Plappermäulchen, Op.245, Polka schnell\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Stadt und Land, Op.322, Polka-Mazurka\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Sphärenklänge, Op.235, Walzer\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Feuerfest!, Op.269, Polka schnell\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Bei uns z' Haus, Op.361, Walzer\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Auf der Jagd, Op.373, Polka schnell\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Auf Ferienreisen!, Op.133\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Morgenblätter, Op.279, Walzer\"" .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_An der Schonen Blauen Donau, Op.314, Walzer\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Ritter Pásmán - Csárdás, Op.441\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Dorfschwalben aus Osterreich, Op.164, Walzer\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Sphärenklänge, Op.235, Walzer\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Morgenblätter, Op.279, Walzer\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Annen-Polka, Op.117\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Feuerfest!, Op.269, Polka schnell\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Bei uns z' Haus, Op.361, Walzer\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Plappermäulchen, Op.245, Polka schnell\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Ohne Sorgen, Op.271, Polka schnell\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Stadt und Land, Op.322, Polka-Mazurka\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Auf Ferienreisen!, Op.133\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Josef Strauss_Moulinet, Op.57, Polka\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss I_Radetzky Marsch, Op.228\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Strauss II_Perpetuum Mobile, Op.257\"" .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss/03-Metamorphosen.wav> .
+<https://w3id.org/ssv/0.9/data/track/1951-1954%2FCD2#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
