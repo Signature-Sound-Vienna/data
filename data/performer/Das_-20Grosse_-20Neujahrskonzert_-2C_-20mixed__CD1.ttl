@@ -1,0 +1,10 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performer/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> a ns1:MusicArtist ;
+    rdfs:label "Performer: \"Johann Strauss II\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a> ;
+    ns1:performed <https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> ;
+    foaf:name "\"Johann Strauss II\"" .
+

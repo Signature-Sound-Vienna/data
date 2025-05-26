@@ -1,0 +1,63 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"The Perfect Strauss\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"The Perfect Strauss\""
+      },
+      {
+        "@value": "Record: \"The Perfect Strauss\""
+      }
+    ]
+  }
+]

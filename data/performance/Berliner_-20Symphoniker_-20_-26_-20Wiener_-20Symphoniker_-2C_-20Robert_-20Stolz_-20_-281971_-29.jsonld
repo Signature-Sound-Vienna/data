@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performance/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/8be951cd-753a-302b-80a7-268420ac2c13"
+      }
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#17"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: \"Liebeslieder-Walzer, Op. 114\""
+      }
+    ]
+  }
+]

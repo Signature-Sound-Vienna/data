@@ -1,0 +1,8 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performance/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9> a ns1:Performance ;
+    rdfs:label "Performance: \"Aus 'Leichte Kavallerie' - Franz von Suppè\"" ;
+    ns1:performance_of <http://musicbrainz.org/work/c2ba34ac-5095-3636-8ab7-5407adb56f4e> ;
+    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9> .
+

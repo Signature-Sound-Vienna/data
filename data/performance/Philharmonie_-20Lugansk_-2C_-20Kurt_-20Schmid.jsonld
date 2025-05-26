@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performance/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/6763c20d-f2df-3347-8a0e-7abad42a5a56"
+      }
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: \"An der schönen blauen Donau\""
+      }
+    ]
+  }
+]

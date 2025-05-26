@@ -1,0 +1,8 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performance/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13> a ns1:Performance ;
+    rdfs:label "Performance: \"You And You Waltz\"" ;
+    ns1:performance_of <http://musicbrainz.org/work/0d9e25d6-cdc5-4201-9099-82dd6f0be680> ;
+    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13> .
+

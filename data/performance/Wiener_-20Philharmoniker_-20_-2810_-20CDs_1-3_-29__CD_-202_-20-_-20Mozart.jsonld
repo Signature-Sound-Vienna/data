@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performance/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-202_-20-_-20Mozart#61",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-202_-20-_-20Mozart#61"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: Metamorphosen"
+      }
+    ]
+  }
+]

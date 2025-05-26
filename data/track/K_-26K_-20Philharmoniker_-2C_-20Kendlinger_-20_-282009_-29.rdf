@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7f16fbb0-5fd9-4037-a597-f1ab174b5a75"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Neue Pizzicato-Polka op. 449, aus 'Fürstin Ninetta'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/05-Neue%20Pizzicato-Polka%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/831f1720-a86a-4294-a65d-7ab8346ddad2"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Frühlingsstimmen op. 410, Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/04-Fr%C3%BChlingsstimmen%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dd301510-68b8-4a1d-8ae5-208554a9b0b8"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/11-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b5cdc688-903d-4da9-9113-bc6cd04760e5"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Schwipslied der Annina aus 'Eine Nacht in Venedig'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/08-Schwipslied%20der%20Annina%20aus%20_Eine%20Nacht%20in%20Venedig_%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/486d587d-7686-49bd-b6dd-b8e413da4c5f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "An der schönen, blauen Donau op. 314, Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/10-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/170f1e0f-82aa-479a-96cc-92a23dda500d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Feuerfest op. 269, Polka francaise"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/06-Feuerfest%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/19130a84-7605-4a2c-9ad7-cfed09121afb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Deutscher Union-Marsch op. 146"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/03-Deutscher%20Union-Marsch%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a9d7015c-529f-4451-b084-64cabef0eba2"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Par force! op. 308"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/09-Par%20force%21%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/45cfffbd-d0fe-489f-9432-faefd5eb47c6"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Ouvertüre zu 'Eine Nacht in Venedig'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/07-Ouvert%C3%BCre%20zu%20_Eine%20Nacht%20in%20Venedig_%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/056c7853-d898-41cc-a4cb-fd8c5e003fb3"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Ouvertüre zu 'Der Zigeunerbaron'"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b06deb1d-4c51-47d0-a108-d3e6971cd57e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "G ́schichten aus dem Wienerwald op. 325, Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29/02-G%C2%B4schichten%20aus%20dem%20Wienerwald%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+</rdf:RDF>

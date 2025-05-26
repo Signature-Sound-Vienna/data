@@ -4,36 +4,6 @@
    xmlns:ns2="https://w3id.org/ssv/0.9/data/vocab#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#8">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/8.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#4">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/4.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#3">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/3.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#5">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#7">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#2">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/2.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#9">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/9.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
@@ -43,6 +13,36 @@
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/6.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#7">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/7.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#5">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/5.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#3">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/3.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#2">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/2.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#4">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/4.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#8">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/8.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>

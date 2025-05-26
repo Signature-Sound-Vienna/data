@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26"/>
+    <rdfs:label>Performance: "Finlandia, op. 26"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

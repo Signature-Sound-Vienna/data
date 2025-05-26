@@ -1,32 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/04-Morgenbl%C3%A4tter%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5d4aeb17-7e69-4794-a93f-91354a27e4a9"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morgenblätter (Johann-Strauß-Orchester Wien, Francek)\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -54,132 +27,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/02-Wein%2C%20Weib%20ud%20Gesang%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/04-Morgenbl%C3%A4tter%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/61236c91-96bb-4272-b662-f061b1da034e"
+        "@id": "https://musicbrainz.org/track/5d4aeb17-7e69-4794-a93f-91354a27e4a9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wein, Weib ud Gesang (Johann-Strauß-Orchester Wien, Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/03-Eljen%20a%20Magyar%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5cb2f564-a6df-4c81-9c8d-9ed0efdd2e1e"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eljen a Magyar (Johann-Strauß-Orchester Wien, Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/06-G%27schichten%20aus%20dem%20Wienerwald%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2d1d2a41-3bb3-4840-bfbe-87a62ef7a1cf"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald (Johann-Strauß-Orchester Wien, Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/05-Cagliostro%20in%20Wien%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5705c069-b73e-41c2-9cba-d7c4e878e0c1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Cagliostro in Wien (Johann-Strauß-Orchester Wien, Francek)\""
+        "@value": "Track: \"Morgenblätter (Johann-Strauß-Orchester Wien, Francek)\""
       }
     ]
   },
@@ -211,6 +81,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/03-Eljen%20a%20Magyar%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5cb2f564-a6df-4c81-9c8d-9ed0efdd2e1e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen a Magyar (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -234,6 +131,109 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Delirien (Royal Philharmonic Orchestra, Norman Shetler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/06-G%27schichten%20aus%20dem%20Wienerwald%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2d1d2a41-3bb3-4840-bfbe-87a62ef7a1cf"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/02-Wein%2C%20Weib%20ud%20Gesang%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/61236c91-96bb-4272-b662-f061b1da034e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wein, Weib ud Gesang (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/05-Cagliostro%20in%20Wien%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5705c069-b73e-41c2-9cba-d7c4e878e0c1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Cagliostro in Wien (Johann-Strauß-Orchester Wien, Francek)\""
       }
     ]
   }

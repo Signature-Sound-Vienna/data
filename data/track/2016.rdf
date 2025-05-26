@@ -4,11 +4,25 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#18">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/81913b3a-ed04-4802-8dbc-4991f7d4d495"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
+    <rdfs:label>Track: "Kaiser-Walzer, op. 437"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/17%20-%20Kaiser-Walzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5f1a7243-e783-4259-b256-8749f594a4e2"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: Vorspann</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a2fd7577-d389-4801-8f4c-06b7728f6eb8"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: Ballszene</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/14%20-%20Ballszene%20-%20Josef%20Hellmesberger%20I.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -17,40 +31,19 @@
     <rdfs:label>Track: "Sphärenklänge, op. 235"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/09%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f025a79b-f871-4334-acc0-18d4485b8e5c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Auf Ferienreisen, op. 133"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/11%20-%20Auf%20Ferienreisen%2C%20op.%20133%20-%20Josef%20Strauss.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c0fa00ea-6aef-4afb-88d7-fde7173cfa54"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: Espana</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/13%20-%20Espana%20-%20%C3%89mile%20Waldteufel.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#19">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/87ba0fc4-3e6b-431b-8eab-4eb1053623a7"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Schatz-Walzer, op. 418"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/02%20-%20Schatz-Walzer%2C%20op.%20418%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#24">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b1a0f34b-2aef-46d4-82e1-4ca05f1bb533"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:track_number>
-    <rdfs:label>Track: Credits</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/281b6be0-1ebd-49cd-a8d1-3c4e95977f03"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Vergnügungszug, op. 281"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/04%20-%20Vergn%C3%BCgungszug%2C%20op.%20281%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#18">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/81913b3a-ed04-4802-8dbc-4991f7d4d495"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
-    <rdfs:label>Track: "Kaiser-Walzer, op. 437"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/17%20-%20Kaiser-Walzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/243e205c-0057-468a-9d2d-ad35dd00c93b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd, op. 373"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/18%20-%20Auf%20der%20Jagd%2C%20op.%20373%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -59,33 +52,33 @@
     <rdfs:label>Track: "Sängerlust, op. 328"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/10%20-%20S%C3%A4ngerlust%2C%20op.%20328%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#17">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ba274c14-b4fb-4ccb-b847-a1d481696e77"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Mit Extrapost, op. 259"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/06%20-%20Mit%20Extrapost%2C%20op.%20259%20-%20Eduard%20Strauss.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c3966d00-2cca-46f3-84ff-d784a09e2562"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <rdfs:label>Track: "Die Libelle, op. 204"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/16%20-%20Die%20Libelle%2C%20op.%20204%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/beb74fa5-000f-4161-a4ae-78f3e887463d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Violetta, op. 404"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/03%20-%20Violetta%2C%20op.%20404%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bf6239fa-0173-499b-aabc-b6ce3b190f1d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Ouvertüre aus 'Eine Nacht in Venedig'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/07%20-%20Ouvert%C3%BCre%20aus%20%27Eine%20Nacht%20in%20Venedig%27%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#23">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b766b894-0b0d-4dcd-96df-b34b8965e2ab"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
-    <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/880e0689-ebbd-4fc9-afbe-b97058ab4f5f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Entr ́acte Akt III aus 'Fürstin Ninetta'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/12%20-%20Entr%C2%B4acte%20Akt%20III%20aus%20%27F%C3%BCrstin%20Ninetta%27%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#24">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b1a0f34b-2aef-46d4-82e1-4ca05f1bb533"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</ns1:track_number>
+    <rdfs:label>Track: Credits</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c0fa00ea-6aef-4afb-88d7-fde7173cfa54"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: Espana</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/13%20-%20Espana%20-%20%C3%89mile%20Waldteufel.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -93,6 +86,20 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Weaner Mad ́ln, op. 388"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/05%20-%20Weaner%20Mad%C2%B4ln%2C%20op.%20388%20-%20Carl%20Michael%20Ziehrer.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#21">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/82228fe3-21c5-4229-85c9-46ad7fd035ee"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
+    <rdfs:label>Track: Neujahrsgruß</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/19%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f025a79b-f871-4334-acc0-18d4485b8e5c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Auf Ferienreisen, op. 133"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/11%20-%20Auf%20Ferienreisen%2C%20op.%20133%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -108,12 +115,12 @@
     <rdfs:label>Track: UNO-Marsch</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/01%20-%20UNO-Marsch%20-%20Robert%20Stolz.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/880e0689-ebbd-4fc9-afbe-b97058ab4f5f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Entr ́acte Akt III aus 'Fürstin Ninetta'"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/12%20-%20Entr%C2%B4acte%20Akt%20III%20aus%20%27F%C3%BCrstin%20Ninetta%27%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/87ba0fc4-3e6b-431b-8eab-4eb1053623a7"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Schatz-Walzer, op. 418"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/02%20-%20Schatz-Walzer%2C%20op.%20418%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#20">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -122,47 +129,19 @@
     <rdfs:label>Track: "Im Sturmschritt, op. 348"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/19%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a2fd7577-d389-4801-8f4c-06b7728f6eb8"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: Ballszene</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/14%20-%20Ballszene%20-%20Josef%20Hellmesberger%20I.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ba274c14-b4fb-4ccb-b847-a1d481696e77"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Mit Extrapost, op. 259"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/06%20-%20Mit%20Extrapost%2C%20op.%20259%20-%20Eduard%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bf6239fa-0173-499b-aabc-b6ce3b190f1d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Ouvertüre aus 'Eine Nacht in Venedig'"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/07%20-%20Ouvert%C3%BCre%20aus%20%27Eine%20Nacht%20in%20Venedig%27%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#17">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c3966d00-2cca-46f3-84ff-d784a09e2562"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
-    <rdfs:label>Track: "Die Libelle, op. 204"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/16%20-%20Die%20Libelle%2C%20op.%20204%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a0fa51ea-4150-4788-a3ab-d974ded9d00d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Außer Rand und Band, op. 168"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/08%20-%20Au%C3%9Fer%20Rand%20und%20Band%2C%20op.%20168%20-%20Eduard%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/243e205c-0057-468a-9d2d-ad35dd00c93b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd, op. 373"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/18%20-%20Auf%20der%20Jagd%2C%20op.%20373%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#21">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/82228fe3-21c5-4229-85c9-46ad7fd035ee"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
-    <rdfs:label>Track: Neujahrsgruß</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/19%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/281b6be0-1ebd-49cd-a8d1-3c4e95977f03"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Vergnügungszug, op. 281"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/04%20-%20Vergn%C3%BCgungszug%2C%20op.%20281%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#22">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -170,5 +149,26 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
     <rdfs:label>Track: "An der schönen blauen Donau, op. 314"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/beb74fa5-000f-4161-a4ae-78f3e887463d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Violetta, op. 404"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/03%20-%20Violetta%2C%20op.%20404%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#23">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b766b894-0b0d-4dcd-96df-b34b8965e2ab"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2016#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a0fa51ea-4150-4788-a3ab-d974ded9d00d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Außer Rand und Band, op. 168"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2016/08%20-%20Au%C3%9Fer%20Rand%20und%20Band%2C%20op.%20168%20-%20Eduard%20Strauss.wav"/>
   </rdf:Description>
 </rdf:RDF>

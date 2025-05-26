@@ -1,5 +1,32 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/12%20-%20Gru%C3%9F%20an%20Prag%2C%20Polka%20francaise%2C%20op.%20144%20-%20Eduard%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a9785665-8ccc-49c3-9ae8-531f80967da1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Gruß an Prag, Polka francaise, op. 144\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2022#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -27,24 +54,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#18",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/18%20-%20Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/f70bcc1a-57bf-4e15-8a2a-d2979d250f20"
+        "@id": "https://musicbrainz.org/track/7f6ee590-bc0c-4506-91c2-8df8550d7ab0"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 18
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Phönix-Marsch op. 105\""
+        "@value": "Track: \"Radetzky-Marsch op. 228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/09%20-%20Nachtschw%C3%A4rmer%2C%20Walzer%2C%20op.%20466%20-%20Carl%20Michael%20Ziehrer.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6d5d5814-940f-483a-ac94-327938f72719"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Nachtschwärmer, Walzer, op. 466\""
       }
     ]
   },
@@ -103,141 +162,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/09%20-%20Nachtschw%C3%A4rmer%2C%20Walzer%2C%20op.%20466%20-%20Carl%20Michael%20Ziehrer.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6d5d5814-940f-483a-ac94-327938f72719"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Nachtschwärmer, Walzer, op. 466\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/11%20-%20Tausend%20und%20eine%20Nacht%2C%20Walzer%2C%20op.%20346%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1ed769ec-7810-48f5-85c9-19094a191dce"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Tausend und eine Nacht, Walzer, op. 346\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/18%20-%20Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7f6ee590-bc0c-4506-91c2-8df8550d7ab0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch op. 228\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/05%20-%20Morgenbl%C3%A4tter%2C%20Walzer%2C%20op.%20279%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/33c6f100-884c-442d-9afb-2f63e8113684"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morgenblätter, Walzer, op. 279\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/10%20-%20Persischer%20Marsch%20op.%20289%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/be199064-58ab-4db3-9a36-2813ef5f259d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Persischer Marsch op. 289\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2022#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -265,56 +189,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#12",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2022/12%20-%20Gru%C3%9F%20an%20Prag%2C%20Polka%20francaise%2C%20op.%20144%20-%20Eduard%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2022/03%20-%20Die%20Sirene%2C%20Polka%20mazur%2C%20op.%20248%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/a9785665-8ccc-49c3-9ae8-531f80967da1"
+        "@id": "https://musicbrainz.org/track/9baaa751-e2bc-43ef-920f-ccfe37e3ab61"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Gruß an Prag, Polka francaise, op. 144\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/13%20-%20Heinzelm%C3%A4nnchen%2C%20Charakterst%C3%BCck%20-%20Joseph%20Hellmesberger%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c7b6fe50-9169-4c36-8ecb-3ce405d7df6d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Heinzelmännchen, Charakterstück\""
+        "@value": "Track: \"Die Sirene, Polka mazur, op. 248\""
       }
     ]
   },
@@ -346,33 +243,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2022/14%20-%20Nymphen-Polka%2C%20Polka%20francaise%2C%20op.%2050%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/8ece5b47-146d-4039-a493-d446d247922b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Nymphen-Polka, Polka francaise, op. 50\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2022#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -396,6 +266,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Sphärenklänge, Walzer, op. 235\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/13%20-%20Heinzelm%C3%A4nnchen%2C%20Charakterst%C3%BCck%20-%20Joseph%20Hellmesberger%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c7b6fe50-9169-4c36-8ecb-3ce405d7df6d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Heinzelmännchen, Charakterstück\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/10%20-%20Persischer%20Marsch%20op.%20289%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/be199064-58ab-4db3-9a36-2813ef5f259d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Persischer Marsch op. 289\""
       }
     ]
   },
@@ -427,6 +351,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/14%20-%20Nymphen-Polka%2C%20Polka%20francaise%2C%20op.%2050%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8ece5b47-146d-4039-a493-d446d247922b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Nymphen-Polka, Polka francaise, op. 50\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2022#17",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -454,29 +405,78 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2022#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2022/03%20-%20Die%20Sirene%2C%20Polka%20mazur%2C%20op.%20248%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2022/05%20-%20Morgenbl%C3%A4tter%2C%20Walzer%2C%20op.%20279%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/9baaa751-e2bc-43ef-920f-ccfe37e3ab61"
+        "@id": "https://musicbrainz.org/track/33c6f100-884c-442d-9afb-2f63e8113684"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die Sirene, Polka mazur, op. 248\""
+        "@value": "Track: \"Morgenblätter, Walzer, op. 279\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f70bcc1a-57bf-4e15-8a2a-d2979d250f20"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Phönix-Marsch op. 105\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2022#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2022/11%20-%20Tausend%20und%20eine%20Nacht%2C%20Walzer%2C%20op.%20346%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1ed769ec-7810-48f5-85c9-19094a191dce"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tausend und eine Nacht, Walzer, op. 346\""
       }
     ]
   }

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performer/1983_-20_-28Bonbons_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/performance/1983_-20_-28Bonbons_-29#10"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Johann Strauss II\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Johann Strauss II\""
+      }
+    ]
+  }
+]

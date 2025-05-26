@@ -1,0 +1,10 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performer/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8> a ns1:MusicArtist ;
+    rdfs:label "Performer: \"Vienna Opera Orchestra\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/artist/df7727c9-2b6d-4472-a4b1-bc57e0fdd0ff> ;
+    ns1:performed <https://w3id.org/ssv/0.9/data/performance/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8> ;
+    foaf:name "\"Vienna Opera Orchestra\"" .
+

@@ -1,28 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/7.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/6.peaks.json"
       }
     ]
   },
@@ -39,22 +28,6 @@
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/8.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/3.peaks.json"
       }
     ]
   },
@@ -91,6 +64,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/3.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -107,18 +107,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#6",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/6.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Kaiser-Walzer/7.peaks.json"
       }
     ]
   },

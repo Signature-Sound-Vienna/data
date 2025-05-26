@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performance/Wiener_-20Symphoniker_-2C_-20Wolgan_-20Sawallisch_-20_-281967_-29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"
+      }
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Symphoniker_-2C_-20Wolgan_-20Sawallisch_-20_-281967_-29#12"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: Radetzky-Marsch"
+      }
+    ]
+  }
+]

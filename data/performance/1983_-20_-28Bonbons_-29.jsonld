@@ -1,0 +1,23 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performance/1983_-20_-28Bonbons_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Performance"
+    ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/2b2512a8-84b3-44e7-85bb-fbe95efb7989"
+      }
+    ],
+    "http://purl.org/ontology/mo/recorded_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1983_-20_-28Bonbons_-29#10"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performance: \"'Indigo und die vierzig Raeuber' Ouvertuere\""
+      }
+    ]
+  }
+]

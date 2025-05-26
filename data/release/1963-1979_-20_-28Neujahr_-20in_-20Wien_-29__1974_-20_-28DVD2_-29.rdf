@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <dcterms:title>"Neujahr in Wien / New Year ́s Concert 1963-1979"</dcterms:title>
+    <rdfs:label>Release: "Neujahr in Wien / New Year ́s Concert 1963-1979"</rdfs:label>
+    <rdfs:label>Record: "Neujahr in Wien / New Year ́s Concert 1963-1979"</rdfs:label>
+    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
+    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#12"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#13"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#14"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#15"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#16"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#17"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#18"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#19"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#20"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#21"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#22"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#23"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#24"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#25"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#26"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#27"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#28"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#30"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#31"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32"/>
+  </rdf:Description>
+</rdf:RDF>

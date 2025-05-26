@@ -1,163 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#16",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#18",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/16%20-%20Lob%20der%20Frauen%2C%20op.%20315%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/8a26929a-3a44-419c-b691-250aa60f1fc6"
+        "@id": "https://musicbrainz.org/track/b0b9a7bf-c88a-4e58-9de0-419c4df5987d"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
+        "@value": 18
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Lob der Frauen, op. 315\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2019/03%20-%20Elfenreigen%20-%20Josef%20Hellmesberger%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a8aa1048-ec27-4c39-bd83-650df8b24b28"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Elfenreigen"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2019/15%20-%20Entr%27acte%20Valse%20-%20Josef%20Hellmesberger%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/fa839109-20eb-4504-aa8a-c6a713751a03"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Entr'acte Valse\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2019/12%20-%20Eva-Walzer%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0e368c8f-f1d8-456c-8aee-fd47e4cce486"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eva-Walzer aus 'Ritter Pásmán'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2019/17%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/736e3600-3b0b-4067-86cc-59908635a3cb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sphärenklänge, op. 235\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2019/13%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4d13c9ee-9f5d-4001-9264-60ca133f4872"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Csárdás aus 'Ritter Pásmán'\""
+        "@value": "Track: \"Im Sturmschritt, op. 348\""
       }
     ]
   },
@@ -189,56 +54,110 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/02%20-%20Transactionen%2C%20op.%20184%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/10%20-%20Die%20Bajadere%2C%20op.%20351%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5e8a6238-0c53-4491-8818-6579e7bc6134"
+        "@id": "https://musicbrainz.org/track/3eb1939d-881a-45ea-95e6-dbb26521d56f"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Transactionen, op. 184\""
+        "@value": "Track: \"Die Bajadere, op. 351\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#17",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/04%20-%20Express%2C%20op.%20311%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/17%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/651b7b99-9086-413a-aab3-bf47b52c4cf5"
+        "@id": "https://musicbrainz.org/track/736e3600-3b0b-4067-86cc-59908635a3cb"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 17
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Express, op. 311\""
+        "@value": "Track: \"Sphärenklänge, op. 235\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2019/12%20-%20Eva-Walzer%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0e368c8f-f1d8-456c-8aee-fd47e4cce486"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eva-Walzer aus 'Ritter Pásmán'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2019/06%20-%20Mit%20Extrapost%2C%20op.%20259%20-%20Eduard%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/437e21d8-7ff2-4fc2-a78f-efc0f980b123"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mit Extrapost, op. 259\""
       }
     ]
   },
@@ -297,110 +216,105 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#19",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/14aac9f0-e72f-4e3d-98ee-41c153145207"
+        "@id": "https://musicbrainz.org/track/956cb899-a13a-4340-9019-b618321f93d9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Neujahrsgruß"
+        "@value": "Track: \"Schönfeld-Marsch, op. 422\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/10%20-%20Die%20Bajadere%2C%20op.%20351%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/15%20-%20Entr%27acte%20Valse%20-%20Josef%20Hellmesberger%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/3eb1939d-881a-45ea-95e6-dbb26521d56f"
+        "@id": "https://musicbrainz.org/track/fa839109-20eb-4504-aa8a-c6a713751a03"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 15
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die Bajadere, op. 351\""
+        "@value": "Track: \"Entr'acte Valse\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/09%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/16%20-%20Lob%20der%20Frauen%2C%20op.%20315%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/d8c2e405-4658-4155-9e82-d785f4b3db4e"
+        "@id": "https://musicbrainz.org/track/8a26929a-3a44-419c-b691-250aa60f1fc6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 16
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Künstlerleben, op. 316\""
+        "@value": "Track: \"Lob der Frauen, op. 315\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/08%20-%20Die%20T%C3%A4nzerin%2C%20op.%20227%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/02%20-%20Transactionen%2C%20op.%20184%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/f4f39fba-855a-4dd3-88c5-fdf2e54dcd7e"
+        "@id": "https://musicbrainz.org/track/5e8a6238-0c53-4491-8818-6579e7bc6134"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die Tänzerin, op. 227\""
+        "@value": "Track: \"Transactionen, op. 184\""
       }
     ]
   },
@@ -432,51 +346,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/956cb899-a13a-4340-9019-b618321f93d9"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Schönfeld-Marsch, op. 422\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#18",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#21",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b0b9a7bf-c88a-4e58-9de0-419c4df5987d"
+        "@id": "https://musicbrainz.org/track/9e18e388-8034-4702-a896-954b47493ae5"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
+        "@value": 21
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Im Sturmschritt, op. 348\""
+        "@value": "Track: \"Radetzky-Marsch, op. 228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2019/03%20-%20Elfenreigen%20-%20Josef%20Hellmesberger%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a8aa1048-ec27-4c39-bd83-650df8b24b28"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Elfenreigen"
       }
     ]
   },
@@ -508,56 +427,137 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/06%20-%20Mit%20Extrapost%2C%20op.%20259%20-%20Eduard%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/08%20-%20Die%20T%C3%A4nzerin%2C%20op.%20227%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/437e21d8-7ff2-4fc2-a78f-efc0f980b123"
+        "@id": "https://musicbrainz.org/track/f4f39fba-855a-4dd3-88c5-fdf2e54dcd7e"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Mit Extrapost, op. 259\""
+        "@value": "Track: \"Die Tänzerin, op. 227\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2019#21",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2019/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+        "@id": "https://w3id.org/ssv/audio/2019/04%20-%20Express%2C%20op.%20311%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/9e18e388-8034-4702-a896-954b47493ae5"
+        "@id": "https://musicbrainz.org/track/651b7b99-9086-413a-aab3-bf47b52c4cf5"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Radetzky-Marsch, op. 228\""
+        "@value": "Track: \"Express, op. 311\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2019/09%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d8c2e405-4658-4155-9e82-d785f4b3db4e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Künstlerleben, op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2019/13%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4d13c9ee-9f5d-4001-9264-60ca133f4872"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Csárdás aus 'Ritter Pásmán'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2019#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/14aac9f0-e72f-4e3d-98ee-41c153145207"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Neujahrsgruß"
       }
     ]
   }
