@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"
+      }
+    ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14"
@@ -11,7 +16,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Performance: \"Radetzky-Marsch op. 228 - Johann Strauss I\""
+        "@value": "Performance: \"Radetzky-Marsch op. 228\""
       }
     ]
   }

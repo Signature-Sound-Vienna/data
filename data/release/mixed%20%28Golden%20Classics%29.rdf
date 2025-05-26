@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/mixed%20%28Golden%20Classics%29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Das Neujahrskonzert"</dcterms:title>
-    <rdfs:label>Release: "Das Neujahrskonzert"</rdfs:label>
-    <rdfs:label>Record: "Das Neujahrskonzert"</rdfs:label>
+    <dcterms:title>"Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien"</dcterms:title>
+    <rdfs:label>Release: "Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien"</rdfs:label>
+    <rdfs:label>Record: "Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/mixed%20%28Golden%20Classics%29"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#1"/>

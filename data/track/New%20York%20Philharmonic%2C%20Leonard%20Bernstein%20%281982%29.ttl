@@ -4,25 +4,24 @@
 
 <https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1> a ns1:Track ;
     rdfs:label "Track: \"The Blue Danube Waltz, op. 314\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/02-The%20Emperor%20Waltz%2COP.437.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2b689f58-8fbe-4fd6-8fa4-b5a9884f4528> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#2> a ns1:Track ;
     rdfs:label "Track: \"The Emperor Waltz, op. 437\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/03-Vienna%20Blood%20Waltz%2COP.354.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/02-The%20Emperor%20Waltz%2COP.437.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#3> a ns1:Track ;
     rdfs:label "Track: \"Vienna Blood Waltz, op. 354\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/04-Artist%27s%20Life%2COP.316.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/03-Vienna%20Blood%20Waltz%2COP.354.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/4ad9d232-2b1d-41a9-a7c8-a0e959fc3f30> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4> a ns1:Track ;
     rdfs:label "Track: \"Artist's Life, op. 316\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/04-Artist%27s%20Life%2COP.316.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/5e177c46-a933-48c1-9bce-efe2eb45881f> ;
     ns1:track_number 4 .
 

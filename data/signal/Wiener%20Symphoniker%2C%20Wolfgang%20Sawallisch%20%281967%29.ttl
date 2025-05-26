@@ -2,8 +2,7 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/1.peaks.json> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#10> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#10> ;
@@ -14,7 +13,8 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/11.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/12.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#2> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#2> ;

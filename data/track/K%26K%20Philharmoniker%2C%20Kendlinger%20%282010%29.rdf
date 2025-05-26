@@ -9,76 +9,65 @@
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/351346db-67fb-4743-9e4b-9befc62a8789"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Nordseebilder op. 390, Walzer"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b9c01d6a-8df8-4ce5-843a-0e6e681805d6"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Egyptischer Marsch op. 335"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c65f1aab-1cfb-4c63-b0af-7f13c985423d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Radetzky-Marsch op. 228"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b7f7ef30-6723-4b17-8f88-56c9db34f054"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Im Krapfenwaldl op. 336, Polka francaise"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9fdf2d30-028d-469e-bdd1-7f0ec7238228"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Kaiserwalzer op. 437"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Rosen aus dem Süden op. 388, Walzer"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/804e38d3-0636-40db-be15-4f13b166b049"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "An der schönen, blauen Donau op. 314, Walzer"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/da0f683d-e3e1-4f57-9644-3b0e5901d723"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Éljen a Magýar! op. 332, Polka schnell"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d7973f7f-08b9-4630-9846-4dd3ca75b5ed"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Einzugsmarsch aus der Operette 'Der Zigeunerbaron'"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/950f8a85-73f6-4548-b296-809ded5b0da0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Klänge der Heimat, Csárdás der Rosalinde aus 'Die Fledermaus'"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c37b1efb-0fe8-4dac-9dd9-3267c3a3fa5a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Ouvertüre zur Operette 'Die Fledermaus'"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9fdf2d30-028d-469e-bdd1-7f0ec7238228"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Kaiserwalzer op. 437"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d7973f7f-08b9-4630-9846-4dd3ca75b5ed"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Einzugsmarsch aus der Operette 'Der Zigeunerbaron'"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c65f1aab-1cfb-4c63-b0af-7f13c985423d"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch op. 228"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/950f8a85-73f6-4548-b296-809ded5b0da0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Klänge der Heimat, Csárdás der Rosalinde aus 'Die Fledermaus'"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Rosen aus dem Süden op. 388, Walzer"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/804e38d3-0636-40db-be15-4f13b166b049"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "An der schönen, blauen Donau op. 314, Walzer"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b7f7ef30-6723-4b17-8f88-56c9db34f054"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Im Krapfenwaldl op. 336, Polka francaise"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/K%26K%20Philharmoniker%2C%20Kendlinger%20%282010%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/da0f683d-e3e1-4f57-9644-3b0e5901d723"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Éljen a Magýar! op. 332, Polka schnell"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

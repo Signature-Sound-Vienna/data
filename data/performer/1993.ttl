@@ -3,7 +3,8 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/performer/1993#15> a ns1:MusicArtist ;
-    rdfs:label "Performer: \"Wiener Phliharmoniker\"" ;
+    rdfs:label "Performer: \"Johann Strauss\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5> ;
     ns1:performed <https://w3id.org/ssv/0.9/data/performance/1993#15> ;
-    foaf:name "\"Wiener Phliharmoniker\"" .
+    foaf:name "\"Johann Strauss\"" .
 

@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"
+      }
+    ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12"
@@ -11,7 +16,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Performance: \"Radetzky-Marsch - Johann Strauss I (Rieu, Johann Strauss Orchester)\""
+        "@value": "Performance: \"Radetzky-Marsch (Rieu, Johann Strauss Orchester)\""
       }
     ]
   }

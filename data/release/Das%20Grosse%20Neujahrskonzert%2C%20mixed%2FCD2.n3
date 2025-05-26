@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2> a ns1:Release ;
-    rdfs:label "Record: \"CD2\"",
-        "Release: \"CD2\"" ;
-    dcterms:title "\"CD2\"" ;
+    rdfs:label "Record: \"Das Grosse Neujahrskonzert\"",
+        "Release: \"Das Grosse Neujahrskonzert\"" ;
+    dcterms:title "\"Das Grosse Neujahrskonzert\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1>,
         <https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#10>,

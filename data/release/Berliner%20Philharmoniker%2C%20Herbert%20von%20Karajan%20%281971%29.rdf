@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Strauss - Waltzer, Polkas, Märsche"</dcterms:title>
-    <rdfs:label>Release: "Strauss - Waltzer, Polkas, Märsche"</rdfs:label>
-    <rdfs:label>Record: "Strauss - Waltzer, Polkas, Märsche"</rdfs:label>
+    <dcterms:title>"Walzer / Polkas / Märsche"</dcterms:title>
+    <rdfs:label>Release: "Walzer / Polkas / Märsche"</rdfs:label>
+    <rdfs:label>Record: "Walzer / Polkas / Märsche"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1"/>

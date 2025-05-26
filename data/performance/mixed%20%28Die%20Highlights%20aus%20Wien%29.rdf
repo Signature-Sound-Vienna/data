@@ -7,6 +7,7 @@
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
     <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#12"/>
-    <rdfs:label>Performance: "Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987"</rdfs:label>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"/>
+    <rdfs:label>Performance: "Radetzky-Marsch (Herbert von Karajan) 1987"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

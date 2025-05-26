@@ -1,7 +1,0 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
-<https://w3id.org/ssv/0.9/data/performance/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#12> a ns1:Performance ;
-    rdfs:label "Performance: \"Im Krapfenwald, polka Op. 336\"" ;
-    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/1972_Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovky%20%28Les%20Strauss%20a%CC%80%20Vienne%29%2FCD1#12> .
-

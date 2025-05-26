@@ -113,8 +113,7 @@
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#42> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#43> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#43> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/43.peaks.json> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#43> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#44> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#44> ;
@@ -133,52 +132,66 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/47.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#48> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#48> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#48> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/48.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#49> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#49> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#49> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/49.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#5> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#5> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#50> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#50> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#50> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/50.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#51> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#51> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#51> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/51.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#52> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#52> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#52> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/52.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#53> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#53> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#53> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/53.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#54> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#54> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#54> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/54.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#55> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#55> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#55> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/55.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#56> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#56> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#56> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/56.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#57> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#57> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#57> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/57.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#58> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#58> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#58> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/58.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#59> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#59> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#59> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/59.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#6> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#6> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#60> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#60> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#60> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/60.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#61> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#61> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#61> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/61.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#7> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner#7> .

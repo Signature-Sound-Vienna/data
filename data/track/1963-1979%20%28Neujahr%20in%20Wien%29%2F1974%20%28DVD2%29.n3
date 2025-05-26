@@ -4,25 +4,24 @@
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#1> a ns1:Track ;
     rdfs:label "Track: \"Freut euch des Lebens, Walzer, op. 340\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/02%20-%20Rasch%20in%20der%20Tat%2C%20Polka%20schnell%2C%20op.%20409%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/a95fe753-5f12-4352-b1e7-9cee5bf6e7bd> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#10> a ns1:Track ;
     rdfs:label "Track: \"Explosions-Polka, Polka francaise, op. 43\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/11%20-%20Ohne%20Sorgen%2C%20Polka%20schnell%2C%20op.%20271%20-%20Josef%20Strauss.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/10%20-%20Explosions-Polka%2C%20Polka%20francaise%2C%20op.%2043%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6f00e041-f98f-42c8-945c-3b6a1d31e7ed> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#11> a ns1:Track ;
     rdfs:label "Track: \"Ohne Sorgen, Polka schnell, op. 271\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/12%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/11%20-%20Ohne%20Sorgen%2C%20Polka%20schnell%2C%20op.%20271%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/8af4db9c-5408-4361-af43-7c54d8a192f2> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#12> a ns1:Track ;
     rdfs:label "Track: \"An der schönen, blauen Donau, Walzer, op. 314\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/13%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/12%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/18232097-700d-4d31-a41a-9f3f73dbaad3> ;
     ns1:track_number 12 .
 
@@ -70,7 +69,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#2> a ns1:Track ;
     rdfs:label "Track: \"Rasch in der Tat, Polka schnell, op. 409\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/03%20-%20Frauenherz%2C%20op.%20166%2C%20Polka-Mazur%20-%20Josef%20Strauss.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/02%20-%20Rasch%20in%20der%20Tat%2C%20Polka%20schnell%2C%20op.%20409%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/f2eae962-f47c-469b-a0c4-a8690e01376d> ;
     ns1:track_number 2 .
 
@@ -136,7 +135,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#3> a ns1:Track ;
     rdfs:label "Track: \"Frauenherz, op. 166, Polka-Mazur\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/04%20-%20Plapperm%C3%A4ulchen%2C%20op.%20245%2C%20Polka%20schnell%20-%20Josef%20Strauss.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/03%20-%20Frauenherz%2C%20op.%20166%2C%20Polka-Mazur%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/1b2e6a35-a4ba-4455-8064-42900e86d0bd> ;
     ns1:track_number 3 .
 
@@ -160,37 +159,37 @@
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#4> a ns1:Track ;
     rdfs:label "Track: \"Plappermäulchen, op. 245, Polka schnell\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/05%20-%20Pizzicato-Polka%20-%20Josef%20%26%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/04%20-%20Plapperm%C3%A4ulchen%2C%20op.%20245%2C%20Polka%20schnell%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/781e0b51-a12e-47c7-92bb-e7ddeca623cf> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#5> a ns1:Track ;
     rdfs:label "Track: Pizzicato-Polka" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/06%20-%20G%27schichten%20aus%20dem%20Wienerwald%2C%20Walzer%2C%20op.%20325%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/05%20-%20Pizzicato-Polka%20-%20Josef%20%26%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/fa6b1fb8-191b-419e-ad44-f3e6a8b05efb> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#6> a ns1:Track ;
     rdfs:label "Track: \"G'schichten aus dem Wienerwald, Walzer, op. 325\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/07%20-%20Wettrennen%2C%20Galopp%2C%20op.%2029%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/06%20-%20G%27schichten%20aus%20dem%20Wienerwald%2C%20Walzer%2C%20op.%20325%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6defa7cd-f2e2-4cf4-9eb4-14454abbb4b3> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#7> a ns1:Track ;
     rdfs:label "Track: \"Wettrennen, Galopp, op. 29\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/08%20-%20K%C3%BCnstlergru%C3%9F%2C%20Polka%20francaise%2C%20op.%20274%20-%20Josef%20Strauss.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/07%20-%20Wettrennen%2C%20Galopp%2C%20op.%2029%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/1fd41dd0-9eb8-4fcf-a41c-f738cadeae83> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#8> a ns1:Track ;
     rdfs:label "Track: \"Künstlergruß, Polka francaise, op. 274\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/09%20-%20Tritsch-Tratsch-Polka%2C%20Polka%20francaise%2C%20op.%20214%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/08%20-%20K%C3%BCnstlergru%C3%9F%2C%20Polka%20francaise%2C%20op.%20274%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/de38db14-7797-455d-a494-51613d07a95e> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29#9> a ns1:Track ;
     rdfs:label "Track: \"Tritsch-Tratsch-Polka, Polka francaise, op. 214\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/10%20-%20Explosions-Polka%2C%20Polka%20francaise%2C%20op.%2043%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1974%20%28DVD2%29/09%20-%20Tritsch-Tratsch-Polka%2C%20Polka%20francaise%2C%20op.%20214%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/96358fa3-7c71-43ef-b50d-13ffe4689d98> ;
     ns1:track_number 9 .
 

@@ -2,8 +2,7 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/2007#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2007/1.peaks.json> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#1> .
 
 <https://w3id.org/ssv/0.9/data/signal/2007#10> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#10> ;
@@ -34,7 +33,8 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2007/16.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2007#17> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#17> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#17> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2007/17.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2007#18> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#18> ;
@@ -49,7 +49,8 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2007/2.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2007#20> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#20> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#20> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2007/20.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2007#3> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/2007#3> ;

@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/2018> a ns1:Release ;
-    rdfs:label "Record: \"2018 New Year's Concert\"",
-        "Release: \"2018 New Year's Concert\"" ;
-    dcterms:title "\"2018 New Year's Concert\"" ;
+    rdfs:label "Record: \"Neujahrskonzert / New Year ́s Concert 2018\"",
+        "Release: \"Neujahrskonzert / New Year ́s Concert 2018\"" ;
+    dcterms:title "\"Neujahrskonzert / New Year ́s Concert 2018\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2018#1>,
         <https://w3id.org/ssv/0.9/data/signal/2018#10>,

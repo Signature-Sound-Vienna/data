@@ -128,8 +128,7 @@
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#47> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#48> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#48> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/48.peaks.json> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#48> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#49> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#49> ;
@@ -147,37 +146,47 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/51.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#52> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#52> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#52> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/52.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#53> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#53> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#53> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/53.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#54> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#54> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#54> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/54.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#55> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#55> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#55> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/55.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#56> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#56> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#56> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/56.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#57> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#57> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#57> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/57.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#58> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#58> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#58> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/58.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#59> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#59> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#59> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/59.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#6> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#6> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#60> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#60> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#60> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/60.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#61> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#61> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#61> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_/61.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#7> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%208%20-%20Mahler%20-%20Sinfonie%20nr.1%20_Titan_#7> .

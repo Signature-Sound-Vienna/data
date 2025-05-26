@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29> a ns1:Release ;
-    rdfs:label "Record: \"Strauss Family - Favourite Dances\"",
-        "Release: \"Strauss Family - Favourite Dances\"" ;
-    dcterms:title "\"Strauss Family - Favourite Dances\"" ;
+    rdfs:label "Record: \"Strauss Family: Favourite Dances\"",
+        "Release: \"Strauss Family: Favourite Dances\"" ;
+    dcterms:title "\"Strauss Family: Favourite Dances\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#10>,

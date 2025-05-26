@@ -1,7 +1,0 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-
-<https://w3id.org/ssv/0.9/data/performance/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> a ns1:Performance ;
-    rdfs:label "Performance: \"Auf der Jagd, op. 373: Polka schnell\"" ;
-    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/1984_Berliner%20Philharmoniker%2C%20Karajan%20%28Kaiser%E2%80%93Walzer%29#7> .
-

@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/1994> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert 1994 aus Wien\"",
-        "Release: \"Neujahrskonzert 1994 aus Wien\"" ;
-    dcterms:title "\"Neujahrskonzert 1994 aus Wien\"" ;
+    rdfs:label "Record: \"1994 New Year's Concert\"",
+        "Release: \"1994 New Year's Concert\"" ;
+    dcterms:title "\"1994 New Year's Concert\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/1994#1>,
         <https://w3id.org/ssv/0.9/data/signal/1994#10>,

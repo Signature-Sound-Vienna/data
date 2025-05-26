@@ -1,5 +1,5 @@
 <https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a> .
-<https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://xmlns.com/foaf/0.1/name> "\"Johann Strauss II\"" .
-<https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> .
 <https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
 <https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://xmlns.com/foaf/0.1/name> "\"Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/performer/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#32> .

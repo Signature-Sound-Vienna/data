@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/6c40caf6-ae54-427b-bc96-70834d35c435"
+      }
+    ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#20"
@@ -11,7 +16,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Performance: \"Alexander-Quadrille, Op. 33\""
+        "@value": "Performance: \"Alexander-Quadrille, op. 33\""
       }
     ]
   }

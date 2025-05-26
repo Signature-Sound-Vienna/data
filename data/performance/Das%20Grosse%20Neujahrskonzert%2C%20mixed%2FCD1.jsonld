@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/2eb55386-e1b9-37d0-97fc-769b50fd2066"
+      }
+    ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12"
@@ -11,7 +16,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Performance: \"Rosen aus dem Süden - Johann Strauss II (Strauss-Orchester Wien, Francek)\""
+        "@value": "Performance: \"Rosen aus dem Süden (Strauss-Orchester Wien, Francek)\""
       }
     ]
   }

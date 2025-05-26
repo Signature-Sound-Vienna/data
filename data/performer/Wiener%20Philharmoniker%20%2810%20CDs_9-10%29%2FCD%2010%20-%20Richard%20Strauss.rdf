@@ -5,10 +5,11 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#61">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#3"/>
-    <foaf:name>"R Strauss - Wiener Philharmoniker - Krauss - Strauss - Karajan"</foaf:name>
-    <rdfs:label>Performer: "R Strauss - Wiener Philharmoniker - Krauss - Strauss - Karajan"</rdfs:label>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29%2FCD%2010%20-%20Richard%20Strauss#61"/>
+    <foaf:name>"Richard Strauss"</foaf:name>
+    <rdfs:label>Performer: "Richard Strauss"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16"/>
   </rdf:Description>
 </rdf:RDF>

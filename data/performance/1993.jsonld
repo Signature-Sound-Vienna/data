@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/e5fa134a-1e44-4606-8f2b-d6d9dec9ce64"
+      }
+    ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1993#15"
@@ -11,7 +16,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Performance: \"Radetzky Marsch, op. 228 - Johann Strauss I\""
+        "@value": "Performance: \"Radetzky-Marsch op. 228\""
       }
     ]
   }

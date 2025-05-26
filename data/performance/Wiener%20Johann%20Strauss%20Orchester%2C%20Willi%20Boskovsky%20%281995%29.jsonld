@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
+    "http://purl.org/ontology/mo/performance_of": [
+      {
+        "@id": "http://musicbrainz.org/work/17c5bf4e-cf3a-3c9a-b127-5b62662a991e"
+      }
+    ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10"

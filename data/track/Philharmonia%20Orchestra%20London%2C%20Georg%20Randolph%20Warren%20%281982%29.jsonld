@@ -6,7 +6,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/07-Die%20Fledermaus%2C%28Johann%20Strauss%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/06-Tannh%C3%A4user%2C%20%28Richard%20Wagner%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -54,94 +54,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/06-Tannh%C3%A4user%2C%20%28Richard%20Wagner%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/10513a98-f929-4236-9496-4a70507f54b6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Egmont"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/02-Willhelm%20Tell%2C%20%28Gioacchino%20Rossini%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/09140c18-11b4-4bfb-bd61-15ae077d5e55"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Hochzeit des Figaro\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/03-Die%20lustigen%20Weiber%20von%20Windsor%2C%20%28Otto%20Nicolai%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/916b4045-c0c4-4996-993f-1c4b29caa274"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Willhelm Tell\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/05-Egmont%2C%20%28Ludwig%20van%20Beethoven%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/04-Ruslan%20und%20Ludmilla%2C%20%28Michail%20Glinka%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -162,13 +81,89 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/05-Egmont%2C%20%28Ludwig%20van%20Beethoven%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/10513a98-f929-4236-9496-4a70507f54b6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Egmont"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/02-Willhelm%20Tell%2C%20%28Gioacchino%20Rossini%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/916b4045-c0c4-4996-993f-1c4b29caa274"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Willhelm Tell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/09140c18-11b4-4bfb-bd61-15ae077d5e55"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Hochzeit des Figaro\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/04-Ruslan%20und%20Ludmilla%2C%20%28Michail%20Glinka%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/03-Die%20lustigen%20Weiber%20von%20Windsor%2C%20%28Otto%20Nicolai%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [

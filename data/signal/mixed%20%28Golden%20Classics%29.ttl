@@ -1,50 +1,50 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#1> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058602700> ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#1> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#10> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058104220> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#10> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#10> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/10.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#11> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF059102130> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#11> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#11> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/11.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#12> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058602810> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/12.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#2> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058100390> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/2.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#3> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058602800> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/3.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#4> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058702530> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#4> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/4.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#5> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058203640> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/5.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#6> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF059102090> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#6> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/6.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#7> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058100350> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/7.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#8> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF059102100> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#8> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#8> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/8.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#9> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/DEF058602750> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#9> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#9> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/9.peaks.json> .
 

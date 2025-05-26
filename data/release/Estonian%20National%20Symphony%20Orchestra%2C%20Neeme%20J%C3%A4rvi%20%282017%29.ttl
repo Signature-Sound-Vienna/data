@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29> a ns1:Release ;
-    rdfs:label "Record: \"小約翰史特勞斯在聖彼得堡\"",
-        "Release: \"小約翰史特勞斯在聖彼得堡\"" ;
-    dcterms:title "\"小約翰史特勞斯在聖彼得堡\"" ;
+    rdfs:label "Record: \"Strauss in St Petersburg\"",
+        "Release: \"Strauss in St Petersburg\"" ;
+    dcterms:title "\"Strauss in St Petersburg\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Estonian%20National%20Symphony%20Orchestra%2C%20Neeme%20J%C3%A4rvi%20%282017%29#10>,

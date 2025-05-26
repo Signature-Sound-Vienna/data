@@ -3,87 +3,103 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://w3id.org/ssv/0.9/data/track/1991#1> a ns1:Track ;
-    rdfs:label "Track: \"Ouverture zu \"Waldmeister\" - Johann Strauss II\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \">>Waldmeister<<: Ouvertüre\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/track/e2143eb5-8fd2-446d-b7a8-cedba368c876> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#10> a ns1:Track ;
-    rdfs:label "Track: \"Aquarellen, Walzer op. 258 - Josef Strauss\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Aquarellen op. 258\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/10-Aquarellen%2C%20Walzer%20op.%20258%20-%20Josef%20Strauss.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/99a39709-8ef5-40bb-9904-ddcdebca6eb4> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#11> a ns1:Track ;
-    rdfs:label "Track: \"Freikugeln, Polka schnell op. 326 - Johann Strauss II\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Freikugeln op. 326\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/11-Freikugeln%2C%20Polka%20schnell%20op.%20326%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/90e08fcd-7d91-48ec-b04d-7e8304aaec96> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#12> a ns1:Track ;
-    rdfs:label "Track: \"Carmen-Quadrille op. 134 - Eduard Strauss\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Carmen-Quadrille op. 134\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/12-Carmen-Quadrille%20op.%20134%20-%20Eduard%20Strauss.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/57cd585d-c3f0-40de-bf4e-cfcffdb953ab> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#13> a ns1:Track ;
-    rdfs:label "Track: \"Kaiser-Walzer op. 437 - Johann Strauss II\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Kaiser-Walzer op. 437\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/13-Kaiser-Walzer%20op.%20437%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/72a077c4-8d4d-4581-9df8-60f0a9579346> ;
     ns1:track_number 13 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#14> a ns1:Track ;
-    rdfs:label "Track: \"Furioso-Polka, quasi Galopp op. 260 - Johann Strauss II\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Furioso-Polka op. 260\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/14-Furioso-Polka%2C%20quasi%20Galopp%20op.%20260%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/bf38c334-8a8d-4173-93d8-128aaf38464a> ;
     ns1:track_number 14 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#15> a ns1:Track ;
-    rdfs:label "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell op. 393 - Johann Strauss II\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Stürmisch in Lieb' und Tanz op. 393\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/15-St%C3%BCrmisch%20in%20Lieb%27%20und%20Tanz%2C%20Polka%20schnell%20op.%20393%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/681331e5-0444-4c7a-9e32-802f6cba7aed> ;
     ns1:track_number 15 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#16> a ns1:Track ;
-    rdfs:label "Track: \"An der schönen blauen Donau op. 314 - Johann Strauss II\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"An der schönen, blauen Donau op. 314\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/16-An%20der%20sch%C3%B6nen%20blauen%20Donau%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/0b01453f-ed71-4c39-87b1-c6bc1cd0e2a7> ;
     ns1:track_number 16 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#17> a ns1:Track ;
-    rdfs:label "Track: \"Radetzky-Marsch op. 228 - Johann Strauss I\"" ;
+    rdfs:label "Track: \"Radetzsky-Marsch op. 228\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/bd1f6369-0049-4070-a9e6-56f8c551d2ee> ;
     ns1:track_number 17 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#2> a ns1:Track ;
-    rdfs:label "Track: \"Kontretanz Nr.1 KV 609 - W. A. Mozart\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Kontretranz KV 609 no. 1\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/02-Kontretanz%20Nr.1%20KV%20609%20-%20W.%20A.%20Mozart.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b4355502-aeb5-4dde-bf3d-fced14c5f181> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#3> a ns1:Track ;
-    rdfs:label "Track: \"Kontretanz Nr.3 KV 609 - W. A. Mozart\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Kontetranz KV 609 no. 3\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/03-Kontretanz%20Nr.3%20KV%20609%20-%20W.%20A.%20Mozart.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a1fdcc9c-98d3-4783-a9e5-197a0f830ef1> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#4> a ns1:Track ;
-    rdfs:label "Track: \"Die Schlitenfahrt, Deutscher Tanz Nr.3 KV 605 - W. A. Mozart\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Deutscher Tanz KV 605 no. 3 >>Die Schlittenfahrt<<\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/04-Die%20Schlitenfahrt%2C%20Deutscher%20Tanz%20Nr.3%20KV%20605%20-%20W.%20A.%20Mozart.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/2b3ff3cd-fa3b-4e8d-844d-50aa5f388c5c> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#5> a ns1:Track ;
-    rdfs:label "Track: \"Die tanzende Muse, Polka mazur op. 266 - Josef Strauss\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Die tanzende Muse op. 266\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/05-Die%20tanzende%20Muse%2C%20Polka%20mazur%20op.%20266%20-%20Josef%20Strauss.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/22ab563d-eadb-4957-9f0c-1e74c6e6579b> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#6> a ns1:Track ;
-    rdfs:label "Track: \"Polka, Galopp D 735 - Franz Schubert\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Polka (Galopp D 735)\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/06-Polka%2C%20Galopp%20D%20735%20-%20Franz%20Schubert.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a201b4fb-b29e-4a00-b54f-39d191b5bfea> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#7> a ns1:Track ;
-    rdfs:label "Track: \"Galopp, Ecossaise Nr.1 D 735 - Franz Schubert\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Galopp (Ecossaise no. 1 D 735)\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/07-Galopp%2C%20Ecossaise%20Nr.1%20D%20735%20-%20Franz%20Schubert.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/276913ba-705b-4ec0-b8ea-74dd62d96f9f> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#8> a ns1:Track ;
-    rdfs:label "Track: \"Die Werber, Walzer op. 103 - Joseph Lanner\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Die Werber op. 103\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/08-Die%20Werber%2C%20Walzer%20op.%20103%20-%20Joseph%20Lanner.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/4c52bd72-c596-4a96-8c34-8e263dc02bfc> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/1991#9> a ns1:Track ;
-    rdfs:label "Track: \"Seufzer-Galopp op. 9 - Johann Strauss I\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    rdfs:label "Track: \"Seufzer-Galopp op. 9\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/09-Seufzer-Galopp%20op.%209%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ad8531fa-b82f-43f2-86b8-fce1895b6c6c> ;
     ns1:track_number 9 .
 

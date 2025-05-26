@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Kaiser-Walzer live in concert, Jubiläumskonzert No. 4"</dcterms:title>
-    <rdfs:label>Release: "Kaiser-Walzer live in concert, Jubiläumskonzert No. 4"</rdfs:label>
-    <rdfs:label>Record: "Kaiser-Walzer live in concert, Jubiläumskonzert No. 4"</rdfs:label>
+    <dcterms:title>"Kaiser-Walzer live in concert: Jubiläumskonzert No.4"</dcterms:title>
+    <rdfs:label>Release: "Kaiser-Walzer live in concert: Jubiläumskonzert No.4"</rdfs:label>
+    <rdfs:label>Record: "Kaiser-Walzer live in concert: Jubiläumskonzert No.4"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1"/>

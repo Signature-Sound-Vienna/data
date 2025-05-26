@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="https://w3id.org/ssv/0.9/data/vocab#"
-   xmlns:ns2="http://purl.org/ontology/mo/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:ns2="https://w3id.org/ssv/0.9/data/vocab#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#3">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/3.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#2">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/2.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#1">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/1.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#1"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#2"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#9">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/9.peaks.json"/>
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/9.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#2">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/2.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#2"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#8">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/8.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#11">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/11.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#7">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#5">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#6">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/6.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#12"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#9"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#10">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/10.peaks.json"/>
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/10.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#10"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#8">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/8.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#11">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/11.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#7">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/7.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#5">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/5.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#6">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/6.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#12">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/12.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#12"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#4">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/4.peaks.json"/>
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/4.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#4"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1980#3">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1980/3.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1980#3"/>
   </rdf:Description>
 </rdf:RDF>

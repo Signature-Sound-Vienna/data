@@ -7,6 +7,7 @@
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
     <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#14"/>
-    <rdfs:label>Performance: "Radetzky-Marsch op. 228 - Johann Strauss I"</rdfs:label>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"/>
+    <rdfs:label>Performance: "Radetzky-Marsch op. 228"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

@@ -1,6 +1,6 @@
-<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6> .
 <https://w3id.org/ssv/0.9/data/performer/2002#22> <http://xmlns.com/foaf/0.1/name> "\"Wiener Philharmoniker , Seiji Ozawa\"" .
-<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461> .
-<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/2002#22> .
-<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
 <https://w3id.org/ssv/0.9/data/performer/2002#22> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Wiener Philharmoniker , Seiji Ozawa\"" .
+<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6> .
+<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/2002#22> .
+<https://w3id.org/ssv/0.9/data/performer/2002#22> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461> .

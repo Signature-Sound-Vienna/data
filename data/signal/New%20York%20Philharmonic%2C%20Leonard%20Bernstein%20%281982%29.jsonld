@@ -1,5 +1,21 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/4.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -16,34 +32,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/1.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/4.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/5.peaks.json"
       }
     ]
   },
@@ -64,13 +64,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1"
       }
     ]
   }

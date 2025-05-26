@@ -7,6 +7,7 @@
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
     <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12"/>
-    <rdfs:label>Performance: "Rosen aus dem Süden - Johann Strauss II (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/2eb55386-e1b9-37d0-97fc-769b50fd2066"/>
+    <rdfs:label>Performance: "Rosen aus dem Süden (Strauss-Orchester Wien, Francek)"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

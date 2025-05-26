@@ -7,6 +7,7 @@
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/2018#20">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
     <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/2018#20"/>
-    <rdfs:label>Performance: "Radetzky-Marsch, op. 228"</rdfs:label>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"/>
+    <rdfs:label>Performance: "Radetzky Marsch op. 228"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

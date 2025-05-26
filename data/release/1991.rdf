@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1991">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Neujahrskonzert 1991 aus Wien"</dcterms:title>
-    <rdfs:label>Release: "Neujahrskonzert 1991 aus Wien"</rdfs:label>
-    <rdfs:label>Record: "Neujahrskonzert 1991 aus Wien"</rdfs:label>
+    <dcterms:title>"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna"</dcterms:title>
+    <rdfs:label>Release: "Neujahrskonzert in Wien 1991: New Year's Concert in Vienna"</rdfs:label>
+    <rdfs:label>Record: "Neujahrskonzert in Wien 1991: New Year's Concert in Vienna"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1991"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1991#1"/>

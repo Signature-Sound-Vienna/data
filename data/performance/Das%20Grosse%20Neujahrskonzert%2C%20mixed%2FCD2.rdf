@@ -7,6 +7,7 @@
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
     <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#12"/>
-    <rdfs:label>Performance: "Radetzky-Marsch - Johann Strauss I (Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f"/>
+    <rdfs:label>Performance: "Radetzky-Marsch (Rieu, Johann Strauss Orchester)"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

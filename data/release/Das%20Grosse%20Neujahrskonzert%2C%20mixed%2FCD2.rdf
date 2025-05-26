@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"CD2"</dcterms:title>
-    <rdfs:label>Release: "CD2"</rdfs:label>
-    <rdfs:label>Record: "CD2"</rdfs:label>
+    <dcterms:title>"Das Grosse Neujahrskonzert"</dcterms:title>
+    <rdfs:label>Release: "Das Grosse Neujahrskonzert"</rdfs:label>
+    <rdfs:label>Record: "Das Grosse Neujahrskonzert"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD2#1"/>

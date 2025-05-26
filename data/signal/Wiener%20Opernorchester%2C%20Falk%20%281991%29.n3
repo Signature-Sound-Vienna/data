@@ -2,8 +2,7 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/1.peaks.json> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2> ;
@@ -22,5 +21,6 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/5.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/6.peaks.json> .
 

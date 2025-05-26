@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="https://w3id.org/ssv/0.9/data/vocab#"
-   xmlns:ns2="http://purl.org/ontology/mo/"
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:ns2="https://w3id.org/ssv/0.9/data/vocab#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/1.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/4.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/3.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/8.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/6.peaks.json"/>
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/6.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/4.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/2.peaks.json"/>
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/2.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/5.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/7.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/9.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/3.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/8.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8"/>
   </rdf:Description>
 </rdf:RDF>

@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/2018">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"2018 New Year's Concert"</dcterms:title>
-    <rdfs:label>Release: "2018 New Year's Concert"</rdfs:label>
-    <rdfs:label>Record: "2018 New Year's Concert"</rdfs:label>
+    <dcterms:title>"Neujahrskonzert / New Year ́s Concert 2018"</dcterms:title>
+    <rdfs:label>Release: "Neujahrskonzert / New Year ́s Concert 2018"</rdfs:label>
+    <rdfs:label>Record: "Neujahrskonzert / New Year ́s Concert 2018"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/2018"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2018#1"/>

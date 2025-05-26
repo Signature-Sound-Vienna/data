@@ -1,10 +1,10 @@
 {
   "@context": {
     "oa": "http://www.w3.org/ns/oa#",
-    "anno": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/refs/heads/hand/annot/oa/",
-    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/refs/heads/hand/annot/mao/musicalMaterial/",
-    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/refs/heads/hand/annot/mao/extract/",
-    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/refs/heads/hand/annot/mao/selection/",
+    "anno": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/oa/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/selection/",
     "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
     "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",

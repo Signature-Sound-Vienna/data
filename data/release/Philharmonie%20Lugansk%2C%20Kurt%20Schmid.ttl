@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Philharmonie%20Lugansk%2C%20Kurt%20Schmid> a ns1:Release ;
-    rdfs:label "Record: \"Philharmonie Lugansk, Kurt Schmid\"",
-        "Release: \"Philharmonie Lugansk, Kurt Schmid\"" ;
-    dcterms:title "\"Philharmonie Lugansk, Kurt Schmid\"" ;
+    rdfs:label "Record: Neujahrskonzert",
+        "Release: Neujahrskonzert" ;
+    dcterms:title "Neujahrskonzert" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10>,

@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29> a ns1:Release ;
-    rdfs:label "Record: \"Robert Stolz conducts Waltzes, Marches, Polkas etc, Vol. 3 (Strauss J)\"",
-        "Release: \"Robert Stolz conducts Waltzes, Marches, Polkas etc, Vol. 3 (Strauss J)\"" ;
-    dcterms:title "\"Robert Stolz conducts Waltzes, Marches, Polkas etc, Vol. 3 (Strauss J)\"" ;
+    rdfs:label "Record: \"Wiener Musik Vol. 3\"",
+        "Release: \"Wiener Musik Vol. 3\"" ;
+    dcterms:title "\"Wiener Musik Vol. 3\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10>,

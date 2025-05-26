@@ -4,43 +4,42 @@
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#1> a ns1:Track ;
     rdfs:label "Track: \"Die Fledermaus (Ouvertüre)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/02-Johann-Strau%C3%9F%20-%20K%C3%BCnstlerleben.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/8986a6ea-3e5c-4058-8ea6-41c77fd15703> ;
     ns1:track_number 1 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#10> a ns1:Track ;
     rdfs:label "Track: \"Eljen a Magyár (Polka, schnell)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/11-Johann-Strau%C3%9F%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/10-Johann-Strau%C3%9F%20-%20Eljen%20a%20Magy%C3%A1r.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/c6c569de-c0a7-43b6-a651-f2de920e4834> ;
     ns1:track_number 10 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#11> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau (Walzer)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/12-Johann-Strau%C3%9F%20-%20Leichtes%20Blut.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/11-Johann-Strau%C3%9F%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/14a19925-ac73-4715-9204-78cdec40c4ea> ;
     ns1:track_number 11 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#12> a ns1:Track ;
     rdfs:label "Track: \"Leichtes Blut (Polka, schnell)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/13-Johann-Strau%C3%9F%20-%20Persischer%20Marsch.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/12-Johann-Strau%C3%9F%20-%20Leichtes%20Blut.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/0df6533f-46c0-4f00-85c3-7d466af9e598> ;
     ns1:track_number 12 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#13> a ns1:Track ;
     rdfs:label "Track: \"Persischer Marsch\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/14-Johann-Strau%C3%9F%20-%20Unter%20Donner%20und%20Blitz.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/13-Johann-Strau%C3%9F%20-%20Persischer%20Marsch.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/ca711394-e4b4-4541-aa16-af143d1595ab> ;
     ns1:track_number 13 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#14> a ns1:Track ;
     rdfs:label "Track: \"Unter Donner und Blitz (Polka, schnell)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/15-Johann-Strau%C3%9F%20-%20Auf%20der%20Jagd.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/14-Johann-Strau%C3%9F%20-%20Unter%20Donner%20und%20Blitz.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/0bde5953-be3b-47a4-a977-96f976b26186> ;
     ns1:track_number 14 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#15> a ns1:Track ;
     rdfs:label "Track: \"Auf der Jagd (Polka)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/16-Johann-Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/15-Johann-Strau%C3%9F%20-%20Auf%20der%20Jagd.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/25d6cc18-b318-458a-98fa-b18b5015a657> ;
     ns1:track_number 15 .
 
@@ -52,49 +51,49 @@
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#2> a ns1:Track ;
     rdfs:label "Track: \"Künstlerleben (Walzer)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/03-Johann-Strau%C3%9F%20-%20Perpetuum%20Mobile.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/02-Johann-Strau%C3%9F%20-%20K%C3%BCnstlerleben.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/3f2a2619-3819-4a5f-abd8-6d4f4f14c723> ;
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#3> a ns1:Track ;
     rdfs:label "Track: \"Perpetuum Mobile (Musikalischer Scherz)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/04-Johann-Strau%C3%9F%20-%20Furioso-Polka.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/03-Johann-Strau%C3%9F%20-%20Perpetuum%20Mobile.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/96960220-7896-4c89-be44-b300fc518a1c> ;
     ns1:track_number 3 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#4> a ns1:Track ;
     rdfs:label "Track: Furioso-Polka" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/05-Johann-Strau%C3%9F%20-%20Annen-Polka.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/04-Johann-Strau%C3%9F%20-%20Furioso-Polka.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/aea9a3ea-a08e-4e2b-9f49-0ac4639f376d> ;
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#5> a ns1:Track ;
     rdfs:label "Track: Annen-Polka" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/06-Johann-Strau%C3%9F%20-%20Im%20Sturmschritt.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/05-Johann-Strau%C3%9F%20-%20Annen-Polka.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/39cccf08-2df6-47db-b95b-d256e2646981> ;
     ns1:track_number 5 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#6> a ns1:Track ;
     rdfs:label "Track: \"Im Sturmschritt (Polka, schnell)\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/07-Johann-Strau%C3%9F%20-%20Kaiserwalzer.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/06-Johann-Strau%C3%9F%20-%20Im%20Sturmschritt.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/c5d14cc6-8959-444b-9bcb-5645c5af8037> ;
     ns1:track_number 6 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#7> a ns1:Track ;
     rdfs:label "Track: Kaiserwalzer" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/08-Johann-Strau%C3%9F%20-%20Tritsch-Tratsch-Polka.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/07-Johann-Strau%C3%9F%20-%20Kaiserwalzer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/385cb21d-ee68-41f1-a2db-433f13bf8b0f> ;
     ns1:track_number 7 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#8> a ns1:Track ;
     rdfs:label "Track: Tritsch-Tratsch-Polka" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/09-Johann-Strau%C3%9F%20-%20Bauern-Polka.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/08-Johann-Strau%C3%9F%20-%20Tritsch-Tratsch-Polka.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/393152a9-74c1-45df-9d03-df1351d8baa3> ;
     ns1:track_number 8 .
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#9> a ns1:Track ;
     rdfs:label "Track: Bauern-Polka" ;
-    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/10-Johann-Strau%C3%9F%20-%20Eljen%20a%20Magy%C3%A1r.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/09-Johann-Strau%C3%9F%20-%20Bauern-Polka.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/41511f79-6d4b-449a-81c6-df235e86e0cf> ;
     ns1:track_number 9 .
 

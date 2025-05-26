@@ -4,33 +4,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2b689f58-8fbe-4fd6-8fa4-b5a9884f4528"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "The Blue Danube Waltz, op. 314"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/02-The%20Emperor%20Waltz%2COP.437.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4ad9d232-2b1d-41a9-a7c8-a0e959fc3f30"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Vienna Blood Waltz, op. 354"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/04-Artist%27s%20Life%2COP.316.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5e177c46-a933-48c1-9bce-efe2eb45881f"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Artist's Life, op. 316"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "The Emperor Waltz, op. 437"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/03-Vienna%20Blood%20Waltz%2COP.354.wav"/>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/04-Artist%27s%20Life%2COP.316.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -38,5 +17,25 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Voices of Spring, op. 410"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/05-Voices%20Of%20Spring%2COP.410.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4ad9d232-2b1d-41a9-a7c8-a0e959fc3f30"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Vienna Blood Waltz, op. 354"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/03-Vienna%20Blood%20Waltz%2COP.354.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2b689f58-8fbe-4fd6-8fa4-b5a9884f4528"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "The Blue Danube Waltz, op. 314"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "The Emperor Waltz, op. 437"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/New%20York%20Philharmonic%2C%20Leonard%20Bernstein%20%281982%29/02-The%20Emperor%20Waltz%2COP.437.wav"/>
   </rdf:Description>
 </rdf:RDF>

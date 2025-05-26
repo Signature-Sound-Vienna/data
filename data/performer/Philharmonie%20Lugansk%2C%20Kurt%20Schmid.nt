@@ -1,4 +1,5 @@
-<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
-<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://xmlns.com/foaf/0.1/name> "\"Strauss\"" .
 <https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> .
-<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Strauss\"" .
+<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://xmlns.com/foaf/0.1/name> "\"Johann Strauss II\"" .
+<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/0.9/data/performer/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a> .

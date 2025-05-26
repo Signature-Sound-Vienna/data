@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29> a ns1:Release ;
-    rdfs:label "Record: \"Wiener Johann Strauss Orchester, Willi Boskovsky (1995)\"",
-        "Release: \"Wiener Johann Strauss Orchester, Willi Boskovsky (1995)\"" ;
-    dcterms:title "\"Wiener Johann Strauss Orchester, Willi Boskovsky (1995)\"" ;
+    rdfs:label "Record: \"The Perfect Strauss\"",
+        "Release: \"The Perfect Strauss\"" ;
+    dcterms:title "\"The Perfect Strauss\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10>,

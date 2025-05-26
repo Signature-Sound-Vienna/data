@@ -8,7 +8,8 @@
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
     <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed%2FCD1#12"/>
-    <foaf:name>"mixed"</foaf:name>
-    <rdfs:label>Performer: "mixed"</rdfs:label>
+    <foaf:name>"Johann Strauss II"</foaf:name>
+    <rdfs:label>Performer: "Johann Strauss II"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a"/>
   </rdf:Description>
 </rdf:RDF>

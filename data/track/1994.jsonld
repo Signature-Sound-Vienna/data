@@ -1,166 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Aus der Ferne, Polka mazur op. 270 - Josef Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Schönbrunner, Walzer op. 200 - Joseph Lanner\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen, blauen Donau, Walzer op. 314 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Accelerationen, Walzer  op. 234 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Mit Chic, Polka schnell  op.275 - Eduard Strauss\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ein Herz, ein Sinn, Polka mazur  op. 323 - Johann Strauss, Jr. \""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald, Walzer op. 325 - Johann Strauss, Jr.\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1994#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://musicbrainz.org/track/7ce48453-7e77-3254-ae7a-a23825e34b2a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -171,7 +17,196 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Caroussel-Marsch op. 133 - Johann Strauss, Jr.\""
+        "@value": "Track: Caroussel-Marsch"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/02-Accelerationen%2C%20Walzer%20%20op.%20234%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/90c78039-b170-31a2-9363-7894481b8af7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Accelerationen"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/12-Ohne%20Sorgen%2C%20Polka%20schnell%20op.%20271%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1531c3d5-3709-3d9b-ba37-a37c5afc1bfb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ohne Sorgen\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/11-G%27schichten%20aus%20dem%20Wienerwald%2C%20Walzer%20op.%20325%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a7aa5b27-aeb6-3b17-b2bd-2b1ac8d260bd"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/08-L%27Enfantillage%2C%20Polka%20fran%C3%A7aise%20op.%20202%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/800addd1-2322-3831-ad59-39256b3a9771"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: L'Enfantillage"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/09-Ein%20Herz%2C%20ein%20Sinn%2C%20Polka%20mazur%20%20op.%20323%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cb4fa14c-6806-3f32-be28-a995b91d35d3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ein Herz, ein Sinn\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/04-Feuerfest%2C%20Polka%20fran%C3%A7aise%20op.%20269%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/961e8181-f8ed-3c84-b5ad-fdce34feafe4"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Feuerfest!"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/10-Csardas%20aus%20_Die%20Fledermaus_%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/61a63c63-25a6-3c2f-8966-d347d7ec0a1e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus: Csárdás\""
       }
     ]
   },
@@ -182,7 +217,12 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/13-Lucifer-Polka%20schnell%20op.%20266%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bf80a399-c084-3a36-8a1c-65916407befe"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -193,29 +233,34 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Lucifer-Polka schnell op. 266 - Johann Strauss, Jr.\""
+        "@value": "Track: Lucifer-Polka"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/03-Aus%20der%20Ferne%2C%20Polka%20mazur%20op.%20270%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9aaa6a5c-772c-3f74-aed9-51c37ef62961"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Lieder-Quadrille op. 275 - Johann Strauss, Jr.\""
+        "@value": "Track: \"Aus der Ferne\""
       }
     ]
   },
@@ -229,6 +274,11 @@
         "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
       }
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6bd257f5-35fb-3ee7-a576-f79e0d5faf37"
+      }
+    ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
@@ -237,95 +287,115 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Radetzky-Marsch op. 228 - Johann Strauss, Sr.\""
+        "@value": "Track: Radetzky-Marsch"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/06-Mit%20Chic%2C%20Polka%20schnell%20%20op.275%20-%20Eduard%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/47f3d6b6-2c9a-3445-b100-956526eac5d0"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Csardas aus \"Die Fledermaus\" - Johann Strauss, Jr.\""
+        "@value": "Track: \"Mit Chic\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#12",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/05-Lieder-Quadrille%20op.%20275%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5c7bde14-e73b-31ff-b816-b8acbfba90db"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ohne Sorgen, Polka schnell op. 271 - Josef Strauss\""
+        "@value": "Track: Lieder-Quadrille"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/07-Die%20Sch%C3%B6nbrunner%2C%20Walzer%20op.%20200%20-%20Joseph%20Lanner.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/36ae3cc1-92c9-3f92-a802-850cf4a25e19"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"L'Enfantillage, Polka française op. 202 - Johann Strauss, Jr.\""
+        "@value": "Track: \"Die Schönbrunner\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/14-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/901a89c0-e47f-3b8b-b731-4ed76acb5ce8"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 14
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Feuerfest, Polka française op. 269 - Josef Strauss\""
+        "@value": "Track: \"An der schönen blauen Donau\""
       }
     ]
   }

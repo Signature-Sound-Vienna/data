@@ -1,55 +1,67 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/1fd41dd0-9eb8-4fcf-a41c-f738cadeae83"
+        "@id": "https://musicbrainz.org/track/de38db14-7797-455d-a494-51613d07a95e"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wettrennen, Galopp, op. 29\""
+        "@value": "Track: \"Künstlergruß, Polka francaise, op. 274\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#31",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/19%20-%20Auf%20der%20Jagd%2C%20op.%20373-%20Johann%20Strauss%20II.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/18fdbf4a-a4f3-4a27-b070-857aee22c90f"
+        "@id": "https://musicbrainz.org/track/18232097-700d-4d31-a41a-9f3f73dbaad3"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 31
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Jockey-Polka, op. 278\""
+        "@value": "Track: \"An der schönen, blauen Donau, Walzer, op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/781e0b51-a12e-47c7-92bb-e7ddeca623cf"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Plappermäulchen, op. 245, Polka schnell\""
       }
     ]
   },
@@ -57,11 +69,6 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -81,13 +88,40 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/06%20-%20Eingesendet%2C%20op.%20240%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c891244b-666e-4395-b3ab-009090aa5063"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eingesendet, op. 240\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#23",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/11%20-%20Banditen-Galopp%2C%20op.%20378%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/10%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -108,83 +142,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#24",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/12%20-%20Leichtes%20Blut%2C%20op.%20319%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ed47ece5-2cee-4eba-948d-a62e85c1c6b4"
+        "@id": "https://musicbrainz.org/track/6f00e041-f98f-42c8-945c-3b6a1d31e7ed"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 24
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Banditen-Galopp, op. 378\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#26",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/14%20-%20Eljen%20a%20Magyar%2C%20op.%20332%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/edc4c079-3d85-41e5-ad94-ff035b254dcd"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 26
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Dorfschwalben aus Österreich, op. 164\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#22",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/10%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/04335b91-88b1-4c87-be02-36019bda20b1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 22
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Feuerfest, op. 269\""
+        "@value": "Track: \"Explosions-Polka, Polka francaise, op. 43\""
       }
     ]
   },
@@ -195,7 +170,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/08%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/07%20-%20Vergn%C3%BCgungszug%2C%20op.%20281%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -216,445 +191,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/03%20-%20Unter%20Donner%20und%20Blitz%2C%20op.%20324%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/cbeafdf8-015a-4749-905d-5942203781fc"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Perpetuum mobile, op 257\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#27",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/15%20-%20Auf%20Ferienreisen%2C%20op.%20133%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ec05baf3-8000-420d-8e1b-9a6472761a6d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 27
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eljen a Magyar, op. 332\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/781e0b51-a12e-47c7-92bb-e7ddeca623cf"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Plappermäulchen, op. 245, Polka schnell\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#28",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/16%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/86a7fd49-4eed-4e6f-a762-cd2dc0167ca6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 28
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Auf Ferienreisen, op. 133\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#29",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/17%20-%20Annen-Polka%2C%20op.%20117%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0eb02d23-f6c2-486a-8811-c88903a70b33"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 29
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre aus 'Die Fledermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/18232097-700d-4d31-a41a-9f3f73dbaad3"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen, blauen Donau, Walzer, op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/96358fa3-7c71-43ef-b50d-13ffe4689d98"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Tritsch-Tratsch-Polka, Polka francaise, op. 214\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/04%20-%20Kaiserwalzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2df83ca8-499c-4e56-a0c0-0e7c11af314c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Unter Donner und Blitz, op. 324\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/02%20-%20Perpetuum%20mobile%2C%20op%20257%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0045f007-9144-4068-9a2e-6405808a0287"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Der Zigeunerbaron, Einzugsmarsch\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#30",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/18%20-%20Jockey-Polka%2C%20op.%20278%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/66f5260b-c7ab-4135-a519-30187d7fbd32"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 30
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Annen-Polka, op. 117\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f2eae962-f47c-469b-a0c4-a8690e01376d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Rasch in der Tat, Polka schnell, op. 409\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6defa7cd-f2e2-4cf4-9eb4-14454abbb4b3"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald, Walzer, op. 325\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/05%20-%20Bitte%20sch%C3%B6n%2C%20op.%20372%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9ffa5f4a-e443-4b73-b8fc-de4ebfabc263"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Kaiserwalzer, op. 437\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/09%20-%20Feuerfest%2C%20op.%20269%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/bf8a0bd2-16bd-4c6a-88f0-66fabf2366b4"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sphärenklänge, op. 235\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6f00e041-f98f-42c8-945c-3b6a1d31e7ed"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Explosions-Polka, Polka francaise, op. 43\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/01%20-%20Der%20Zigeunerbaron%2C%20Einzugsmarsch%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1c32d92c-31a5-4e2a-bf5b-c0e6a35c7fd6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch, op. 228\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#25",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/13%20-%20Dorfschwalben%20aus%20%C3%96sterreich%2C%20op.%20164%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/12%20-%20Leichtes%20Blut%2C%20op.%20319%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -702,83 +245,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#30",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/17%20-%20Annen-Polka%2C%20op.%20117%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/de38db14-7797-455d-a494-51613d07a95e"
+        "@id": "https://musicbrainz.org/track/66f5260b-c7ab-4135-a519-30187d7fbd32"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 30
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Künstlergruß, Polka francaise, op. 274\""
+        "@value": "Track: \"Annen-Polka, op. 117\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#31",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/18%20-%20Jockey-Polka%2C%20op.%20278%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/8af4db9c-5408-4361-af43-7c54d8a192f2"
+        "@id": "https://musicbrainz.org/track/18fdbf4a-a4f3-4a27-b070-857aee22c90f"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 31
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ohne Sorgen, Polka schnell, op. 271\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/07%20-%20Vergn%C3%BCgungszug%2C%20op.%20281%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c891244b-666e-4395-b3ab-009090aa5063"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eingesendet, op. 240\""
+        "@value": "Track: \"Jockey-Polka, op. 278\""
       }
     ]
   },
@@ -786,11 +302,6 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -810,13 +321,89 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/fa6b1fb8-191b-419e-ad44-f3e6a8b05efb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Pizzicato-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/08%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bf8a0bd2-16bd-4c6a-88f0-66fabf2366b4"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Sphärenklänge, op. 235\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/03%20-%20Unter%20Donner%20und%20Blitz%2C%20op.%20324%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2df83ca8-499c-4e56-a0c0-0e7c11af314c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Unter Donner und Blitz, op. 324\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#18",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/06%20-%20Eingesendet%2C%20op.%20240%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/05%20-%20Bitte%20sch%C3%B6n%2C%20op.%20372%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -837,29 +424,377 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_7-8%29%2FCD%207%20-%20Wagner/05-Lohengrin_%20Act%201%2C%20Prelude.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/fa6b1fb8-191b-419e-ad44-f3e6a8b05efb"
+        "@id": "https://musicbrainz.org/track/1fd41dd0-9eb8-4fcf-a41c-f738cadeae83"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Pizzicato-Polka"
+        "@value": "Track: \"Wettrennen, Galopp, op. 29\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/04%20-%20Kaiserwalzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9ffa5f4a-e443-4b73-b8fc-de4ebfabc263"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiserwalzer, op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#24",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/11%20-%20Banditen-Galopp%2C%20op.%20378%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ed47ece5-2cee-4eba-948d-a62e85c1c6b4"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 24
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Banditen-Galopp, op. 378\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/01%20-%20Der%20Zigeunerbaron%2C%20Einzugsmarsch%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0045f007-9144-4068-9a2e-6405808a0287"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Der Zigeunerbaron, Einzugsmarsch\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/09%20-%20Feuerfest%2C%20op.%20269%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/04335b91-88b1-4c87-be02-36019bda20b1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Feuerfest, op. 269\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/02%20-%20Perpetuum%20mobile%2C%20op%20257%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cbeafdf8-015a-4749-905d-5942203781fc"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile, op 257\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#28",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/15%20-%20Auf%20Ferienreisen%2C%20op.%20133%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/86a7fd49-4eed-4e6f-a762-cd2dc0167ca6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 28
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf Ferienreisen, op. 133\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6defa7cd-f2e2-4cf4-9eb4-14454abbb4b3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald, Walzer, op. 325\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8af4db9c-5408-4361-af43-7c54d8a192f2"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ohne Sorgen, Polka schnell, op. 271\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1c32d92c-31a5-4e2a-bf5b-c0e6a35c7fd6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch, op. 228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#29",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/16%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0eb02d23-f6c2-486a-8811-c88903a70b33"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 29
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre aus 'Die Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/96358fa3-7c71-43ef-b50d-13ffe4689d98"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tritsch-Tratsch-Polka, Polka francaise, op. 214\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#26",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/13%20-%20Dorfschwalben%20aus%20%C3%96sterreich%2C%20op.%20164%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/edc4c079-3d85-41e5-ad94-ff035b254dcd"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 26
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Dorfschwalben aus Österreich, op. 164\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f2eae962-f47c-469b-a0c4-a8690e01376d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rasch in der Tat, Polka schnell, op. 409\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29#27",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1963-1979%20%28Neujahr%20in%20Wien%29%2F1963-1979%20%28DVD%201%29/14%20-%20Eljen%20a%20Magyar%2C%20op.%20332%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ec05baf3-8000-420d-8e1b-9a6472761a6d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 27
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen a Magyar, op. 332\""
       }
     ]
   }

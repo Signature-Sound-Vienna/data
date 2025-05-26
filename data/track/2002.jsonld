@@ -1,163 +1,55 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#17",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/10%20-%20Die%20Libelle%2C%20Polka%20Mazur%2C%20op.%20204%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/16%20-%20Tik-Tak%2C%20Polka%20schnell%2C%20op.%20365%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/3628c297-7b59-483a-a305-0c2750018ee7"
+        "@id": "https://musicbrainz.org/track/cca2a21d-00ef-484f-b0c6-051c0f480e82"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 17
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Aquarellen-Walzer, op. 258\""
+        "@value": "Track: \"Tik-Tak, Polka schnell, op. 365\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#22",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/06%20-%20Vorw%C3%A4rts%21%20Polka%20schnell%2C%20op.%20127%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/404f7d2a-9fd1-41d3-80e1-a732e9a6e3d5"
+        "@id": "https://musicbrainz.org/track/8e99152f-4172-4f3a-a846-b1313282b2ba"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 22
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"End Credits\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/04%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6846f82d-fc4d-4786-958d-005778348b96"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Schwätzerin, Polka Mazur, op. 144\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/05%20-%20Beliebte%20Annen-Polka%2C%20op.%20137%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/cc7df305-af9a-4668-a44a-f60377bae6fd"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Künstlerleben, op. 316\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/14%20-%20Elisen-Polka%2C%20op.%20151%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e089b60a-5e41-4dd5-96be-32e45c4a0e52"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Danse diapolique\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/11%20-%20Plapperm%C3%A4ulchen%2C%20Polka%20schnell%2C%20op.%20245%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e4afcc3e-0d12-4c75-9ac4-75e04b4f3ce5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Libelle, Polka Mazur, op. 204\""
+        "@value": "Track: \"Vorwärts! Polka schnell, op. 127\""
       }
     ]
   },
@@ -168,7 +60,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/12%20-%20Perpetuum%20mobile%2C%20op.%20257%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/11%20-%20Plapperm%C3%A4ulchen%2C%20Polka%20schnell%2C%20op.%20245%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -185,87 +77,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Plappermäulchen, Polka schnell, op. 245\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#20",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c4cde59f-4440-4e77-a930-07bdfefbacb5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 20
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau, Walzer, op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/01%20-%20Zivio%21%20Marsch%2C%20op.%20456%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/477362d6-e872-4751-8e4d-12926a18f01d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Opening"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2002/18%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9f7894a4-d2e2-4078-8882-82bc1346bda1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"New Year ́s Greetings\""
       }
     ]
   },
@@ -297,13 +108,40 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2002/12%20-%20Perpetuum%20mobile%2C%20op.%20257%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8df9fa8c-74c6-4601-839e-6d834d67734f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile, op. 257\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2002#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/16%20-%20Tik-Tak%2C%20Polka%20schnell%2C%20op.%20365%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/15%20-%20Wiener%20Blut%2C%20Walzer%2C%20op.%20354%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -324,88 +162,142 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/02%20-%20Carnevalsbotschafter%2C%20Walzer%2C%20op.%20270%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/09%20-%20Aquarellen-Walzer%2C%20op.%20258%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/523fb296-5146-4a77-a3b8-726056c5ddb0"
+        "@id": "https://musicbrainz.org/track/3628c297-7b59-483a-a305-0c2750018ee7"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Zivio! Marsch, op. 456\""
+        "@value": "Track: \"Aquarellen-Walzer, op. 258\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/08%20-%20Arm%20in%20Arm%2C%20Polka%20Mazur%2C%20op.%20215%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/13%20-%20Danse%20diapolique%20-%20Josef%20Hellmesberger%20jun..wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/dbebe9a9-201a-46b3-aae7-113c6e170376"
+        "@id": "https://musicbrainz.org/track/e089b60a-5e41-4dd5-96be-32e45c4a0e52"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 14
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ouvertüre zu 'Die Fledermaus'\""
+        "@value": "Track: \"Danse diapolique\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#20",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/07%20-%20Ouvert%C3%BCre%20zu%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/18%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/8e99152f-4172-4f3a-a846-b1313282b2ba"
+        "@id": "https://musicbrainz.org/track/c4cde59f-4440-4e77-a930-07bdfefbacb5"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 20
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Vorwärts! Polka schnell, op. 127\""
+        "@value": "Track: \"An der schönen blauen Donau, Walzer, op. 314\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#17",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2002/14%20-%20Elisen-Polka%2C%20op.%20151%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/69f1423b-47cf-439a-ad08-096247f86a82"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Elisen-Polka, op. 151\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2002/03%20-%20Die%20Schw%C3%A4tzerin%2C%20Polka%20Mazur%2C%20op.%20144%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6846f82d-fc4d-4786-958d-005778348b96"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Schwätzerin, Polka Mazur, op. 144\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#19",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -416,18 +308,67 @@
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/cca2a21d-00ef-484f-b0c6-051c0f480e82"
+        "@id": "https://musicbrainz.org/track/9f7894a4-d2e2-4078-8882-82bc1346bda1"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
+        "@value": 19
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Tik-Tak, Polka schnell, op. 365\""
+        "@value": "Track: \"New Year ́s Greetings\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2002/04%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cc7df305-af9a-4668-a44a-f60377bae6fd"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Künstlerleben, op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/477362d6-e872-4751-8e4d-12926a18f01d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Opening"
       }
     ]
   },
@@ -438,7 +379,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/06%20-%20Vorw%C3%A4rts%21%20Polka%20schnell%2C%20op.%20127%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/05%20-%20Beliebte%20Annen-Polka%2C%20op.%20137%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -459,13 +400,40 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2002/10%20-%20Die%20Libelle%2C%20Polka%20Mazur%2C%20op.%20204%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e4afcc3e-0d12-4c75-9ac4-75e04b4f3ce5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Libelle, Polka Mazur, op. 204\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2002#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/09%20-%20Aquarellen-Walzer%2C%20op.%20258%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/08%20-%20Arm%20in%20Arm%2C%20Polka%20Mazur%2C%20op.%20215%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -482,6 +450,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Arm in Arm, Polka Mazur, op. 215\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2002/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/404f7d2a-9fd1-41d3-80e1-a732e9a6e3d5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"End Credits\""
       }
     ]
   },
@@ -513,29 +508,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#13",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/13%20-%20Danse%20diapolique%20-%20Josef%20Hellmesberger%20jun..wav"
+        "@id": "https://w3id.org/ssv/audio/2002/01%20-%20Zivio%21%20Marsch%2C%20op.%20456%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/8df9fa8c-74c6-4601-839e-6d834d67734f"
+        "@id": "https://musicbrainz.org/track/523fb296-5146-4a77-a3b8-726056c5ddb0"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Perpetuum mobile, op. 257\""
+        "@value": "Track: \"Zivio! Marsch, op. 456\""
       }
     ]
   },
@@ -546,7 +541,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/03%20-%20Die%20Schw%C3%A4tzerin%2C%20Polka%20Mazur%2C%20op.%20144%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/02%20-%20Carnevalsbotschafter%2C%20Walzer%2C%20op.%20270%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -567,29 +562,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2002#15",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2002#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2002/15%20-%20Wiener%20Blut%2C%20Walzer%2C%20op.%20354%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2002/07%20-%20Ouvert%C3%BCre%20zu%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/69f1423b-47cf-439a-ad08-096247f86a82"
+        "@id": "https://musicbrainz.org/track/dbebe9a9-201a-46b3-aae7-113c6e170376"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Elisen-Polka, op. 151\""
+        "@value": "Track: \"Ouvertüre zu 'Die Fledermaus'\""
       }
     ]
   }

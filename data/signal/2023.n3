@@ -2,8 +2,7 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/2023#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2023#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2023/1.peaks.json> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2023#1> .
 
 <https://w3id.org/ssv/0.9/data/signal/2023#10> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/2023#10> ;
@@ -54,7 +53,8 @@
     ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2023/20.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2023#21> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2023#21> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2023#21> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2023/21.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2023#3> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/2023#3> ;

@@ -16,18 +16,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#8"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/4.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/8.peaks.json"
       }
     ]
   },
@@ -48,6 +48,22 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/5.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -64,18 +80,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/1.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/4.peaks.json"
       }
     ]
   },
@@ -96,29 +112,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/5.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1"
       }
     ]
   }

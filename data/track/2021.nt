@@ -1,95 +1,94 @@
-<https://w3id.org/ssv/0.9/data/track/2021#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c5033218-7ce2-49d8-877f-36c0b47ef103> .
-<https://w3id.org/ssv/0.9/data/track/2021#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/07%20-%20Dichter%20und%20Bauer%2C%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Niko-Polka, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a21c543c-0903-49e3-ab31-5acda7a44e1e> .
-<https://w3id.org/ssv/0.9/data/track/2021#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/03%20-%20Niko-Polka%2C%20op.%20228%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Margherita-Polka, op. 244\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f464e462-22a2-4e90-b92a-b2fc94f33ffb> .
-<https://w3id.org/ssv/0.9/data/track/2021#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/575c612b-4536-488c-84b2-f3be54f2ca42> .
-<https://w3id.org/ssv/0.9/data/track/2021#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neue Melodien-Quadrille, op. 254\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dichter und Bauer, Ouvertüre\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiserwalzer, op. 437\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/08%20-%20Bad%27ner%20Mad%27ln%2C%20op.%20257%20-%20Karl%20Komz%C3%A1k%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/11%20-%20Fr%C3%BChlingsstimmen%2C%20op.%20410%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e2d7751e-7885-4b4e-826d-e9de6601f969> .
-<https://w3id.org/ssv/0.9/data/track/2021#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/309404c3-9051-4484-bf72-13c56e618d79> .
-<https://w3id.org/ssv/0.9/data/track/2021#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2a06ac8f-be44-46f8-a436-ca653b21d963> .
-<https://w3id.org/ssv/0.9/data/track/2021#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/12%20-%20Im%20Krapfenwald%27l%2C%20op.%20336%20-%20Johann%20Strauss%20II.wav> .
 <https://w3id.org/ssv/0.9/data/track/2021#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/2021#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/10%20-%20Venetianer-Galopp%2C%20op.%2074%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ccf43e4b-9916-4a60-a2eb-c45842fc523a> .
-<https://w3id.org/ssv/0.9/data/track/2021#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Sorgen, op. 271\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f71b70a9-996d-42f8-ad9b-2d3fd2e994be> .
-<https://w3id.org/ssv/0.9/data/track/2021#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/15%20-%20St%C3%BCrmisch%20in%20Lieb%27und%20Tanz%2C%20op.%20393%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/02%20-%20Schallwellen%2C%20op.%20148%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ba3dfa4f-1a99-4353-bdd0-581bd170a2df> .
-<https://w3id.org/ssv/0.9/data/track/2021#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/13%20-%20Neue%20Melodien-Quadrille%2C%20op.%20254%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d022aed5-126f-4e76-8a2a-b556157f0c48> .
+<https://w3id.org/ssv/0.9/data/track/2021#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/16%20-%20Furioso-Polka%2C%20op.%20260%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/cb1b9615-503e-4c53-86d0-fd0fe071adee> .
+<https://w3id.org/ssv/0.9/data/track/2021#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/10%20-%20Venetianer-Galopp%2C%20op.%2074%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"In Saus und Braus\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/05%20-%20Grubenlichter%20-%20Carl%20Zeller.wav> .
 <https://w3id.org/ssv/0.9/data/track/2021#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/05%20-%20Grubenlichter%20-%20Carl%20Zeller.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Schallwellen, op. 148\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neujahrsgruß/ New Year ́s Address\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frühlingsstimmen, op. 410\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/143f1f82-6293-4aa1-9e67-82503756fb9b> .
-<https://w3id.org/ssv/0.9/data/track/2021#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/16%20-%20Furioso-Polka%2C%20op.%20260%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d022aed5-126f-4e76-8a2a-b556157f0c48> .
+<https://w3id.org/ssv/0.9/data/track/2021#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/13%20-%20Neue%20Melodien-Quadrille%2C%20op.%20254%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/02%20-%20Schallwellen%2C%20op.%20148%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Fatinitza-Marsch" .
+<https://w3id.org/ssv/0.9/data/track/2021#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2a06ac8f-be44-46f8-a436-ca653b21d963> .
+<https://w3id.org/ssv/0.9/data/track/2021#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/03%20-%20Niko-Polka%2C%20op.%20228%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/11%20-%20Fr%C3%BChlingsstimmen%2C%20op.%20410%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/2021#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7e19301e-9239-41e9-b22e-46c87699a379> .
-<https://w3id.org/ssv/0.9/data/track/2021#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb'und Tanz, op. 393\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/328fed84-a208-40f3-8b8b-7dae337a182b> .
+<https://w3id.org/ssv/0.9/data/track/2021#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/04%20-%20Ohne%20Sorgen%2C%20op.%20271%20-%20Josef%20Strauss%20.wav> .
 <https://w3id.org/ssv/0.9/data/track/2021#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Grubenlichter" .
 <https://w3id.org/ssv/0.9/data/track/2021#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Furioso-Polka, op. 260\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/143f1f82-6293-4aa1-9e67-82503756fb9b> .
+<https://w3id.org/ssv/0.9/data/track/2021#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/328fed84-a208-40f3-8b8b-7dae337a182b> .
+<https://w3id.org/ssv/0.9/data/track/2021#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/15%20-%20St%C3%BCrmisch%20in%20Lieb%27und%20Tanz%2C%20op.%20393%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frühlingsstimmen, op. 410\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/09%20-%20Margherita-Polka%2C%20op.%20244%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f71b70a9-996d-42f8-ad9b-2d3fd2e994be> .
+<https://w3id.org/ssv/0.9/data/track/2021#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/2021#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b3f92105-bb7b-40ed-9e55-10fed2e2f2e5> .
-<https://w3id.org/ssv/0.9/data/track/2021#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/06%20-%20In%20Saus%20und%20Braus%20-%20Carl%20Mill%C3%B6cker.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/12%20-%20Im%20Krapfenwald%27l%2C%20op.%20336%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/07%20-%20Dichter%20und%20Bauer%2C%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5febcec4-502e-4f77-9a39-62ed56c396ac> .
+<https://w3id.org/ssv/0.9/data/track/2021#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c5033218-7ce2-49d8-877f-36c0b47ef103> .
+<https://w3id.org/ssv/0.9/data/track/2021#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Schallwellen, op. 148\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/309404c3-9051-4484-bf72-13c56e618d79> .
+<https://w3id.org/ssv/0.9/data/track/2021#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/14%20-%20Kaiserwalzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Grubenlichter" .
+<https://w3id.org/ssv/0.9/data/track/2021#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Venetianer-Galopp, op. 74\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Furioso-Polka, op. 260\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Niko-Polka, op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ccf43e4b-9916-4a60-a2eb-c45842fc523a> .
+<https://w3id.org/ssv/0.9/data/track/2021#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/06%20-%20In%20Saus%20und%20Braus%20-%20Carl%20Mill%C3%B6cker.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ba3dfa4f-1a99-4353-bdd0-581bd170a2df> .
+<https://w3id.org/ssv/0.9/data/track/2021#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8a7237f2-5742-46f7-820e-83633f3b3382> .
 <https://w3id.org/ssv/0.9/data/track/2021#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/2021#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Krapfenwald'l, op. 336\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/fea701d9-7bdf-4b9c-85d0-86b48fa556c9> .
+<https://w3id.org/ssv/0.9/data/track/2021#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neujahrsgruß/ New Year ́s Address\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/08%20-%20Bad%27ner%20Mad%27ln%2C%20op.%20257%20-%20Karl%20Komz%C3%A1k%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb'und Tanz, op. 393\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7e19301e-9239-41e9-b22e-46c87699a379> .
+<https://w3id.org/ssv/0.9/data/track/2021#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a21c543c-0903-49e3-ab31-5acda7a44e1e> .
+<https://w3id.org/ssv/0.9/data/track/2021#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/575c612b-4536-488c-84b2-f3be54f2ca42> .
 <https://w3id.org/ssv/0.9/data/track/2021#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Bad'ner Mad'ln, op. 257\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/cb1b9615-503e-4c53-86d0-fd0fe071adee> .
-<https://w3id.org/ssv/0.9/data/track/2021#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/14%20-%20Kaiserwalzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/09%20-%20Margherita-Polka%2C%20op.%20244%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/16%20-%20Furioso-Polka%2C%20op.%20260%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"In Saus und Braus\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8a7237f2-5742-46f7-820e-83633f3b3382> .
-<https://w3id.org/ssv/0.9/data/track/2021#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/16%20-%20Furioso-Polka%2C%20op.%20260%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2021#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dichter und Bauer, Ouvertüre\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/2021#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2021#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5febcec4-502e-4f77-9a39-62ed56c396ac> .
-<https://w3id.org/ssv/0.9/data/track/2021#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2021/04%20-%20Ohne%20Sorgen%2C%20op.%20271%20-%20Josef%20Strauss%20.wav> .
-<https://w3id.org/ssv/0.9/data/track/2021#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Fatinitza-Marsch" .
-<https://w3id.org/ssv/0.9/data/track/2021#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2021#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Venetianer-Galopp, op. 74\"" .
-<https://w3id.org/ssv/0.9/data/track/2021#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2021#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiserwalzer, op. 437\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Sorgen, op. 271\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/fea701d9-7bdf-4b9c-85d0-86b48fa556c9> .
+<https://w3id.org/ssv/0.9/data/track/2021#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f464e462-22a2-4e90-b92a-b2fc94f33ffb> .
+<https://w3id.org/ssv/0.9/data/track/2021#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neue Melodien-Quadrille, op. 254\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e2d7751e-7885-4b4e-826d-e9de6601f969> .
+<https://w3id.org/ssv/0.9/data/track/2021#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Margherita-Polka, op. 244\"" .
+<https://w3id.org/ssv/0.9/data/track/2021#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2021#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .

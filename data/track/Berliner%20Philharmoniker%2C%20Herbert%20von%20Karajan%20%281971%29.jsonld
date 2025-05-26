@@ -1,23 +1,23 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://musicbrainz.org/track/e92b880d-a483-4b4d-be36-5b7290cc03e8"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Postillon d'amour, op. 317\""
+        "@value": "Track: \"G'schichten aus dem Wienerwald, op. 325\""
       }
     ]
   },
@@ -28,7 +28,12 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/08-Wiener%20Blut%2C%20op.%20354.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a5648820-5b49-4899-9807-12f3a5681792"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -44,68 +49,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/06-Morgenbl%C3%A4tter%2C%20op.%20279.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/447a1721-e256-46e9-af3c-6d1a1b0ea417"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Leichtes Blut, op. 319\""
+        "@value": "Track: \"Morgenblätter, op. 279\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/04-Pizzicato-Polka.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5bb99c0f-0fe7-4b23-954d-eba809ea1206"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ägyptischer Marsch, op. 335\""
+        "@value": "Track: Pizzicato-Polka"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/09-Postillon%20d%27amour%2C%20op.%20317.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6c7deb92-c9a8-4339-b13c-911ff21fa57c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"G'schichten aus dem Wiener Wald, op. 325\""
+        "@value": "Track: \"Postillon d'amour, op. 317\""
       }
     ]
   },
@@ -116,7 +136,12 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/02-Auf%20der%20Jagd%2C%20op.%20373.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/3b122bf3-c797-493c-9eec-38e5ead2dfb6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -132,24 +157,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/03-%C3%84gyptischer%20Marsch%2C%20op.%20335.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/422df882-e734-4d68-bcd1-9c1c156d9b98"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Pizzicato-Polka\""
+        "@value": "Track: \"Ägyptischer Marsch, op. 335\""
       }
     ]
   },
@@ -160,7 +190,12 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/10-Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/161a9c91-52cc-40c1-ad39-fd979333d769"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -182,7 +217,12 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/05-Unter%20Donner%20und%20Blitz%2C%20op.%20324.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1e1f091c-edbd-4029-984a-65474046cb74"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -198,13 +238,45 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
         "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1b4c7829-54c0-4984-8a1f-0794e51928da"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Leichtes Blut, op. 319\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/07-Persischer%20Marsch%2C%20op.%20289.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ea89c9d9-b24f-44e5-9e86-6ebb64bc968b"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
@@ -216,28 +288,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Persischer Marsch, op. 289\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morgenblätter, op. 279\""
       }
     ]
   }

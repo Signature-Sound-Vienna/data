@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/mixed%20%28Die%20Highlights%20aus%20Wien%29> a ns1:Release ;
-    rdfs:label "Record: \"Das Neujahrskonzert\"",
-        "Release: \"Das Neujahrskonzert\"" ;
-    dcterms:title "\"Das Neujahrskonzert\"" ;
+    rdfs:label "Record: \"Neujahrskonzert: Die Highlights aus Wien\"",
+        "Release: \"Neujahrskonzert: Die Highlights aus Wien\"" ;
+    dcterms:title "\"Neujahrskonzert: Die Highlights aus Wien\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#1>,
         <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#10>,

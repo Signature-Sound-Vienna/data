@@ -1,54 +1,54 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#1> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#10> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/10.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#11> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/11.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#12> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/12.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#13> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/13.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#2> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/2.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#3> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/3.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#4> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/4.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#5> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/5.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#6> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/6.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#7> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/7.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#8> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/8.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9> a ns1:Signal ;
-    ns1:isrc <https://musicbrainz.org/isrc/000000000000> ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie%20Lugansk%2C%20Kurt%20Schmid#9> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie%20Lugansk%2C%20Kurt%20Schmid/9.peaks.json> .
 

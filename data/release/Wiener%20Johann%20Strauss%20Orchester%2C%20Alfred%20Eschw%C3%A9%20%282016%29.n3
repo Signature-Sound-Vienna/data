@@ -3,9 +3,9 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://w3id.org/ssv/0.9/data/release/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29> a ns1:Release ;
-    rdfs:label "Record: \"Kaiser-Walzer live in concert, Jubiläumskonzert No. 4\"",
-        "Release: \"Kaiser-Walzer live in concert, Jubiläumskonzert No. 4\"" ;
-    dcterms:title "\"Kaiser-Walzer live in concert, Jubiläumskonzert No. 4\"" ;
+    rdfs:label "Record: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"",
+        "Release: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
+    dcterms:title "\"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
     ns1:catalogue_number "__NONE__" ;
     ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener%20Johann%20Strauss%20Orchester%2C%20Alfred%20Eschw%C3%A9%20%282016%29#10>,

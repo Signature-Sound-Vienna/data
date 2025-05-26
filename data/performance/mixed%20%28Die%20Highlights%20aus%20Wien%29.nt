@@ -1,3 +1,4 @@
-<https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Johann Strauß, Vater - Radetzky-Marsch (Herbert von Karajan) 1987\"" .
+<https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Radetzky-Marsch (Herbert von Karajan) 1987\"" .
+<https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f> .
 <https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
 <https://w3id.org/ssv/0.9/data/performance/mixed%20%28Die%20Highlights%20aus%20Wien%29#12> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/0.9/data/signal/mixed%20%28Die%20Highlights%20aus%20Wien%29#12> .
