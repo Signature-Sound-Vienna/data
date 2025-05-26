@@ -4,6 +4,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f3937011-c571-429f-be01-1d564cb5757f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Künstlerleben, Waltz Op. 316"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/05-K%C3%BCnstlerleben%2C%20Waltz%20Op.%20316e.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b91df757-9fdd-4cd0-81e6-390def7e42e1"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Geschichten Aus Dem Wienerwald, Waltz Op.325"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/07-Geschichten%20Aus%20Dem%20Wienerwald%2C%20Waltz%20Op.325.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a3b7610b-42c2-45f0-a81d-2d9a9a93377b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Wienerblut, Waltz Op.354"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/09-Wienerblut%2C%20Waltz%20Op.354.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/742d4895-dbdc-4afe-b1c2-16d61f77fc1b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Eine Nacht In Venedig - Overture"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/06-Eine%20Nacht%20In%20Venedig%20-%20Overture.wav"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ca756d38-dec8-493a-920c-e9c1e75ff021"/>
@@ -18,19 +46,12 @@
     <rdfs:label>Track: "Wein, Weib Und Gesang, Waltz Op. 333"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/03-Wein%2C%20Weib%20Und%20Gesang%2C%20Waltz%20Op.%20333.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f3937011-c571-429f-be01-1d564cb5757f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Künstlerleben, Waltz Op. 316"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/05-K%C3%BCnstlerleben%2C%20Waltz%20Op.%20316e.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/742d4895-dbdc-4afe-b1c2-16d61f77fc1b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Eine Nacht In Venedig - Overture"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/06-Eine%20Nacht%20In%20Venedig%20-%20Overture.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0ae831c8-dcd2-41c6-9040-8c7df7411e29"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Kaiser-Walzer, Op.437"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/10-Kaiser-Walzer%2C%20Op.437.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -39,33 +60,12 @@
     <rdfs:label>Track: "Neue Pizzicato Polka, Op. 449"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/04-Neue%20Pizzicato%20Polka%2C%20Op.%20449.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a3b7610b-42c2-45f0-a81d-2d9a9a93377b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Wienerblut, Waltz Op.354"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/09-Wienerblut%2C%20Waltz%20Op.354.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1230f60e-befb-486f-94f3-833c55c5f9e5"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Auf Der Jagd, Polka Op. 373"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/02-Auf%20Der%20Jagd%2C%20Polka%20Op.%20373.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0ae831c8-dcd2-41c6-9040-8c7df7411e29"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Kaiser-Walzer, Op.437"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/10-Kaiser-Walzer%2C%20Op.437.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b91df757-9fdd-4cd0-81e6-390def7e42e1"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Geschichten Aus Dem Wienerwald, Waltz Op.325"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/07-Geschichten%20Aus%20Dem%20Wienerwald%2C%20Waltz%20Op.325.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>

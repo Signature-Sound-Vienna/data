@@ -1,5 +1,64 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/5.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/6.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/4.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -28,65 +87,6 @@
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/3.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/5.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#6"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/6.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener%20Opernorchester%2C%20Falk%20%281991%29/4.peaks.json"
       }
     ]
   }

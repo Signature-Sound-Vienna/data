@@ -1,32 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/04-Fr%C3%BChlingsstimmen-Walzer%2C%20Op.%20410.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/54e96e83-a619-4c45-8acd-d07111ea979e"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Frühlingsstimmen-Walzer, Op. 410\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -81,29 +54,24 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/05-Wiener%20Bonbons%2C%20Op.%20307.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5161708a-19e0-412d-9e89-6e18959f415d"
+        "@id": "https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Bonbons, Op. 307\""
+        "@value": "Track: \"Dorfschwalben, Walzer, Op. 164\""
       }
     ]
   },
@@ -135,24 +103,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/04-Fr%C3%BChlingsstimmen-Walzer%2C%20Op.%20410.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1"
+        "@id": "https://musicbrainz.org/track/54e96e83-a619-4c45-8acd-d07111ea979e"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Dorfschwalben, Walzer, Op. 164\""
+        "@value": "Track: \"Frühlingsstimmen-Walzer, Op. 410\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Opernorchester%2C%20Falk%20%281991%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Opernorchester%2C%20Falk%20%281991%29/05-Wiener%20Bonbons%2C%20Op.%20307.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5161708a-19e0-412d-9e89-6e18959f415d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Bonbons, Op. 307\""
       }
     ]
   }

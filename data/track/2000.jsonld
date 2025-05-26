@@ -1,136 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#19",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2000/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+        "@id": "https://w3id.org/ssv/audio/2000/03%20-%20Albion-Polka%2C%20op.%20102%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/e8f0a910-a256-42e4-8cc7-a7f5e2e6c3b2"
+        "@id": "https://musicbrainz.org/track/c76f3bd7-2c59-4e2d-98d7-51ac1c8cd1b3"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Radetzky-Marsch, op. 228\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20%28Walzer%29%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6bb41473-95e1-4265-969a-573c4545e1e9"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau (Walzer), op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/04%20-%20Liebeslieder-Walzer%2C%20op.%20114%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/467c1407-51d1-4593-b0a0-22ad6e2993ee"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Liebeslieder-Walzer, op. 114\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/05%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20Pasman%27%2C%20op.%20411-1%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b07cc68f-ccfc-4686-854d-27bd45f0d087"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Csárdás aus 'Ritter Pasman', op. 411-1\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/11%20-%20Die%20Libelle%20%28Polka%20Mazur%29%2C%20op.%20204%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f90a91d5-044f-40b7-80b2-1f2e46f23370"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Libelle (Polka Mazur), op. 204\""
+        "@value": "Track: \"Albion-Polka, op. 102\""
       }
     ]
   },
@@ -162,60 +54,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/02%20-%20Hellenen-Polka%20%28Polka%20schnell%29%2C%20op.%20203%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/38366f97-00e9-4416-bca2-23a455ac94e1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Hellenen-Polka (Polka schnell), op. 203\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/14%20-%20Marien-Kl%C3%A4nge%20%28Walzer%29%2C%20op.%20214%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/cf7390ca-a901-4bc2-a24d-4b7862a033f8"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Marien-Klänge (Walzer), op. 214\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2000#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -239,60 +77,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Éljen a Magyar! (Polka schnell), op. 332\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/16%20-%20Vom%20Donaustrande%20%28Polka%20schnell%29%2C%20op.%20356%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4641e4b6-34a4-4377-8499-8c651df1a6b9"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Riccardo Muti's New Year greeting\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2000/03%20-%20Albion-Polka%2C%20op.%20102%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c76f3bd7-2c59-4e2d-98d7-51ac1c8cd1b3"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Albion-Polka, op. 102\""
       }
     ]
   },
@@ -324,6 +108,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/04%20-%20Liebeslieder-Walzer%2C%20op.%20114%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/467c1407-51d1-4593-b0a0-22ad6e2993ee"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Liebeslieder-Walzer, op. 114\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2000#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -347,6 +158,136 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Persischer Marsch, op. 289\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/08%20-%20Gru%C3%9F%20an%20Prag%20%28Polka%20francaise%29%2C%20op.%20144%20-%20Eduard%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/81750b24-37b0-40ae-a0d5-cd14a5115aa9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Gruß an Prag (Polka francaise), op. 144\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/14%20-%20Marien-Kl%C3%A4nge%20%28Walzer%29%2C%20op.%20214%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cf7390ca-a901-4bc2-a24d-4b7862a033f8"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Marien-Klänge (Walzer), op. 214\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/16%20-%20Vom%20Donaustrande%20%28Polka%20schnell%29%2C%20op.%20356%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4641e4b6-34a4-4377-8499-8c651df1a6b9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Riccardo Muti's New Year greeting\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/25774457-dbfc-47f4-8df2-35915d74f09e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Lagunen-Walzer, op. 411\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/05%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20Pasman%27%2C%20op.%20411-1%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b07cc68f-ccfc-4686-854d-27bd45f0d087"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Csárdás aus 'Ritter Pasman', op. 411-1\""
       }
     ]
   },
@@ -378,24 +319,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/11%20-%20Die%20Libelle%20%28Polka%20Mazur%29%2C%20op.%20204%20-%20Josef%20Strauss.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/25774457-dbfc-47f4-8df2-35915d74f09e"
+        "@id": "https://musicbrainz.org/track/f90a91d5-044f-40b7-80b2-1f2e46f23370"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 11
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Lagunen-Walzer, op. 411\""
+        "@value": "Track: \"Die Libelle (Polka Mazur), op. 204\""
       }
     ]
   },
@@ -427,6 +373,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20%28Walzer%29%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6bb41473-95e1-4265-969a-573c4545e1e9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau (Walzer), op. 314\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2000#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -454,29 +427,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2000#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#19",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2000/08%20-%20Gru%C3%9F%20an%20Prag%20%28Polka%20francaise%29%2C%20op.%20144%20-%20Eduard%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2000/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/81750b24-37b0-40ae-a0d5-cd14a5115aa9"
+        "@id": "https://musicbrainz.org/track/e8f0a910-a256-42e4-8cc7-a7f5e2e6c3b2"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 19
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Gruß an Prag (Polka francaise), op. 144\""
+        "@value": "Track: \"Radetzky-Marsch, op. 228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2000#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2000/02%20-%20Hellenen-Polka%20%28Polka%20schnell%29%2C%20op.%20203%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/38366f97-00e9-4416-bca2-23a455ac94e1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Hellenen-Polka (Polka schnell), op. 203\""
       }
     ]
   },

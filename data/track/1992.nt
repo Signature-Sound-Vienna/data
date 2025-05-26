@@ -1,79 +1,79 @@
-<https://w3id.org/ssv/0.9/data/track/1992#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d85381a3-394d-4837-898f-98e9b3863e14> .
-<https://w3id.org/ssv/0.9/data/track/1992#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neue Pizzicato-Polka\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dorfschwalben aus Österreich\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Vergnügungszug" .
-<https://w3id.org/ssv/0.9/data/track/1992#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/15957c4a-5e5d-4e22-99d3-dba61cffdcec> .
-<https://w3id.org/ssv/0.9/data/track/1992#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tausend und eine Nacht\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d2089618-e650-4def-be04-e30d1b300e96> .
-<https://w3id.org/ssv/0.9/data/track/1992#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/996c5dc0-c76c-41bf-b6a7-83918506123e> .
-<https://w3id.org/ssv/0.9/data/track/1992#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stadt und Land\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/12%20-%20Unter%20Donner%20und%20Blitz%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die lustigen Weiber von Windsor'\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/03%20-%20Dorfschwalben%20aus%20%C3%96sterreich%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/15%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/10%20-%20Tritsch-Tratsch%20Polka%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4e125830-089c-4fbe-bf82-e1d42f69204b> .
-<https://w3id.org/ssv/0.9/data/track/1992#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/14%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Radetzky-Marsch" .
-<https://w3id.org/ssv/0.9/data/track/1992#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2f54ef1e-96e3-49ce-bad4-1f5ff7aed687> .
-<https://w3id.org/ssv/0.9/data/track/1992#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9679fc17-cfe1-48b4-a930-a5ea1b9e9a8f> .
 <https://w3id.org/ssv/0.9/data/track/1992#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Unter Donner und Blitz\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4d1fc1d2-af6e-4ae9-9533-30b95b3cb76e> .
+<https://w3id.org/ssv/0.9/data/track/1992#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/1992#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Jokey-Polka" .
-<https://w3id.org/ssv/0.9/data/track/1992#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Titles" .
-<https://w3id.org/ssv/0.9/data/track/1992#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Sphärenklänge" .
-<https://w3id.org/ssv/0.9/data/track/1992#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/13%20-%20Jokey-Polka%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2880d1cc-a53e-47c8-bbbe-3d9b69b664b7> .
-<https://w3id.org/ssv/0.9/data/track/1992#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/06%20-%20Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/11%20-%20Sph%C3%A4renkl%C3%A4nge%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/07%20-%20Tausend%20und%20eine%20Nacht%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/05%20-%20Vergn%C3%BCgungszug%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6008a80d-ee3c-45ce-acbd-4a8418a1f05a> .
-<https://w3id.org/ssv/0.9/data/track/1992#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tritsch-Tratsch Polka\"" .
-<https://w3id.org/ssv/0.9/data/track/1992#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/88980217-8067-4976-bf73-f724104f5ec7> .
-<https://w3id.org/ssv/0.9/data/track/1992#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1992#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9f6985e3-485a-4c89-9642-fda459d81f24> .
-<https://w3id.org/ssv/0.9/data/track/1992#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/02%20-%20Stadt%20und%20Land%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/18ec632a-f6a5-48a5-a29b-3b3a4ae0a309> .
-<https://w3id.org/ssv/0.9/data/track/1992#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4c45562d-1495-4eae-9cf7-aacab893c8ed> .
-<https://w3id.org/ssv/0.9/data/track/1992#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1992#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/09%20-%20Persischer%20Marsch%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4299e7f3-d940-4b7a-9208-3934c0fdd6c1> .
-<https://w3id.org/ssv/0.9/data/track/1992#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/04%20-%20Feuerfest%21%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/1992#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/01%20-%20Ouvert%C3%BCre%20aus%20%27Die%20lustigen%20Weiber%20von%20Windsor%27%20-%20Otto%20Nicolai.wav> .
-<https://w3id.org/ssv/0.9/data/track/1992#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/07%20-%20Tausend%20und%20eine%20Nacht%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/02%20-%20Stadt%20und%20Land%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/18ec632a-f6a5-48a5-a29b-3b3a4ae0a309> .
+<https://w3id.org/ssv/0.9/data/track/1992#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/06%20-%20Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tausend und eine Nacht\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Feuerfest!" .
+<https://w3id.org/ssv/0.9/data/track/1992#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dorfschwalben aus Österreich\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/12%20-%20Unter%20Donner%20und%20Blitz%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stadt und Land\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Persischer Marsch\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6008a80d-ee3c-45ce-acbd-4a8418a1f05a> .
+<https://w3id.org/ssv/0.9/data/track/1992#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4e125830-089c-4fbe-bf82-e1d42f69204b> .
 <https://w3id.org/ssv/0.9/data/track/1992#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/08%20-%20Neue%20Pizzicato-Polka%20-%20Johann%20Strauss%20II.wav> .
 <https://w3id.org/ssv/0.9/data/track/1992#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f16d418f-af92-404b-bf30-8a657d848880> .
-<https://w3id.org/ssv/0.9/data/track/1992#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Feuerfest!" .
-<https://w3id.org/ssv/0.9/data/track/1992#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Persischer Marsch\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/14%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4d1fc1d2-af6e-4ae9-9533-30b95b3cb76e> .
+<https://w3id.org/ssv/0.9/data/track/1992#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/996c5dc0-c76c-41bf-b6a7-83918506123e> .
+<https://w3id.org/ssv/0.9/data/track/1992#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9f6985e3-485a-4c89-9642-fda459d81f24> .
+<https://w3id.org/ssv/0.9/data/track/1992#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/04%20-%20Feuerfest%21%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Radetzky-Marsch" .
+<https://w3id.org/ssv/0.9/data/track/1992#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2f54ef1e-96e3-49ce-bad4-1f5ff7aed687> .
+<https://w3id.org/ssv/0.9/data/track/1992#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Vergnügungszug" .
+<https://w3id.org/ssv/0.9/data/track/1992#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/09%20-%20Persischer%20Marsch%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/11%20-%20Sph%C3%A4renkl%C3%A4nge%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Titles" .
+<https://w3id.org/ssv/0.9/data/track/1992#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2880d1cc-a53e-47c8-bbbe-3d9b69b664b7> .
+<https://w3id.org/ssv/0.9/data/track/1992#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die lustigen Weiber von Windsor'\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d85381a3-394d-4837-898f-98e9b3863e14> .
+<https://w3id.org/ssv/0.9/data/track/1992#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/05%20-%20Vergn%C3%BCgungszug%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/03%20-%20Dorfschwalben%20aus%20%C3%96sterreich%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d2089618-e650-4def-be04-e30d1b300e96> .
+<https://w3id.org/ssv/0.9/data/track/1992#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tritsch-Tratsch Polka\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Jokey-Polka" .
+<https://w3id.org/ssv/0.9/data/track/1992#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Sphärenklänge" .
+<https://w3id.org/ssv/0.9/data/track/1992#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4299e7f3-d940-4b7a-9208-3934c0fdd6c1> .
+<https://w3id.org/ssv/0.9/data/track/1992#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Neue Pizzicato-Polka\"" .
+<https://w3id.org/ssv/0.9/data/track/1992#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/10%20-%20Tritsch-Tratsch%20Polka%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/88980217-8067-4976-bf73-f724104f5ec7> .
+<https://w3id.org/ssv/0.9/data/track/1992#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/15%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1992/13%20-%20Jokey-Polka%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1992#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4c45562d-1495-4eae-9cf7-aacab893c8ed> .
+<https://w3id.org/ssv/0.9/data/track/1992#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1992#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1992#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9679fc17-cfe1-48b4-a930-a5ea1b9e9a8f> .
+<https://w3id.org/ssv/0.9/data/track/1992#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/15957c4a-5e5d-4e22-99d3-dba61cffdcec> .
+<https://w3id.org/ssv/0.9/data/track/1992#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .

@@ -1,28 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav"
+        "@id": "https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/03-Johann%20%26%20Joseph%20Strauss%20-%20Strauss%20Walzer.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/09a59cd1-36a9-48c4-ba5e-750c9420c352"
+        "@id": "https://musicbrainz.org/track/dedc0994-3499-4c44-97b8-a24f44b26910"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Blut\""
+        "@value": "Track: \"Strauss Walzer\""
       }
     ]
   },
@@ -76,33 +76,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/03-Johann%20%26%20Joseph%20Strauss%20-%20Strauss%20Walzer.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/dedc0994-3499-4c44-97b8-a24f44b26910"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Strauss Walzer\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -126,6 +99,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Kaiser Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Slovakisches%20Philharmonisches%20Orchester%2C%20Aebi%20%281996%29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/09a59cd1-36a9-48c4-ba5e-750c9420c352"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut\""
       }
     ]
   }

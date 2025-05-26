@@ -4,12 +4,18 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b645eec0-10e3-3666-b380-5c208bd6f31c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Wiener Blut"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/01-Wiener%20Blut%20op.%20345.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e4318efa-d00f-3ba5-ba7a-aab98a5c1a5c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: Schatz-Walzer</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/09-Schatz-Walzer%20op.%20418.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau"</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -18,19 +24,26 @@
     <rdfs:label>Track: Annen-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/02-Annen-Polka%20op.%20117.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e4318efa-d00f-3ba5-ba7a-aab98a5c1a5c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: Schatz-Walzer</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/09-Schatz-Walzer%20op.%20418.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Eljen A Magyar!"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/04-Eljen%20a%20Magyar%20op.%20332.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/829602dc-2e61-36da-8757-ca8efdd39d47"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: Liebeslieder</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/07-Liebeslieder%20op.%20114.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b645eec0-10e3-3666-b380-5c208bd6f31c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Wiener Blut"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/01-Wiener%20Blut%20op.%20345.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/57b0220f-8b85-34ab-80d3-d43a7b622c2c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Perpetuum mobile"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/08-Perpetuum%20mobile%20op.%20257.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -46,24 +59,11 @@
     <rdfs:label>Track: Morgenblätter</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/03-Morgenblaetter%20op.%20279.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/57b0220f-8b85-34ab-80d3-d43a7b622c2c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Perpetuum mobile"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/08-Perpetuum%20mobile%20op.%20257.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Eljen A Magyar!"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/04-Eljen%20a%20Magyar%20op.%20332.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/829602dc-2e61-36da-8757-ca8efdd39d47"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: Liebeslieder</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/07-Liebeslieder%20op.%20114.wav"/>
   </rdf:Description>
 </rdf:RDF>

@@ -1,5 +1,32 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/05-Unter%20Donner%20und%20Blitz%2C%20op.%20324.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1e1f091c-edbd-4029-984a-65474046cb74"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Unter Donner und Blitz, op. 324\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -18,33 +45,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"G'schichten aus dem Wienerwald, op. 325\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/08-Wiener%20Blut%2C%20op.%20354.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a5648820-5b49-4899-9807-12f3a5681792"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Blut, op. 354\""
       }
     ]
   },
@@ -103,6 +103,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/10-Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/161a9c91-52cc-40c1-ad39-fd979333d769"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Sphärenklänge, op. 235\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -126,6 +153,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Postillon d'amour, op. 317\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/08-Wiener%20Blut%2C%20op.%20354.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a5648820-5b49-4899-9807-12f3a5681792"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut, op. 354\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1b4c7829-54c0-4984-8a1f-0794e51928da"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Leichtes Blut, op. 319\""
       }
     ]
   },
@@ -180,87 +261,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Ägyptischer Marsch, op. 335\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/10-Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/161a9c91-52cc-40c1-ad39-fd979333d769"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sphärenklänge, op. 235\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/05-Unter%20Donner%20und%20Blitz%2C%20op.%20324.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1e1f091c-edbd-4029-984a-65474046cb74"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Unter Donner und Blitz, op. 324\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/11-Leichtes%20Blut%2C%20op.%20319.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1b4c7829-54c0-4984-8a1f-0794e51928da"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Leichtes Blut, op. 319\""
       }
     ]
   },

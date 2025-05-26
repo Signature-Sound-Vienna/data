@@ -1,32 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/06-Johann-Strau%C3%9F%20-%20Im%20Sturmschritt.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c5d14cc6-8959-444b-9bcb-5645c5af8037"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Im Sturmschritt (Polka, schnell)\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -54,60 +27,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/16-Johann-Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7aef789d-1dc2-4aa5-ba1a-e76d3554cb52"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Radetzky-Marsch"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/07-Johann-Strau%C3%9F%20-%20Kaiserwalzer.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/385cb21d-ee68-41f1-a2db-433f13bf8b0f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Kaiserwalzer"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -131,6 +50,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"An der schönen blauen Donau (Walzer)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/08-Johann-Strau%C3%9F%20-%20Tritsch-Tratsch-Polka.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/393152a9-74c1-45df-9d03-df1351d8baa3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Tritsch-Tratsch-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/04-Johann-Strau%C3%9F%20-%20Furioso-Polka.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/aea9a3ea-a08e-4e2b-9f49-0ac4639f376d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Furioso-Polka"
       }
     ]
   },
@@ -189,83 +162,78 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/04-Johann-Strau%C3%9F%20-%20Furioso-Polka.wav"
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/09-Johann-Strau%C3%9F%20-%20Bauern-Polka.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/aea9a3ea-a08e-4e2b-9f49-0ac4639f376d"
+        "@id": "https://musicbrainz.org/track/41511f79-6d4b-449a-81c6-df235e86e0cf"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Furioso-Polka"
+        "@value": "Track: Bauern-Polka"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/08-Johann-Strau%C3%9F%20-%20Tritsch-Tratsch-Polka.wav"
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/06-Johann-Strau%C3%9F%20-%20Im%20Sturmschritt.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/393152a9-74c1-45df-9d03-df1351d8baa3"
+        "@id": "https://musicbrainz.org/track/c5d14cc6-8959-444b-9bcb-5645c5af8037"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Tritsch-Tratsch-Polka"
+        "@value": "Track: \"Im Sturmschritt (Polka, schnell)\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/10-Johann-Strau%C3%9F%20-%20Eljen%20a%20Magy%C3%A1r.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/c6c569de-c0a7-43b6-a651-f2de920e4834"
+        "@id": "https://musicbrainz.org/track/8986a6ea-3e5c-4058-8ea6-41c77fd15703"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Eljen a Magyár (Polka, schnell)\""
+        "@value": "Track: \"Die Fledermaus (Ouvertüre)\""
       }
     ]
   },
@@ -297,55 +265,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/03-Johann-Strau%C3%9F%20-%20Perpetuum%20Mobile.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/96960220-7896-4c89-be44-b300fc518a1c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Perpetuum Mobile (Musikalischer Scherz)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/8986a6ea-3e5c-4058-8ea6-41c77fd15703"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus (Ouvertüre)\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -373,29 +292,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/09-Johann-Strau%C3%9F%20-%20Bauern-Polka.wav"
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/16-Johann-Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/41511f79-6d4b-449a-81c6-df235e86e0cf"
+        "@id": "https://musicbrainz.org/track/7aef789d-1dc2-4aa5-ba1a-e76d3554cb52"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 16
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Bauern-Polka"
+        "@value": "Track: Radetzky-Marsch"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/07-Johann-Strau%C3%9F%20-%20Kaiserwalzer.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/385cb21d-ee68-41f1-a2db-433f13bf8b0f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Kaiserwalzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/10-Johann-Strau%C3%9F%20-%20Eljen%20a%20Magy%C3%A1r.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c6c569de-c0a7-43b6-a651-f2de920e4834"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen a Magyár (Polka, schnell)\""
       }
     ]
   },
@@ -423,6 +396,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: Annen-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Johann-Strau%C3%9F-Orchester%2C%20Herbert%20Siebert%20%282015%29/03-Johann-Strau%C3%9F%20-%20Perpetuum%20Mobile.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/96960220-7896-4c89-be44-b300fc518a1c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum Mobile (Musikalischer Scherz)\""
       }
     ]
   }

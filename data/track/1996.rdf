@@ -4,17 +4,77 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cbe49104-7590-348d-847f-808f49cf5498"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Die Naßwalderin, op. 267"</rdfs:label>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f5acbb41-568d-34c2-b4cb-5a6cad05d359"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Lagunen Walzer, op. 411"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5d3ae683-38af-36ce-921c-c14f75837bb4"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Fest-Marsch, op. 452"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4e65e155-6714-332f-b6f3-78c026be36a9"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Mit Vergnügen, op. 228"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/86b333ed-86f4-37f4-9816-61bf5775ba23"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Die tanzende Muse, op. 266"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2e3e6c79-d949-3194-b0fe-9217b173d995"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Jokey-Polka, op. 278"</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/430de4fb-d8ee-34bc-9f29-2b7bdb306d70"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "Sekunden Polka, op. 258"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/eff7d126-0cfa-34f2-aeab-476a1796e2d2"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Die Göttin der Vernunfth: Ouvertüre"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1ba1960a-9b7e-3a6d-97e8-ba64ffb1e088"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Waldmeister: Ouvertüre"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cbe49104-7590-348d-847f-808f49cf5498"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Die Naßwalderin, op. 267"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5c766624-9b8c-3e97-89ef-97189bd461d1"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Blumenfest Polka, op. 111"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3062cac7-5a10-3ac4-900b-a35b051244d0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Wiener Bürger, op. 419"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/02ee3473-5cdc-3690-9fc3-d950476c4b51"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Kaiser Walzer, op. 437"</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -28,76 +88,16 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Phönix-Schwingen, op. 125"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1ba1960a-9b7e-3a6d-97e8-ba64ffb1e088"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Waldmeister: Ouvertüre"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cff9f4f0-8a82-3334-944e-76f4c47e0591"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4e65e155-6714-332f-b6f3-78c026be36a9"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Mit Vergnügen, op. 228"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3062cac7-5a10-3ac4-900b-a35b051244d0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Wiener Bürger, op. 419"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f5acbb41-568d-34c2-b4cb-5a6cad05d359"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Lagunen Walzer, op. 411"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1fb71509-fd78-366b-ac68-b41c75f2e017"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "An der schönen, blauen Donau, op. 314"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5c766624-9b8c-3e97-89ef-97189bd461d1"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Blumenfest Polka, op. 111"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/eff7d126-0cfa-34f2-aeab-476a1796e2d2"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Die Göttin der Vernunfth: Ouvertüre"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2e3e6c79-d949-3194-b0fe-9217b173d995"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Jokey-Polka, op. 278"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5d3ae683-38af-36ce-921c-c14f75837bb4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Fest-Marsch, op. 452"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/86b333ed-86f4-37f4-9816-61bf5775ba23"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Die tanzende Muse, op. 266"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1996#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/02ee3473-5cdc-3690-9fc3-d950476c4b51"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Kaiser Walzer, op. 437"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

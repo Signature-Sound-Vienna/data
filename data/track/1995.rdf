@@ -11,26 +11,6 @@
     <rdfs:label>Track: Schützen-Quadrille</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/13-Sch%C3%BCtzen%20Quadrille%20-%20Johann%2C%20Josef%20und%20Eduard%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6beb23d8-e3f4-49db-8464-4e9ea71eea92"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Reiter-Marsch, op. 428"</rdfs:label>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e3a29cc5-4866-414d-a752-3d4322f09d2e"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "An der schönen, blauen Donau, op. 314: Walzer"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/15-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/85302c19-ea42-43ab-aeb8-1080f07104c5"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Morgenblätter, op. 279: Walzer"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/04-Morgenbl%C3%A4tter%2C%20Walzer%20op.%20279%20-%20Johann%20Strauss%2C%20Jr.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0bd9f8ea-2d0d-49e4-8fac-5b62071543cb"/>
@@ -38,47 +18,12 @@
     <rdfs:label>Track: "Perpetuum mobile, op. 257: Musikalischer Scherz"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/07-Perpetuum%20mobile%2C%20Musikalischer%20Scherz%20op.%20257%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e4e2dc43-c7c9-4228-99c7-596345a7f3ea"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Thalia, op. 195: Polka mazur"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/08-Thalia%2C%20Polka%20mazur%20op.%20195%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a9f8788d-a494-4c88-87c8-04db055bae99"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Alice-Polka, op. 238"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/10-Alice-Polka%2C%20op.%20238%20-%20Johann%20Strauss%2C%20Sr.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/15fc07e4-c81b-4be0-9ee9-70d1eeba2f15"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "Russische Marsch-Phantasie, op. 353"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/11-Russische%20Marsch%20Phantasie%2C%20op.%20353%20-%20Johann%20Strauss%2C%20Jr.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/461857a2-d63c-4767-87ce-274d1dffffb2"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Mein Lebenslauf ist Lieb' un Lust! op. 133: Polka schnell"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/12-Mein%20Lebenslauf%20Ist%20Lieb%27%20Und%20Lust%2C%20Walzer%20op.%20263%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f47a8c6d-6149-4df1-b98b-c547eb888cc6"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Arm in Arm, op. 215: Polka schnell"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/02-Arm%20In%20Arm%2C%20Polka%20mazur%20op.%20215%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8b4b81c5-d1f4-4f56-b412-fadd91d80b17"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Process-Polka, op. 294: Polka schnell"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/05-Process-Polka%2C%20Polka%20Schnell%20op.%20294%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -94,12 +39,12 @@
     <rdfs:label>Track: "Mephistos Höllenrufe, op. 101: Walzer"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/06-Mephistos%20H%C3%B6llenrufe%2C%20Walzer%20op.%20101%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1ebf717c-1501-4784-9d07-c90fb84090a9"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Electrisch: Polka schnell"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/09-Electrisch%2C%20Polka%20Schnell%20-%20Eduard%20Strauss.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a9f8788d-a494-4c88-87c8-04db055bae99"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Alice-Polka, op. 238"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/10-Alice-Polka%2C%20op.%20238%20-%20Johann%20Strauss%2C%20Sr.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -108,11 +53,66 @@
     <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/16-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr%2C.wav"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1ebf717c-1501-4784-9d07-c90fb84090a9"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Electrisch: Polka schnell"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/09-Electrisch%2C%20Polka%20Schnell%20-%20Eduard%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8b4b81c5-d1f4-4f56-b412-fadd91d80b17"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Process-Polka, op. 294: Polka schnell"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/05-Process-Polka%2C%20Polka%20Schnell%20op.%20294%20-%20Johann%20Strauss%2C%20Jr.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f47a8c6d-6149-4df1-b98b-c547eb888cc6"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Arm in Arm, op. 215: Polka schnell"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/02-Arm%20In%20Arm%2C%20Polka%20mazur%20op.%20215%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1ad2da8c-1c81-4ee2-a290-360443d10bf8"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Favorit-Polka, op. 201"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/03-Favorit-Polka%2C%20op.%20201%20-%20Joseph%20Lanner.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/461857a2-d63c-4767-87ce-274d1dffffb2"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Mein Lebenslauf ist Lieb' un Lust! op. 133: Polka schnell"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/12-Mein%20Lebenslauf%20Ist%20Lieb%27%20Und%20Lust%2C%20Walzer%20op.%20263%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/85302c19-ea42-43ab-aeb8-1080f07104c5"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Morgenblätter, op. 279: Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/04-Morgenbl%C3%A4tter%2C%20Walzer%20op.%20279%20-%20Johann%20Strauss%2C%20Jr.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6beb23d8-e3f4-49db-8464-4e9ea71eea92"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Reiter-Marsch, op. 428"</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e4e2dc43-c7c9-4228-99c7-596345a7f3ea"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Thalia, op. 195: Polka mazur"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/08-Thalia%2C%20Polka%20mazur%20op.%20195%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1995#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e3a29cc5-4866-414d-a752-3d4322f09d2e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "An der schönen, blauen Donau, op. 314: Walzer"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1995/15-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
 </rdf:RDF>

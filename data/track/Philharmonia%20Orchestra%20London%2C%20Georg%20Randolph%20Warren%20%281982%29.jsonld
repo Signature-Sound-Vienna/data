@@ -1,28 +1,55 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/06-Tannh%C3%A4user%2C%20%28Richard%20Wagner%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/02-Willhelm%20Tell%2C%20%28Gioacchino%20Rossini%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/88886d71-838e-453d-8901-d5af163ea4c0"
+        "@id": "https://musicbrainz.org/track/916b4045-c0c4-4996-993f-1c4b29caa274"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Tannhäuser"
+        "@value": "Track: \"Willhelm Tell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/03-Die%20lustigen%20Weiber%20von%20Windsor%2C%20%28Otto%20Nicolai%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/535633de-f6aa-4832-becc-62e9d37d47f3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die lustigen Weiber von Windsor\""
       }
     ]
   },
@@ -108,33 +135,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/02-Willhelm%20Tell%2C%20%28Gioacchino%20Rossini%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/916b4045-c0c4-4996-993f-1c4b29caa274"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Willhelm Tell\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -157,29 +157,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/03-Die%20lustigen%20Weiber%20von%20Windsor%2C%20%28Otto%20Nicolai%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonia%20Orchestra%20London%2C%20Georg%20Randolph%20Warren%20%281982%29/06-Tannh%C3%A4user%2C%20%28Richard%20Wagner%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/535633de-f6aa-4832-becc-62e9d37d47f3"
+        "@id": "https://musicbrainz.org/track/88886d71-838e-453d-8901-d5af163ea4c0"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die lustigen Weiber von Windsor\""
+        "@value": "Track: Tannhäuser"
       }
     ]
   }

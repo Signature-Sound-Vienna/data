@@ -4,26 +4,6 @@
    xmlns:ns2="https://w3id.org/ssv/0.9/data/vocab#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#3">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/3.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#5">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#4">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/4.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#4"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#8">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/8.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#8"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#1"/>
@@ -33,34 +13,54 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#10"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#2">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/2.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#7">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#11">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/11.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#11"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#12">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/12.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#5">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/5.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#2">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/2.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#4">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/4.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#4"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#6">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/6.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#6"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#3">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/3.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#3"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#9">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/9.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#8">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/8.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#12">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/12.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/mixed%20%28Golden%20Classics%29#7">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/mixed%20%28Golden%20Classics%29/7.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/mixed%20%28Golden%20Classics%29#7"/>
   </rdf:Description>
 </rdf:RDF>

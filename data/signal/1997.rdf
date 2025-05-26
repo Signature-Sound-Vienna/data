@@ -3,69 +3,9 @@
    xmlns:ns1="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#3"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#10"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#19">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#19"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#13"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#12"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#14"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#18">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#18"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#16">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#16"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#15"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#17">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#17"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#8"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
@@ -75,8 +15,68 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#2"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#18">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#17">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#1"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#19">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1997#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1997#9"/>
   </rdf:Description>
 </rdf:RDF>

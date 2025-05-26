@@ -1,28 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/03-Pizzicato%20Polka%20-%20Johann%20and%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/04-Sph%C3%A4renkl%C3%A4nge%2C%20Op.%20235%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/0273d27d-ff96-472b-b4e5-919076a4280e"
+        "@id": "https://musicbrainz.org/track/4f4f90ea-3f62-4e1c-af0b-7c660c442308"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Pizzicato Polka\""
+        "@value": "Track: \"Sphärenklänge, Op. 235\""
       }
     ]
   },
@@ -54,55 +54,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/02-K%C3%BCnstlerleben%2C%20Op.%20316%20-%20Johann%20Strauss%20%28son%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/fce6d55a-b55c-4e94-9f2a-a1d66c07e215"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Künstlerleben, Op. 316\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d878d678-1543-46d1-be7f-f818b6566202"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus - Ouverture\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -126,33 +77,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Wiener Bonbons, Op. 307\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/04-Sph%C3%A4renkl%C3%A4nge%2C%20Op.%20235%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4f4f90ea-3f62-4e1c-af0b-7c660c442308"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sphärenklänge, Op. 235\""
       }
     ]
   },
@@ -207,6 +131,82 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Morgenblätter, Op. 279\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/02-K%C3%BCnstlerleben%2C%20Op.%20316%20-%20Johann%20Strauss%20%28son%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/fce6d55a-b55c-4e94-9f2a-a1d66c07e215"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Künstlerleben, Op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d878d678-1543-46d1-be7f-f818b6566202"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus - Ouverture\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Volksopernorchester%2C%20Franz%20Bauer-Theussl%20%281985%29/03-Pizzicato%20Polka%20-%20Johann%20and%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0273d27d-ff96-472b-b4e5-919076a4280e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Pizzicato Polka\""
       }
     ]
   }

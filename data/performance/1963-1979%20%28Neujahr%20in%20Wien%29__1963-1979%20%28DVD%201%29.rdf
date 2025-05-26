@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#32">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#32"/>
+    <rdfs:label>Performance: "Auf der Jagd, op. 373"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

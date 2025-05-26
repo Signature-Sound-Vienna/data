@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#12"/>
+    <ns1:performance_of rdf:resource="http://musicbrainz.org/work/2eb55386-e1b9-37d0-97fc-769b50fd2066"/>
+    <rdfs:label>Performance: "Rosen aus dem Süden (Strauss-Orchester Wien, Francek)"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

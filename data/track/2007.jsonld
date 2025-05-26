@@ -1,189 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#20",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b085c16b-656c-4603-ad68-3adfbb01e833"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 20
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch, op. 228\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/04%20-%20Elfenreigen%2C%20Charakterst%C3%BCck%20-%20Joseph%20Hellmesberger%20jr..wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/8fd4fc59-95bb-47d5-ad18-e62813381068"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Elfenreigen, Charakterstück\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/03%20-%20Moulinet-Polka%2C%20op.%2057%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d58a2a41-ba42-4866-b7a9-b823c93a485d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Moulinet-Polka, op. 57\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/17be9049-ce34-457f-a4ab-e64f2e4b6fab"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Opening Credits/ Vorspann\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/12%20-%20Matrosen-Polka%2C%20op.%2052%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/41d805ba-e725-40c5-8633-2e767d475731"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Matrosen-Polka, op. 52\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/01%20-%20Zivio%21%2C%20Marsch%2C%20op.%20456%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2e8394f3-80a1-4137-be44-2f701332cd74"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Zivio!, Marsch, op. 456\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/15%20-%20Furioso-Galopp%2C%20op.%20114%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/18f4cdd9-72c9-46bd-bea5-e0276c5dd070"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Furioso-Galopp, op. 114\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2007#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -207,87 +23,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Ouvertüre zu der Operette 'Waldmeister'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/17%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/acd6aa11-608e-48aa-ae89-2d68c0fc008f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen, blauen Donau, Walzer, op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/13%20-%20Dynamiden%2C%20Walzer%2C%20op.%20173%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a6bc4971-00f6-432d-a7ef-6f99539d9d97"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Dynamiden, Walzer, op. 173\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/16%20-%20Leichtf%C3%BCssig%2C%20Polka%20schnell%20-%20Joseph%20Hellmesberger%20jr..wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d6ce3854-e0cf-45c0-bb43-fc1c5fff3905"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Leichtfüssig, Polka schnell\""
       }
     ]
   },
@@ -319,56 +54,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2007/05%20-%20Delirien%2C%20Walzer%2C%20op.%20212%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2007/01%20-%20Zivio%21%2C%20Marsch%2C%20op.%20456%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/c79ebc32-c4eb-4b49-8884-7165bf9ef95b"
+        "@id": "https://musicbrainz.org/track/2e8394f3-80a1-4137-be44-2f701332cd74"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Delirien, Walzer, op. 212\""
+        "@value": "Track: \"Zivio!, Marsch, op. 456\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#20",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2007/09%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%27n%2C%20Walzer%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2007/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/30099f47-1506-4252-be39-a7204d902d3c"
+        "@id": "https://musicbrainz.org/track/b085c16b-656c-4603-ad68-3adfbb01e833"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 20
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wo die Zitronen blüh'n, Walzer, op. 364\""
+        "@value": "Track: \"Radetzky-Marsch, op. 228\""
       }
     ]
   },
@@ -400,29 +135,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2007/02%20-%20Flattergeister%2C%20Walzer%2C%20op.%2062%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2007/12%20-%20Matrosen-Polka%2C%20op.%2052%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/821a3e6b-76a5-4c39-94e0-088f19663766"
+        "@id": "https://musicbrainz.org/track/41d805ba-e725-40c5-8633-2e767d475731"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 13
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Flattergeister, Walzer, op. 62\""
+        "@value": "Track: \"Matrosen-Polka, op. 52\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/17%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/acd6aa11-608e-48aa-ae89-2d68c0fc008f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen, blauen Donau, Walzer, op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/16%20-%20Leichtf%C3%BCssig%2C%20Polka%20schnell%20-%20Joseph%20Hellmesberger%20jr..wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bc7a4ac4-1be1-4f06-af7f-18c86d008599"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"New Year ́s Address/ Neujahrsgruß\""
       }
     ]
   },
@@ -454,33 +243,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2007/08%20-%20Irenen-Polka%2C%20op.%20113%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1cddce2c-51bf-40d3-9efc-b3d728e5dc99"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Irenen-Polka, op. 113\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/2007#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -508,7 +270,142 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2007#18",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/02%20-%20Flattergeister%2C%20Walzer%2C%20op.%2062%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/821a3e6b-76a5-4c39-94e0-088f19663766"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Flattergeister, Walzer, op. 62\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/09%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%27n%2C%20Walzer%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/30099f47-1506-4252-be39-a7204d902d3c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wo die Zitronen blüh'n, Walzer, op. 364\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/15%20-%20Furioso-Galopp%2C%20op.%20114%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/18f4cdd9-72c9-46bd-bea5-e0276c5dd070"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Furioso-Galopp, op. 114\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/13%20-%20Dynamiden%2C%20Walzer%2C%20op.%20173%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a6bc4971-00f6-432d-a7ef-6f99539d9d97"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Dynamiden, Walzer, op. 173\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/08%20-%20Irenen-Polka%2C%20op.%20113%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1cddce2c-51bf-40d3-9efc-b3d728e5dc99"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Irenen-Polka, op. 113\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#17",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
@@ -519,18 +416,121 @@
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/bc7a4ac4-1be1-4f06-af7f-18c86d008599"
+        "@id": "https://musicbrainz.org/track/d6ce3854-e0cf-45c0-bb43-fc1c5fff3905"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
+        "@value": 17
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"New Year ́s Address/ Neujahrsgruß\""
+        "@value": "Track: \"Leichtfüssig, Polka schnell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/17be9049-ce34-457f-a4ab-e64f2e4b6fab"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Opening Credits/ Vorspann\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/03%20-%20Moulinet-Polka%2C%20op.%2057%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d58a2a41-ba42-4866-b7a9-b823c93a485d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Moulinet-Polka, op. 57\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/05%20-%20Delirien%2C%20Walzer%2C%20op.%20212%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c79ebc32-c4eb-4b49-8884-7165bf9ef95b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Delirien, Walzer, op. 212\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2007#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2007/04%20-%20Elfenreigen%2C%20Charakterst%C3%BCck%20-%20Joseph%20Hellmesberger%20jr..wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/8fd4fc59-95bb-47d5-ad18-e62813381068"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Elfenreigen, Charakterstück\""
       }
     ]
   }

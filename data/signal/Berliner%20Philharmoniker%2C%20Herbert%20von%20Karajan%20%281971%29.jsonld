@@ -1,12 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/4.peaks.json"
       }
     ]
   },
@@ -27,18 +32,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/8.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/2.peaks.json"
       }
     ]
   },
@@ -59,22 +64,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#2"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/2.peaks.json"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -87,6 +76,38 @@
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/6.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/3.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/7.peaks.json"
       }
     ]
   },
@@ -123,50 +144,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#8"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/4.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/8.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#7"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/7.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#3"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29/3.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Philharmoniker%2C%20Herbert%20von%20Karajan%20%281971%29#1"
       }
     ]
   }

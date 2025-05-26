@@ -1,28 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/07-Geschichten%20Aus%20Dem%20Wienerwald%2C%20Waltz%20Op.325.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/10-Kaiser-Walzer%2C%20Op.437.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b91df757-9fdd-4cd0-81e6-390def7e42e1"
+        "@id": "https://musicbrainz.org/track/0ae831c8-dcd2-41c6-9040-8c7df7411e29"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Geschichten Aus Dem Wienerwald, Waltz Op.325\""
+        "@value": "Track: \"Kaiser-Walzer, Op.437\""
       }
     ]
   },
@@ -54,28 +54,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/93be5262-38b7-41b7-911c-6cb22d8ae125"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An Der Schönen, Blauen Donau, Waltz Op. 314\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -99,6 +77,55 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Eine Nacht In Venedig - Overture\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/07-Geschichten%20Aus%20Dem%20Wienerwald%2C%20Waltz%20Op.325.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b91df757-9fdd-4cd0-81e6-390def7e42e1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Geschichten Aus Dem Wienerwald, Waltz Op.325\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/93be5262-38b7-41b7-911c-6cb22d8ae125"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An Der Schönen, Blauen Donau, Waltz Op. 314\""
       }
     ]
   },
@@ -130,33 +157,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/08-Eljen%20A%20Magyar%2C%20Polka%20Op.332.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ca756d38-dec8-493a-920c-e9c1e75ff021"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eljen A Magyar, Polka Op.332\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -184,29 +184,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/10-Kaiser-Walzer%2C%20Op.437.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/05-K%C3%BCnstlerleben%2C%20Waltz%20Op.%20316e.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/0ae831c8-dcd2-41c6-9040-8c7df7411e29"
+        "@id": "https://musicbrainz.org/track/f3937011-c571-429f-be01-1d564cb5757f"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Kaiser-Walzer, Op.437\""
+        "@value": "Track: \"Künstlerleben, Waltz Op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/08-Eljen%20A%20Magyar%2C%20Polka%20Op.332.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ca756d38-dec8-493a-920c-e9c1e75ff021"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eljen A Magyar, Polka Op.332\""
       }
     ]
   },
@@ -234,33 +261,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Auf Der Jagd, Polka Op. 373\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Johann%20Strauss%20Orchester%2C%20Willi%20Boskovsky%20%281995%29/05-K%C3%BCnstlerleben%2C%20Waltz%20Op.%20316e.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f3937011-c571-429f-be01-1d564cb5757f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Künstlerleben, Waltz Op. 316\""
       }
     ]
   }

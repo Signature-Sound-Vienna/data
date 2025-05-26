@@ -4,13 +4,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#14">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7e94fc4a-8c67-4ee8-80ef-cb62188875d0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
-    <rdfs:label>Track: "An der schönen, blauen Donau op. 314"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/14-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d836471d-e5ba-4994-adc7-7ed2637cdf51"/>
@@ -18,19 +11,12 @@
     <rdfs:label>Track: "Transactionen op. 184"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/11-Transaktionen%2C%20Walzer%20op.%20184%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a18619c6-fd83-4775-9a6c-f9e492ea6a65"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: Pizzicato-Polka</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/10-Pizzicato%20Polka%20fran%C3%A7aise%20op.%20234%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5a23e254-1e69-47f3-9ee8-e6443a1a3f2e"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd op. 373"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/13-Auf%20Der%20Jagd%2C%20Polka%20schnell%20op.%20373%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/84bf96a5-baa1-41d6-8b5b-dca02ba21303"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Indigo und die vierzig Räuber: Ouvertüre"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/06-Ouverture%20zu%20Indigo%20und%20die%2040%20R%C3%A4uber%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -38,41 +24,6 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Sperl-Galopp op. 42"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/05-Sperl-Galopp%2C%20op.%2042%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7320300f-69a7-4404-89c1-ef82492a1801"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Egyptischer Marsch op. 335"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/09-Egyptischer%20Marsch%2C%20op.%20335%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a2208f82-74d2-41c3-84c7-d3b279fa8439"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Dipolmaten-Polka op. 448"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/02-Diplomaten-Polka%20fran%C3%A7aise%20op.%20448%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fdaf13d2-09df-49c0-a192-c7e2b23b461f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Veilchen-Polka op. 132"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/03-Veilchen-Polka%2C%20op.%20132%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f7e1d4c1-3b8e-40f4-894c-a3cbe75c67c4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Klipp, klapp op. 466"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/08-Klipp-Klapp%2C%20Galopp%20op.%20466%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/88e43c95-50b3-496d-88cc-3743ebb1a80f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Steyrische Tänze op. 165"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/04-Steyrische%20T%C3%A4nze%2C%20Walzer%20op.%20165%20Joseph%20Lanner.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -87,19 +38,19 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Die Publicisten op. 321"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8b222251-fa2a-4f77-9959-2cd4d5a3c642"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Radetzky-Marsch op. 228"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/15-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5a23e254-1e69-47f3-9ee8-e6443a1a3f2e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd op. 373"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/13-Auf%20Der%20Jagd%2C%20Polka%20schnell%20op.%20373%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/84bf96a5-baa1-41d6-8b5b-dca02ba21303"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Indigo und die vierzig Räuber: Ouvertüre"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/06-Ouverture%20zu%20Indigo%20und%20die%2040%20R%C3%A4uber%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a2208f82-74d2-41c3-84c7-d3b279fa8439"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Dipolmaten-Polka op. 448"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/02-Diplomaten-Polka%20fran%C3%A7aise%20op.%20448%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -107,5 +58,54 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Perpetuum mobile op. 257"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/12-Perpetuum%20Mobile%2C%20Musikalischer%20Scherz%20op.%20257%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/88e43c95-50b3-496d-88cc-3743ebb1a80f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Steyrische Tänze op. 165"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/04-Steyrische%20T%C3%A4nze%2C%20Walzer%20op.%20165%20Joseph%20Lanner.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a18619c6-fd83-4775-9a6c-f9e492ea6a65"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: Pizzicato-Polka</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/10-Pizzicato%20Polka%20fran%C3%A7aise%20op.%20234%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#14">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7e94fc4a-8c67-4ee8-80ef-cb62188875d0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <rdfs:label>Track: "An der schönen, blauen Donau op. 314"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/14-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7320300f-69a7-4404-89c1-ef82492a1801"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Egyptischer Marsch op. 335"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/09-Egyptischer%20Marsch%2C%20op.%20335%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fdaf13d2-09df-49c0-a192-c7e2b23b461f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Veilchen-Polka op. 132"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/03-Veilchen-Polka%2C%20op.%20132%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8b222251-fa2a-4f77-9959-2cd4d5a3c642"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch op. 228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/15-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1993#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f7e1d4c1-3b8e-40f4-894c-a3cbe75c67c4"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Klipp, klapp op. 466"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1993/08-Klipp-Klapp%2C%20Galopp%20op.%20466%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
 </rdf:RDF>

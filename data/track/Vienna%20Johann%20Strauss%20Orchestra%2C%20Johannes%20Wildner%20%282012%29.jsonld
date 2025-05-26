@@ -1,5 +1,32 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/03-Annen-Polka%20op.%20117%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a92db7f8-d380-4bbe-8b78-c56b245fddc2"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Annen-Polka op. 117\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -27,6 +54,82 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/09-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/eda89e61-2ad6-462e-bde0-272fc6e2c151"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau, Walzer op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/07-Maskenball-Quadrille%20op.%20272%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4297a552-05ce-4d9f-a6a7-5374deb15a54"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Maskenball-Quadrille op. 272\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/dc4ac28d-b19d-42e9-a532-e0b38e3e56bd"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -50,28 +153,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Auf Ferienreisen!, Polka op. 133\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/dc4ac28d-b19d-42e9-a532-e0b38e3e56bd"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\""
       }
     ]
   },
@@ -130,33 +211,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/02-Dynamiden%20Walzer%20op.%20173%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/415e5b16-5312-47a0-b293-e2338afc2fb5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Dynamiden Walzer op. 173\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -211,83 +265,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/07-Maskenball-Quadrille%20op.%20272%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/02-Dynamiden%20Walzer%20op.%20173%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/4297a552-05ce-4d9f-a6a7-5374deb15a54"
+        "@id": "https://musicbrainz.org/track/415e5b16-5312-47a0-b293-e2338afc2fb5"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Maskenball-Quadrille op. 272\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/03-Annen-Polka%20op.%20117%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a92db7f8-d380-4bbe-8b78-c56b245fddc2"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Annen-Polka op. 117\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Vienna%20Johann%20Strauss%20Orchestra%2C%20Johannes%20Wildner%20%282012%29/09-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/eda89e61-2ad6-462e-bde0-272fc6e2c151"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau, Walzer op. 314\""
+        "@value": "Track: \"Dynamiden Walzer op. 173\""
       }
     ]
   }

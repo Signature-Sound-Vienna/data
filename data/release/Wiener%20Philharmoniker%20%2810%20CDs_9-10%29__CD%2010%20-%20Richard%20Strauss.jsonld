@@ -1,0 +1,216 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Wiener Philharmoniker\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#16"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#18"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#19"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#21"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#22"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#23"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#24"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#25"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#26"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#27"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#28"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#29"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#30"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#31"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#32"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#33"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#34"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#35"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#36"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#37"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#38"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#39"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#40"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#41"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#42"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#43"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#44"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#45"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#46"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#47"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#48"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#49"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#50"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#51"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#52"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#53"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#54"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#55"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#56"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#57"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#58"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#59"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#60"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss#61"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/record/Wiener%20Philharmoniker%20%2810%20CDs_9-10%29__CD%2010%20-%20Richard%20Strauss"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Wiener Philharmoniker\""
+      },
+      {
+        "@value": "Record: \"Wiener Philharmoniker\""
+      }
+    ]
+  }
+]

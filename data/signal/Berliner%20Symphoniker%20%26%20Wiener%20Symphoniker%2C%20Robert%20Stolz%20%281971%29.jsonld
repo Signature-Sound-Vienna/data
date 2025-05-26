@@ -1,97 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#12",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#12"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/5.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#16"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/16.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/17.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#13"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/13.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#3"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/3.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#11"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/11.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/12.peaks.json"
       }
     ]
   },
@@ -112,6 +32,97 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#8"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/8.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#6"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/6.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#3"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/3.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/10.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#16"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/16.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -128,18 +139,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#11",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#11"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/8.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/11.peaks.json"
       }
     ]
   },
@@ -176,50 +187,50 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#12",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#12"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#5"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/12.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/5.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#15",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#15"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#17"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/15.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/17.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#13",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#13"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/6.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/13.peaks.json"
       }
     ]
   },
@@ -240,29 +251,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#15",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#10"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29#15"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/10.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Berliner%20Symphoniker%20%26%20Wiener%20Symphoniker%2C%20Robert%20Stolz%20%281971%29/15.peaks.json"
       }
     ]
   }

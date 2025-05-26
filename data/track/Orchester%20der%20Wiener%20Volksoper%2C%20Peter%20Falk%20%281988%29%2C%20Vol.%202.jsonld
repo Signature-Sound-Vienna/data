@@ -1,59 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/03-Seid%20umschlungen%2C%20Millionen%20op.%20443%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1fbe11c7-e945-452e-afeb-a50d1fffc2cb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Seid umschlungen, Millionen op. 443\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/04-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b9422daf-f6e2-4b5c-97db-3b3dc6d8bdc7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch op. 228\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -130,33 +76,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/05-Accelerationen%20op.%20234%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9f2e52fa-17f0-4185-af39-f2d23dac7484"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Accelerationen op. 234\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -184,6 +103,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/05-Accelerationen%20op.%20234%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9f2e52fa-17f0-4185-af39-f2d23dac7484"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Accelerationen op. 234\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -207,6 +153,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Tritsch-Tratsch-Polka op. 214\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/03-Seid%20umschlungen%2C%20Millionen%20op.%20443%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1fbe11c7-e945-452e-afeb-a50d1fffc2cb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Seid umschlungen, Millionen op. 443\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Peter%20Falk%20%281988%29%2C%20Vol.%202/04-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b9422daf-f6e2-4b5c-97db-3b3dc6d8bdc7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch op. 228\""
       }
     ]
   }

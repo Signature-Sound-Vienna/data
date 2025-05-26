@@ -1,163 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#14",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1993/14-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/1993/07-Hans%20Jorgel%20Polka%2C%20op.%20141%20-%20Joseph%20Lanner.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/7e94fc4a-8c67-4ee8-80ef-cb62188875d0"
+        "@id": "https://musicbrainz.org/track/b7046d87-df8e-4088-bfed-1da8d2b05f3e"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"An der schönen, blauen Donau op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1993/09-Egyptischer%20Marsch%2C%20op.%20335%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7320300f-69a7-4404-89c1-ef82492a1801"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Egyptischer Marsch op. 335\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1993/11-Transaktionen%2C%20Walzer%20op.%20184%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d836471d-e5ba-4994-adc7-7ed2637cdf51"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Transactionen op. 184\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1993/05-Sperl-Galopp%2C%20op.%2042%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/bfa67aaf-1255-4bd4-aba7-9578fe37d9bd"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sperl-Galopp op. 42\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1993/10-Pizzicato%20Polka%20fran%C3%A7aise%20op.%20234%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a18619c6-fd83-4775-9a6c-f9e492ea6a65"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Pizzicato-Polka"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1993/02-Diplomaten-Polka%20fran%C3%A7aise%20op.%20448%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a2208f82-74d2-41c3-84c7-d3b279fa8439"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Dipolmaten-Polka op. 448\""
+        "@value": "Track: \"Hans Jörgel Polka op. 194\""
       }
     ]
   },
@@ -189,29 +54,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#3",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1993/03-Veilchen-Polka%2C%20op.%20132%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/1993/05-Sperl-Galopp%2C%20op.%2042%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/fdaf13d2-09df-49c0-a192-c7e2b23b461f"
+        "@id": "https://musicbrainz.org/track/bfa67aaf-1255-4bd4-aba7-9578fe37d9bd"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Veilchen-Polka op. 132\""
+        "@value": "Track: \"Sperl-Galopp op. 42\""
       }
     ]
   },
@@ -243,51 +108,110 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1993/07-Hans%20Jorgel%20Polka%2C%20op.%20141%20-%20Joseph%20Lanner.wav"
+        "@id": "https://w3id.org/ssv/audio/1993/15-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b7046d87-df8e-4088-bfed-1da8d2b05f3e"
+        "@id": "https://musicbrainz.org/track/8b222251-fa2a-4f77-9959-2cd4d5a3c642"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 15
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Hans Jörgel Polka op. 194\""
+        "@value": "Track: \"Radetzky-Marsch op. 228\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#1",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1993/09-Egyptischer%20Marsch%2C%20op.%20335%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/e0422084-d954-421c-8a77-040a9400723a"
+        "@id": "https://musicbrainz.org/track/7320300f-69a7-4404-89c1-ef82492a1801"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die Publicisten op. 321\""
+        "@value": "Track: \"Egyptischer Marsch op. 335\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1993/03-Veilchen-Polka%2C%20op.%20132%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/fdaf13d2-09df-49c0-a192-c7e2b23b461f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Veilchen-Polka op. 132\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1993/02-Diplomaten-Polka%20fran%C3%A7aise%20op.%20448%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a2208f82-74d2-41c3-84c7-d3b279fa8439"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Dipolmaten-Polka op. 448\""
       }
     ]
   },
@@ -319,6 +243,60 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1993/14-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7e94fc4a-8c67-4ee8-80ef-cb62188875d0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen, blauen Donau op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1993/10-Pizzicato%20Polka%20fran%C3%A7aise%20op.%20234%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a18619c6-fd83-4775-9a6c-f9e492ea6a65"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Pizzicato-Polka"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1993#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -346,33 +324,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1993#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1993/15-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/8b222251-fa2a-4f77-9959-2cd4d5a3c642"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch op. 228\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1993#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -396,6 +347,55 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Klipp, klapp op. 466\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1993/11-Transaktionen%2C%20Walzer%20op.%20184%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d836471d-e5ba-4994-adc7-7ed2637cdf51"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Transactionen op. 184\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1993#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e0422084-d954-421c-8a77-040a9400723a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Publicisten op. 321\""
       }
     ]
   }

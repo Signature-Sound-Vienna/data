@@ -1,0 +1,43 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/release/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29> a ns1:Release ;
+    rdfs:label "Record: \"Neujahr in Wien / New Year ́s Concert 1963-1979\"",
+        "Release: \"Neujahr in Wien / New Year ́s Concert 1963-1979\"" ;
+    dcterms:title "\"Neujahr in Wien / New Year ́s Concert 1963-1979\"" ;
+    ns1:catalogue_number "__NONE__" ;
+    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#1>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#10>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#11>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#12>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#13>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#14>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#15>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#16>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#17>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#18>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#19>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#2>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#20>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#21>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#22>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#23>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#24>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#25>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#26>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#27>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#28>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#29>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#3>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#30>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#31>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#32>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#4>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#5>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#6>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#7>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#8>,
+        <https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29#9> ;
+    ns1:record <https://w3id.org/ssv/0.9/data/record/1963-1979%20%28Neujahr%20in%20Wien%29__1974%20%28DVD2%29> .
+

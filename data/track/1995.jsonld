@@ -1,28 +1,190 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#15",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1995/10-Alice-Polka%2C%20op.%20238%20-%20Johann%20Strauss%2C%20Sr.wav"
+        "@id": "https://w3id.org/ssv/audio/1995/15-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/a9f8788d-a494-4c88-87c8-04db055bae99"
+        "@id": "https://musicbrainz.org/track/e3a29cc5-4866-414d-a752-3d4322f09d2e"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 15
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Alice-Polka, op. 238\""
+        "@value": "Track: \"An der schönen, blauen Donau, op. 314: Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1995/11-Russische%20Marsch%20Phantasie%2C%20op.%20353%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/15fc07e4-c81b-4be0-9ee9-70d1eeba2f15"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Russische Marsch-Phantasie, op. 353\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1995/04-Morgenbl%C3%A4tter%2C%20Walzer%20op.%20279%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/85302c19-ea42-43ab-aeb8-1080f07104c5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morgenblätter, op. 279: Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1995/06-Mephistos%20H%C3%B6llenrufe%2C%20Walzer%20op.%20101%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c54d5f11-86e6-4b20-9654-e6d084b347ff"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mephistos Höllenrufe, op. 101: Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1995/08-Thalia%2C%20Polka%20mazur%20op.%20195%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e4e2dc43-c7c9-4228-99c7-596345a7f3ea"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Thalia, op. 195: Polka mazur\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1995/16-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr%2C.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0ba41436-e20e-4267-a004-836f7fda6afb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch, op. 228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1995/13-Sch%C3%BCtzen%20Quadrille%20-%20Johann%2C%20Josef%20und%20Eduard%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/71161f1d-970e-4b56-9884-b7eb55e835d8"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Schützen-Quadrille"
       }
     ]
   },
@@ -76,29 +238,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#16",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1995/16-Radetzky%20Marsch%2C%20op.%20228%20-%20Johann%20Strauss%2C%20Sr%2C.wav"
+        "@id": "https://w3id.org/ssv/audio/1995/09-Electrisch%2C%20Polka%20Schnell%20-%20Eduard%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/0ba41436-e20e-4267-a004-836f7fda6afb"
+        "@id": "https://musicbrainz.org/track/1ebf717c-1501-4784-9d07-c90fb84090a9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Radetzky-Marsch, op. 228\""
+        "@value": "Track: \"Electrisch: Polka schnell\""
       }
     ]
   },
@@ -130,83 +292,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1995/02-Arm%20In%20Arm%2C%20Polka%20mazur%20op.%20215%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1995/03-Favorit-Polka%2C%20op.%20201%20-%20Joseph%20Lanner.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/f47a8c6d-6149-4df1-b98b-c547eb888cc6"
+        "@id": "https://musicbrainz.org/track/1ad2da8c-1c81-4ee2-a290-360443d10bf8"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Arm in Arm, op. 215: Polka schnell\""
+        "@value": "Track: \"Favorit-Polka, op. 201\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1995/04-Morgenbl%C3%A4tter%2C%20Walzer%20op.%20279%20-%20Johann%20Strauss%2C%20Jr.wav"
+        "@id": "https://w3id.org/ssv/audio/1995/10-Alice-Polka%2C%20op.%20238%20-%20Johann%20Strauss%2C%20Sr.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/85302c19-ea42-43ab-aeb8-1080f07104c5"
+        "@id": "https://musicbrainz.org/track/a9f8788d-a494-4c88-87c8-04db055bae99"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Morgenblätter, op. 279: Walzer\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1995/11-Russische%20Marsch%20Phantasie%2C%20op.%20353%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/15fc07e4-c81b-4be0-9ee9-70d1eeba2f15"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Russische Marsch-Phantasie, op. 353\""
+        "@value": "Track: \"Alice-Polka, op. 238\""
       }
     ]
   },
@@ -238,56 +373,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1995#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1995/09-Electrisch%2C%20Polka%20Schnell%20-%20Eduard%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1995/02-Arm%20In%20Arm%2C%20Polka%20mazur%20op.%20215%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/1ebf717c-1501-4784-9d07-c90fb84090a9"
+        "@id": "https://musicbrainz.org/track/f47a8c6d-6149-4df1-b98b-c547eb888cc6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Electrisch: Polka schnell\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1995/15-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e3a29cc5-4866-414d-a752-3d4322f09d2e"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen, blauen Donau, op. 314: Walzer\""
+        "@value": "Track: \"Arm in Arm, op. 215: Polka schnell\""
       }
     ]
   },
@@ -315,114 +423,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Perpetuum mobile, op. 257: Musikalischer Scherz\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1995/06-Mephistos%20H%C3%B6llenrufe%2C%20Walzer%20op.%20101%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c54d5f11-86e6-4b20-9654-e6d084b347ff"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Mephistos Höllenrufe, op. 101: Walzer\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1995/03-Favorit-Polka%2C%20op.%20201%20-%20Joseph%20Lanner.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1ad2da8c-1c81-4ee2-a290-360443d10bf8"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Favorit-Polka, op. 201\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1995/13-Sch%C3%BCtzen%20Quadrille%20-%20Johann%2C%20Josef%20und%20Eduard%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/71161f1d-970e-4b56-9884-b7eb55e835d8"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Schützen-Quadrille"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1995#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1995/08-Thalia%2C%20Polka%20mazur%20op.%20195%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e4e2dc43-c7c9-4228-99c7-596345a7f3ea"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Thalia, op. 195: Polka mazur\""
       }
     ]
   }

@@ -1,0 +1,118 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#1> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#10> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#10> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#11> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#11> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#12> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#12> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#13> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#13> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#14> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#14> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/14.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#15> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#15> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/15.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#16> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#16> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/16.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#17> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#17> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/17.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#18> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#18> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/18.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#19> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#19> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/19.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#2> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#20> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#20> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/20.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#21> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#21> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/21.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#22> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#22> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/22.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#23> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#23> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/23.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#24> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#24> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/24.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#25> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#25> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/25.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#26> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#26> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/26.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#27> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#27> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/27.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#28> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#28> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/28.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#29> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#29> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/29.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#3> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#30> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#30> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/30.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#31> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#31> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/31.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#32> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#32> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29/32.peaks.json> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#4> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#5> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#6> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#7> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#8> .
+
+<https://w3id.org/ssv/0.9/data/signal/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1963-1979%20%28Neujahr%20in%20Wien%29__1963-1979%20%28DVD%201%29#9> .
+

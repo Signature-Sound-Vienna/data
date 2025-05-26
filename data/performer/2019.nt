@@ -1,5 +1,5 @@
-<https://w3id.org/ssv/0.9/data/performer/2019#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5> .
+<https://w3id.org/ssv/0.9/data/performer/2019#21> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/2019#21> .
 <https://w3id.org/ssv/0.9/data/performer/2019#21> <http://xmlns.com/foaf/0.1/name> "\"Johann Strauss I\"" .
 <https://w3id.org/ssv/0.9/data/performer/2019#21> <http://www.w3.org/2000/01/rdf-schema#label> "Performer: \"Johann Strauss I\"" .
-<https://w3id.org/ssv/0.9/data/performer/2019#21> <http://purl.org/ontology/mo/performed> <https://w3id.org/ssv/0.9/data/performance/2019#21> .
 <https://w3id.org/ssv/0.9/data/performer/2019#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/MusicArtist> .
+<https://w3id.org/ssv/0.9/data/performer/2019#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5> .

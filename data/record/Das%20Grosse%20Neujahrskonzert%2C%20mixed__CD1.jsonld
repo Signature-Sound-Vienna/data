@@ -1,0 +1,52 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/record/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1",
+    "@type": [
+      "http://purl.org/ontology/mo/Record"
+    ],
+    "http://purl.org/ontology/mo/track": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Das%20Grosse%20Neujahrskonzert%2C%20mixed__CD1#12"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_count": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ]
+  }
+]

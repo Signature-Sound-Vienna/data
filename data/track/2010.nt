@@ -1,104 +1,104 @@
-<https://w3id.org/ssv/0.9/data/track/2010#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
-<https://w3id.org/ssv/0.9/data/track/2010#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die Rheinnixen'\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/07%20-%20Ouvert%C3%BCre%20aus%20%27Die%20lustigen%20Weiber%20von%20Windsor%27%20-%20Otto%20Nicolai.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#21> <http://purl.org/ontology/mo/track_number> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Helenen-Quadrille, op. 14\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/32a58d06-1e5a-49f2-b5a6-42e9ca036641> .
-<https://w3id.org/ssv/0.9/data/track/2010#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7042101b-df70-49f8-857e-5a057fa0de61> .
-<https://w3id.org/ssv/0.9/data/track/2010#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/06%20-%20Perpetuum%20mobile%2C%20Musikalischer%20Scherz%2C%20op.%20257%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/09%20-%20Champagner-Polka%2C%20Musikalischer%20Scherz%2C%20op.%20211%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/978aebab-ff88-4eff-a6a8-6966be702ff6> .
-<https://w3id.org/ssv/0.9/data/track/2010#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus der Operette 'Die Fledermaus'\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Morgenblätter, Walzer, op. 279\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2ad47dfe-3721-4dfc-b159-136d8b38a5b3> .
-<https://w3id.org/ssv/0.9/data/track/2010#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Champagner-Galopp" .
-<https://w3id.org/ssv/0.9/data/track/2010#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/1db7e2bb-c1d1-4a36-bc70-4dcbed0a6623> .
-<https://w3id.org/ssv/0.9/data/track/2010#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6354b59d-9aed-4b75-b6f7-e7397b36c5a1> .
-<https://w3id.org/ssv/0.9/data/track/2010#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/997631d4-336c-4785-953f-75f6405ba78d> .
-<https://w3id.org/ssv/0.9/data/track/2010#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/43de8917-8c56-4c72-868c-3b81e01174b2> .
-<https://w3id.org/ssv/0.9/data/track/2010#21> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Closing Credits\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/30bfcc52-9bed-410d-968d-ac9cbeae1351> .
-<https://w3id.org/ssv/0.9/data/track/2010#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/12%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Rheinnixen%27%20-%20Jacques%20Offenbach.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/10%20-%20Ein%20Herz%2C%20ein%20Sinn%2C%20Polka%20mazur%2C%20op.%20323%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/52582f7b-a848-4b31-96cd-e8905a1b965f> .
-<https://w3id.org/ssv/0.9/data/track/2010#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/08%20-%20Wiener%20Bonbons%2C%20Walzer%2C%20op.%20307%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/13%20-%20Helenen-Quadrille%2C%20op.%2014%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" .
 <https://w3id.org/ssv/0.9/data/track/2010#21> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/56342cdd-5951-44a2-b59b-e1952f897a7c> .
-<https://w3id.org/ssv/0.9/data/track/2010#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b9e421f5-45fc-45c9-bac1-d11f8053db7f> .
-<https://w3id.org/ssv/0.9/data/track/2010#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wein, Weib und Gesang, Walzer, op. 333\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ece87ea6-7876-40ad-8281-c81555a8d23c> .
-<https://w3id.org/ssv/0.9/data/track/2010#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Opening Credits\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell, op. 393\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Krapfenwaldl, Polka fraincaise, op. 336\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frauenherz, Polka mazur, op. 166 - Josef Strauss\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d3bf0459-e31a-415d-9c1d-32e6a467d6ac> .
-<https://w3id.org/ssv/0.9/data/track/2010#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0fe067fa-2718-46f6-bab2-6b513e8c2c79> .
-<https://w3id.org/ssv/0.9/data/track/2010#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/11%20-%20Der%20Carneval%20in%20Paris%2C%20Galopp%2C%20op.%20100%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/05%20-%20Wein%2C%20Weib%20und%20Gesang%2C%20Walzer%2C%20op.%20333%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/15%20-%20Champagner-Galopp%20-%20Hans%20Christian%20Lumbye.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Champagner-Polka, Musikalischer Scherz, op. 211\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f03beb1d-3e6c-40f7-a5df-e85c5c6d5d89> .
-<https://w3id.org/ssv/0.9/data/track/2010#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/16%20-%20Auf%20der%20Jagd%2C%20Polka%20schnell%2C%20op.%20373%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6a0a86a7-8a41-4107-ae0a-d744f89ccceb> .
-<https://w3id.org/ssv/0.9/data/track/2010#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum mobile, Musikalischer Scherz, op. 257\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/03%20-%20Im%20Krapfenwaldl%2C%20Polka%20fraincaise%2C%20op.%20336%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/aa8cee02-71b6-4a2b-bc33-5f0d3091ab02> .
-<https://w3id.org/ssv/0.9/data/track/2010#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/16%20-%20Auf%20der%20Jagd%2C%20Polka%20schnell%2C%20op.%20373%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2010#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/14%20-%20Morgenbl%C3%A4tter%2C%20Walzer%2C%20op.%20279%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/02%20-%20Frauenherz%2C%20Polka%20mazur%2C%20op.%20166%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ein Herz, ein Sinn, Polka mazur, op. 323\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Auf der Jagd, Polka schnell, op. 373\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/04%20-%20St%C3%BCrmisch%20in%20Lieb%27%20und%20Tanz%2C%20Polka%20schnell%2C%20op.%20393%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die lustigen Weiber von Windsor' - Otto Nicolai\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/01%20-%20Ouvert%C3%BCre%20aus%20der%20Operette%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2010#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/3de7fe87-b28f-43a8-93f6-aefa15a097eb> .
-<https://w3id.org/ssv/0.9/data/track/2010#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/26b3959e-efc8-40ca-9517-22d2a1ee92b2> .
-<https://w3id.org/ssv/0.9/data/track/2010#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Bonbons, Walzer, op. 307\"" .
-<https://w3id.org/ssv/0.9/data/track/2010#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2010#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/2010#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6e1213e9-df2e-4a00-87e0-c650e75ad3bd> .
-<https://w3id.org/ssv/0.9/data/track/2010#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Der Carneval in Paris, Galopp, op. 100\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b9e421f5-45fc-45c9-bac1-d11f8053db7f> .
+<https://w3id.org/ssv/0.9/data/track/2010#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Opening Credits\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Walzer, op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/10%20-%20Ein%20Herz%2C%20ein%20Sinn%2C%20Polka%20mazur%2C%20op.%20323%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/13%20-%20Helenen-Quadrille%2C%20op.%2014%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6354b59d-9aed-4b75-b6f7-e7397b36c5a1> .
+<https://w3id.org/ssv/0.9/data/track/2010#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/56342cdd-5951-44a2-b59b-e1952f897a7c> .
+<https://w3id.org/ssv/0.9/data/track/2010#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Auf der Jagd, Polka schnell, op. 373\"" .
 <https://w3id.org/ssv/0.9/data/track/2010#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/52582f7b-a848-4b31-96cd-e8905a1b965f> .
+<https://w3id.org/ssv/0.9/data/track/2010#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die Rheinnixen'\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/1db7e2bb-c1d1-4a36-bc70-4dcbed0a6623> .
+<https://w3id.org/ssv/0.9/data/track/2010#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Der Carneval in Paris, Galopp, op. 100\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/16%20-%20Auf%20der%20Jagd%2C%20Polka%20schnell%2C%20op.%20373%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f03beb1d-3e6c-40f7-a5df-e85c5c6d5d89> .
+<https://w3id.org/ssv/0.9/data/track/2010#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frauenherz, Polka mazur, op. 166 - Josef Strauss\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/978aebab-ff88-4eff-a6a8-6966be702ff6> .
+<https://w3id.org/ssv/0.9/data/track/2010#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/11%20-%20Der%20Carneval%20in%20Paris%2C%20Galopp%2C%20op.%20100%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wein, Weib und Gesang, Walzer, op. 333\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/03%20-%20Im%20Krapfenwaldl%2C%20Polka%20fraincaise%2C%20op.%20336%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d3bf0459-e31a-415d-9c1d-32e6a467d6ac> .
+<https://w3id.org/ssv/0.9/data/track/2010#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/07%20-%20Ouvert%C3%BCre%20aus%20%27Die%20lustigen%20Weiber%20von%20Windsor%27%20-%20Otto%20Nicolai.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/09%20-%20Champagner-Polka%2C%20Musikalischer%20Scherz%2C%20op.%20211%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/04%20-%20St%C3%BCrmisch%20in%20Lieb%27%20und%20Tanz%2C%20Polka%20schnell%2C%20op.%20393%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/08%20-%20Wiener%20Bonbons%2C%20Walzer%2C%20op.%20307%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/30bfcc52-9bed-410d-968d-ac9cbeae1351> .
+<https://w3id.org/ssv/0.9/data/track/2010#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/06%20-%20Perpetuum%20mobile%2C%20Musikalischer%20Scherz%2C%20op.%20257%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/43de8917-8c56-4c72-868c-3b81e01174b2> .
+<https://w3id.org/ssv/0.9/data/track/2010#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Helenen-Quadrille, op. 14\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#21> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Closing Credits\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2ad47dfe-3721-4dfc-b159-136d8b38a5b3> .
+<https://w3id.org/ssv/0.9/data/track/2010#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/17%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/14%20-%20Morgenbl%C3%A4tter%2C%20Walzer%2C%20op.%20279%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/16%20-%20Auf%20der%20Jagd%2C%20Polka%20schnell%2C%20op.%20373%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb' und Tanz, Polka schnell, op. 393\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus der Operette 'Die Fledermaus'\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7042101b-df70-49f8-857e-5a057fa0de61> .
+<https://w3id.org/ssv/0.9/data/track/2010#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ein Herz, ein Sinn, Polka mazur, op. 323\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
+<https://w3id.org/ssv/0.9/data/track/2010#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0fe067fa-2718-46f6-bab2-6b513e8c2c79> .
+<https://w3id.org/ssv/0.9/data/track/2010#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/3de7fe87-b28f-43a8-93f6-aefa15a097eb> .
+<https://w3id.org/ssv/0.9/data/track/2010#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die lustigen Weiber von Windsor' - Otto Nicolai\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/997631d4-336c-4785-953f-75f6405ba78d> .
+<https://w3id.org/ssv/0.9/data/track/2010#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/18%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/01%20-%20Ouvert%C3%BCre%20aus%20der%20Operette%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ece87ea6-7876-40ad-8281-c81555a8d23c> .
+<https://w3id.org/ssv/0.9/data/track/2010#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/05%20-%20Wein%2C%20Weib%20und%20Gesang%2C%20Walzer%2C%20op.%20333%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/12%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Rheinnixen%27%20-%20Jacques%20Offenbach.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Champagner-Polka, Musikalischer Scherz, op. 211\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/aa8cee02-71b6-4a2b-bc33-5f0d3091ab02> .
+<https://w3id.org/ssv/0.9/data/track/2010#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Morgenblätter, Walzer, op. 279\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#21> <http://purl.org/ontology/mo/track_number> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6a0a86a7-8a41-4107-ae0a-d744f89ccceb> .
+<https://w3id.org/ssv/0.9/data/track/2010#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/32a58d06-1e5a-49f2-b5a6-42e9ca036641> .
+<https://w3id.org/ssv/0.9/data/track/2010#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Krapfenwaldl, Polka fraincaise, op. 336\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/26b3959e-efc8-40ca-9517-22d2a1ee92b2> .
+<https://w3id.org/ssv/0.9/data/track/2010#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/15%20-%20Champagner-Galopp%20-%20Hans%20Christian%20Lumbye.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/2010#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Champagner-Galopp" .
+<https://w3id.org/ssv/0.9/data/track/2010#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum mobile, Musikalischer Scherz, op. 257\"" .
+<https://w3id.org/ssv/0.9/data/track/2010#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/2010#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2010/02%20-%20Frauenherz%2C%20Polka%20mazur%2C%20op.%20166%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/2010#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wiener Bonbons, Walzer, op. 307\"" .

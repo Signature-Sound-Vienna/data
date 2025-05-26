@@ -1,0 +1,10 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performer/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29__CD%202%20-%20Mozart#61> a ns1:MusicArtist ;
+    rdfs:label "Performer: \"Richard Strauss\"" ;
+    ns1:musicbrainz <https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16> ;
+    ns1:performed <https://w3id.org/ssv/0.9/data/performance/Wiener%20Philharmoniker%20%2810%20CDs_1-3%29__CD%202%20-%20Mozart#61> ;
+    foaf:name "\"Richard Strauss\"" .
+

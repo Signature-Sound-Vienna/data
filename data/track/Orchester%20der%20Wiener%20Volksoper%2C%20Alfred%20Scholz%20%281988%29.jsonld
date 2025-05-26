@@ -1,5 +1,27 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -23,87 +45,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Perpetuum mobile\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/07-Liebeslieder%20op.%20114.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/829602dc-2e61-36da-8757-ca8efdd39d47"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Liebeslieder"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/06-Leichtes%20Blut%20op.%20319.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ade9d5d7-74a2-321e-b205-916e892a1d1b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Leichtes Blut\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/04-Eljen%20a%20Magyar%20op.%20332.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Eljen A Magyar!\""
       }
     ]
   },
@@ -135,6 +76,87 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/09-Schatz-Walzer%20op.%20418.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e4318efa-d00f-3ba5-ba7a-aab98a5c1a5c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Schatz-Walzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/06-Leichtes%20Blut%20op.%20319.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ade9d5d7-74a2-321e-b205-916e892a1d1b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Leichtes Blut\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/07-Liebeslieder%20op.%20114.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/829602dc-2e61-36da-8757-ca8efdd39d47"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Liebeslieder"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -158,28 +180,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: Annen-Polka"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau\""
       }
     ]
   },
@@ -211,29 +211,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/09-Schatz-Walzer%20op.%20418.wav"
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%2C%20Alfred%20Scholz%20%281988%29/04-Eljen%20a%20Magyar%20op.%20332.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/e4318efa-d00f-3ba5-ba7a-aab98a5c1a5c"
+        "@id": "https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Schatz-Walzer"
+        "@value": "Track: \"Eljen A Magyar!\""
       }
     ]
   }

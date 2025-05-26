@@ -1,59 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29/03-Tales%20from%20the%20Vienna%20Woods-Waltz%20Op.325%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6b5c11c3-69ab-3e2d-ac3f-78d4c30cea2b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichte aus dem Wienderwald-Walzer / Tales from the Vienna Forest - Waltz, Op. 325\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29/08-Tritsch-Tratsch%20-%20Polka%20Op.%20214%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b432bad3-0124-3896-a307-f22e7593baba"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Tritsch-Tratsch-Polka, Op. 214\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -81,29 +27,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29/05-Viennese%20Bonbons-Waltz%20Op.307%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29/03-Tales%20from%20the%20Vienna%20Woods-Waltz%20Op.325%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b15642ec-5222-336c-b524-a7d52c0708df"
+        "@id": "https://musicbrainz.org/track/6b5c11c3-69ab-3e2d-ac3f-78d4c30cea2b"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Bonbons-Walzer / Viennese Bonbons-Waltz, Op.307\""
+        "@value": "Track: \"G'schichte aus dem Wienderwald-Walzer / Tales from the Vienna Forest - Waltz, Op. 325\""
       }
     ]
   },
@@ -135,6 +81,55 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29/05-Viennese%20Bonbons-Waltz%20Op.307%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b15642ec-5222-336c-b524-a7d52c0708df"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Bonbons-Walzer / Viennese Bonbons-Waltz, Op.307\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2180dae6-e1c8-3491-80b3-c6a3ec1b4797"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiserwalzer / Emperor Waltz, Op. 437\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -162,6 +157,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29/08-Tritsch-Tratsch%20-%20Polka%20Op.%20214%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b432bad3-0124-3896-a307-f22e7593baba"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Tritsch-Tratsch-Polka, Op. 214\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -185,28 +207,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Pizzicato Polka\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Orchester%20der%20Wiener%20Volksoper%20%28Strauss.%20New%20Year%C2%B4s%20Concerto%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2180dae6-e1c8-3491-80b3-c6a3ec1b4797"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Kaiserwalzer / Emperor Waltz, Op. 437\""
       }
     ]
   }

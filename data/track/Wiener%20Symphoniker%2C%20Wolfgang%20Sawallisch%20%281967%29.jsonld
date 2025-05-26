@@ -1,55 +1,104 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/09-Auf%20der%20Jagd_%20La%20Chasse%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/6d4a817f-fb3f-4a51-a702-d8012f04fdd9"
+        "@id": "https://musicbrainz.org/track/adaffc4e-c667-44a6-85ca-5ca77c200183"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Auf der Jagd\""
+        "@value": "Track: \"Ouverture zu 'Die Feldermaus'\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/11-An%20der%20sch%C3%B6nen%20blauen%20Donau_Le%20beau%20danube%20Bleu%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/08-Plapperm%C3%A4ulchen%20-%20Plapperm%C3%A4ulchen.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/95233bd2-982e-427a-97bd-cdc78c6af029"
+        "@id": "https://musicbrainz.org/track/28c1797c-f799-4d1e-83db-f7c2672e10cd"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"An der schönen blauen Donau\""
+        "@value": "Track: Plappermäulchen"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/04-Annen-polka%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/09230dd0-1740-4c05-872d-28cf62073148"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Annen-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/12-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Radetzky-Marsch"
       }
     ]
   },
@@ -77,6 +126,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: Kaiserwalzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/02-Jockey%20polka%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/92969db0-ab75-439d-9fd8-e6f19c66f6a1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Jockey polka\""
       }
     ]
   },
@@ -135,78 +211,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/08-Plapperm%C3%A4ulchen%20-%20Plapperm%C3%A4ulchen.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/09-Auf%20der%20Jagd_%20La%20Chasse%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/28c1797c-f799-4d1e-83db-f7c2672e10cd"
+        "@id": "https://musicbrainz.org/track/6d4a817f-fb3f-4a51-a702-d8012f04fdd9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Plappermäulchen"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/adaffc4e-c667-44a6-85ca-5ca77c200183"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouverture zu 'Die Feldermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/04-Annen-polka%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/09230dd0-1740-4c05-872d-28cf62073148"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Annen-Polka"
+        "@value": "Track: \"Auf der Jagd\""
       }
     ]
   },
@@ -238,60 +265,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/12-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Radetzky-Marsch"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/02-Jockey%20polka%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/92969db0-ab75-439d-9fd8-e6f19c66f6a1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Jockey polka\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -315,6 +288,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: Feuerfest"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener%20Symphoniker%2C%20Wolfgang%20Sawallisch%20%281967%29/11-An%20der%20sch%C3%B6nen%20blauen%20Donau_Le%20beau%20danube%20Bleu%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/95233bd2-982e-427a-97bd-cdc78c6af029"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau\""
       }
     ]
   }

@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performer/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29__CD%205%20-%20Bruckner%20Symphony%20No.%207#61",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/4cb43d82-824e-4034-b03d-1a98f36f6e16"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/performance/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29__CD%205%20-%20Bruckner%20Symphony%20No.%207#61"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Richard Strauss\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Richard Strauss\""
+      }
+    ]
+  }
+]
