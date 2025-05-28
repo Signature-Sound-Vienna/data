@@ -8,27 +8,28 @@
     "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
     "frbr": "http://purl.org/vocab/frbr/core#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-    "dcterms": "http://purl.org/dc/terms/"
+    "dcterms": "http://purl.org/dc/terms/",
+    "tl": "http://purl.org/NET/c4dm/timeline.owl#"
   },
-  "@id": "extract:ExampleD.jsonld",
+  "@id": "selection:ExampleC.jsonld",
   "@type": [
-    "mao:Extract",
+    "mao:Selection",
     "schema:Dataset"
   ],
-  "dcterms:created": "2024-05-27T13:55:59.086Z",
+  "dcterms:created": "2024-05-27T13:55:58.231Z",
   "dcterms:creator": {
     "@id": "https://ssv.solidcommunity.net/profile/card#me"
   },
-  "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
-  "frbr:embodiment": [
+  "frbr:part": [
     {
-      "@id": "selection:ExampleD.jsonld"
-    },
-    {
-      "@id": "selection:ExampleD-audio1.jsonld"
+      "@id": "https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/03-Kaiserwalzer%20-%20Johann%20Strauss%20II%20%28Andr%C3%A9%20Rieu%2C%20Johann%20Strauss%20Orchester%29.wav#t=92.3,107.02",
+      "@type": "tl:Interval",
+      "tl:onTimeLine": {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3"
+      }
     }
   ],
-  "rdfs:label": "Example D",
+  "rdfs:label": "Example C",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
   }
