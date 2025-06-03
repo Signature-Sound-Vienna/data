@@ -11,7 +11,7 @@
     "dcterms": "http://purl.org/dc/terms/",
     "tl": "http://purl.org/NET/c4dm/timeline.owl#"
   },
-  "@id": "selection:ExampleH-audio3.jsonld",
+  "@id": "selection:ExampleH-audio4.jsonld",
   "@type": [
     "mao:Selection",
     "schema:Dataset"
@@ -29,7 +29,7 @@
       }
     }
   ],
-  "rdfs:label": "Example G: VPO 1991 ",
+  "rdfs:label": "Example H: VPO 2016",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
   }
