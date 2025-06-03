@@ -20,9 +20,20 @@
     "@id": "https://ssv.solidcommunity.net/profile/card#me"
   },
   "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
-  "frbr:embodiment": {
-    "@id": "selection:ExampleJ.jsonld"
-  },
+  "frbr:embodiment": [
+    {
+      "@id": "selection:ExampleJ.jsonld"
+    },
+    {
+      "@id": "selection:ExampleH-audio1.jsonld"
+    },
+    {
+      "@id": "selection:ExampleH-audio3.jsonld"
+    },
+    {
+      "@id": "selection:ExampleH-audio4.jsonld"
+    }
+  ],
   "rdfs:label": "Example H",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
