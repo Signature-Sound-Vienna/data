@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ssv": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/selection/",
+    "schema": "https://schema.org/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "tl": "http://purl.org/NET/c4dm/timeline.owl#"
+  },
+  "@id": "selection:ExampleH-audio3.jsonld",
+  "@type": [
+    "mao:Selection",
+    "schema:Dataset"
+  ],
+  "dcterms:created": "2024-05-27T13:55:58.231Z",
+  "dcterms:creator": {
+    "@id": "https://ssv.solidcommunity.net/profile/card#me"
+  },
+  "frbr:part": [
+    {
+      "@id": "https://w3id.org/ssv/audio/2016/17%20-%20Kaiser-Walzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav#t=88.26,134.82",
+      "@type": "tl:Interval",
+      "tl:onTimeLine": {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#17"
+      }
+    }
+  ],
+  "rdfs:label": "Example G: VPO 1991 ",
+  "schema:about": {
+    "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
+  }
+}
