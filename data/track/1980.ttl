@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1980#1> a ns1:Track ;
     rdfs:label "Track: \"'Die Fledermaus' Overture\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1980/01-Die%20Fledermaus_%20Overture%20-%20Johann%20Strauss%2C%20Sohn.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6033e7ae-b414-45ab-a8e3-59d77225d55f> ;
     ns1:track_number 1 .
 

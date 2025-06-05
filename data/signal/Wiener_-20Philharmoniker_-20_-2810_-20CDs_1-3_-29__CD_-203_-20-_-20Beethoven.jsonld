@@ -1,201 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#17",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#35",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#17"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#21"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#20",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#20"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#32",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#32"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#35"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/32.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#16"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#47",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#47"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/47.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#40",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#40"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/40.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#19"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#27",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#27"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/27.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#37",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#37"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/37.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#23"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#41",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#41"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/41.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#56",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#56"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/56.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/35.peaks.json"
       }
     ]
   },
@@ -216,113 +32,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#45",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#45"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/45.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#2"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#30",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#30"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/30.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#53",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#53"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/53.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#44",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#44"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/44.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#48",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#48"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/48.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#26",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#26"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/26.peaks.json"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -334,411 +43,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#12",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#19",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#3"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#54",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#54"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/54.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#11"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#55",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#55"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/55.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#18"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#22",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#22"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#33",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#33"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/33.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#58",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#58"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/58.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#57",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#57"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/57.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#28",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#28"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/28.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#61",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#61"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/61.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#36",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#36"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/36.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#51",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#51"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/51.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#43",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#43"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/43.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#42",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#42"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/42.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#52",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#52"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/52.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#60",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#60"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/60.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#34",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#34"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/34.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#29",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#29"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/29.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#35",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#35"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/35.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#9"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#39",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#39"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/39.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#13"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#4"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#8"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#50",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#50"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/50.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#14"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#19"
       }
     ]
   },
@@ -759,29 +70,66 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#46",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#32",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#46"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#32"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/46.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/32.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#15",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#28",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#15"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#28"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/28.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#33",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#33"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/33.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#45",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#45"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/45.peaks.json"
       }
     ]
   },
@@ -802,6 +150,98 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#61",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#61"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/61.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#48",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#48"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/48.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#15"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#51",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#51"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/51.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -809,6 +249,485 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#49",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#49"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/49.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#20",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#20"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#40",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#40"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/40.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#16"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#39",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#39"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/39.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#23"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#43",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#43"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/43.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#54",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#54"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/54.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#42",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#42"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/42.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#27",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#27"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/27.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#36",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#36"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/36.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#41",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#41"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/41.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#30",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#30"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/30.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#47",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#47"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/47.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#29",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#29"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/29.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#56",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#56"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/56.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#22"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#14"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#21"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#2"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#60",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#60"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/60.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#37",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#37"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/37.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#50",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#50"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/50.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#34",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#34"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/34.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#13"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#12"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#53",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#53"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/53.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#55",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#55"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/55.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#58",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#58"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/58.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#18"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#26",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#26"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/26.peaks.json"
       }
     ]
   },
@@ -829,6 +748,65 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#44",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#44"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/44.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#11"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#57",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#57"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/57.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#52",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#52"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/52.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#31",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -845,18 +823,40 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#49",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#49"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#17"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#46",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven#46"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/49.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-203_-20-_-20Beethoven/46.peaks.json"
       }
     ]
   }

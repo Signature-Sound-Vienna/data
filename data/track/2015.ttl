@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2015#1> a ns1:Track ;
     rdfs:label "Track: \"Ein Morgen, ein Mittag, ein Abend in Wien, Ouvertüre\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2015/01%20-%20Ein%20Morgen%2C%20ein%20Mittag%2C%20ein%20Abend%20in%20Wien%2C%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/b62b33ad-26f9-4d34-9bba-55909c3d075b> ;
     ns1:track_number 1 .
 

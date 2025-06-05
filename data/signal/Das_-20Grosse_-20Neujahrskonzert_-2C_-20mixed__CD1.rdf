@@ -4,20 +4,15 @@
    xmlns:ns2="https://w3id.org/ssv/0.9/data/vocab#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/3.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/10.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/8.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/7.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#4">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/4.peaks.json"/>
@@ -29,38 +24,44 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#2"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/11.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#9">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/9.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/12.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#6">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/6.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#6"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/11.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/1.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/10.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/5.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/12.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/3.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/8.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8"/>
   </rdf:Description>
 </rdf:RDF>

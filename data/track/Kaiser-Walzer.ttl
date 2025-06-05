@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1> a ns1:Track ;
     rdfs:label "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Kaiser-Walzer/01-Die%20Fledermaus%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Joseph%20Francek%29.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0> ;
     ns1:track_number 1 .
 

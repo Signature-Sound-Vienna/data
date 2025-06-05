@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2023#1> a ns1:Track ;
     rdfs:label "Track: Intro" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2023/01%20-%20Intro.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/72277cc1-8f29-4151-a40a-57614978a8a5> ;
     ns1:track_number 1 .
 

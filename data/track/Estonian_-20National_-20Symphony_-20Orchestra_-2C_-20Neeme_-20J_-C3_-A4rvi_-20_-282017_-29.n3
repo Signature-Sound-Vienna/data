@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Newa-Polka, op. 288\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29/01-Newa-Polka%2C%20Op.%20288.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/e0c93a26-95d7-4885-97eb-7c9b66869e5b> ;
     ns1:track_number 1 .
 

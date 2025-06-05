@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Freut euch des Lebens, Walzer, op. 340\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/01%20-%20Freut%20euch%20des%20Lebens%2C%20Walzer%2C%20op.%20340%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/a95fe753-5f12-4352-b1e7-9cee5bf6e7bd> ;
     ns1:track_number 1 .
 

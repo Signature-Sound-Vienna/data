@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29/01-Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/dc4ac28d-b19d-42e9-a532-e0b38e3e56bd> ;
     ns1:track_number 1 .
 

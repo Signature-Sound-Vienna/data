@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1995#1> a ns1:Track ;
     rdfs:label "Track: \"Reiter-Marsch, op. 428\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1995/01-Reiter%20Marsch%2C%20op.%20428%20-%20Johann%20Strauss%2C%20Jr.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6beb23d8-e3f4-49db-8464-4e9ea71eea92> ;
     ns1:track_number 1 .
 

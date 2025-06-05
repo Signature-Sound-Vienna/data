@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau - Johann Strauss II\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/01-An%20der%20sch%C3%B6nen%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2fca1418-839a-44a1-95d1-a73a9174f272> ;
     ns1:track_number 1 .
 

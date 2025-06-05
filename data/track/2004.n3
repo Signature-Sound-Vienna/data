@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2004#1> a ns1:Track ;
     rdfs:label "Track: \"Es war so wunderschön, Marsch aus der Operette 'Waldmeister'\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2004/01%20-%20Es%20war%20so%20wundersch%C3%B6n%2C%20Marsch%20aus%20der%20Operette%20%27Waldmeister%27%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/307c77d8-8765-40c0-8373-7cdbded5da43> ;
     ns1:track_number 1 .
 

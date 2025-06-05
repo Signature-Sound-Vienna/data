@@ -2,7 +2,8 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/2006#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#1> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/1.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/2006#10> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#10> ;

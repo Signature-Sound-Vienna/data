@@ -1,55 +1,109 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2018/08%20-%20Boccaccio%2C%20Ouverture%20-%20Franz%20von%20Supp%C3%A9.wav"
+        "@id": "https://w3id.org/ssv/audio/2018/07%20-%20Wilhelm%20Tell%20Galopp%20op.%2029b%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/a408feec-f6db-48a7-9527-a0af0bb23b2e"
+        "@id": "https://musicbrainz.org/track/021f747c-087a-45ad-8180-4dc5e0bee245"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Boccaccio, Ouverture\""
+        "@value": "Track: \"Wilhelm Tell Galopp op. 29b\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#9",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2018/10%20-%20Stephanie-Gavotte%20op.%20312%20-%20Alfons%20Czibulka.wav"
+        "@id": "https://w3id.org/ssv/audio/2018/13%20-%20Festmarsch%20op.%20452%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b155de8e-e113-4c88-b92e-b19f25cc2e3c"
+        "@id": "https://musicbrainz.org/track/7389f728-b089-4005-a279-df4eb02493fd"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Stephanie-Gavotte op. 312\""
+        "@value": "Track: \"Festmarsch op. 452\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/12%20-%20Geschichten%20aus%20dem%20Wienerwald%20op.%20325%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7aac7627-865e-4387-8171-bdff5adf4dca"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Geschichten aus dem Wienerwald op. 325\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/11%20-%20Freikugeln%20op.%20326%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5fa44b84-e2ee-4f7e-8b9f-c710d02fd6a6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Freikugeln op. 326\""
       }
     ]
   },
@@ -57,6 +111,11 @@
     "@id": "https://w3id.org/ssv/0.9/data/track/2018#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/02%20-%20Der%20Zigeunerbaron%2C%20Einzugsmarsch%20-%20Johann%20Strauss%20II.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -103,56 +162,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#12",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2018/13%20-%20Festmarsch%20op.%20452%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2018/15%20-%20Un%20ballo%20in%20maschera%20op.%20272%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/7389f728-b089-4005-a279-df4eb02493fd"
+        "@id": "https://musicbrainz.org/track/36ce8256-3641-43d9-85a1-90016d18dbd6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
+        "@value": 14
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Festmarsch op. 452\""
+        "@value": "Track: \"Un ballo in maschera op. 272\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#2",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2018/03%20-%20Wiener%20Fresken%20op.%20249%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2018/10%20-%20Stephanie-Gavotte%20op.%20312%20-%20Alfons%20Czibulka.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/65e88edf-5dff-4121-8856-ab2e0c4d0568"
+        "@id": "https://musicbrainz.org/track/b155de8e-e113-4c88-b92e-b19f25cc2e3c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Fresken op. 249\""
+        "@value": "Track: \"Stephanie-Gavotte op. 312\""
       }
     ]
   },
@@ -184,83 +243,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2018/05%20-%20Leichtes%20Blut%20op.%20319%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2018/09%20-%20Myrthenbl%C3%BCten%20op.%20395%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/43633605-7ee0-4604-ab53-cbcb10f0cba9"
+        "@id": "https://musicbrainz.org/track/ba58e1e5-3320-4eef-96f5-d5b80af36811"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Leichtes Blut op. 319\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/16%20-%20Rosen%20aus%20dem%20S%C3%BCden%20op.%20388%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/fcbbf400-2256-454b-9e90-d6ab2678c985"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Rosen aus dem Süden op. 388\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/11%20-%20Freikugeln%20op.%20326%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5fa44b84-e2ee-4f7e-8b9f-c710d02fd6a6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Freikugeln op. 326\""
+        "@value": "Track: \"Myrthenblüten op. 395\""
       }
     ]
   },
@@ -292,29 +297,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#14",
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2018/15%20-%20Un%20ballo%20in%20maschera%20op.%20272%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2018/03%20-%20Wiener%20Fresken%20op.%20249%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/36ce8256-3641-43d9-85a1-90016d18dbd6"
+        "@id": "https://musicbrainz.org/track/65e88edf-5dff-4121-8856-ab2e0c4d0568"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Un ballo in maschera op. 272\""
+        "@value": "Track: \"Wiener Fresken op. 249\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/16%20-%20Rosen%20aus%20dem%20S%C3%BCden%20op.%20388%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/fcbbf400-2256-454b-9e90-d6ab2678c985"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rosen aus dem Süden op. 388\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/18%20-%20Unter%20Donner%20und%20Blitz%20op.%20324%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0bcbfd17-0b12-49d5-a544-721948f8652b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Unter Donner und Blitz op. 324\""
       }
     ]
   },
@@ -342,6 +401,87 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Stadt und Land op. 322\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cc445698-9669-4931-bb4a-492611172ccd"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/05%20-%20Leichtes%20Blut%20op.%20319%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/43633605-7ee0-4604-ab53-cbcb10f0cba9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Leichtes Blut op. 319\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/2018#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2018/08%20-%20Boccaccio%2C%20Ouverture%20-%20Franz%20von%20Supp%C3%A9.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a408feec-f6db-48a7-9527-a0af0bb23b2e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Boccaccio, Ouverture\""
       }
     ]
   },
@@ -396,141 +536,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Neujahrsgruß/ New Year ́s Address\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20op.%20314%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/cc445698-9669-4931-bb4a-492611172ccd"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 19
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/09%20-%20Myrthenbl%C3%BCten%20op.%20395%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ba58e1e5-3320-4eef-96f5-d5b80af36811"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Myrthenblüten op. 395\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/07%20-%20Wilhelm%20Tell%20Galopp%20op.%2029b%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/021f747c-087a-45ad-8180-4dc5e0bee245"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wilhelm Tell Galopp op. 29b\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/18%20-%20Unter%20Donner%20und%20Blitz%20op.%20324%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0bcbfd17-0b12-49d5-a544-721948f8652b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Unter Donner und Blitz op. 324\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/2018#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2018/12%20-%20Geschichten%20aus%20dem%20Wienerwald%20op.%20325%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7aac7627-865e-4387-8171-bdff5adf4dca"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Geschichten aus dem Wienerwald op. 325\""
       }
     ]
   }

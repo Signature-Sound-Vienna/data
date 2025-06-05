@@ -27,132 +27,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/10-Mein%20Herr%20Marquis%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/11-Braune%20Augen%2C%20schware%20Brauen%20-%20Ukrainisches%20Lied.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/d8b4c368-4127-4e2a-8a4e-9415a3c8daa9"
+        "@id": "https://musicbrainz.org/track/41496cf0-e7c1-4850-ad9c-0d4f335f54f0"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 11
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Mein Herr Marquis\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/02-Wiener%20Veilchen%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ce6fe79a-9f41-4935-8347-39d5f43384a9"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Veilchen\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/05-Der%20Mond%20am%20Himmel%20-%20Ukrainisches%20Lied.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d58428e2-c9fc-4ae6-b038-d5f4bd0f8d33"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Der Mond am Himmel - Ukrainisches Lied\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f490918f-fa57-4e89-966d-20c4b3929c95"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre zu 'Fledermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/07-Leichtes%20Blut%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/bc3c2bea-3894-406c-bf5b-0e68aedc2a4f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Leichtes Blut\""
+        "@value": "Track: \"Braune Augen, schware Brauen - Ukrainisches Lied\""
       }
     ]
   },
@@ -184,6 +81,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/02-Wiener%20Veilchen%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ce6fe79a-9f41-4935-8347-39d5f43384a9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Veilchen\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -211,29 +135,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/11-Braune%20Augen%2C%20schware%20Brauen%20-%20Ukrainisches%20Lied.wav"
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/05-Der%20Mond%20am%20Himmel%20-%20Ukrainisches%20Lied.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/41496cf0-e7c1-4850-ad9c-0d4f335f54f0"
+        "@id": "https://musicbrainz.org/track/d58428e2-c9fc-4ae6-b038-d5f4bd0f8d33"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Braune Augen, schware Brauen - Ukrainisches Lied\""
+        "@value": "Track: \"Der Mond am Himmel - Ukrainisches Lied\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/07-Leichtes%20Blut%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bc3c2bea-3894-406c-bf5b-0e68aedc2a4f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Leichtes Blut\""
       }
     ]
   },
@@ -292,33 +243,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/04-Wiener%20Bonbons%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c3c18a25-edb3-47da-a104-c6bf0c3c8580"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Bonbons\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -342,6 +266,87 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Egtyptischer Marsch\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/01-Ouvert%C3%BCre%20zu%20_Fledermaus_%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f490918f-fa57-4e89-966d-20c4b3929c95"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre zu 'Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/10-Mein%20Herr%20Marquis%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d8b4c368-4127-4e2a-8a4e-9415a3c8daa9"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Mein Herr Marquis\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/04-Wiener%20Bonbons%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c3c18a25-edb3-47da-a104-c6bf0c3c8580"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Bonbons\""
       }
     ]
   }

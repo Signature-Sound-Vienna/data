@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1> a ns1:Track ;
     rdfs:label "Track: \"An Der Schönen, Blauen Donau, Waltz Op. 314\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/01-An%20Der%20Sch%C3%B6nen%2C%20Blauen%20Donau%2C%20Waltz%20Op.%20314.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/93be5262-38b7-41b7-911c-6cb22d8ae125> ;
     ns1:track_number 1 .
 

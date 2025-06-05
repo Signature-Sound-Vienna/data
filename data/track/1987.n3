@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1987#1> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1987/01%20-%20Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/4e8340c7-56c9-45cb-8390-f9b84eaa7bea> ;
     ns1:track_number 1 .
 

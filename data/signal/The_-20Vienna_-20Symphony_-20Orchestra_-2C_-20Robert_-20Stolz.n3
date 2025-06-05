@@ -2,7 +2,8 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/1.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10> ;

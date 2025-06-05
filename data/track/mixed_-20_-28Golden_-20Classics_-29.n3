@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Die Fledermaus\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/d9e030de-e936-34fd-90b2-9687054014db> ;
     ns1:track_number 1 .
 

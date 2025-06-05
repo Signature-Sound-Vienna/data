@@ -1,49 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#45",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#45"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#16",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#16"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#47",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#47"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#4"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#58",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -60,51 +16,122 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#40",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#13",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#40"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#13"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#31",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#43",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#31"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#43"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#15",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#15"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#4"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#59",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#53",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#59"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#53"
       }
     ],
     "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/59.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/53.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#51",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#51"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#18"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#41",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#41"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#30",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#30"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#55",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#55"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/55.peaks.json"
       }
     ]
   },
@@ -120,88 +147,57 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#57",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#14",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#57"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/57.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#14"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#60",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#15",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#60"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/60.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#15"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#61",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#25",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#61"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/61.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#25"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#38",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#50",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#38"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#50"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#1",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#10",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#56",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#56"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/56.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#10"
       }
     ]
   },
@@ -224,121 +220,6 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#11"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#48",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#48"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#46",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#46"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#29",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#29"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#8"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#9"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#2"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#51",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#51"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#55",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#55"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/55.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#52",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#52"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#3"
       }
     ]
   },
@@ -381,220 +262,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#30",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#30"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#25",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#25"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#32",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#32"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#27",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#27"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#41",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#41"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#13"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#53",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#53"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/53.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#28",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#28"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#50",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#50"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#19"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#44",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#44"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#26",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#26"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#5"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#23"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#24",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#24"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#21"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#42",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#42"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#18"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#49",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -602,72 +269,6 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#49"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#43",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#43"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#35",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#35"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#14"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#36",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#36"
       }
     ]
   },
@@ -683,6 +284,159 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#38",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#38"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#27",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#27"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#21"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#12"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#29",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#29"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#40",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#40"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#19",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#19"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#3"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#26",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#26"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#57",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#57"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/57.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#59",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#59"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/59.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#46",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#46"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -690,6 +444,132 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#32",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#32"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#28",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#28"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#1"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#31",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#31"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#52",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#52"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#56",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#56"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/56.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#16"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#44",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#44"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#36",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#36"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#35",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#35"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#2"
       }
     ]
   },
@@ -705,6 +585,55 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#61",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#61"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/61.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#24",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#24"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#47",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#47"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#45",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#45"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#34",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -712,6 +641,77 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#34"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#42",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#42"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#48",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#48"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#23"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#60",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde#60"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_9-10_-29__CD_-209_-20-_-20Mahler_-20-_-20Das_-20Lied_-20von_-20der_-20Erde/60.peaks.json"
       }
     ]
   }

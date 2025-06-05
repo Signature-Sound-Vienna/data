@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#1> a ns1:Track ;
     rdfs:label "Track: \"G'schichten aus dem Wienerwald, op. 325\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/01-G%27schichten%20aus%20dem%20Wiener%20Wald%2C%20op.%20325.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/e92b880d-a483-4b4d-be36-5b7290cc03e8> ;
     ns1:track_number 1 .
 

@@ -1,5 +1,32 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/05-Cagliostro%20in%20Wien%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5705c069-b73e-41c2-9cba-d7c4e878e0c1"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Cagliostro in Wien (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -27,56 +54,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/04-Morgenbl%C3%A4tter%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/01-Die%20Fledermaus%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Joseph%20Francek%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5d4aeb17-7e69-4794-a93f-91354a27e4a9"
+        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Morgenblätter (Johann-Strauß-Orchester Wien, Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/09-Perpetuum%20mobile%20%28Royal%20Philharmonic%20Orchestra%2C%20Norman%20Shetler%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/db002b7f-f395-44c8-85c8-ed149b9044b7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\""
+        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
       }
     ]
   },
@@ -108,78 +108,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/08-Delirien%20%28Royal%20Philharmonic%20Orchestra%2C%20Norman%20Shetler%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/04-Morgenbl%C3%A4tter%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/1b8ea78b-c011-4ab7-bf7d-a983e4be41b3"
+        "@id": "https://musicbrainz.org/track/5d4aeb17-7e69-4794-a93f-91354a27e4a9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Delirien (Royal Philharmonic Orchestra, Norman Shetler)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus (Johann-Strauß-Orchester Wien, Joseph Francek)\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/06-G%27schichten%20aus%20dem%20Wienerwald%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2d1d2a41-3bb3-4840-bfbe-87a62ef7a1cf"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald (Johann-Strauß-Orchester Wien, Francek)\""
+        "@value": "Track: \"Morgenblätter (Johann-Strauß-Orchester Wien, Francek)\""
       }
     ]
   },
@@ -211,29 +162,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/05-Cagliostro%20in%20Wien%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/08-Delirien%20%28Royal%20Philharmonic%20Orchestra%2C%20Norman%20Shetler%29.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5705c069-b73e-41c2-9cba-d7c4e878e0c1"
+        "@id": "https://musicbrainz.org/track/1b8ea78b-c011-4ab7-bf7d-a983e4be41b3"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Cagliostro in Wien (Johann-Strauß-Orchester Wien, Francek)\""
+        "@value": "Track: \"Delirien (Royal Philharmonic Orchestra, Norman Shetler)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/06-G%27schichten%20aus%20dem%20Wienerwald%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2d1d2a41-3bb3-4840-bfbe-87a62ef7a1cf"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald (Johann-Strauß-Orchester Wien, Francek)\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Kaiser-Walzer/09-Perpetuum%20mobile%20%28Royal%20Philharmonic%20Orchestra%2C%20Norman%20Shetler%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/db002b7f-f395-44c8-85c8-ed149b9044b7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)\""
       }
     ]
   }

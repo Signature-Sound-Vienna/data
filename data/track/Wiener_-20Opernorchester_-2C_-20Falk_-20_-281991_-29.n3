@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Dorfschwalben, Walzer, Op. 164\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/01-Dorfschwalben%2C%20Walzer%2C%20Op.%20164.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/0f9ce53c-fa65-4b74-b748-5fcedced5dc1> ;
     ns1:track_number 1 .
 

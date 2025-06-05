@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2022#1> a ns1:Track ;
     rdfs:label "Track: \"Phönix-Marsch op. 105\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2022/01%20-%20Ph%C3%B6nix-Marsch%20op.%20105%20-%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/f70bcc1a-57bf-4e15-8a2a-d2979d250f20> ;
     ns1:track_number 1 .
 

@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1991#1> a ns1:Track ;
     rdfs:label "Track: \">>Waldmeister<<: Ouvertüre\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1991/01-Ouverture%20zu%20_Waldmeister_%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/e2143eb5-8fd2-446d-b7a8-cedba368c876> ;
     ns1:track_number 1 .
 

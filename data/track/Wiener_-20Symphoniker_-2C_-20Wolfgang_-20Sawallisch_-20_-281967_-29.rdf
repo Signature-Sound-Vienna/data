@@ -4,13 +4,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0b92b654-d18f-4690-822b-eeda3ff64cfb"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Auf Ferienreisen"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/07-Auf%20Ferienreisen%20_%20joseph%20strauss_voyage%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d4eafc0c-03a1-48f3-a9fd-560c62769386"/>
@@ -25,12 +18,12 @@
     <rdfs:label>Track: "Jockey polka"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/02-Jockey%20polka%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: Radetzky-Marsch</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/12-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0b92b654-d18f-4690-822b-eeda3ff64cfb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Auf Ferienreisen"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/07-Auf%20Ferienreisen%20_%20joseph%20strauss_voyage%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -46,12 +39,6 @@
     <rdfs:label>Track: Plappermäulchen</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/08-Plapperm%C3%A4ulchen%20-%20Plapperm%C3%A4ulchen.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/adaffc4e-c667-44a6-85ca-5ca77c200183"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Ouverture zu 'Die Feldermaus'"</rdfs:label>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6d4a817f-fb3f-4a51-a702-d8012f04fdd9"/>
@@ -59,12 +46,19 @@
     <rdfs:label>Track: "Auf der Jagd"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/09-Auf%20der%20Jagd_%20La%20Chasse%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/45ec397d-10c4-49ab-b88b-69f632c6ae6a"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: Feuerfest</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/10-Feuerfest_fete%20du%20feu%20-%20Josef%20Strauss.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dc5e00c3-77a4-412a-8708-ca3e9d39c4d3"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: Frühlingsstimmenwalzer</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/03-Fr%C3%BChlingsstimmenwalser_Valse%20du%20Printemps%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/adaffc4e-c667-44a6-85ca-5ca77c200183"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "Ouverture zu 'Die Feldermaus'"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/01-Ouverture%20Die%20feldermaus%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -73,12 +67,19 @@
     <rdfs:label>Track: "An der schönen blauen Donau"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/11-An%20der%20sch%C3%B6nen%20blauen%20Donau_Le%20beau%20danube%20Bleu%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dc5e00c3-77a4-412a-8708-ca3e9d39c4d3"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: Frühlingsstimmenwalzer</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/03-Fr%C3%BChlingsstimmenwalser_Valse%20du%20Printemps%20-%20Johann%20Strauss%20II.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: Radetzky-Marsch</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/12-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/45ec397d-10c4-49ab-b88b-69f632c6ae6a"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: Feuerfest</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/10-Feuerfest_fete%20du%20feu%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>

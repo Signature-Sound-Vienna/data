@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1990#1> a ns1:Track ;
     rdfs:label "Track: \"Der Zigeunerbaron: Einzugsmarsch\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1990/01-Einzugsmarsch%20aus%20_Der%20Zigeunerbaron_%20-%20Johann%20Strauss%2C%20Jr.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/91465449-b5d6-39ab-bf66-5b0af5f5aee6> ;
     ns1:track_number 1 .
 

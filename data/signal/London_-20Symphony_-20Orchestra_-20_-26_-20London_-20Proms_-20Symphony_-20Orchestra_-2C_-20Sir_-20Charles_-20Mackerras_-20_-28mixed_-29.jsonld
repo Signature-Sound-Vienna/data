@@ -1,56 +1,23 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#22",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#24",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#22"
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#24"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#21",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#21"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#4"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#14"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#11"
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#1"
       }
     ]
   },
@@ -66,13 +33,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#24",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#24"
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#2"
       }
     ]
   },
@@ -88,13 +55,57 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#17",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#17"
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#4"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#5"
       }
     ]
   },
@@ -106,6 +117,39 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#21"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#11"
       }
     ]
   },
@@ -132,6 +176,17 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#17"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#13",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -143,101 +198,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#14",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#6"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#15"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#5"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#18"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#9"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#23"
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#14"
       }
     ]
   },
@@ -253,17 +220,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#2"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -275,13 +231,57 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#15",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#15"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#12"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#18"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#23"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#22"
       }
     ]
   }

@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2020#1> a ns1:Track ;
     rdfs:label "Track: \"Die Landstreicher, Ouvertüre\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2020/01%20-%20Die%20Landstreicher%2C%20Ouvert%C3%BCre%20-%20Carl%20Michael%20Ziehrer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6601dac5-d770-4e34-bae2-0d42aff096b1> ;
     ns1:track_number 1 .
 

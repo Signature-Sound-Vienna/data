@@ -1,5 +1,59 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/04-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Auf%20Ferienreisen%20%28Claudio%20Abbado%29%201988.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/734aaf73-6193-3033-b396-237614a1fc10"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Auf Ferienreisen\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/11-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Kaiserwalzer%20%28Claudio%20Abbado%29%201991.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f36f9da2-d870-34c4-a6d2-1cbe01e1f435"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Kaiserwalzer"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -27,29 +81,110 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/08-Josef%20Strau%C3%9F%20-%20Aquarellen%20%28Claudio%20Abbado%29%201991.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/9e80d63f-05cc-3c3b-b65b-d45ea98952cb"
+        "@id": "https://musicbrainz.org/track/d8a5658d-4556-3336-aaf3-46eba5df9b20"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Aquarellen"
+        "@value": "Track: Radetzky-Marsch"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/42e5946c-cc1a-3e84-b288-ce12b59a522d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Tritsch-Tratsch-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d9e030de-e936-34fd-90b2-9687054014db"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/03-Johann%20Strau%C3%9F%2C%20Sohn%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20%28Herbert%20von%20Karajan%29%201987.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6078dc96-84e6-3af8-88ec-d425a635bbf7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau\""
       }
     ]
   },
@@ -77,6 +212,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Unter Donner und Blitz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/aa71d28f-eb0e-34a1-afed-cc9aa9b1f5cc"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/08-Josef%20Strau%C3%9F%20-%20Aquarellen%20%28Claudio%20Abbado%29%201991.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9e80d63f-05cc-3c3b-b65b-d45ea98952cb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Aquarellen"
       }
     ]
   },
@@ -131,190 +320,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Ohne Sorgen\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/11-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Kaiserwalzer%20%28Claudio%20Abbado%29%201991.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f36f9da2-d870-34c4-a6d2-1cbe01e1f435"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Kaiserwalzer"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/04-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Auf%20Ferienreisen%20%28Claudio%20Abbado%29%201988.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/734aaf73-6193-3033-b396-237614a1fc10"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Auf Ferienreisen\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d9e030de-e936-34fd-90b2-9687054014db"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/03-Johann%20Strau%C3%9F%2C%20Sohn%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6078dc96-84e6-3af8-88ec-d425a635bbf7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/42e5946c-cc1a-3e84-b288-ce12b59a522d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Tritsch-Tratsch-Polka"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d8a5658d-4556-3336-aaf3-46eba5df9b20"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Radetzky-Marsch"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/aa71d28f-eb0e-34a1-afed-cc9aa9b1f5cc"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald\""
       }
     ]
   }

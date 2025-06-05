@@ -4,68 +4,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8d338b05-7cb3-488c-872d-e61c1470dcc3"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Rosen aus dem Süden (Strauss-Orchester Wien, Francek)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/12-Rosen%20aus%20dem%20S%C3%BCden%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3ce4bf3c-6552-4850-8e21-c35def86aee6"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Unter Donner und Blitz (Strauss-Orchester Wien, Francek)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/04-Unter%20Donner%20und%20Blitz%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fae5b95d-ddf0-46d5-a950-899d7ae58399"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Champagner-Polka (Strauss-Orchester Wien, Norbert Neukamp)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/05-Champagner-Polka%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Norbert%20Neukamp%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/44a16421-25a2-4293-9510-6fabe467fcaf"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Wiener Blut (Strauss-Orchester Wien, Francek)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/07-Wiener%20Blut%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#6">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bebe2cc8-88b9-456e-b78f-1f829314c887"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd ( Rieu, Johann Strauss Orchester)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/06-Auf%20der%20Jagd%20-%20Johann%20Strauss%20II%20%28%20Rieu%2C%20Johann%20Strauss%20Orchester%29.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/17b32aec-6315-48e7-aec2-6ca1b25eb18e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "G ́schichten aus dem Wienerwald (Wiener Sängerknaben, Marschik)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/10-G%C2%B4schichten%20aus%20dem%20Wienerwald%20-%20Johann%20Strauss%20II%20%28Wiener%20S%C3%A4ngerknaben%2C%20Marschik%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/28df786c-a69e-4e9c-8eee-5e941a4b0238"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Tritsch-Tratsch-Polka (Wiener Sängerknaben, Marschik)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/02-Tritsch-Tratsch-Polka%20-%20Johann%20Strauss%20II%20%28Wiener%20S%C3%A4ngerknaben%2C%20Marschik%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3d98157a-1152-4ff9-b9ad-bad680e0e54e"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Wein, Weib und Gesang (Strauss-Orchester Wien, Francek)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/09-Wein%2C%20Weib%20und%20Gesang%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5b426237-70bb-4bf9-b9e5-26918e1a3aef"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Kaiserwalzer (André Rieu, Johann Strauss Orchester)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/03-Kaiserwalzer%20-%20Johann%20Strauss%20II%20%28Andr%C3%A9%20Rieu%2C%20Johann%20Strauss%20Orchester%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -74,11 +18,68 @@
     <rdfs:label>Track: "Moulinet Polka (Rieu, Johann Strauss Orchester)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/08-Moulinet%20Polka%20-%20Josef%20Strauss%20%28Rieu%2C%20Johann%20Strauss%20Orchester%29.wav"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3ce4bf3c-6552-4850-8e21-c35def86aee6"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Unter Donner und Blitz (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/04-Unter%20Donner%20und%20Blitz%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/44a16421-25a2-4293-9510-6fabe467fcaf"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Wiener Blut (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/07-Wiener%20Blut%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0b38b70e-929e-4144-8030-918e6b19cd4d"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Ouvertüre aus 'Die Fledermaus' (Strauss-Orchester Wien, Joseph Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/01-Ouvert%C3%BCre%20aus%20_Die%20Fledermaus_%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Joseph%20Francek%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8d338b05-7cb3-488c-872d-e61c1470dcc3"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Rosen aus dem Süden (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/12-Rosen%20aus%20dem%20S%C3%BCden%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3d98157a-1152-4ff9-b9ad-bad680e0e54e"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Wein, Weib und Gesang (Strauss-Orchester Wien, Francek)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/09-Wein%2C%20Weib%20und%20Gesang%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Francek%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/28df786c-a69e-4e9c-8eee-5e941a4b0238"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Tritsch-Tratsch-Polka (Wiener Sängerknaben, Marschik)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/02-Tritsch-Tratsch-Polka%20-%20Johann%20Strauss%20II%20%28Wiener%20S%C3%A4ngerknaben%2C%20Marschik%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fae5b95d-ddf0-46d5-a950-899d7ae58399"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Champagner-Polka (Strauss-Orchester Wien, Norbert Neukamp)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/05-Champagner-Polka%20-%20Johann%20Strauss%20II%20%28Strauss-Orchester%20Wien%2C%20Norbert%20Neukamp%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5b426237-70bb-4bf9-b9e5-26918e1a3aef"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
+    <rdfs:label>Track: "Kaiserwalzer (André Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/03-Kaiserwalzer%20-%20Johann%20Strauss%20II%20%28Andr%C3%A9%20Rieu%2C%20Johann%20Strauss%20Orchester%29.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#6">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bebe2cc8-88b9-456e-b78f-1f829314c887"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd ( Rieu, Johann Strauss Orchester)"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1/06-Auf%20der%20Jagd%20-%20Johann%20Strauss%20II%20%28%20Rieu%2C%20Johann%20Strauss%20Orchester%29.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>

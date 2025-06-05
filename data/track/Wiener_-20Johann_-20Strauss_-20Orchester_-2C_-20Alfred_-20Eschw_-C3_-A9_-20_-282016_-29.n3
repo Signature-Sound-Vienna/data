@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Ouvertüre zur Operette 'Carneval in Rom'\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/01-Ouvert%C3%BCre%20zur%20Operette%20%27Carneval%20in%20Rom%27%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/a4850754-be3c-4e06-93c0-d2e9f5ff41b7> ;
     ns1:track_number 1 .
 

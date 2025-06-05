@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2000#1> a ns1:Track ;
     rdfs:label "Track: \"Lagunen-Walzer, op. 411\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2000/01%20-%20Lagunen-Walzer%2C%20op.%20411%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/25774457-dbfc-47f4-8df2-35915d74f09e> ;
     ns1:track_number 1 .
 

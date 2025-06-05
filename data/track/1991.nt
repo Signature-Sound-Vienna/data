@@ -1,84 +1,85 @@
-<https://w3id.org/ssv/0.9/data/track/1991#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/15-St%C3%BCrmisch%20in%20Lieb%27%20und%20Tanz%2C%20Polka%20schnell%20op.%20393%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4c52bd72-c596-4a96-8c34-8e263dc02bfc> .
-<https://w3id.org/ssv/0.9/data/track/1991#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Seufzer-Galopp op. 9\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/72a077c4-8d4d-4581-9df8-60f0a9579346> .
-<https://w3id.org/ssv/0.9/data/track/1991#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Polka (Galopp D 735)\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/681331e5-0444-4c7a-9e32-802f6cba7aed> .
-<https://w3id.org/ssv/0.9/data/track/1991#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kontetranz KV 609 no. 3\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/16-An%20der%20sch%C3%B6nen%20blauen%20Donau%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/14-Furioso-Polka%2C%20quasi%20Galopp%20op.%20260%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/13-Kaiser-Walzer%20op.%20437%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \">>Waldmeister<<: Ouvertüre\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kontretranz KV 609 no. 1\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2b3ff3cd-fa3b-4e8d-844d-50aa5f388c5c> .
-<https://w3id.org/ssv/0.9/data/track/1991#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a201b4fb-b29e-4a00-b54f-39d191b5bfea> .
-<https://w3id.org/ssv/0.9/data/track/1991#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e2143eb5-8fd2-446d-b7a8-cedba368c876> .
-<https://w3id.org/ssv/0.9/data/track/1991#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0b01453f-ed71-4c39-87b1-c6bc1cd0e2a7> .
-<https://w3id.org/ssv/0.9/data/track/1991#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/03-Kontretanz%20Nr.3%20KV%20609%20-%20W.%20A.%20Mozart.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/99a39709-8ef5-40bb-9904-ddcdebca6eb4> .
-<https://w3id.org/ssv/0.9/data/track/1991#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/1991#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/07-Galopp%2C%20Ecossaise%20Nr.1%20D%20735%20-%20Franz%20Schubert.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzsky-Marsch op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b4355502-aeb5-4dde-bf3d-fced14c5f181> .
-<https://w3id.org/ssv/0.9/data/track/1991#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Werber op. 103\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/08-Die%20Werber%2C%20Walzer%20op.%20103%20-%20Joseph%20Lanner.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a1fdcc9c-98d3-4783-a9e5-197a0f830ef1> .
-<https://w3id.org/ssv/0.9/data/track/1991#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau op. 314\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/12-Carmen-Quadrille%20op.%20134%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/276913ba-705b-4ec0-b8ea-74dd62d96f9f> .
-<https://w3id.org/ssv/0.9/data/track/1991#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/22ab563d-eadb-4957-9f0c-1e74c6e6579b> .
-<https://w3id.org/ssv/0.9/data/track/1991#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bf38c334-8a8d-4173-93d8-128aaf38464a> .
-<https://w3id.org/ssv/0.9/data/track/1991#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Galopp (Ecossaise no. 1 D 735)\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Aquarellen op. 258\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb' und Tanz op. 393\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/09-Seufzer-Galopp%20op.%209%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Carmen-Quadrille op. 134\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/57cd585d-c3f0-40de-bf4e-cfcffdb953ab> .
-<https://w3id.org/ssv/0.9/data/track/1991#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiser-Walzer op. 437\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bd1f6369-0049-4070-a9e6-56f8c551d2ee> .
-<https://w3id.org/ssv/0.9/data/track/1991#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1991#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/06-Polka%2C%20Galopp%20D%20735%20-%20Franz%20Schubert.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/04-Die%20Schlitenfahrt%2C%20Deutscher%20Tanz%20Nr.3%20KV%20605%20-%20W.%20A.%20Mozart.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/1991#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/11-Freikugeln%2C%20Polka%20schnell%20op.%20326%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/05-Die%20tanzende%20Muse%2C%20Polka%20mazur%20op.%20266%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/90e08fcd-7d91-48ec-b04d-7e8304aaec96> .
-<https://w3id.org/ssv/0.9/data/track/1991#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Carmen-Quadrille op. 134\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kontretranz KV 609 no. 1\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Galopp (Ecossaise no. 1 D 735)\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e2143eb5-8fd2-446d-b7a8-cedba368c876> .
+<https://w3id.org/ssv/0.9/data/track/1991#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Polka (Galopp D 735)\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b4355502-aeb5-4dde-bf3d-fced14c5f181> .
+<https://w3id.org/ssv/0.9/data/track/1991#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/06-Polka%2C%20Galopp%20D%20735%20-%20Franz%20Schubert.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/13-Kaiser-Walzer%20op.%20437%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/1991#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die tanzende Muse op. 266\"" .
-<https://w3id.org/ssv/0.9/data/track/1991#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/02-Kontretanz%20Nr.1%20KV%20609%20-%20W.%20A.%20Mozart.wav> .
-<https://w3id.org/ssv/0.9/data/track/1991#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1991#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Deutscher Tanz KV 605 no. 3 >>Die Schlittenfahrt<<\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2b3ff3cd-fa3b-4e8d-844d-50aa5f388c5c> .
 <https://w3id.org/ssv/0.9/data/track/1991#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freikugeln op. 326\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/276913ba-705b-4ec0-b8ea-74dd62d96f9f> .
+<https://w3id.org/ssv/0.9/data/track/1991#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/72a077c4-8d4d-4581-9df8-60f0a9579346> .
+<https://w3id.org/ssv/0.9/data/track/1991#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/12-Carmen-Quadrille%20op.%20134%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kontetranz KV 609 no. 3\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/03-Kontretanz%20Nr.3%20KV%20609%20-%20W.%20A.%20Mozart.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/02-Kontretanz%20Nr.1%20KV%20609%20-%20W.%20A.%20Mozart.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Deutscher Tanz KV 605 no. 3 >>Die Schlittenfahrt<<\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0b01453f-ed71-4c39-87b1-c6bc1cd0e2a7> .
 <https://w3id.org/ssv/0.9/data/track/1991#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/10-Aquarellen%2C%20Walzer%20op.%20258%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen Donau op. 314\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/16-An%20der%20sch%C3%B6nen%20blauen%20Donau%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Werber op. 103\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \">>Waldmeister<<: Ouvertüre\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/08-Die%20Werber%2C%20Walzer%20op.%20103%20-%20Joseph%20Lanner.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Seufzer-Galopp op. 9\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/99a39709-8ef5-40bb-9904-ddcdebca6eb4> .
+<https://w3id.org/ssv/0.9/data/track/1991#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bf38c334-8a8d-4173-93d8-128aaf38464a> .
+<https://w3id.org/ssv/0.9/data/track/1991#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/05-Die%20tanzende%20Muse%2C%20Polka%20mazur%20op.%20266%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/57cd585d-c3f0-40de-bf4e-cfcffdb953ab> .
+<https://w3id.org/ssv/0.9/data/track/1991#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiser-Walzer op. 437\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/1991#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Furioso-Polka op. 260\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a201b4fb-b29e-4a00-b54f-39d191b5bfea> .
+<https://w3id.org/ssv/0.9/data/track/1991#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/681331e5-0444-4c7a-9e32-802f6cba7aed> .
+<https://w3id.org/ssv/0.9/data/track/1991#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/17-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/04-Die%20Schlitenfahrt%2C%20Deutscher%20Tanz%20Nr.3%20KV%20605%20-%20W.%20A.%20Mozart.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/15-St%C3%BCrmisch%20in%20Lieb%27%20und%20Tanz%2C%20Polka%20schnell%20op.%20393%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/01-Ouverture%20zu%20_Waldmeister_%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bd1f6369-0049-4070-a9e6-56f8c551d2ee> .
+<https://w3id.org/ssv/0.9/data/track/1991#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Stürmisch in Lieb' und Tanz op. 393\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1991#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Aquarellen op. 258\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/09-Seufzer-Galopp%20op.%209%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/90e08fcd-7d91-48ec-b04d-7e8304aaec96> .
+<https://w3id.org/ssv/0.9/data/track/1991#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
 <https://w3id.org/ssv/0.9/data/track/1991#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ad8531fa-b82f-43f2-86b8-fce1895b6c6c> .
+<https://w3id.org/ssv/0.9/data/track/1991#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzsky-Marsch op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/1991#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1991/14-Furioso-Polka%2C%20quasi%20Galopp%20op.%20260%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1991#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1991#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/22ab563d-eadb-4957-9f0c-1e74c6e6579b> .
+<https://w3id.org/ssv/0.9/data/track/1991#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a1fdcc9c-98d3-4783-a9e5-197a0f830ef1> .
+<https://w3id.org/ssv/0.9/data/track/1991#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4c52bd72-c596-4a96-8c34-8e263dc02bfc> .

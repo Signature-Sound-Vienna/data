@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Loreley-Rhein-Klänge, Walzer, Op. 154\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29/01-Berliner%20Symphoniker%2C%20Robert%20Stolz%20_%20Loreley-Rhein-Kl%C3%A4nge%2C%20Walzer%2C%20Op.%20154.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/85756a07-0f97-4a1d-8d2f-2a7aab1fbb17> ;
     ns1:track_number 1 .
 

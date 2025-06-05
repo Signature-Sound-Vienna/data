@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1993#1> a ns1:Track ;
     rdfs:label "Track: \"Die Publicisten op. 321\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1993/01-Die%20Publizisten%2C%20Walzer%20op.%20321%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/e0422084-d954-421c-8a77-040a9400723a> ;
     ns1:track_number 1 .
 

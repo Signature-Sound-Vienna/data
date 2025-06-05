@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#1> a ns1:Track ;
     rdfs:label "Track: \"Einzugsmarsch aus 'Der Zigeunerbaron' (André Rieu, Johann Strauss Orchester)\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/01-Einzugsmarsch%20aus%20_Der%20Zigeunerbaron_%20-%20Johann%20Strauss%20II%20%28Andr%C3%A9%20Rieu%2C%20Johann%20Strauss%20Orchester%29.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/24a938dd-47da-4573-9e5a-593a1533bed6> ;
     ns1:track_number 1 .
 

@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/1994#1> a ns1:Track ;
     rdfs:label "Track: Caroussel-Marsch" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1994/01-Caroussel-Marsch%20op.%20133%20-%20Johann%20Strauss%2C%20Jr.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/7ce48453-7e77-3254-ae7a-a23825e34b2a> ;
     ns1:track_number 1 .
 

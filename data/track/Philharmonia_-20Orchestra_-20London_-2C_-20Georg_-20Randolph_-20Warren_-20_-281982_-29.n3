@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Die Hochzeit des Figaro\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/01-Die%20Hochzeit%20des%20Figaro%2C%20%28Wolfgang%20Amadeus%20Mozart%29.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/09140c18-11b4-4bfb-bd61-15ae077d5e55> ;
     ns1:track_number 1 .
 

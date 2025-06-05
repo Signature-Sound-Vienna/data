@@ -4,26 +4,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1e1f091c-edbd-4029-984a-65474046cb74"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
-    <rdfs:label>Track: "Unter Donner und Blitz, op. 324"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/05-Unter%20Donner%20und%20Blitz%2C%20op.%20324.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a5648820-5b49-4899-9807-12f3a5681792"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Wiener Blut, op. 354"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/08-Wiener%20Blut%2C%20op.%20354.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6c7deb92-c9a8-4339-b13c-911ff21fa57c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Postillon d'amour, op. 317"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/09-Postillon%20d%27amour%2C%20op.%20317.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3b122bf3-c797-493c-9eec-38e5ead2dfb6"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Auf der Jagd, op. 373"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/02-Auf%20der%20Jagd%2C%20op.%20373.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -32,19 +18,19 @@
     <rdfs:label>Track: "Leichtes Blut, op. 319"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/11-Leichtes%20Blut%2C%20op.%20319.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ea89c9d9-b24f-44e5-9e86-6ebb64bc968b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Persischer Marsch, op. 289"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/07-Persischer%20Marsch%2C%20op.%20289.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/447a1721-e256-46e9-af3c-6d1a1b0ea417"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <rdfs:label>Track: "Morgenblätter, op. 279"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/06-Morgenbl%C3%A4tter%2C%20op.%20279.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5bb99c0f-0fe7-4b23-954d-eba809ea1206"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: Pizzicato-Polka</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/04-Pizzicato-Polka.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6c7deb92-c9a8-4339-b13c-911ff21fa57c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
+    <rdfs:label>Track: "Postillon d'amour, op. 317"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/09-Postillon%20d%27amour%2C%20op.%20317.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -58,13 +44,21 @@
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e92b880d-a483-4b4d-be36-5b7290cc03e8"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "G'schichten aus dem Wienerwald, op. 325"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/01-G%27schichten%20aus%20dem%20Wiener%20Wald%2C%20op.%20325.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/447a1721-e256-46e9-af3c-6d1a1b0ea417"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
-    <rdfs:label>Track: "Morgenblätter, op. 279"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/06-Morgenbl%C3%A4tter%2C%20op.%20279.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ea89c9d9-b24f-44e5-9e86-6ebb64bc968b"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "Persischer Marsch, op. 289"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/07-Persischer%20Marsch%2C%20op.%20289.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a5648820-5b49-4899-9807-12f3a5681792"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Wiener Blut, op. 354"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/08-Wiener%20Blut%2C%20op.%20354.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -73,11 +67,18 @@
     <rdfs:label>Track: "Sphärenklänge, op. 235"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/10-Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3b122bf3-c797-493c-9eec-38e5ead2dfb6"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Auf der Jagd, op. 373"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/02-Auf%20der%20Jagd%2C%20op.%20373.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5bb99c0f-0fe7-4b23-954d-eba809ea1206"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: Pizzicato-Polka</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/04-Pizzicato-Polka.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1e1f091c-edbd-4029-984a-65474046cb74"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <rdfs:label>Track: "Unter Donner und Blitz, op. 324"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29/05-Unter%20Donner%20und%20Blitz%2C%20op.%20324.wav"/>
   </rdf:Description>
 </rdf:RDF>

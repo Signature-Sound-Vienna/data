@@ -1,378 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#19",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#19"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#36",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#36"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#49",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#49"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/49.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#52",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#52"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/52.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#60",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#60"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/60.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#35",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#35"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#26",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#26"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#14"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#51",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#51"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/51.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#57",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#57"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/57.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#30",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#30"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#24",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#24"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#2"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#7"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#59",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#59"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/59.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#54",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#54"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/54.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#31",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#31"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#55",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#55"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/55.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#4"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#12"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#46",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#46"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/46.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#13"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#53",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#53"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/53.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#61",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#61"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/61.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#44",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#44"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/44.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#25",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#25"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#43",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#43"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/43.peaks.json"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#40",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -389,89 +16,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#29",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#30",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#29"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#45",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#45"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/45.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#10"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#20",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#20"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#15"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#32",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#32"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#41",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#41"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/41.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#30"
       }
     ]
   },
@@ -492,40 +43,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#17",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#24",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#17"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#47",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#47"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/47.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#21"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#24"
       }
     ]
   },
@@ -546,68 +70,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#16",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#45",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#16"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#45"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/45.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#22",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#22"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#4"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#9",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#21",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#9"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#21"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#33",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#47",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#33"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#47"
       }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#28",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
     ],
-    "http://purl.org/ontology/mo/published_as": [
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#28"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#5"
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/47.peaks.json"
       }
     ]
   },
@@ -623,121 +135,35 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#37",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#12",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#37"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/37.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#12"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#6",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#19",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#19"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#39",
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#39"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/39.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#11"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#23"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#42",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#42"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/42.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#18"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#8"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#48",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#48"
-      }
-    ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/48.peaks.json"
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#1"
       }
     ]
   },
@@ -749,6 +175,60 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#27"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#28",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#28"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#59",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#59"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/59.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#52",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#52"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/52.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#31",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#31"
       }
     ]
   },
@@ -769,6 +249,17 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#2"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#56",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -785,6 +276,71 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#35",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#35"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#6"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#46",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#46"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/46.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#42",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#42"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/42.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#16"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#34",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -792,6 +348,450 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#34"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#13"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#20",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#20"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#5"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#49",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#49"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/49.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#7"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#8"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#60",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#60"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/60.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#15"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#41",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#41"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/41.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#39",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#39"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/39.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#9"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#22"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#25",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#25"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#48",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#48"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/48.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#43",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#43"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/43.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#17"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#32",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#32"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#26",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#26"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#54",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#54"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/54.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#51",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#51"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/51.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#61",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#61"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/61.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#10"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#36",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#36"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#33",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#33"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#57",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#57"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/57.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#23"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#11"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#53",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#53"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/53.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#29",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#29"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#18"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#14"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#55",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#55"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/55.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#37",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#37"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/37.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#44",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#44"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/44.peaks.json"
       }
     ]
   }

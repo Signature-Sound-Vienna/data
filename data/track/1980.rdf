@@ -4,67 +4,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#12">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ea2c4886-df2c-4f6c-8f55-a2a7579ef70f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
-    <rdfs:label>Track: "Radetzky-Marsch, Op.228"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/12-Radetzky-Marsch%2C%20Op.228%20-%20Johann%20Strauss%2C%20Vater.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7c295867-14d0-4a76-bdef-a8356c77950d"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Perpetuum mobile, Op.257"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/03-Perpetuum%20mobile%2C%20Op.257%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bfbd3375-4c9f-455d-8dd6-168b253aef34"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "'Orphee aux enfers' Overture"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/07-Orphee%20aux%20enfers_%20Overture%20-%20Jacques%20Offenbach.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#10">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/918b0705-fe8f-4f0a-baaa-7cf75f0522b5"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
-    <rdfs:label>Track: "Loslassen!, Op.386"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/10-Loslassen%21%2C%20Op.386%20-%20Carl%20Michael%20Ziehrer.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8513b7b8-418a-4592-9668-ce1ddce596f0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Kaiser Franz Joseph I.-Rettungs-Jubel-Marsch, Op.126"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/08-Kaiser%20Franz%20Joseph%20I.-Rettungs-Jubel-Marsch%2C%20Op.126%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/31fdcb56-225d-4229-af18-d30ce3275fc7"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Neue Pizzicato-Polka, Op.449"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/02-Neue%20Pizzicato-Polka%2C%20Op.449%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7562cb8d-8b52-476e-9e99-81eb6fa7301c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau, Op.314"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/11-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Op.314%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6dc005cb-e5d5-485e-8b35-54be594c459c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Wiener Blut, Op.354"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/04-Wiener%20Blut%2C%20Op.354%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6033e7ae-b414-45ab-a8e3-59d77225d55f"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "'Die Fledermaus' Overture"</rdfs:label>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -73,12 +18,68 @@
     <rdfs:label>Track: "Eingesendet, Op.240"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/06-Eingesendet%2C%20Op.240%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#10">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/918b0705-fe8f-4f0a-baaa-7cf75f0522b5"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <rdfs:label>Track: "Loslassen!, Op.386"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/10-Loslassen%21%2C%20Op.386%20-%20Carl%20Michael%20Ziehrer.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6033e7ae-b414-45ab-a8e3-59d77225d55f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "'Die Fledermaus' Overture"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/01-Die%20Fledermaus_%20Overture%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#12">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ea2c4886-df2c-4f6c-8f55-a2a7579ef70f"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <rdfs:label>Track: "Radetzky-Marsch, Op.228"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/12-Radetzky-Marsch%2C%20Op.228%20-%20Johann%20Strauss%2C%20Vater.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7562cb8d-8b52-476e-9e99-81eb6fa7301c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau, Op.314"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/11-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Op.314%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8513b7b8-418a-4592-9668-ce1ddce596f0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
+    <rdfs:label>Track: "Kaiser Franz Joseph I.-Rettungs-Jubel-Marsch, Op.126"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/08-Kaiser%20Franz%20Joseph%20I.-Rettungs-Jubel-Marsch%2C%20Op.126%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5008de94-8766-441a-8356-1bf1ab686f82"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Fata Morgana, Op.330"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/09-Fata%20Morgana%2C%20Op.330%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6dc005cb-e5d5-485e-8b35-54be594c459c"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Wiener Blut, Op.354"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/04-Wiener%20Blut%2C%20Op.354%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/31fdcb56-225d-4229-af18-d30ce3275fc7"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: "Neue Pizzicato-Polka, Op.449"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/02-Neue%20Pizzicato-Polka%2C%20Op.449%20-%20Johann%20Strauss%2C%20Sohn.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bfbd3375-4c9f-455d-8dd6-168b253aef34"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: "'Orphee aux enfers' Overture"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1980/07-Orphee%20aux%20enfers_%20Overture%20-%20Jacques%20Offenbach.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1980#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>

@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/05-An%20der%20schoenen%20blauen%20Donau%20op.%20314.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa> ;
     ns1:track_number 1 .
 

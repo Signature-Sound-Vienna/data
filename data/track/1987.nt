@@ -1,74 +1,75 @@
-<https://w3id.org/ssv/0.9/data/track/1987#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/09%20-%20Kaiser-Walzer%2C%20op.%2043%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/933acbbf-a06d-42d8-8115-54f14658c200> .
-<https://w3id.org/ssv/0.9/data/track/1987#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum mobile, op. 257\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/12%20-%20Fr%C3%BChlingsstimmen%2C%20op.%20410%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4e8340c7-56c9-45cb-8390-f9b84eaa7bea> .
-<https://w3id.org/ssv/0.9/data/track/1987#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/02727be1-58c7-4e49-b0fe-16df25e50237> .
-<https://w3id.org/ssv/0.9/data/track/1987#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/03a03a64-a8b1-4fb5-a7f2-2da7d51f938d> .
-<https://w3id.org/ssv/0.9/data/track/1987#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Unter Donner und Blitz, op. 324\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bd97fea4-3b69-4ff1-be3f-8f3a15173206> .
 <https://w3id.org/ssv/0.9/data/track/1987#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Sphärenklänge, op. 235\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/03%20-%20Annen-Polka%2C%20op.%20117%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/defbb039-b864-47cf-af7b-f14882cce04d> .
-<https://w3id.org/ssv/0.9/data/track/1987#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8c1e73d9-3cb1-4a5d-9c31-ce0173aff771> .
-<https://w3id.org/ssv/0.9/data/track/1987#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Pizzikato-Polka" .
-<https://w3id.org/ssv/0.9/data/track/1987#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiser-Walzer, op. 43\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e5464a46-36c3-491f-9e0d-727287d56a0c> .
-<https://w3id.org/ssv/0.9/data/track/1987#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c3fcbb58-1f59-4aea-acb8-3b2621bc17cb> .
-<https://w3id.org/ssv/0.9/data/track/1987#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen donau, op. 3148\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/15%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/04%20-%20Delirien-Walzer%2C%20op%20212%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Sorgen, op. 271\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/95d11e31-aa92-46f1-b13c-d02b782c66dc> .
-<https://w3id.org/ssv/0.9/data/track/1987#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/82934693-67fe-49dc-a362-fad3b5e05485> .
-<https://w3id.org/ssv/0.9/data/track/1987#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/02%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Beliebte Annen-Polka, op. 137\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/07%20-%20Vergn%C3%BCgungszug%2C%20op.%20281%20-%20Johann%20Strauss%20II.wav> .
 <https://w3id.org/ssv/0.9/data/track/1987#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/06%20-%20Beliebte%20Annen-Polka%2C%20op.%20137%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2b3d7eee-a5a4-4a92-ab4b-1863b1dcf33a> .
-<https://w3id.org/ssv/0.9/data/track/1987#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/13%20-%20Ohne%20Sorgen%2C%20op.%20271%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/14%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/10%20-%20Perpetuum%20mobile%2C%20op.%20257%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/08%20-%20Pizzikato-Polka%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b1e93d50-92bb-499f-9dce-6d1ee577c43f> .
-<https://w3id.org/ssv/0.9/data/track/1987#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0b1597b4-ed50-4846-8281-751130921dd4> .
-<https://w3id.org/ssv/0.9/data/track/1987#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Annen-Polka, op. 117\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Vergnügungszug, op. 281\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0f24bcdd-0cc6-41db-96d5-67084b75c1cf> .
-<https://w3id.org/ssv/0.9/data/track/1987#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frühlingsstimmen, op. 410\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/1987#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/1987#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die Fledermaus'\"" .
-<https://w3id.org/ssv/0.9/data/track/1987#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/11%20-%20Unter%20Donner%20und%20Blitz%2C%20op.%20324%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/1987#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/05%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c3fcbb58-1f59-4aea-acb8-3b2621bc17cb> .
+<https://w3id.org/ssv/0.9/data/track/1987#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4e8340c7-56c9-45cb-8390-f9b84eaa7bea> .
+<https://w3id.org/ssv/0.9/data/track/1987#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/0.9/data/track/1987#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Delirien-Walzer, op 212\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ohne Sorgen, op. 271\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/07%20-%20Vergn%C3%BCgungszug%2C%20op.%20281%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/15%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/13%20-%20Ohne%20Sorgen%2C%20op.%20271%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/82934693-67fe-49dc-a362-fad3b5e05485> .
+<https://w3id.org/ssv/0.9/data/track/1987#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8c1e73d9-3cb1-4a5d-9c31-ce0173aff771> .
+<https://w3id.org/ssv/0.9/data/track/1987#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/03%20-%20Annen-Polka%2C%20op.%20117%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Unter Donner und Blitz, op. 324\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frühlingsstimmen, op. 410\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0f24bcdd-0cc6-41db-96d5-67084b75c1cf> .
+<https://w3id.org/ssv/0.9/data/track/1987#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Pizzikato-Polka" .
+<https://w3id.org/ssv/0.9/data/track/1987#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2b3d7eee-a5a4-4a92-ab4b-1863b1dcf33a> .
+<https://w3id.org/ssv/0.9/data/track/1987#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Sphärenklänge, op. 235\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0b1597b4-ed50-4846-8281-751130921dd4> .
+<https://w3id.org/ssv/0.9/data/track/1987#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/12%20-%20Fr%C3%BChlingsstimmen%2C%20op.%20410%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/06%20-%20Beliebte%20Annen-Polka%2C%20op.%20137%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b1e93d50-92bb-499f-9dce-6d1ee577c43f> .
+<https://w3id.org/ssv/0.9/data/track/1987#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/01%20-%20Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/11%20-%20Unter%20Donner%20und%20Blitz%2C%20op.%20324%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/933acbbf-a06d-42d8-8115-54f14658c200> .
+<https://w3id.org/ssv/0.9/data/track/1987#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/defbb039-b864-47cf-af7b-f14882cce04d> .
+<https://w3id.org/ssv/0.9/data/track/1987#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum mobile, op. 257\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/14%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ouvertüre aus 'Die Fledermaus'\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Kaiser-Walzer, op. 43\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/02727be1-58c7-4e49-b0fe-16df25e50237> .
+<https://w3id.org/ssv/0.9/data/track/1987#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Beliebte Annen-Polka, op. 137\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/10%20-%20Perpetuum%20mobile%2C%20op.%20257%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/95d11e31-aa92-46f1-b13c-d02b782c66dc> .
+<https://w3id.org/ssv/0.9/data/track/1987#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/03a03a64-a8b1-4fb5-a7f2-2da7d51f938d> .
+<https://w3id.org/ssv/0.9/data/track/1987#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/04%20-%20Delirien-Walzer%2C%20op%20212%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/08%20-%20Pizzikato-Polka%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/02%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/09%20-%20Kaiser-Walzer%2C%20op.%2043%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Annen-Polka, op. 117\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e5464a46-36c3-491f-9e0d-727287d56a0c> .
+<https://w3id.org/ssv/0.9/data/track/1987#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Vergnügungszug, op. 281\"" .
+<https://w3id.org/ssv/0.9/data/track/1987#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bd97fea4-3b69-4ff1-be3f-8f3a15173206> .
+<https://w3id.org/ssv/0.9/data/track/1987#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/0.9/data/track/1987#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/0.9/data/track/1987#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1987/05%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/0.9/data/track/1987#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen, blauen donau, op. 3148\"" .

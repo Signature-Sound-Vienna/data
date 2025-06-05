@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Die Fledermaus (Ouvertüre)\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/01-Johann-Strau%C3%9F%20-%20Die%20Fledermaus.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/8986a6ea-3e5c-4058-8ea6-41c77fd15703> ;
     ns1:track_number 1 .
 

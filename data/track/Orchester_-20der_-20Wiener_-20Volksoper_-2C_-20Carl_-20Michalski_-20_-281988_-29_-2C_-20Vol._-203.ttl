@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#1> a ns1:Track ;
     rdfs:label "Track: \"Künstlerleben Op. 316\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203/01-K%C3%BCnstlerleben%20Op.%20316%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/567c2a87-3d42-4a1b-affa-8e29a1e28cb9> ;
     ns1:track_number 1 .
 

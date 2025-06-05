@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2019#1> a ns1:Track ;
     rdfs:label "Track: \"Schönfeld-Marsch, op. 422\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2019/01%20-%20Sch%C3%B6nfeld-Marsch%2C%20op.%20422%20-%20Carl%20Michael%20Ziehrer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/956cb899-a13a-4340-9019-b618321f93d9> ;
     ns1:track_number 1 .
 

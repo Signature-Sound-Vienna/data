@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1> a ns1:Track ;
     rdfs:label "Track: \"Kaiserwalzer op. 437\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202/01-Kaiserwalzer%20op.%20437%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/40bcc2f9-38a3-4d06-aa4d-0ed61ba6d9da> ;
     ns1:track_number 1 .
 

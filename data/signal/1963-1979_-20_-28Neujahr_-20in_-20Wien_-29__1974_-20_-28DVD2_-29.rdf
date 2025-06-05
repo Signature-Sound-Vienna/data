@@ -9,158 +9,159 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#8"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#2">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/2.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#2"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/32.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#16">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/16.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#16"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#20">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/20.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#20"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#5">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#30">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/30.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#30"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#11">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/11.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#12">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/12.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#12"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#21">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/21.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#21"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#24">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/24.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#24"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#17">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/17.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#17"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#27">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/27.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#27"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#7">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#7"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#18">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/18.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#18"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#25">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/25.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#25"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#19">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/19.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#19"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#28">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/28.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#28"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#14">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/14.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#14"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#22">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/22.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#22"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#10">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/10.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#10"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#6">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/6.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#6"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#9">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/9.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#30">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/30.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#13">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/13.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#13"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#4">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/4.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#4"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#29">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/29.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#29"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#3">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/3.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#3"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#30"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#31">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/31.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#31"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#22">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/22.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#29">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/29.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#21">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/21.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#23">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/23.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#16">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/16.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#5">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/5.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#14">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/14.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/32.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#18">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/18.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#11">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/11.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#13">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/13.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#19">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/19.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#7">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/7.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#7"/>
+  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#15">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/15.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#27">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/27.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#1">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/1.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#9">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/9.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#24">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/24.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#24"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#26">
     <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/26.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#26"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#23">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/23.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#4">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/4.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#23"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#17">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/17.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#2">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/2.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#20">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/20.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#12">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/12.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#3">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/3.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#28">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/28.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/signal/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#10">
+    <ns2:peaks rdf:resource="https://w3id.org/ssv/0.9/data/peaks/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29/10.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ns1:published_as rdf:resource="https://w3id.org/ssv/0.9/data/track/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#10"/>
   </rdf:Description>
 </rdf:RDF>

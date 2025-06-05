@@ -2,7 +2,8 @@
 @prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-201_-20-_-20Haydn#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-201_-20-_-20Haydn#1> .
+    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-201_-20-_-20Haydn#1> ;
+    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-201_-20-_-20Haydn/1.peaks.json> .
 
 <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-201_-20-_-20Haydn#10> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_1-3_-29__CD_-201_-20-_-20Haydn#10> ;

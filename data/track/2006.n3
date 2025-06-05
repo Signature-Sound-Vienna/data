@@ -4,6 +4,7 @@
 
 <https://w3id.org/ssv/0.9/data/track/2006#1> a ns1:Track ;
     rdfs:label "Track: \"Opening Credits/ Vorspann\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/2006/01%20-%20Chapter%2001.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/168e3939-135d-409e-95c0-5179c9c63e71> ;
     ns1:track_number 1 .
 
