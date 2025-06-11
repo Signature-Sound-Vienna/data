@@ -22,14 +22,14 @@
   "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
   "frbr:part": [
     {
-      "@id": "https://w3id.org/ssv/audio/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr/02-Kaiserwalzer%20Op.%20437.wav#t=0.0,19.76",
+      "@id": "https://w3id.org/ssv/audio/dresden-1939-boehm.wav#t=0.02,14.36",
       "@type": "tl:Interval",
       "tl:onTimeLine": {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener%20Philharmoniker%20%2810%20CDs_4-6%29%2FCD%206%20-%20Johann%20Strauss%20Jr#2"
+        "@id": "https://w3id.org/ssv/0.9/data/ext/signal/dresden-1939-boehm#1"
       }
     }
   ],
-  "rdfs:label": "Example A",
+  "rdfs:label": "Example A: Böhm, Sächsiche Staatskapelle Dresden (1939)",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
   }
