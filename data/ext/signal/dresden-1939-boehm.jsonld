@@ -1,0 +1,18 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/ext/signal/dresden-1939-boehm#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/ext/track/dresden-1939-boehm#1"
+      }
+    ],
+    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/ext/peaks/dresden-1939-boehm/1.peaks.json"
+      }
+    ]
+  }
+]
