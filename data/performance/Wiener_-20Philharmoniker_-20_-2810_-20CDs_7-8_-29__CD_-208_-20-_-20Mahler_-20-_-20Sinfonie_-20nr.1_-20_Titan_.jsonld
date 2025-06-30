@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performance/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61",
+    "@id": "https://w3id.org/ssv/TISMIR/data/performance/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

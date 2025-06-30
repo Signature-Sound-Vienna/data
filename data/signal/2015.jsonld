@@ -1,337 +1,337 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#13",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#13",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#13"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#13"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/13.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/13.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#18",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#18",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#18"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#18"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/18.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/18.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#11",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#11",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#11"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#11"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/11.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/11.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#20",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#20",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#20"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#20"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/20.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/20.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#16",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#16",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#16"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#16"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/16.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/16.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#4",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#4",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#4"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#4"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/4.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/4.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#19",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#19",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#19"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#19"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/19.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/19.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#6",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#6"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#6"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/6.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/6.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#5",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#5"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#5"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/5.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/5.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#17",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#17",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#17"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#17"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/17.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/17.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#14",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#14",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#14"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#14"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/14.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/14.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#7",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#7"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#7"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/7.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/7.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#15",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#15",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#15"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#15"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/15.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/15.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#9",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#9",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#9"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#9"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/9.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/9.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#2",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#2",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#2"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#2"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/2.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/2.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#10",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#10",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#10"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#10"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/10.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/10.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#21",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#21",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#21"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#21"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/21.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/21.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#1",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#1"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#1"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/1.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/1.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#12",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#12",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#12"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#12"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/12.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/12.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#3",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#3"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#3"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/3.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/3.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/signal/2015#8",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/2015#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2015#8"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2015#8"
       }
     ],
-    "https://w3id.org/ssv/0.9/data/vocab#peaks": [
+    "https://w3id.org/ssv/TISMIR/data/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/peaks/2015/8.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/2015/8.peaks.json"
       }
     ]
   }

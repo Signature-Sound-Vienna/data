@@ -1,8 +1,8 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/performance/2006#25> a ns1:Performance ;
+<https://w3id.org/ssv/TISMIR/data/performance/2006#25> a ns1:Performance ;
     rdfs:label "Performance: \"Radetzky-Marsch, op. 228\"" ;
     ns1:performance_of <http://musicbrainz.org/work/64e7a2e2-dc44-3488-9322-4fd2ff39153f> ;
-    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/2006#25> .
+    ns1:recorded_as <https://w3id.org/ssv/TISMIR/data/signal/2006#25> .
 

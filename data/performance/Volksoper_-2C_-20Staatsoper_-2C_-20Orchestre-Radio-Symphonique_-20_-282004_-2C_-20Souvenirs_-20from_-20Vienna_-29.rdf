@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/performance/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9"/>
     <ns1:performance_of rdf:resource="http://musicbrainz.org/work/c2ba34ac-5095-3636-8ab7-5407adb56f4e"/>
     <rdfs:label>Performance: "Aus 'Leichte Kavallerie' - Franz von Suppè"</rdfs:label>
   </rdf:Description>

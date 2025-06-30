@@ -1,79 +1,79 @@
-@prefix ns1: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/TISMIR/data/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#1> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#1> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/1.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#1> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#1> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#10> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#10> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/10.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#10> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#10> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/10.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#11> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#11> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/11.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#11> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#11> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/11.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#12> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#12> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/12.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#12> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#12> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/12.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#13> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#13> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/13.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#13> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#13> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/13.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#14> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#14> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/14.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#14> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#14> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/14.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#15> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#15> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/15.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#15> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#15> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/15.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#16> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#16> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/16.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#16> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#16> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/16.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#17> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#17> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/17.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#17> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#17> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/17.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#18> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#18> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/18.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#18> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#18> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/18.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#19> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#19> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/19.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#19> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#19> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/19.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#2> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#2> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/2.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#2> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#2> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#3> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#3> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/3.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#3> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#3> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#4> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#4> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/4.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#4> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#4> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#5> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#5> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/5.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#5> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#5> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#6> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#6> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/6.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#6> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#6> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#7> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#7> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/7.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#7> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#7> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/7.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#8> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#8> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/8.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#8> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#8> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/8.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2021#9> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/2021#9> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/2021/9.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2021#9> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/TISMIR/data/track/2021#9> ;
+    ns1:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2021/9.peaks.json> .
 

@@ -1,199 +1,199 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/TISMIR/data/vocab#> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#1> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#1> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#10> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#10> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#10> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#10> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#11> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#11> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#11> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#11> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#12> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#12> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#12> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#12> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#13> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#13> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#13> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#13> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#14> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#14> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#14> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#14> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#15> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#15> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#15> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#15> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#16> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#16> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#16> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#16> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#17> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#17> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#17> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#17> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#18> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#18> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#18> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#18> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#19> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#19> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#19> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#19> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#2> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#2> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#20> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#20> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#20> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#20> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#21> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#21> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#21> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#21> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#22> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#22> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#22> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#22> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#23> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#23> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#23> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#23> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#24> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#24> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#24> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#24> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#25> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#25> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#25> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#25> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#26> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#26> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#26> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#26> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#27> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#27> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#27> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#27> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#28> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#28> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#28> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#28> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#29> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#29> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#29> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#29> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#3> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#3> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#30> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#30> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#30> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#30> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#31> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#31> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#31> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#31> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#32> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#32> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#32> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#32> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#33> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#33> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#33> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#33> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#34> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#34> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#34> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#34> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#35> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#35> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#35> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#35> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#36> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#36> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#36> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#36> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#37> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#37> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#37> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#37> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#38> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#38> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#38> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#38> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#39> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#39> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#39> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#39> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#4> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#4> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#40> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#40> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#40> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#40> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#41> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#41> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#41> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#41> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#42> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#42> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#42> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#42> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#43> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#43> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#43> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#43> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#44> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#44> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#44> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#44> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#45> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#45> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#45> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#45> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#46> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#46> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#46> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#46> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#47> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#47> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#47> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#47> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#48> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#48> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#48> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#48> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#49> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#49> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/49.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#49> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#49> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/49.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#5> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#5> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#50> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#50> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/50.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#50> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#50> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/50.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#51> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#51> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/51.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#51> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#51> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/51.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#52> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#52> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/52.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#52> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#52> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/52.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#53> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#53> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/53.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#53> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#53> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/53.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#54> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#54> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/54.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#54> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#54> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/54.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#55> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#55> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/55.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#55> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#55> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/55.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#56> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#56> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/56.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#56> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#56> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/56.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#57> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#57> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/57.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#57> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#57> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/57.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#58> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#58> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/58.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#58> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#58> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/58.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#59> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#59> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/59.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#59> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#59> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/59.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#6> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#6> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#60> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#60> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/60.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#60> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#60> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/60.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/61.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#61> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_/61.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#7> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#7> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#8> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#8> .
 
-<https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#9> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#9> .
+<https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_7-8_-29__CD_-208_-20-_-20Mahler_-20-_-20Sinfonie_-20nr.1_-20_Titan_#9> .
 
