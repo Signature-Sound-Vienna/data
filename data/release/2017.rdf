@@ -5,33 +5,33 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/2017">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/2017">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Neujahrskonzert / New Year ́s Concert 2017"</dcterms:title>
     <rdfs:label>Release: "Neujahrskonzert / New Year ́s Concert 2017"</rdfs:label>
     <rdfs:label>Record: "Neujahrskonzert / New Year ́s Concert 2017"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/2017"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#14"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#15"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#16"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#17"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#18"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#19"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#20"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2017#21"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/2017"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#12"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#13"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#14"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#15"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#16"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#17"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#18"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#19"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#20"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2017#21"/>
   </rdf:Description>
 </rdf:RDF>

@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/performance/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5"/>
     <ns1:performance_of rdf:resource="http://musicbrainz.org/work/b42a2d27-bbb3-3e5f-9ae7-9e4201331351"/>
     <rdfs:label>Performance: "Voices of Spring, op. 410"</rdfs:label>
   </rdf:Description>

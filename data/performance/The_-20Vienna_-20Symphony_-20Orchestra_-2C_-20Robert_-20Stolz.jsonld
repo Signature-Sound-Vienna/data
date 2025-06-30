@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performance/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13",
+    "@id": "https://w3id.org/ssv/TISMIR/data/performance/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -5,21 +5,21 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/Kaiser-Walzer">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/Kaiser-Walzer">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>Kaiser-Walzer</dcterms:title>
     <rdfs:label>Release: Kaiser-Walzer</rdfs:label>
     <rdfs:label>Record: Kaiser-Walzer</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/Kaiser-Walzer"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Kaiser-Walzer#9"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/Kaiser-Walzer"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Kaiser-Walzer#9"/>
   </rdf:Description>
 </rdf:RDF>

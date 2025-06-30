@@ -1,24 +1,24 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/2022> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/2022#1>,
-        <https://w3id.org/ssv/0.9/data/track/2022#10>,
-        <https://w3id.org/ssv/0.9/data/track/2022#11>,
-        <https://w3id.org/ssv/0.9/data/track/2022#12>,
-        <https://w3id.org/ssv/0.9/data/track/2022#13>,
-        <https://w3id.org/ssv/0.9/data/track/2022#14>,
-        <https://w3id.org/ssv/0.9/data/track/2022#15>,
-        <https://w3id.org/ssv/0.9/data/track/2022#16>,
-        <https://w3id.org/ssv/0.9/data/track/2022#17>,
-        <https://w3id.org/ssv/0.9/data/track/2022#18>,
-        <https://w3id.org/ssv/0.9/data/track/2022#2>,
-        <https://w3id.org/ssv/0.9/data/track/2022#3>,
-        <https://w3id.org/ssv/0.9/data/track/2022#4>,
-        <https://w3id.org/ssv/0.9/data/track/2022#5>,
-        <https://w3id.org/ssv/0.9/data/track/2022#6>,
-        <https://w3id.org/ssv/0.9/data/track/2022#7>,
-        <https://w3id.org/ssv/0.9/data/track/2022#8>,
-        <https://w3id.org/ssv/0.9/data/track/2022#9> ;
+<https://w3id.org/ssv/TISMIR/data/record/2022> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/TISMIR/data/track/2022#1>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#10>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#11>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#12>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#13>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#14>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#15>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#16>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#17>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#18>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#2>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#3>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#4>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#5>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#6>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#7>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#8>,
+        <https://w3id.org/ssv/TISMIR/data/track/2022#9> ;
     ns1:track_count 19 .
 

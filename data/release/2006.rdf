@@ -5,37 +5,37 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/2006">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/2006">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Neujahrskonert 2006"</dcterms:title>
     <rdfs:label>Release: "Neujahrskonert 2006"</rdfs:label>
     <rdfs:label>Record: "Neujahrskonert 2006"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/2006"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#14"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#15"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#16"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#17"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#18"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#19"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#20"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#21"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#22"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#23"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#24"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/2006#25"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/2006"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#12"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#13"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#14"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#15"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#16"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#17"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#18"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#19"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#20"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#21"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#22"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#23"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#24"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2006#25"/>
   </rdf:Description>
 </rdf:RDF>

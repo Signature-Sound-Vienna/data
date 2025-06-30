@@ -5,24 +5,24 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/mixed_-20_-28Golden_-20Classics_-29">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/mixed_-20_-28Golden_-20Classics_-29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien"</dcterms:title>
     <rdfs:label>Release: "Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien"</rdfs:label>
     <rdfs:label>Record: "Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/mixed_-20_-28Golden_-20Classics_-29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#12"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/mixed_-20_-28Golden_-20Classics_-29"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/mixed_-20_-28Golden_-20Classics_-29#12"/>
   </rdf:Description>
 </rdf:RDF>

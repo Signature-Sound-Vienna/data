@@ -2,25 +2,25 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/release/1993> a ns1:Release ;
+<https://w3id.org/ssv/TISMIR/data/release/1993> a ns1:Release ;
     rdfs:label "Record: \"Neujahrskonzert 1993\"",
         "Release: \"Neujahrskonzert 1993\"" ;
     dcterms:title "\"Neujahrskonzert 1993\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/1993#1>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#10>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#11>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#12>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#13>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#14>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#15>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#2>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#3>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#4>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#5>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#6>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#7>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#8>,
-        <https://w3id.org/ssv/0.9/data/signal/1993#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/1993> .
+    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/1993#1>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#10>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#11>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#12>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#13>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#14>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#15>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#2>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#3>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#4>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#5>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#6>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#7>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#8>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1993#9> ;
+    ns1:record <https://w3id.org/ssv/TISMIR/data/record/1993> .
 

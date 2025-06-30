@@ -2,31 +2,31 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/release/2010> a ns1:Release ;
+<https://w3id.org/ssv/TISMIR/data/release/2010> a ns1:Release ;
     rdfs:label "Record: \"Neujahrskonzert 2010\"",
         "Release: \"Neujahrskonzert 2010\"" ;
     dcterms:title "\"Neujahrskonzert 2010\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2010#1>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#10>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#11>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#12>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#13>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#14>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#15>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#16>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#17>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#18>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#19>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#2>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#20>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#21>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#3>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#4>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#5>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#6>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#7>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#8>,
-        <https://w3id.org/ssv/0.9/data/signal/2010#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/2010> .
+    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/2010#1>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#10>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#11>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#12>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#13>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#14>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#15>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#16>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#17>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#18>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#19>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#2>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#20>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#21>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#3>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#4>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#5>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#6>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#7>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#8>,
+        <https://w3id.org/ssv/TISMIR/data/signal/2010#9> ;
+    ns1:record <https://w3id.org/ssv/TISMIR/data/record/2010> .
 

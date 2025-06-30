@@ -1,103 +1,103 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/TISMIR/data/vocab#> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/1.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#1> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#10> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#10> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/10.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#10> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#10> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/10.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#11> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#11> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/11.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#11> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#11> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/11.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#12> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#12> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/12.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#12> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#12> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/12.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#13> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#13> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/13.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#13> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#13> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/13.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#14> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#14> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/14.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#14> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#14> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/14.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#15> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#15> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/15.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#15> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#15> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/15.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#16> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#16> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/16.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#16> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#16> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/16.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#17> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#17> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/17.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#17> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#17> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/17.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#18> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#18> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/18.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#18> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#18> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/18.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#19> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#19> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/19.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#19> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#19> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/19.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#2> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/2.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#2> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#20> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#20> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/20.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#20> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#20> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/20.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#21> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#21> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/21.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#21> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#21> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/21.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#22> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#22> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/22.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#22> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#22> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/22.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#23> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#23> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/23.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#23> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#23> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/23.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#24> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#24> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/24.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#24> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#24> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/24.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#25> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#25> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/25.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#25> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#25> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/25.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#3> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/3.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#3> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#4> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/4.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#4> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#5> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/5.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#5> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#6> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/6.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#6> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#7> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/7.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#7> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/7.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#8> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/8.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#8> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/8.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/2006#9> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/2006#9> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/2006/9.peaks.json> .
+<https://w3id.org/ssv/TISMIR/data/signal/2006#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/2006#9> ;
+    ns2:peaks <https://w3id.org/ssv/TISMIR/data/peaks/2006/9.peaks.json> .
 
