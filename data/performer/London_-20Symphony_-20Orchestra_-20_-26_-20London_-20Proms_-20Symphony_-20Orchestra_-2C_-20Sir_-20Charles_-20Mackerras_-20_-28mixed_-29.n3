@@ -2,9 +2,9 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/performer/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26> a ns1:MusicArtist ;
+<https://w3id.org/ssv/TISMIR/data/performer/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26> a ns1:MusicArtist ;
     rdfs:label "Performer: \"Jean Sibelius\"" ;
     ns1:musicbrainz <https://musicbrainz.org/artist/691b0e9d-9e57-41cf-932d-a3d21b068e75> ;
-    ns1:performed <https://w3id.org/ssv/0.9/data/performance/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26> ;
+    ns1:performed <https://w3id.org/ssv/TISMIR/data/performance/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26> ;
     foaf:name "\"Jean Sibelius\"" .
 

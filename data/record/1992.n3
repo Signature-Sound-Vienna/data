@@ -1,22 +1,22 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/1992> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/1992#1>,
-        <https://w3id.org/ssv/0.9/data/track/1992#10>,
-        <https://w3id.org/ssv/0.9/data/track/1992#11>,
-        <https://w3id.org/ssv/0.9/data/track/1992#12>,
-        <https://w3id.org/ssv/0.9/data/track/1992#13>,
-        <https://w3id.org/ssv/0.9/data/track/1992#14>,
-        <https://w3id.org/ssv/0.9/data/track/1992#15>,
-        <https://w3id.org/ssv/0.9/data/track/1992#16>,
-        <https://w3id.org/ssv/0.9/data/track/1992#2>,
-        <https://w3id.org/ssv/0.9/data/track/1992#3>,
-        <https://w3id.org/ssv/0.9/data/track/1992#4>,
-        <https://w3id.org/ssv/0.9/data/track/1992#5>,
-        <https://w3id.org/ssv/0.9/data/track/1992#6>,
-        <https://w3id.org/ssv/0.9/data/track/1992#7>,
-        <https://w3id.org/ssv/0.9/data/track/1992#8>,
-        <https://w3id.org/ssv/0.9/data/track/1992#9> ;
+<https://w3id.org/ssv/TISMIR/data/record/1992> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/TISMIR/data/track/1992#1>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#10>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#11>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#12>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#13>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#14>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#15>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#16>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#2>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#3>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#4>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#5>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#6>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#7>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#8>,
+        <https://w3id.org/ssv/TISMIR/data/track/1992#9> ;
     ns1:track_count 17 .
 

@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/1980-1983#23">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/performer/1980-1983#23">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/1980-1983#23"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/TISMIR/data/performance/1980-1983#23"/>
     <foaf:name>"Johann Strauss I"</foaf:name>
     <rdfs:label>Performer: "Johann Strauss I"</rdfs:label>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5"/>

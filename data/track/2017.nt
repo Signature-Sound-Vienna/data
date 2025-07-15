@@ -1,105 +1,105 @@
-<https://w3id.org/ssv/0.9/data/track/2017#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/04%20-%20Winterlust%2C%20op.%20121%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"New Year ́s Address/ Neujahrsgruß\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/06%20-%20So%20%C3%A4ngstlich%20sind%20wir%20nicht%21%2C%20op.%20413%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/11%20-%20Rotunde-Quadrille%2C%20op.%20360%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Extravaganten, op. 205\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5bd36ae9-2c6b-403d-85aa-2071580a42f8> .
-<https://w3id.org/ssv/0.9/data/track/2017#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/47f45c1a-7bac-480d-a1d0-d398cbc3a569> .
-<https://w3id.org/ssv/0.9/data/track/2017#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/aba5b7d8-e4ba-409f-81fb-19ccd537da35> .
-<https://w3id.org/ssv/0.9/data/track/2017#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/10%20-%20Pepita-Polka%2C%20op.%20138%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ab5a8496-b9c3-45f5-b812-0c737c090be3> .
-<https://w3id.org/ssv/0.9/data/track/2017#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d4595093-9298-4240-b238-f4391522cfe7> .
-<https://w3id.org/ssv/0.9/data/track/2017#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/02%20-%20Les%20Patineurs%2C%20op.%20183%20-%20%C3%89mile%20Waldteufel.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Les Patineurs, op. 183\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/13cd0dda-0793-4ea3-9a80-81424fcf83bb> .
-<https://w3id.org/ssv/0.9/data/track/2017#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7fd526f8-2129-4c3e-b2ab-4d3fdd7a4b80> .
-<https://w3id.org/ssv/0.9/data/track/2017#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Rotunde-Quadrille, op. 360\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#21> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mephistos Höllenrufe, op. 101\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Winterlust, op. 121\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/16bcc216-f666-44e6-8698-e2574e1be4f5> .
-<https://w3id.org/ssv/0.9/data/track/2017#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2fe9a73c-a404-4c17-b4fd-031a124d1155> .
-<https://w3id.org/ssv/0.9/data/track/2017#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/18%20-%20Mit%20Vergn%C3%BCgen%2C%20op.%20228%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/01%20-%20Nechledil-Marsch%20aus%20der%20Operette%20%27Wiener%20Frauen%27%20-%20Franz%20Leh%C3%A1r.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/55cedb56-7d7d-4f94-863f-96411a6130f2> .
-<https://w3id.org/ssv/0.9/data/track/2017#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/13%20-%20Indianer%20Galopp%2C%20op.%20111%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tausend und eine Nacht, op. 346\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2ad8e745-2ece-4627-a6a3-367ce916c6ad> .
-<https://w3id.org/ssv/0.9/data/track/2017#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/16%20-%20Tausend%20und%20eine%20Nacht%2C%20op.%20346%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8a020ee4-7b93-494b-b2a5-858377450430> .
-<https://w3id.org/ssv/0.9/data/track/2017#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Pepita-Polka, op. 138\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#21> <http://purl.org/ontology/mo/track_number> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Hereinspaziert!, op. 518\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c0ddd79b-a2ca-4af1-990a-0ef2e5bf4436> .
-<https://w3id.org/ssv/0.9/data/track/2017#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/15%20-%20Auf%20zum%20Tanze%21%2C%20op.%20436%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/14%20-%20Die%20Nasswalderin%2C%20op.%20267%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Nechledil-Marsch aus der Operette 'Wiener Frauen'\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/12%20-%20Die%20Extravaganten%2C%20op.%20205%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mit Vergnügen, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/98686a7f-bda6-4441-8ec3-1b1bd0eed2b4> .
-<https://w3id.org/ssv/0.9/data/track/2017#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mondaufgang aus der Operette 'Die lustigen Weiber von Windsor'\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/daea0c8d-a479-406b-b8df-acb8a1fab29e> .
-<https://w3id.org/ssv/0.9/data/track/2017#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Auf zum Tanze!, op. 436\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/07%20-%20Pique%20Dame%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/85507820-647e-44e3-aac7-0b78d8238493> .
-<https://w3id.org/ssv/0.9/data/track/2017#21> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Indianer Galopp, op. 111\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/05%20-%20Mephistos%20H%C3%B6llenrufe%2C%20op.%20101%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5b5bc299-8fa1-4a5f-9e86-7746b9f85c8e> .
-<https://w3id.org/ssv/0.9/data/track/2017#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tik-Tak Polka, op. 365\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Pique Dame Ouvertüre\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2d0120f7-2a5e-4ab9-b9b3-6cb980a4e97a> .
-<https://w3id.org/ssv/0.9/data/track/2017#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/03%20-%20%C2%B4s%20gibt%20nur%20a%20Kaiserstadt%2C%20%C2%B4s%20gibt%20nur%20a%20Wien%2C%20op.%20291%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \" ́s gibt nur a Kaiserstadt,  ́s gibt nur a Wien, op. 291\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/18%20-%20Mit%20Vergn%C3%BCgen%2C%20op.%20228%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/63d5fe56-93a0-4c2e-be58-51e3de4c2070> .
-<https://w3id.org/ssv/0.9/data/track/2017#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Nasswalderin, op. 267\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b57cf7cb-cc43-4009-9c65-86a82b57feee> .
-<https://w3id.org/ssv/0.9/data/track/2017#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/17%20-%20Tik-Tak%20Polka%2C%20op.%20365%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/09%20-%20Mondaufgang%20aus%20der%20Operette%20%27Die%20lustigen%20Weiber%20von%20Windsor%27%20-%20Otto%20Nicolai.wav> .
-<https://w3id.org/ssv/0.9/data/track/2017#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"So ängstlich sind wir nicht!, op. 413\"" .
-<https://w3id.org/ssv/0.9/data/track/2017#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2017#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/426fed49-ee4f-4c0a-9abd-ec9ed3ec408f> .
-<https://w3id.org/ssv/0.9/data/track/2017#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2017#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/08%20-%20Hereinspaziert%21%2C%20op.%20518%20-%20Carl%20Michael%20Ziehrer.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/04%20-%20Winterlust%2C%20op.%20121%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"New Year ́s Address/ Neujahrsgruß\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/06%20-%20So%20%C3%A4ngstlich%20sind%20wir%20nicht%21%2C%20op.%20413%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/11%20-%20Rotunde-Quadrille%2C%20op.%20360%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Extravaganten, op. 205\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5bd36ae9-2c6b-403d-85aa-2071580a42f8> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/47f45c1a-7bac-480d-a1d0-d398cbc3a569> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/aba5b7d8-e4ba-409f-81fb-19ccd537da35> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/10%20-%20Pepita-Polka%2C%20op.%20138%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ab5a8496-b9c3-45f5-b812-0c737c090be3> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d4595093-9298-4240-b238-f4391522cfe7> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/02%20-%20Les%20Patineurs%2C%20op.%20183%20-%20%C3%89mile%20Waldteufel.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Les Patineurs, op. 183\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/13cd0dda-0793-4ea3-9a80-81424fcf83bb> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7fd526f8-2129-4c3e-b2ab-4d3fdd7a4b80> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Rotunde-Quadrille, op. 360\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#21> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mephistos Höllenrufe, op. 101\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Winterlust, op. 121\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/16bcc216-f666-44e6-8698-e2574e1be4f5> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2fe9a73c-a404-4c17-b4fd-031a124d1155> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/18%20-%20Mit%20Vergn%C3%BCgen%2C%20op.%20228%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/01%20-%20Nechledil-Marsch%20aus%20der%20Operette%20%27Wiener%20Frauen%27%20-%20Franz%20Leh%C3%A1r.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/55cedb56-7d7d-4f94-863f-96411a6130f2> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/13%20-%20Indianer%20Galopp%2C%20op.%20111%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tausend und eine Nacht, op. 346\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2ad8e745-2ece-4627-a6a3-367ce916c6ad> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/16%20-%20Tausend%20und%20eine%20Nacht%2C%20op.%20346%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8a020ee4-7b93-494b-b2a5-858377450430> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Pepita-Polka, op. 138\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#21> <http://purl.org/ontology/mo/track_number> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Hereinspaziert!, op. 518\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/c0ddd79b-a2ca-4af1-990a-0ef2e5bf4436> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/15%20-%20Auf%20zum%20Tanze%21%2C%20op.%20436%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/14%20-%20Die%20Nasswalderin%2C%20op.%20267%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Nechledil-Marsch aus der Operette 'Wiener Frauen'\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/12%20-%20Die%20Extravaganten%2C%20op.%20205%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mit Vergnügen, op. 228\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/98686a7f-bda6-4441-8ec3-1b1bd0eed2b4> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mondaufgang aus der Operette 'Die lustigen Weiber von Windsor'\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/daea0c8d-a479-406b-b8df-acb8a1fab29e> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Auf zum Tanze!, op. 436\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/07%20-%20Pique%20Dame%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/85507820-647e-44e3-aac7-0b78d8238493> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#21> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Indianer Galopp, op. 111\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/05%20-%20Mephistos%20H%C3%B6llenrufe%2C%20op.%20101%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5b5bc299-8fa1-4a5f-9e86-7746b9f85c8e> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tik-Tak Polka, op. 365\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Pique Dame Ouvertüre\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/2d0120f7-2a5e-4ab9-b9b3-6cb980a4e97a> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/03%20-%20%C2%B4s%20gibt%20nur%20a%20Kaiserstadt%2C%20%C2%B4s%20gibt%20nur%20a%20Wien%2C%20op.%20291%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \" ́s gibt nur a Kaiserstadt,  ́s gibt nur a Wien, op. 291\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/18%20-%20Mit%20Vergn%C3%BCgen%2C%20op.%20228%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/63d5fe56-93a0-4c2e-be58-51e3de4c2070> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Nasswalderin, op. 267\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b57cf7cb-cc43-4009-9c65-86a82b57feee> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/17%20-%20Tik-Tak%20Polka%2C%20op.%20365%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/09%20-%20Mondaufgang%20aus%20der%20Operette%20%27Die%20lustigen%20Weiber%20von%20Windsor%27%20-%20Otto%20Nicolai.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"So ängstlich sind wir nicht!, op. 413\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2017#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/426fed49-ee4f-4c0a-9abd-ec9ed3ec408f> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2017#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2017/08%20-%20Hereinspaziert%21%2C%20op.%20518%20-%20Carl%20Michael%20Ziehrer.wav> .

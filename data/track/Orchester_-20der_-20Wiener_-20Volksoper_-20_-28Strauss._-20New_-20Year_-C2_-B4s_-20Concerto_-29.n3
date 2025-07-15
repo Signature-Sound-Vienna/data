@@ -2,49 +2,49 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#1> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Kaiserwalzer / Emperor Waltz, Op. 437\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/01-Emperor%20Waltz%20Op.437%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/2180dae6-e1c8-3491-80b3-c6a3ec1b4797> ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#2> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#2> a ns1:Track ;
     rdfs:label "Track: \"Pizzicato Polka\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/02-Pizzicato%20Polka%20-%20Johann%20Strauss%20II%2C%20Josef%20Strauss.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/9c6f377a-2460-39c5-afbf-d2bf3f358f54> ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#3> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#3> a ns1:Track ;
     rdfs:label "Track: \"G'schichte aus dem Wienderwald-Walzer / Tales from the Vienna Forest - Waltz, Op. 325\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/03-Tales%20from%20the%20Vienna%20Woods-Waltz%20Op.325%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6b5c11c3-69ab-3e2d-ac3f-78d4c30cea2b> ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#4> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#4> a ns1:Track ;
     rdfs:label "Track: \"Radetzky March, Op. 228\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/04-Radetsky%20March%20Op.228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/205cfd81-4437-3872-be17-f2c5727883ea> ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#5> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#5> a ns1:Track ;
     rdfs:label "Track: \"Wiener Bonbons-Walzer / Viennese Bonbons-Waltz, Op.307\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/05-Viennese%20Bonbons-Waltz%20Op.307%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/b15642ec-5222-336c-b524-a7d52c0708df> ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#6> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#6> a ns1:Track ;
     rdfs:label "Track: \"Vergnügungszug-Polka-Galop / Luxury Train-Polka-Galop, Op. 281\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/06-Luxury%20Train-Polka-Galop%20Op.314%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/1fdd1dc5-77c7-3dfd-bfa7-e3573ce370a1> ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#7> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#7> a ns1:Track ;
     rdfs:label "Track: \"An Der Schönen Blauen Donau-Walzer / On the Beautiful Blue Danube-Waltz, Op. 314\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/07-On%20the%20Beautiful%20Blue%20Danube-Waltz%20Op.314%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/74d8c22b-25d0-38bf-a910-6e32c117240f> ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8> a ns1:Track ;
     rdfs:label "Track: \"Tritsch-Tratsch-Polka, Op. 214\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/08-Tritsch-Tratsch%20-%20Polka%20Op.%20214%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/b432bad3-0124-3896-a307-f22e7593baba> ;

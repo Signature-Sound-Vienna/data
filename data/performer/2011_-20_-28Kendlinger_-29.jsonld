@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/2011_-20_-28Kendlinger_-29#16",
+    "@id": "https://w3id.org/ssv/TISMIR/data/performer/2011_-20_-28Kendlinger_-29#16",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/2011_-20_-28Kendlinger_-29#16"
+        "@id": "https://w3id.org/ssv/TISMIR/data/performance/2011_-20_-28Kendlinger_-29#16"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

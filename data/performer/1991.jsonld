@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/1991#17",
+    "@id": "https://w3id.org/ssv/TISMIR/data/performer/1991#17",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/1991#17"
+        "@id": "https://w3id.org/ssv/TISMIR/data/performance/1991#17"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -4,105 +4,105 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5c7bde14-e73b-31ff-b816-b8acbfba90db"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: Lieder-Quadrille</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/05-Lieder-Quadrille%20op.%20275%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7ce48453-7e77-3254-ae7a-a23825e34b2a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: Caroussel-Marsch</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/01-Caroussel-Marsch%20op.%20133%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/961e8181-f8ed-3c84-b5ad-fdce34feafe4"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: Feuerfest!</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/04-Feuerfest%2C%20Polka%20fran%C3%A7aise%20op.%20269%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/800addd1-2322-3831-ad59-39256b3a9771"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: L'Enfantillage</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/08-L%27Enfantillage%2C%20Polka%20fran%C3%A7aise%20op.%20202%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/9aaa6a5c-772c-3f74-aed9-51c37ef62961"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Aus der Ferne"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/03-Aus%20der%20Ferne%2C%20Polka%20mazur%20op.%20270%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/bf80a399-c084-3a36-8a1c-65916407befe"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
     <rdfs:label>Track: Lucifer-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/13-Lucifer-Polka%20schnell%20op.%20266%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/61a63c63-25a6-3c2f-8966-d347d7ec0a1e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Die Fledermaus: Csárdás"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/10-Csardas%20aus%20_Die%20Fledermaus_%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cb4fa14c-6806-3f32-be28-a995b91d35d3"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Ein Herz, ein Sinn"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/09-Ein%20Herz%2C%20ein%20Sinn%2C%20Polka%20mazur%20%20op.%20323%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6bd257f5-35fb-3ee7-a576-f79e0d5faf37"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: Radetzky-Marsch</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/15-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%2C%20Sr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/901a89c0-e47f-3b8b-b731-4ed76acb5ce8"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
     <rdfs:label>Track: "An der schönen blauen Donau"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/14-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/47f3d6b6-2c9a-3445-b100-956526eac5d0"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Mit Chic"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/06-Mit%20Chic%2C%20Polka%20schnell%20%20op.275%20-%20Eduard%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/36ae3cc1-92c9-3f92-a802-850cf4a25e19"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Die Schönbrunner"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/07-Die%20Sch%C3%B6nbrunner%2C%20Walzer%20op.%20200%20-%20Joseph%20Lanner.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/90c78039-b170-31a2-9363-7894481b8af7"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: Accelerationen</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/02-Accelerationen%2C%20Walzer%20%20op.%20234%20-%20Johann%20Strauss%2C%20Jr.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1531c3d5-3709-3d9b-ba37-a37c5afc1bfb"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Ohne Sorgen"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/1994/12-Ohne%20Sorgen%2C%20Polka%20schnell%20op.%20271%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/1994#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1994#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a7aa5b27-aeb6-3b17-b2bd-2b1ac8d260bd"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>

@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32",
+    "@id": "https://w3id.org/ssv/TISMIR/data/performer/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32"
+        "@id": "https://w3id.org/ssv/TISMIR/data/performance/1963-1979_-20_-28Neujahr_-20in_-20Wien_-29__1974_-20_-28DVD2_-29#32"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

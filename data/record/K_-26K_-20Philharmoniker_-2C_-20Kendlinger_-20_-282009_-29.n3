@@ -1,17 +1,17 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#10>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#2>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#3>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#4>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#5>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#6>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#7>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#8>,
-        <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#9> ;
+<https://w3id.org/ssv/TISMIR/data/record/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#10>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#2>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#3>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#4>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#5>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#6>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#7>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#8>,
+        <https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#9> ;
     ns1:track_count 12 .
 

@@ -1,100 +1,100 @@
-<https://w3id.org/ssv/0.9/data/track/2020#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/16%20-%20Dynamiden%20%28Geheime%20Anziehungskr%C3%A4fte%29%2C%20op.%20173%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Gavotte" .
-<https://w3id.org/ssv/0.9/data/track/2020#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/eca736f8-cef9-4ff0-b872-98841b6c2ea7> .
-<https://w3id.org/ssv/0.9/data/track/2020#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/01%20-%20Die%20Landstreicher%2C%20Ouvert%C3%BCre%20-%20Carl%20Michael%20Ziehrer.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b9605f8c-fd91-4ee9-bf9f-dc0349ea44e8> .
-<https://w3id.org/ssv/0.9/data/track/2020#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/13%20-%2012%20Contret%C3%A4nze%2C%20WoO%2014%20-%20Ludwig%20van%20Beethoven.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9ba610e0-b19b-4ef8-9e1e-02ee35e91ec8> .
-<https://w3id.org/ssv/0.9/data/track/2020#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6601dac5-d770-4e34-bae2-0d42aff096b1> .
-<https://w3id.org/ssv/0.9/data/track/2020#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Blumenfest-Polka, op. 111\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Postillon Galop, op. 16, 2\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/03%20-%20Liechtenstein-Marsch%2C%20op.%2036%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Liechtenstein-Marsch, op. 36\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9c3a3831-66ec-445b-b2d9-eec1e9919698> .
-<https://w3id.org/ssv/0.9/data/track/2020#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/09%20-%20Seid%20umschlungen%2C%20Millionen%21%2C%20op.%20443%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a1ba7567-f5ff-4b23-9f57-3b8b724d0033> .
-<https://w3id.org/ssv/0.9/data/track/2020#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e9192581-4337-4801-9a93-cb0cfed861da> .
-<https://w3id.org/ssv/0.9/data/track/2020#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/17%20-%20Im%20Fluge%2C%20op.%20230%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dynamiden (Geheime Anziehungskräfte), op. 173\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/05916d6a-16ea-4126-a84a-329012d2cbcb> .
-<https://w3id.org/ssv/0.9/data/track/2020#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Liebesgrüße, op. 56\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/08%20-%20Cupido%2C%20op.%2081%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8ed6389c-80fc-4cd8-9a28-c6263668d749> .
-<https://w3id.org/ssv/0.9/data/track/2020#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/06%20-%20Knall%20und%20Fall%2C%20op.%20132%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Fluge, op. 230\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
-<https://w3id.org/ssv/0.9/data/track/2020#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/15%20-%20Tritsch-Tratsch%20Polka%2C%20op.%20214%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a2af6bdf-4570-40fe-a67f-c9eefd675504> .
-<https://w3id.org/ssv/0.9/data/track/2020#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Cupido, op. 81\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4975dd19-48e9-4bc3-8fe0-046486d7899c> .
-<https://w3id.org/ssv/0.9/data/track/2020#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/70eb3ceb-8ecf-4ea0-b315-641e218f491b> .
-<https://w3id.org/ssv/0.9/data/track/2020#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7cbd08c3-f59f-4727-8202-0a07fc70522d> .
-<https://w3id.org/ssv/0.9/data/track/2020#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ed365990-37d7-48cb-9836-2de730ae998a> .
-<https://w3id.org/ssv/0.9/data/track/2020#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eisblume, op. 55\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Seid umschlungen, Millionen!, op. 443\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/02%20-%20Liebesgr%C3%BC%C3%9Fe%2C%20op.%2056%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f8c2f2f0-b1e8-43cf-b8af-b3272757ac21> .
-<https://w3id.org/ssv/0.9/data/track/2020#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d25433da-1d82-4b80-9bae-824bcd1cae81> .
-<https://w3id.org/ssv/0.9/data/track/2020#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/18%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/11%20-%20Gavotte%20-%20Josef%20Hellmesberger%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/74a25108-d5ff-4864-aeab-fca5427b26d8> .
-<https://w3id.org/ssv/0.9/data/track/2020#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichte Kavalliere, Ouvertüre\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Knall und Fall, op. 132\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/05%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%C2%B4n%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wo die Zitronen blüh ́n, op. 364\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Landstreicher, Ouvertüre\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/10%20-%20Eisblume%2C%20op.%2055%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"12 Contretänze, WoO 14\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freuet euch des Lebens, op. 340\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f2c8fa4d-054b-43c3-b45f-e4961e1afe69> .
-<https://w3id.org/ssv/0.9/data/track/2020#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/96bca611-3c40-447d-92de-41f12cd501b6> .
-<https://w3id.org/ssv/0.9/data/track/2020#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/12%20-%20Postillon%20Galop%2C%20op.%2016%2C%202%20-%20Hans%20Christian%20Lumbye.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tritsch-Tratsch Polka, op. 214\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
-<https://w3id.org/ssv/0.9/data/track/2020#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/07%20-%20Leichte%20Kavalliere%2C%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/04%20-%20Blumenfest-Polka%2C%20op.%20111%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2020#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/14%20-%20Freuet%20euch%20des%20Lebens%2C%20op.%20340%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2020#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/017a21fa-cc36-4e78-91d0-8f150d1f8cc1> .
-<https://w3id.org/ssv/0.9/data/track/2020#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2020#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/17%20-%20Im%20Fluge%2C%20op.%20230%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/16%20-%20Dynamiden%20%28Geheime%20Anziehungskr%C3%A4fte%29%2C%20op.%20173%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Gavotte" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/eca736f8-cef9-4ff0-b872-98841b6c2ea7> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/01%20-%20Die%20Landstreicher%2C%20Ouvert%C3%BCre%20-%20Carl%20Michael%20Ziehrer.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b9605f8c-fd91-4ee9-bf9f-dc0349ea44e8> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/13%20-%2012%20Contret%C3%A4nze%2C%20WoO%2014%20-%20Ludwig%20van%20Beethoven.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9ba610e0-b19b-4ef8-9e1e-02ee35e91ec8> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6601dac5-d770-4e34-bae2-0d42aff096b1> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Blumenfest-Polka, op. 111\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Postillon Galop, op. 16, 2\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/03%20-%20Liechtenstein-Marsch%2C%20op.%2036%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Liechtenstein-Marsch, op. 36\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9c3a3831-66ec-445b-b2d9-eec1e9919698> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/09%20-%20Seid%20umschlungen%2C%20Millionen%21%2C%20op.%20443%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a1ba7567-f5ff-4b23-9f57-3b8b724d0033> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e9192581-4337-4801-9a93-cb0cfed861da> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/17%20-%20Im%20Fluge%2C%20op.%20230%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Dynamiden (Geheime Anziehungskräfte), op. 173\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/05916d6a-16ea-4126-a84a-329012d2cbcb> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Liebesgrüße, op. 56\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/08%20-%20Cupido%2C%20op.%2081%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8ed6389c-80fc-4cd8-9a28-c6263668d749> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/06%20-%20Knall%20und%20Fall%2C%20op.%20132%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Fluge, op. 230\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/15%20-%20Tritsch-Tratsch%20Polka%2C%20op.%20214%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a2af6bdf-4570-40fe-a67f-c9eefd675504> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Cupido, op. 81\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4975dd19-48e9-4bc3-8fe0-046486d7899c> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/70eb3ceb-8ecf-4ea0-b315-641e218f491b> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/7cbd08c3-f59f-4727-8202-0a07fc70522d> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ed365990-37d7-48cb-9836-2de730ae998a> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eisblume, op. 55\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Seid umschlungen, Millionen!, op. 443\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/02%20-%20Liebesgr%C3%BC%C3%9Fe%2C%20op.%2056%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f8c2f2f0-b1e8-43cf-b8af-b3272757ac21> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d25433da-1d82-4b80-9bae-824bcd1cae81> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/18%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/11%20-%20Gavotte%20-%20Josef%20Hellmesberger%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/74a25108-d5ff-4864-aeab-fca5427b26d8> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Leichte Kavalliere, Ouvertüre\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Knall und Fall, op. 132\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/05%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%C2%B4n%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Wo die Zitronen blüh ́n, op. 364\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Landstreicher, Ouvertüre\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/10%20-%20Eisblume%2C%20op.%2055%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"12 Contretänze, WoO 14\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Freuet euch des Lebens, op. 340\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f2c8fa4d-054b-43c3-b45f-e4961e1afe69> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/96bca611-3c40-447d-92de-41f12cd501b6> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/12%20-%20Postillon%20Galop%2C%20op.%2016%2C%202%20-%20Hans%20Christian%20Lumbye.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Tritsch-Tratsch Polka, op. 214\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
+<https://w3id.org/ssv/TISMIR/data/track/2020#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/07%20-%20Leichte%20Kavalliere%2C%20Ouvert%C3%BCre%20-%20Franz%20von%20Supp%C3%A9.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/04%20-%20Blumenfest-Polka%2C%20op.%20111%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/14%20-%20Freuet%20euch%20des%20Lebens%2C%20op.%20340%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/017a21fa-cc36-4e78-91d0-8f150d1f8cc1> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/2020#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2020/17%20-%20Im%20Fluge%2C%20op.%20230%20-%20Josef%20Strauss.wav> .

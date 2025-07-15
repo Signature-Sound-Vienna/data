@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13",
+    "@id": "https://w3id.org/ssv/TISMIR/data/performer/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13"
+        "@id": "https://w3id.org/ssv/TISMIR/data/performance/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

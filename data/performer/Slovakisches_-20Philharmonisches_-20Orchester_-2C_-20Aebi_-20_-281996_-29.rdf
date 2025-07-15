@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/performer/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/TISMIR/data/performance/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5"/>
     <foaf:name>"Johann Strauss II"</foaf:name>
     <rdfs:label>Performer: "Johann Strauss II"</rdfs:label>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/8255db36-4902-4cf6-8612-0f2b4288bc9a"/>

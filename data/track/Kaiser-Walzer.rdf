@@ -4,63 +4,63 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2d1d2a41-3bb3-4840-bfbe-87a62ef7a1cf"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "G'schichten aus dem Wienerwald (Johann-Strauß-Orchester Wien, Francek)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/06-G%27schichten%20aus%20dem%20Wienerwald%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1b8ea78b-c011-4ab7-bf7d-a983e4be41b3"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Delirien (Royal Philharmonic Orchestra, Norman Shetler)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/08-Delirien%20%28Royal%20Philharmonic%20Orchestra%2C%20Norman%20Shetler%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5cb2f564-a6df-4c81-9c8d-9ed0efdd2e1e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Eljen a Magyar (Johann-Strauß-Orchester Wien, Francek)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/03-Eljen%20a%20Magyar%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/db002b7f-f395-44c8-85c8-ed149b9044b7"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Perpetuum mobile (Royal Philharmonic Orchestra, Norman Shetler)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/09-Perpetuum%20mobile%20%28Royal%20Philharmonic%20Orchestra%2C%20Norman%20Shetler%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/61236c91-96bb-4272-b662-f061b1da034e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Wein, Weib ud Gesang (Johann-Strauß-Orchester Wien, Francek)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/02-Wein%2C%20Weib%20ud%20Gesang%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/32f232f2-52e4-4189-b4f8-eda26bc96192"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Loreley - Rhein Klänge (Orchester der Wiener Staatsoper, Josef Drexler)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/07-Loreley%20-%20Rhein%20Kl%C3%A4nge%20%28Orchester%20der%20Wiener%20Staatsoper%2C%20Josef%20Drexler%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5d4aeb17-7e69-4794-a93f-91354a27e4a9"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Morgenblätter (Johann-Strauß-Orchester Wien, Francek)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/04-Morgenbl%C3%A4tter%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5705c069-b73e-41c2-9cba-d7c4e878e0c1"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Cagliostro in Wien (Johann-Strauß-Orchester Wien, Francek)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Kaiser-Walzer/05-Cagliostro%20in%20Wien%20%28Johann-Strau%C3%9F-Orchester%20Wien%2C%20Francek%29.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c49cdc34-4ab4-4f6b-8063-b39bb9277de0"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>

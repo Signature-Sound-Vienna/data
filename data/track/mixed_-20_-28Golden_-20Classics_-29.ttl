@@ -2,73 +2,73 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#1> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Die Fledermaus\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/d9e030de-e936-34fd-90b2-9687054014db> ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#10> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#10> a ns1:Track ;
     rdfs:label "Track: \"Unter Donner und Blitz\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/10-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Unter%20Donner%20und%20Blitz%20%28Lorin%20Maazel%29%201983.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/035a3e5b-c60f-3963-a5bb-570874c93168> ;
     ns1:track_number 10 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#11> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#11> a ns1:Track ;
     rdfs:label "Track: Kaiserwalzer" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/11-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Kaiserwalzer%20%28Claudio%20Abbado%29%201991.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/f36f9da2-d870-34c4-a6d2-1cbe01e1f435> ;
     ns1:track_number 11 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#12> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#12> a ns1:Track ;
     rdfs:label "Track: Radetzky-Marsch" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/d8a5658d-4556-3336-aaf3-46eba5df9b20> ;
     ns1:track_number 12 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#2> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#2> a ns1:Track ;
     rdfs:label "Track: Tritsch-Tratsch-Polka" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/42e5946c-cc1a-3e84-b288-ce12b59a522d> ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#3> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#3> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/03-Johann%20Strau%C3%9F%2C%20Sohn%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20%28Herbert%20von%20Karajan%29%201987.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6078dc96-84e6-3af8-88ec-d425a635bbf7> ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#4> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#4> a ns1:Track ;
     rdfs:label "Track: \"Auf Ferienreisen\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/04-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Auf%20Ferienreisen%20%28Claudio%20Abbado%29%201988.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/734aaf73-6193-3033-b396-237614a1fc10> ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#5> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#5> a ns1:Track ;
     rdfs:label "Track: \"G'schichten aus dem Wienerwald\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/aa71d28f-eb0e-34a1-afed-cc9aa9b1f5cc> ;
     ns1:track_number 5 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#6> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#6> a ns1:Track ;
     rdfs:label "Track: Seufzer-Galopp" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/06-Johann%20Strau%C3%9F%2C%20Vater%20-%20Seufzer-Galopp%20%28Claudio%20Abbado%29%201991.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/4f7d4874-62a1-35df-858a-70911fa3b96a> ;
     ns1:track_number 6 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#7> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#7> a ns1:Track ;
     rdfs:label "Track: \"Ohne Sorgen\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/07-Josef%20Strau%C3%9F%20-%20Ohne%20Sorgen%20%28Lorin%20Maazel%29%201981.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/7a3fe86d-0939-36da-8f8d-77622b17f413> ;
     ns1:track_number 7 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#8> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#8> a ns1:Track ;
     rdfs:label "Track: Aquarellen" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/08-Josef%20Strau%C3%9F%20-%20Aquarellen%20%28Claudio%20Abbado%29%201991.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/9e80d63f-05cc-3c3b-b65b-d45ea98952cb> ;
     ns1:track_number 8 .
 
-<https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Golden_-20Classics_-29#9> a ns1:Track ;
+<https://w3id.org/ssv/TISMIR/data/track/mixed_-20_-28Golden_-20Classics_-29#9> a ns1:Track ;
     rdfs:label "Track: Pizzicato-Polka" ;
     ns1:available_as <https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/09-Johann%20und%20Josef%20Strau%C3%9F%20-%20Pizzicato-Polka%20%28Herbert%20von%20Karajan%29%201987.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6906662b-14cc-374d-a0e9-326bae2bace9> ;
