@@ -1,12 +1,12 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performance/1996#16",
+    "@id": "https://w3id.org/ssv/data/performance/1996#16",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1996#16"
+        "@id": "https://w3id.org/ssv/data/signal/1996#16"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

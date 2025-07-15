@@ -1,4 +1,4 @@
-<https://w3id.org/ssv/0.9/data/performance/1993#15> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/e5fa134a-1e44-4606-8f2b-d6d9dec9ce64> .
-<https://w3id.org/ssv/0.9/data/performance/1993#15> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/0.9/data/signal/1993#15> .
-<https://w3id.org/ssv/0.9/data/performance/1993#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
-<https://w3id.org/ssv/0.9/data/performance/1993#15> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Radetzky-Marsch op. 228\"" .
+<https://w3id.org/ssv/data/performance/1993#15> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/e5fa134a-1e44-4606-8f2b-d6d9dec9ce64> .
+<https://w3id.org/ssv/data/performance/1993#15> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/data/signal/1993#15> .
+<https://w3id.org/ssv/data/performance/1993#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
+<https://w3id.org/ssv/data/performance/1993#15> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Radetzky-Marsch op. 228\"" .

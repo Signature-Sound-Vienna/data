@@ -1,35 +1,35 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#1> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#1> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#2> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#2> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#3> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#3> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#4> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#4> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8> .
 
-<https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9> .
+<https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9> .
 

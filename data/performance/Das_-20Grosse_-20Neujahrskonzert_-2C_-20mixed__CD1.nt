@@ -1,4 +1,4 @@
-<https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
-<https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Rosen aus dem Süden (Strauss-Orchester Wien, Francek)\"" .
-<https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/2eb55386-e1b9-37d0-97fc-769b50fd2066> .
-<https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> .
+<https://w3id.org/ssv/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Performance> .
+<https://w3id.org/ssv/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://www.w3.org/2000/01/rdf-schema#label> "Performance: \"Rosen aus dem Süden (Strauss-Orchester Wien, Francek)\"" .
+<https://w3id.org/ssv/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://purl.org/ontology/mo/performance_of> <http://musicbrainz.org/work/2eb55386-e1b9-37d0-97fc-769b50fd2066> .
+<https://w3id.org/ssv/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> <http://purl.org/ontology/mo/recorded_as> <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> .

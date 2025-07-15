@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performance/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11",
+    "@id": "https://w3id.org/ssv/data/performance/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11"
+        "@id": "https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

@@ -2,31 +2,31 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1> a ns1:Track ;
+<https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1> a ns1:Track ;
     rdfs:label "Track: \"Donau Walzer\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/01-Johann%20Strauss%20Jr.%20-%20Donau%20Walzer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/5caadb02-a961-43b5-92be-3c72cc87d1dd> ;
     ns1:track_number 1 .
 
-<https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2> a ns1:Track ;
+<https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2> a ns1:Track ;
     rdfs:label "Track: \"Kaiser Walzer\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/02-Johann%20Strauss%20Jr.%20-%20Kaiser%20Walzer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/26f0a47d-39d3-4242-8196-40418574d9e4> ;
     ns1:track_number 2 .
 
-<https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3> a ns1:Track ;
+<https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3> a ns1:Track ;
     rdfs:label "Track: \"Strauss Walzer\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/03-Johann%20%26%20Joseph%20Strauss%20-%20Strauss%20Walzer.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/dedc0994-3499-4c44-97b8-a24f44b26910> ;
     ns1:track_number 3 .
 
-<https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4> a ns1:Track ;
+<https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4> a ns1:Track ;
     rdfs:label "Track: Lorelei" ;
     ns1:available_as <https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/04-Johann%20Strauss%20Sen.%20-%20Lorelei.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/6b70e9fd-57ba-4518-acc0-86e64874dc35> ;
     ns1:track_number 4 .
 
-<https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5> a ns1:Track ;
+<https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5> a ns1:Track ;
     rdfs:label "Track: \"Wiener Blut\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/09a59cd1-36a9-48c4-ba5e-750c9420c352> ;

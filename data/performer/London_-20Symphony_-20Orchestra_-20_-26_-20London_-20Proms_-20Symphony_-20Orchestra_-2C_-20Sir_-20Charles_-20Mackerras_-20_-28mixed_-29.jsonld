@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26",
+    "@id": "https://w3id.org/ssv/data/performer/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26"
+        "@id": "https://w3id.org/ssv/data/performance/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#26"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

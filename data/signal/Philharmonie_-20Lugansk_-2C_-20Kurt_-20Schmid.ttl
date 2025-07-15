@@ -1,55 +1,55 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/1.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/10.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/10.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/11.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/11.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/12.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/12.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/13.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/13.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/2.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/3.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/4.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/5.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/6.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/7.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/7.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/8.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/8.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/9.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid/9.peaks.json> .
 

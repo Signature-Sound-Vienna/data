@@ -1,31 +1,31 @@
-@prefix ns1: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/data/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/1.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/2.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/3.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#4> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#4> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/4.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#4> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#4> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/5.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#6> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#6> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/6.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#6> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#6> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#7> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#7> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/7.peaks.json> .
+<https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#7> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#7> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29/7.peaks.json> .
 

@@ -1,8 +1,8 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/performance/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5> a ns1:Performance ;
+<https://w3id.org/ssv/data/performance/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5> a ns1:Performance ;
     rdfs:label "Performance: \"Voices of Spring, op. 410\"" ;
     ns1:performance_of <http://musicbrainz.org/work/b42a2d27-bbb3-3e5f-9ae7-9e4201331351> ;
-    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5> .
+    ns1:recorded_as <https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5> .
 

@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performance/2008#23",
+    "@id": "https://w3id.org/ssv/data/performance/2008#23",
     "@type": [
       "http://purl.org/ontology/mo/Performance"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/recorded_as": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2008#23"
+        "@id": "https://w3id.org/ssv/data/signal/2008#23"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

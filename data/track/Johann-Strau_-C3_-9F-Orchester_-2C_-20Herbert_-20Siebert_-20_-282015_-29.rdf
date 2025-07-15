@@ -4,112 +4,112 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0df6533f-46c0-4f00-85c3-7d466af9e598"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Leichtes Blut (Polka, schnell)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/12-Johann-Strau%C3%9F%20-%20Leichtes%20Blut.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/96960220-7896-4c89-be44-b300fc518a1c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Perpetuum Mobile (Musikalischer Scherz)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/03-Johann-Strau%C3%9F%20-%20Perpetuum%20Mobile.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/aea9a3ea-a08e-4e2b-9f49-0ac4639f376d"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: Furioso-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/04-Johann-Strau%C3%9F%20-%20Furioso-Polka.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8986a6ea-3e5c-4058-8ea6-41c77fd15703"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Die Fledermaus (Ouvertüre)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/01-Johann-Strau%C3%9F%20-%20Die%20Fledermaus.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/39cccf08-2df6-47db-b95b-d256e2646981"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: Annen-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/05-Johann-Strau%C3%9F%20-%20Annen-Polka.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3f2a2619-3819-4a5f-abd8-6d4f4f14c723"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Künstlerleben (Walzer)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/02-Johann-Strau%C3%9F%20-%20K%C3%BCnstlerleben.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c5d14cc6-8959-444b-9bcb-5645c5af8037"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Im Sturmschritt (Polka, schnell)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/06-Johann-Strau%C3%9F%20-%20Im%20Sturmschritt.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0bde5953-be3b-47a4-a977-96f976b26186"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
     <rdfs:label>Track: "Unter Donner und Blitz (Polka, schnell)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/14-Johann-Strau%C3%9F%20-%20Unter%20Donner%20und%20Blitz.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/393152a9-74c1-45df-9d03-df1351d8baa3"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: Tritsch-Tratsch-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/08-Johann-Strau%C3%9F%20-%20Tritsch-Tratsch-Polka.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/385cb21d-ee68-41f1-a2db-433f13bf8b0f"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: Kaiserwalzer</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/07-Johann-Strau%C3%9F%20-%20Kaiserwalzer.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#16">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7aef789d-1dc2-4aa5-ba1a-e76d3554cb52"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: Radetzky-Marsch</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/16-Johann-Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ca711394-e4b4-4541-aa16-af143d1595ab"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
     <rdfs:label>Track: "Persischer Marsch"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/13-Johann-Strau%C3%9F%20-%20Persischer%20Marsch.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c6c569de-c0a7-43b6-a651-f2de920e4834"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Eljen a Magyár (Polka, schnell)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/10-Johann-Strau%C3%9F%20-%20Eljen%20a%20Magy%C3%A1r.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/25d6cc18-b318-458a-98fa-b18b5015a657"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "Auf der Jagd (Polka)"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/15-Johann-Strau%C3%9F%20-%20Auf%20der%20Jagd.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/41511f79-6d4b-449a-81c6-df235e86e0cf"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: Bauern-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29/09-Johann-Strau%C3%9F%20-%20Bauern-Polka.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/14a19925-ac73-4715-9204-78cdec40c4ea"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>

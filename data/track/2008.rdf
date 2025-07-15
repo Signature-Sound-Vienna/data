@@ -4,160 +4,160 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e47803e5-c629-4786-9a9b-4683dc833130"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Paris Walzer, op. 101"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/04%20-%20Paris%20Walzer%2C%20op.%20101%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/eb6f9b0b-5d71-43a2-bedd-da661eb422e9"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Napoleon-March, Op. 156"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/01%20-%20Napoleon-Marsch%2C%20op.%20156%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/121808af-7ef0-42ae-a40b-10ba12ae3b08"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Tritsch-Tratsch-Polka, Polka schnell, op. 214"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/11%20-%20Tritsch-Tratsch-Polka%2C%20Polka%20schnell%2C%20op.%20214%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#16">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/456c7a8c-bca1-4207-b5e1-6f7e636e85a6"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: "Die Pariserin, Polka francaise, op. 238"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/15%20-%20Die%20Pariserin%2C%20Polka%20francaise%2C%20op.%20238%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#23">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#23">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/82a0d28d-c22c-4056-92d6-b4c2c10c5775"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</ns1:track_number>
     <rdfs:label>Track: "Radetzky-Marsch, op. 228"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#17">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#17">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/07f3601c-622c-4c3f-a57e-b1264e44c7ec"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
     <rdfs:label>Track: "Chineser-Galopp, op. 20"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/16%20-%20Chineser-Galopp%2C%20op.%2020%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#22">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#22">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1801caab-7b99-4bac-9d5f-4002426cf937"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_number>
     <rdfs:label>Track: "An der schönen, blauen Donau, Walzer, op. 314"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/20%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/88670655-43f4-40d7-9b49-94b818b1654b"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
     <rdfs:label>Track: "Hofball-Tänze, Walzer, op. 161"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/12%20-%20Hofball-T%C3%A4nze%2C%20Walzer%2C%20op.%20161%20-%20Joseph%20Lanner.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2f8dd994-1f31-47c0-8693-a0235bc57ac1"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "Russischer Marsch, op. 426"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/14%20-%20Russischer%20Marsch%2C%20op.%20426%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e524159e-6088-4971-b65e-700f195224ca"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "Bluette, Polka francaise, op. 271"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/10%20-%20Bluette%2C%20Polka%20francaise%2C%20op.%20271%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#20">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#20">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f1670b63-1ae4-4b6e-ac3f-5e3850a29296"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
     <rdfs:label>Track: "Sport-Polka, Polka schnell, op. 170"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/19%20-%20Sport-Polka%2C%20Polka%20schnell%2C%20op.%20170%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7076536a-3c11-45b8-8152-83fc458f4a26"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Ouvertüre aus 'Indigo und die vierzig Räuber'"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/08%20-%20Ouvert%C3%BCre%20aus%20%27Indigo%20und%20die%20vierzig%20R%C3%A4uber%27%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/97ece639-fea6-49e2-9977-6ecefb717a42"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Freuet euch des Lebens, Walzer, op. 340"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/09%20-%20Freuet%20euch%20des%20Lebens%2C%20Walzer%2C%20op.%20340%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/2d456967-9e6a-4deb-92a8-9f63ad392ab7"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Kleiner Anzeiger, Galopp, op.4"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/07%20-%20Kleiner%20Anzeiger%2C%20Galopp%2C%20op.4%20-%20Joseph%20Hellmesberger%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ac53a02a-8c53-4c1a-bbfe-cea6a51bfd03"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Orpheus-Quadrille, op. 236"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/06%20-%20Orpheus-Quadrille%2C%20op.%20236%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#19">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#19">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fae3bbf9-6ee7-4fc1-9d1b-e9bf370b2d0c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
     <rdfs:label>Track: "Die Bajadere, Polka schnell, op. 170"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/18%20-%20Die%20Bajadere%2C%20Polka%20schnell%2C%20op.%20170%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/3a5aa6dc-47e0-4b92-8113-c0f860028eb8"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Versailler-Galopp, op. 23"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/05%20-%20Versailler-Galopp%2C%20op.%20236%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#18">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#18">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1a2c4f62-9254-430f-9ab4-ce4817187cf4"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
     <rdfs:label>Track: "Kaiser-Walzer, op. 437"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/17%20-%20Kaiser-Walzer%2C%20op.%20437%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0dbed59a-ff33-4807-80ae-36a444579f2a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Opening Credits"</rdfs:label>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#21">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#21">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a11077d6-1adb-4749-8b0f-356982729767"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_number>
     <rdfs:label>Track: Neujahrsgruß</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/19%20-%20Sport-Polka%2C%20Polka%20schnell%2C%20op.%20170%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e87705ba-d66b-492c-8da0-8b5c31c991d7"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Laxenburger-Polka, op. 60"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/03%20-%20Laxenburger-Polka%2C%20op.%2060%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4797a4e3-90df-4403-b2fc-778113e2983e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
     <rdfs:label>Track: "Die Libelle, Polka Mazur, op. 204"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2008/13%20-%20Die%20Libelle%2C%20Polka%20Mazur%2C%20op.%20204%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2008#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2008#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cd74bbfa-d814-4069-aad0-ae2b8d9cf62e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>

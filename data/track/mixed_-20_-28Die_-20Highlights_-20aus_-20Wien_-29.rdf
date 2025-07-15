@@ -4,84 +4,84 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5e98444b-6b2c-4b3e-b49f-6ae43471fe3c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "G'Schichten aus dem Wienerwald (Lorin Maazel) 1983"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7173db36-0fd9-4b0c-ae43-94ce73f99f29"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Radetzky-Marsch (Herbert von Karajan) 1987"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b9573b35-9210-4de2-ad47-7fe7c45b277c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Seufzer-Galopp (Claudio Abbado) 1991"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/06-Johann%20Strau%C3%9F%2C%20Vater%20-%20Seufzer-Galopp%20%28Claudio%20Abbado%29%201991.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/61b9dd32-8b61-40f5-90bb-b3483ef503f6"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Unter Donner und Blitz (Lorin Maazel) 1983"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/10-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Unter%20Donner%20und%20Blitz%20%28Lorin%20Maazel%29%201983.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/689a38c6-e2ba-4efa-9f6a-12d0752db016"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Auf Ferienreisen (Claudio Abbado) 1988"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/04-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Auf%20Ferienreisen%20%28Claudio%20Abbado%29%201988.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4ec61969-142a-4f86-b217-097997c99b03"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Tritsch-Tratsch-Polka (Lorin Maazel) 1981"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dd47bfdb-c9d5-40b0-905b-f1ff3b2aa8df"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Pizzicato-Polka (Herbert von Karajan) 1987"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/09-Johann%20und%20Josef%20Strau%C3%9F%20-%20Pizzicato-Polka%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/24564bb1-17cb-4cd6-bb3e-9b057e67c23c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Die Fledermaus (Herbert von Karajan) 1987"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/93f95530-dd78-461b-9612-878310454b0a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Ohne Sorgen (Lorin Maazel) 1981"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/07-Josef%20Strau%C3%9F%20-%20Ohne%20Sorgen%20%28Lorin%20Maazel%29%201981.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a7414b8d-01be-4323-8ff6-5e97c2b67b93"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Aquarellen (Claudio Abbado) 1991"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/08-Josef%20Strau%C3%9F%20-%20Aquarellen%20%28Claudio%20Abbado%29%201991.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f558d3ba-0bc3-4b77-bd87-339e2a9f2d93"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "An der schönen blauen Donau (Herbert von Karajan) 1987"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/03-Johann%20Strau%C3%9F%2C%20Sohn%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20%28Herbert%20von%20Karajan%29%201987.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5f728e7c-20ad-47a1-ba8b-1588c473a31b"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>

@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/release/1990",
+    "@id": "https://w3id.org/ssv/data/release/1990",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,51 +16,51 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#1"
+        "@id": "https://w3id.org/ssv/data/signal/1990#1"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#2"
+        "@id": "https://w3id.org/ssv/data/signal/1990#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#3"
+        "@id": "https://w3id.org/ssv/data/signal/1990#3"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#4"
+        "@id": "https://w3id.org/ssv/data/signal/1990#4"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#5"
+        "@id": "https://w3id.org/ssv/data/signal/1990#5"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#6"
+        "@id": "https://w3id.org/ssv/data/signal/1990#6"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#7"
+        "@id": "https://w3id.org/ssv/data/signal/1990#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#8"
+        "@id": "https://w3id.org/ssv/data/signal/1990#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#9"
+        "@id": "https://w3id.org/ssv/data/signal/1990#9"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#10"
+        "@id": "https://w3id.org/ssv/data/signal/1990#10"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#11"
+        "@id": "https://w3id.org/ssv/data/signal/1990#11"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#12"
+        "@id": "https://w3id.org/ssv/data/signal/1990#12"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#13"
+        "@id": "https://w3id.org/ssv/data/signal/1990#13"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1990#14"
+        "@id": "https://w3id.org/ssv/data/signal/1990#14"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/record/1990"
+        "@id": "https://w3id.org/ssv/data/record/1990"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

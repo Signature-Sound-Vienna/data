@@ -2,25 +2,25 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/release/1994> a ns1:Release ;
+<https://w3id.org/ssv/data/release/1994> a ns1:Release ;
     rdfs:label "Record: \"1994 New Year's Concert\"",
         "Release: \"1994 New Year's Concert\"" ;
     dcterms:title "\"1994 New Year's Concert\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/1994#1>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#10>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#11>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#12>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#13>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#14>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#15>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#2>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#3>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#4>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#5>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#6>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#7>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#8>,
-        <https://w3id.org/ssv/0.9/data/signal/1994#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/1994> .
+    ns1:publication_of <https://w3id.org/ssv/data/signal/1994#1>,
+        <https://w3id.org/ssv/data/signal/1994#10>,
+        <https://w3id.org/ssv/data/signal/1994#11>,
+        <https://w3id.org/ssv/data/signal/1994#12>,
+        <https://w3id.org/ssv/data/signal/1994#13>,
+        <https://w3id.org/ssv/data/signal/1994#14>,
+        <https://w3id.org/ssv/data/signal/1994#15>,
+        <https://w3id.org/ssv/data/signal/1994#2>,
+        <https://w3id.org/ssv/data/signal/1994#3>,
+        <https://w3id.org/ssv/data/signal/1994#4>,
+        <https://w3id.org/ssv/data/signal/1994#5>,
+        <https://w3id.org/ssv/data/signal/1994#6>,
+        <https://w3id.org/ssv/data/signal/1994#7>,
+        <https://w3id.org/ssv/data/signal/1994#8>,
+        <https://w3id.org/ssv/data/signal/1994#9> ;
+    ns1:record <https://w3id.org/ssv/data/record/1994> .
 

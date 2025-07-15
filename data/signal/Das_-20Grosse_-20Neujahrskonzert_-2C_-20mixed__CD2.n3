@@ -1,51 +1,51 @@
-@prefix ns1: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/data/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#1> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#1> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/1.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#1> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#1> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#10> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#10> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/10.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#10> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#10> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/10.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#11> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#11> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/11.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#11> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#11> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/11.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#12> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#12> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/12.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#12> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#12> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/12.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#2> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#2> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/2.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#2> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#2> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#3> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#3> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/3.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#3> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#3> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#4> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#4> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/4.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#4> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#4> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#5> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#5> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/5.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#5> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#5> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#6> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#6> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/6.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#6> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#6> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#7> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#7> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/7.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#7> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#7> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/7.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#8> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#8> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/8.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#8> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#8> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/8.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#9> a ns2:Signal ;
-    ns2:published_as <https://w3id.org/ssv/0.9/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#9> ;
-    ns1:peaks <https://w3id.org/ssv/0.9/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/9.peaks.json> .
+<https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#9> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2#9> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD2/9.peaks.json> .
 

@@ -2,24 +2,24 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> a ns1:Release ;
+<https://w3id.org/ssv/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> a ns1:Release ;
     rdfs:label "Record: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"",
         "Release: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
     dcterms:title "\"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#13>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#14>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#2>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#3>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#4>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#5>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#6>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#8>,
-        <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> .
+    ns1:publication_of <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#13>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#14>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#2>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#3>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#4>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#5>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#6>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#8>,
+        <https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#9> ;
+    ns1:record <https://w3id.org/ssv/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> .
 

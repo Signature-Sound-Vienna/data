@@ -2,10 +2,10 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/performer/2002#22> a ns1:MusicArtist ;
+<https://w3id.org/ssv/data/performer/2002#22> a ns1:MusicArtist ;
     rdfs:label "Performer: \"Wiener Philharmoniker , Seiji Ozawa\"" ;
     ns1:musicbrainz <https://musicbrainz.org/artist/98c3e4e1-2f01-4ead-911f-8d4b95a6c461>,
         <https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6> ;
-    ns1:performed <https://w3id.org/ssv/0.9/data/performance/2002#22> ;
+    ns1:performed <https://w3id.org/ssv/data/performance/2002#22> ;
     foaf:name "\"Wiener Philharmoniker , Seiji Ozawa\"" .
 

@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/performance/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9"/>
     <ns1:performance_of rdf:resource="http://musicbrainz.org/work/5a498219-a200-3402-93ca-1ea4b9d83a60"/>
     <rdfs:label>Performance: Schatz-Walzer</rdfs:label>
   </rdf:Description>

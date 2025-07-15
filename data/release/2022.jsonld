@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/release/2022",
+    "@id": "https://w3id.org/ssv/data/release/2022",
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
@@ -16,63 +16,63 @@
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#1"
+        "@id": "https://w3id.org/ssv/data/signal/2022#1"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#2"
+        "@id": "https://w3id.org/ssv/data/signal/2022#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#3"
+        "@id": "https://w3id.org/ssv/data/signal/2022#3"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#4"
+        "@id": "https://w3id.org/ssv/data/signal/2022#4"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#5"
+        "@id": "https://w3id.org/ssv/data/signal/2022#5"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#6"
+        "@id": "https://w3id.org/ssv/data/signal/2022#6"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#7"
+        "@id": "https://w3id.org/ssv/data/signal/2022#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#8"
+        "@id": "https://w3id.org/ssv/data/signal/2022#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#9"
+        "@id": "https://w3id.org/ssv/data/signal/2022#9"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#10"
+        "@id": "https://w3id.org/ssv/data/signal/2022#10"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#11"
+        "@id": "https://w3id.org/ssv/data/signal/2022#11"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#12"
+        "@id": "https://w3id.org/ssv/data/signal/2022#12"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#13"
+        "@id": "https://w3id.org/ssv/data/signal/2022#13"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#14"
+        "@id": "https://w3id.org/ssv/data/signal/2022#14"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#15"
+        "@id": "https://w3id.org/ssv/data/signal/2022#15"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#16"
+        "@id": "https://w3id.org/ssv/data/signal/2022#16"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#17"
+        "@id": "https://w3id.org/ssv/data/signal/2022#17"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2022#18"
+        "@id": "https://w3id.org/ssv/data/signal/2022#18"
       }
     ],
     "http://purl.org/ontology/mo/record": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/record/2022"
+        "@id": "https://w3id.org/ssv/data/record/2022"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

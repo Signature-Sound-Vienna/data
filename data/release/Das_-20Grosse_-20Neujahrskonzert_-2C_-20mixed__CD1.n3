@@ -2,22 +2,22 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/release/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1> a ns1:Release ;
+<https://w3id.org/ssv/data/release/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1> a ns1:Release ;
     rdfs:label "Record: \"Das Grosse Neujahrskonzert\"",
         "Release: \"Das Grosse Neujahrskonzert\"" ;
     dcterms:title "\"Das Grosse Neujahrskonzert\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#2>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#4>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#6>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8>,
-        <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1> .
+    ns1:publication_of <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#1>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#10>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#11>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#2>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#3>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#4>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#5>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#6>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#7>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#8>,
+        <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#9> ;
+    ns1:record <https://w3id.org/ssv/data/record/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1> .
 

@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#9",
+    "@id": "https://w3id.org/ssv/data/performer/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#9",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#9"
+        "@id": "https://w3id.org/ssv/data/performance/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#9"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

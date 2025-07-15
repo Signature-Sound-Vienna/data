@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12",
+    "@id": "https://w3id.org/ssv/data/performer/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12"
+        "@id": "https://w3id.org/ssv/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

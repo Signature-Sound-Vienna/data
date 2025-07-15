@@ -4,140 +4,140 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/021f747c-087a-45ad-8180-4dc5e0bee245"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: "Wilhelm Tell Galopp op. 29b"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/07%20-%20Wilhelm%20Tell%20Galopp%20op.%2029b%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#19">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#19">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cc445698-9669-4931-bb4a-492611172ccd"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
     <rdfs:label>Track: "An der schönen blauen Donau op. 314"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ba58e1e5-3320-4eef-96f5-d5b80af36811"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: "Myrthenblüten op. 395"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/09%20-%20Myrthenbl%C3%BCten%20op.%20395%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b155de8e-e113-4c88-b92e-b19f25cc2e3c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Stephanie-Gavotte op. 312"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/10%20-%20Stephanie-Gavotte%20op.%20312%20-%20Alfons%20Czibulka.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/6bff208c-23b5-4a14-a6f2-5c0e1c27737c"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
     <rdfs:label>Track: "Stadt und Land op. 322"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/14%20-%20Stadt%20und%20Land%20op.%20322%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7389f728-b089-4005-a279-df4eb02493fd"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
     <rdfs:label>Track: "Festmarsch op. 452"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/13%20-%20Festmarsch%20op.%20452%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#20">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#20">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4baa36ea-18e2-47c9-bf7a-10746da04af3"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
     <rdfs:label>Track: "Radetzky Marsch op. 228"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/21%20-%20Radetzky%20Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#16">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/90ea4c94-d592-4ac9-a6ab-88456c507018"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: "Eingesendet op. 240"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/17%20-%20Eingesendet%20op.%20240%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/c641211c-783b-430d-9bcb-58dac6b11706"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Der Zigeunerbaron, Einzugsmarsch"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/02%20-%20Der%20Zigeunerbaron%2C%20Einzugsmarsch%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a408feec-f6db-48a7-9527-a0af0bb23b2e"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: "Boccaccio, Ouverture"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/08%20-%20Boccaccio%2C%20Ouverture%20-%20Franz%20von%20Supp%C3%A9.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/36ce8256-3641-43d9-85a1-90016d18dbd6"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
     <rdfs:label>Track: "Un ballo in maschera op. 272"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/15%20-%20Un%20ballo%20in%20maschera%20op.%20272%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/5fa44b84-e2ee-4f7e-8b9f-c710d02fd6a6"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: "Freikugeln op. 326"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/11%20-%20Freikugeln%20op.%20326%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#17">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#17">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0bcbfd17-0b12-49d5-a544-721948f8652b"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
     <rdfs:label>Track: "Unter Donner und Blitz op. 324"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/18%20-%20Unter%20Donner%20und%20Blitz%20op.%20324%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/65e88edf-5dff-4121-8856-ab2e0c4d0568"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Wiener Fresken op. 249"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/03%20-%20Wiener%20Fresken%20op.%20249%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/fcbbf400-2256-454b-9e90-d6ab2678c985"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "Rosen aus dem Süden op. 388"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/16%20-%20Rosen%20aus%20dem%20S%C3%BCden%20op.%20388%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#18">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#18">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8871af48-1034-4a4b-a6b0-d401b8104a7a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
     <rdfs:label>Track: "Neujahrsgruß/ New Year ́s Address"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/18%20-%20Unter%20Donner%20und%20Blitz%20op.%20324%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/eaacd35d-8fad-45bf-893e-42122c3ced57"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Brautschau op. 417"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/04%20-%20Brautschau%20op.%20417%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/43633605-7ee0-4604-ab53-cbcb10f0cba9"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Leichtes Blut op. 319"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/05%20-%20Leichtes%20Blut%20op.%20319%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7aac7627-865e-4387-8171-bdff5adf4dca"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "Geschichten aus dem Wienerwald op. 325"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2018/12%20-%20Geschichten%20aus%20dem%20Wienerwald%20op.%20325%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2018#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2018#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1219f1e3-26ab-4ef5-b071-648185d1cceb"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>

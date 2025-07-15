@@ -4,112 +4,112 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#10">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/36bd4bec-d0c4-449a-8410-e4645b08037d"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
     <rdfs:label>Track: Lucifer-Polka</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/10%20-%20Lucifer-Polka%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#7">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e5d5c0f6-f169-411a-88d2-c41ed3859c27"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
     <rdfs:label>Track: Dynamiden</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/07%20-%20Dynamiden%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#15">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/86bcbd54-1127-451b-a957-41c72a551b64"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
     <rdfs:label>Track: "An der schönen, blauen Donau"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/15%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#1">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#1">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/404836f1-df14-40bb-b2dd-eb422616c458"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
     <rdfs:label>Track: "Ouvertüre zu 'Der Carneval in Rom'"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/01%20-%20Ouvert%C3%BCre%20zu%20%27Der%20Carneval%20in%20Rom%27%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#3">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b4de0b3e-65b3-4ade-9c0b-42be7397268f"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
     <rdfs:label>Track: "Wo die Zitronen blüh ́n"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/03%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%C2%B4n%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#14">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1204f4ac-b47c-4853-b922-aa0cfaf685d7"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
     <rdfs:label>Track: "Furioso-Polka quasi Galopp"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/14%20-%20Furioso-Polka%20quasi%20Galopp%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1755d6e2-61db-4c5f-94ba-61f9e048cd2a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
     <rdfs:label>Track: "Wiener Blut"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/13%20-%20Wiener%20Blut%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#5">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/dbcbfeac-1a50-4bfc-bdb5-124285d1ae05"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
     <rdfs:label>Track: "Draußen in Sievering"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/05%20-%20Drau%C3%9Fen%20in%20Sievering%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#16">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#16">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e6a5a906-9f0d-4d00-8a3a-3d810207ab97"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
     <rdfs:label>Track: Radetzky-Marsch</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/16%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#6">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/a42b8186-c4cd-4c4e-9bbe-96f66fafe7d3"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
     <rdfs:label>Track: Künstler-Quadrille</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/06%20-%20K%C3%BCnstler-Quadrille%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#9">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e82b72d8-658e-496c-8030-777a89aa611d"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: "Intermezzo aus 'Tausendundeine Nacht'"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/09%20-%20Intermezzo%20aus%20%27Tausendundeine%20Nacht%27%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/e6e9fe4b-b376-485a-90c5-54b60eb7011a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
     <rdfs:label>Track: "Die Libelle"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/11%20-%20Die%20Libelle%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#4">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/92e72730-271c-4da3-9980-b4a97905a72a"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
     <rdfs:label>Track: "Persischer Marsch"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/04%20-%20Persischer%20Marsch%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#8">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#8">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0ee1d7c5-cff7-4d85-9b0a-134abd2c8284"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
     <rdfs:label>Track: Banditen-Galopp</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/08%20-%20Banditen-Galopp%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8ad818f2-1243-42c0-b1b2-9634e6afba8b"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
     <rdfs:label>Track: "Wien über Alles"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2011_-20_-28Kendlinger_-29/02%20-%20Wien%20%C3%BCber%20Alles%20-%20Eduard%20Strauss.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/track/2011_-20_-28Kendlinger_-29#12">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/4abcae3a-8cbe-408e-8a8c-b67b022617bb"/>
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>

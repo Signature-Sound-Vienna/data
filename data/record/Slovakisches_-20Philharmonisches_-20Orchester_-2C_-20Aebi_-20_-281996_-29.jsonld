@@ -1,24 +1,24 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/record/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29",
+    "@id": "https://w3id.org/ssv/data/record/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29",
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1"
+        "@id": "https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2"
+        "@id": "https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3"
+        "@id": "https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4"
+        "@id": "https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5"
+        "@id": "https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [

@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/2016#24">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/performer/2016#24">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/2016#24"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/data/performance/2016#24"/>
     <foaf:name>"Wiener Philharmoniker , Mariss Jansons"</foaf:name>
     <rdfs:label>Performer: "Wiener Philharmoniker , Mariss Jansons"</rdfs:label>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"/>

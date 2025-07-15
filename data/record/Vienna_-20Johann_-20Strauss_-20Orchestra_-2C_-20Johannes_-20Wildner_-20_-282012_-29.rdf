@@ -3,19 +3,19 @@
    xmlns:ns1="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/record/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
     <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#11"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#1"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#2"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#3"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#4"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#5"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#6"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#7"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#8"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#9"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#10"/>
+    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#11"/>
   </rdf:Description>
 </rdf:RDF>

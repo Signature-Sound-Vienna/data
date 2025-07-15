@@ -1,8 +1,8 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> a ns1:Performance ;
+<https://w3id.org/ssv/data/performance/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> a ns1:Performance ;
     rdfs:label "Performance: \"Rosen aus dem Süden (Strauss-Orchester Wien, Francek)\"" ;
     ns1:performance_of <http://musicbrainz.org/work/2eb55386-e1b9-37d0-97fc-769b50fd2066> ;
-    ns1:recorded_as <https://w3id.org/ssv/0.9/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> .
+    ns1:recorded_as <https://w3id.org/ssv/data/signal/Das_-20Grosse_-20Neujahrskonzert_-2C_-20mixed__CD1#12> .
 

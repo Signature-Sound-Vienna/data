@@ -1,105 +1,105 @@
-<https://w3id.org/ssv/0.9/data/track/2019#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/12%20-%20Eva-Walzer%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#21> <http://purl.org/ontology/mo/track_number> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/05%20-%20Nordseebilder%2C%20op.%20390%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0e368c8f-f1d8-456c-8aee-fd47e4cce486> .
-<https://w3id.org/ssv/0.9/data/track/2019#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Bajadere, op. 351\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/01%20-%20Sch%C3%B6nfeld-Marsch%2C%20op.%20422%20-%20Carl%20Michael%20Ziehrer.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/956cb899-a13a-4340-9019-b618321f93d9> .
-<https://w3id.org/ssv/0.9/data/track/2019#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/dac23736-35d2-4bb2-bcd5-412a126c475d> .
-<https://w3id.org/ssv/0.9/data/track/2019#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/10%20-%20Die%20Bajadere%2C%20op.%20351%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Sphärenklänge, op. 235\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8a26929a-3a44-419c-b691-250aa60f1fc6> .
-<https://w3id.org/ssv/0.9/data/track/2019#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Opern-Soirée, op. 162\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/651b7b99-9086-413a-aab3-bf47b52c4cf5> .
-<https://w3id.org/ssv/0.9/data/track/2019#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Nordseebilder, op. 390\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Elfenreigen" .
-<https://w3id.org/ssv/0.9/data/track/2019#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#21> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/15%20-%20Entr%27acte%20Valse%20-%20Josef%20Hellmesberger%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Lob der Frauen, op. 315\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9e18e388-8034-4702-a896-954b47493ae5> .
-<https://w3id.org/ssv/0.9/data/track/2019#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/14aac9f0-e72f-4e3d-98ee-41c153145207> .
-<https://w3id.org/ssv/0.9/data/track/2019#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Entr'acte Valse\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Künstlerleben, op. 316\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a8aa1048-ec27-4c39-bd83-650df8b24b28> .
-<https://w3id.org/ssv/0.9/data/track/2019#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/16%20-%20Lob%20der%20Frauen%2C%20op.%20315%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/02%20-%20Transactionen%2C%20op.%20184%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/13%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eva-Walzer aus 'Ritter Pásmán'\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/fa839109-20eb-4504-aa8a-c6a713751a03> .
-<https://w3id.org/ssv/0.9/data/track/2019#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b0b9a7bf-c88a-4e58-9de0-419c4df5987d> .
-<https://w3id.org/ssv/0.9/data/track/2019#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/437e21d8-7ff2-4fc2-a78f-efc0f980b123> .
-<https://w3id.org/ssv/0.9/data/track/2019#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Csárdás aus 'Ritter Pásmán'\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
-<https://w3id.org/ssv/0.9/data/track/2019#21> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Sturmschritt, op. 348\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f4f39fba-855a-4dd3-88c5-fdf2e54dcd7e> .
-<https://w3id.org/ssv/0.9/data/track/2019#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mit Extrapost, op. 259\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8b5592e2-25c6-45fe-bd3e-e0c1d4555fea> .
-<https://w3id.org/ssv/0.9/data/track/2019#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/14%20-%20Egyptischer%20Marsch%2C%20op.%20335%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Transactionen, op. 184\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/03%20-%20Elfenreigen%20-%20Josef%20Hellmesberger%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/09%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/04%20-%20Express%2C%20op.%20311%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Express, op. 311\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d8c2e405-4658-4155-9e82-d785f4b3db4e> .
-<https://w3id.org/ssv/0.9/data/track/2019#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/08%20-%20Die%20T%C3%A4nzerin%2C%20op.%20227%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/06%20-%20Mit%20Extrapost%2C%20op.%20259%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/54a93dc1-5af4-4e81-93eb-4d1e32fa6d58> .
-<https://w3id.org/ssv/0.9/data/track/2019#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/17%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Der Zigeunerbaron, Ouvertüre\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Egyptischer Marsch, op. 335\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5e8a6238-0c53-4491-8818-6579e7bc6134> .
-<https://w3id.org/ssv/0.9/data/track/2019#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Tänzerin, op. 227\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/11%20-%20Opern-Soir%C3%A9e%2C%20op.%20162%20-%20Eduard%20Strauss.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/736e3600-3b0b-4067-86cc-59908635a3cb> .
-<https://w3id.org/ssv/0.9/data/track/2019#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Schönfeld-Marsch, op. 422\"" .
-<https://w3id.org/ssv/0.9/data/track/2019#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/3eb1939d-881a-45ea-95e6-dbb26521d56f> .
-<https://w3id.org/ssv/0.9/data/track/2019#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/07%20-%20Der%20Zigeunerbaron%2C%20Ouvert%C3%BCre%20-%20Johann%20Strauss%20II.wav> .
-<https://w3id.org/ssv/0.9/data/track/2019#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<https://w3id.org/ssv/0.9/data/track/2019#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a3dcc504-bcac-40d8-af6e-d9aaa5a5ccf1> .
-<https://w3id.org/ssv/0.9/data/track/2019#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4d13c9ee-9f5d-4001-9264-60ca133f4872> .
-<https://w3id.org/ssv/0.9/data/track/2019#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
-<https://w3id.org/ssv/0.9/data/track/2019#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bef2f7d4-57cc-471f-8afd-e404933c3e5a> .
+<https://w3id.org/ssv/data/track/2019#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/12%20-%20Eva-Walzer%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#18> <http://purl.org/ontology/mo/track_number> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#21> <http://purl.org/ontology/mo/track_number> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/05%20-%20Nordseebilder%2C%20op.%20390%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#19> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/0e368c8f-f1d8-456c-8aee-fd47e4cce486> .
+<https://w3id.org/ssv/data/track/2019#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Bajadere, op. 351\"" .
+<https://w3id.org/ssv/data/track/2019#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/01%20-%20Sch%C3%B6nfeld-Marsch%2C%20op.%20422%20-%20Carl%20Michael%20Ziehrer.wav> .
+<https://w3id.org/ssv/data/track/2019#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/956cb899-a13a-4340-9019-b618321f93d9> .
+<https://w3id.org/ssv/data/track/2019#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/dac23736-35d2-4bb2-bcd5-412a126c475d> .
+<https://w3id.org/ssv/data/track/2019#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/10%20-%20Die%20Bajadere%2C%20op.%20351%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#17> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Sphärenklänge, op. 235\"" .
+<https://w3id.org/ssv/data/track/2019#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8a26929a-3a44-419c-b691-250aa60f1fc6> .
+<https://w3id.org/ssv/data/track/2019#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Opern-Soirée, op. 162\"" .
+<https://w3id.org/ssv/data/track/2019#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/651b7b99-9086-413a-aab3-bf47b52c4cf5> .
+<https://w3id.org/ssv/data/track/2019#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Nordseebilder, op. 390\"" .
+<https://w3id.org/ssv/data/track/2019#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Elfenreigen" .
+<https://w3id.org/ssv/data/track/2019#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#21> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, op. 228\"" .
+<https://w3id.org/ssv/data/track/2019#18> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/18%20-%20Im%20Sturmschritt%2C%20op.%20348%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/15%20-%20Entr%27acte%20Valse%20-%20Josef%20Hellmesberger%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Lob der Frauen, op. 315\"" .
+<https://w3id.org/ssv/data/track/2019#21> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9e18e388-8034-4702-a896-954b47493ae5> .
+<https://w3id.org/ssv/data/track/2019#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#19> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/14aac9f0-e72f-4e3d-98ee-41c153145207> .
+<https://w3id.org/ssv/data/track/2019#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Entr'acte Valse\"" .
+<https://w3id.org/ssv/data/track/2019#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Künstlerleben, op. 316\"" .
+<https://w3id.org/ssv/data/track/2019#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a8aa1048-ec27-4c39-bd83-650df8b24b28> .
+<https://w3id.org/ssv/data/track/2019#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/16%20-%20Lob%20der%20Frauen%2C%20op.%20315%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/02%20-%20Transactionen%2C%20op.%20184%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/2019#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/13%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20P%C3%A1sm%C3%A1n%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Eva-Walzer aus 'Ritter Pásmán'\"" .
+<https://w3id.org/ssv/data/track/2019#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/fa839109-20eb-4504-aa8a-c6a713751a03> .
+<https://w3id.org/ssv/data/track/2019#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#18> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b0b9a7bf-c88a-4e58-9de0-419c4df5987d> .
+<https://w3id.org/ssv/data/track/2019#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/437e21d8-7ff2-4fc2-a78f-efc0f980b123> .
+<https://w3id.org/ssv/data/track/2019#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#20> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Csárdás aus 'Ritter Pásmán'\"" .
+<https://w3id.org/ssv/data/track/2019#19> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Neujahrsgruß" .
+<https://w3id.org/ssv/data/track/2019#21> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/data/track/2019#18> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Sturmschritt, op. 348\"" .
+<https://w3id.org/ssv/data/track/2019#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f4f39fba-855a-4dd3-88c5-fdf2e54dcd7e> .
+<https://w3id.org/ssv/data/track/2019#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Mit Extrapost, op. 259\"" .
+<https://w3id.org/ssv/data/track/2019#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8b5592e2-25c6-45fe-bd3e-e0c1d4555fea> .
+<https://w3id.org/ssv/data/track/2019#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/14%20-%20Egyptischer%20Marsch%2C%20op.%20335%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Transactionen, op. 184\"" .
+<https://w3id.org/ssv/data/track/2019#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#19> <http://purl.org/ontology/mo/track_number> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/03%20-%20Elfenreigen%20-%20Josef%20Hellmesberger%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/09%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/04%20-%20Express%2C%20op.%20311%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Express, op. 311\"" .
+<https://w3id.org/ssv/data/track/2019#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d8c2e405-4658-4155-9e82-d785f4b3db4e> .
+<https://w3id.org/ssv/data/track/2019#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/08%20-%20Die%20T%C3%A4nzerin%2C%20op.%20227%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/2019#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/06%20-%20Mit%20Extrapost%2C%20op.%20259%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/2019#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/54a93dc1-5af4-4e81-93eb-4d1e32fa6d58> .
+<https://w3id.org/ssv/data/track/2019#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/17%20-%20Sph%C3%A4renkl%C3%A4nge%2C%20op.%20235%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/2019#17> <http://purl.org/ontology/mo/track_number> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Der Zigeunerbaron, Ouvertüre\"" .
+<https://w3id.org/ssv/data/track/2019#20> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, op. 314\"" .
+<https://w3id.org/ssv/data/track/2019#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Egyptischer Marsch, op. 335\"" .
+<https://w3id.org/ssv/data/track/2019#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5e8a6238-0c53-4491-8818-6579e7bc6134> .
+<https://w3id.org/ssv/data/track/2019#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Tänzerin, op. 227\"" .
+<https://w3id.org/ssv/data/track/2019#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/11%20-%20Opern-Soir%C3%A9e%2C%20op.%20162%20-%20Eduard%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/2019#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#17> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/736e3600-3b0b-4067-86cc-59908635a3cb> .
+<https://w3id.org/ssv/data/track/2019#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Schönfeld-Marsch, op. 422\"" .
+<https://w3id.org/ssv/data/track/2019#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/3eb1939d-881a-45ea-95e6-dbb26521d56f> .
+<https://w3id.org/ssv/data/track/2019#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/2019/07%20-%20Der%20Zigeunerbaron%2C%20Ouvert%C3%BCre%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/2019#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#20> <http://purl.org/ontology/mo/track_number> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/2019#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a3dcc504-bcac-40d8-af6e-d9aaa5a5ccf1> .
+<https://w3id.org/ssv/data/track/2019#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4d13c9ee-9f5d-4001-9264-60ca133f4872> .
+<https://w3id.org/ssv/data/track/2019#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/2019#20> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bef2f7d4-57cc-471f-8afd-e404933c3e5a> .

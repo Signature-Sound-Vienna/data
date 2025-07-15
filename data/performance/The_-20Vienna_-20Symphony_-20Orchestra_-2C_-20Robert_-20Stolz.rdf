@@ -4,9 +4,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/performance/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
-    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13"/>
+    <ns1:recorded_as rdf:resource="https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13"/>
     <ns1:performance_of rdf:resource="http://musicbrainz.org/work/0d9e25d6-cdc5-4201-9099-82dd6f0be680"/>
     <rdfs:label>Performance: "You And You Waltz"</rdfs:label>
   </rdf:Description>

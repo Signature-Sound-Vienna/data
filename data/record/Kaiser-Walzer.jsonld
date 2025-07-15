@@ -1,36 +1,36 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/record/Kaiser-Walzer",
+    "@id": "https://w3id.org/ssv/data/record/Kaiser-Walzer",
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#1"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#1"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#2"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#3"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#3"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#4"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#4"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#5"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#5"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#6"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#6"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#7"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#8"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/Kaiser-Walzer#9"
+        "@id": "https://w3id.org/ssv/data/track/Kaiser-Walzer#9"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [

@@ -5,25 +5,25 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>Neujahrskonzert</dcterms:title>
     <rdfs:label>Release: Neujahrskonzert</rdfs:label>
     <rdfs:label>Record: Neujahrskonzert</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13"/>
+    <ns1:record rdf:resource="https://w3id.org/ssv/data/record/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13"/>
   </rdf:Description>
 </rdf:RDF>

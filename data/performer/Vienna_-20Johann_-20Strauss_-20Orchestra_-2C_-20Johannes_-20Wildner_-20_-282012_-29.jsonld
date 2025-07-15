@@ -1,6 +1,6 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/performer/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#11",
+    "@id": "https://w3id.org/ssv/data/performer/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#11",
     "@type": [
       "http://purl.org/ontology/mo/MusicArtist"
     ],
@@ -11,7 +11,7 @@
     ],
     "http://purl.org/ontology/mo/performed": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/performance/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#11"
+        "@id": "https://w3id.org/ssv/data/performance/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#11"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [

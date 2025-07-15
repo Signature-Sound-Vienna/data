@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performer/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/performer/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/MusicArtist"/>
-    <ns1:performed rdf:resource="https://w3id.org/ssv/0.9/data/performance/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11"/>
+    <ns1:performed rdf:resource="https://w3id.org/ssv/data/performance/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11"/>
     <foaf:name>"Johann Strauss (Vater)"</foaf:name>
     <rdfs:label>Performer: "Johann Strauss (Vater)"</rdfs:label>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/artist/725fb443-0a26-42f8-b4b7-5257b3a61eb5"/>

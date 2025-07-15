@@ -2,23 +2,23 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-<https://w3id.org/ssv/0.9/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> a ns1:Release ;
+<https://w3id.org/ssv/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> a ns1:Release ;
     rdfs:label "Record: \"Strauss Waltzes\"",
         "Release: \"Strauss Waltzes\"" ;
     dcterms:title "\"Strauss Waltzes\"" ;
     ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#11>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#12>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#2>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#3>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#4>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#5>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#6>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8>,
-        <https://w3id.org/ssv/0.9/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> .
+    ns1:publication_of <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#11>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#12>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#2>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#3>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#4>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#5>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#6>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8>,
+        <https://w3id.org/ssv/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9> ;
+    ns1:record <https://w3id.org/ssv/data/record/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> .
 

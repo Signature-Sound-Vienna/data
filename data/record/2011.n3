@@ -1,27 +1,27 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/2011> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/2011#1>,
-        <https://w3id.org/ssv/0.9/data/track/2011#10>,
-        <https://w3id.org/ssv/0.9/data/track/2011#11>,
-        <https://w3id.org/ssv/0.9/data/track/2011#12>,
-        <https://w3id.org/ssv/0.9/data/track/2011#13>,
-        <https://w3id.org/ssv/0.9/data/track/2011#14>,
-        <https://w3id.org/ssv/0.9/data/track/2011#15>,
-        <https://w3id.org/ssv/0.9/data/track/2011#16>,
-        <https://w3id.org/ssv/0.9/data/track/2011#17>,
-        <https://w3id.org/ssv/0.9/data/track/2011#18>,
-        <https://w3id.org/ssv/0.9/data/track/2011#19>,
-        <https://w3id.org/ssv/0.9/data/track/2011#2>,
-        <https://w3id.org/ssv/0.9/data/track/2011#20>,
-        <https://w3id.org/ssv/0.9/data/track/2011#21>,
-        <https://w3id.org/ssv/0.9/data/track/2011#3>,
-        <https://w3id.org/ssv/0.9/data/track/2011#4>,
-        <https://w3id.org/ssv/0.9/data/track/2011#5>,
-        <https://w3id.org/ssv/0.9/data/track/2011#6>,
-        <https://w3id.org/ssv/0.9/data/track/2011#7>,
-        <https://w3id.org/ssv/0.9/data/track/2011#8>,
-        <https://w3id.org/ssv/0.9/data/track/2011#9> ;
+<https://w3id.org/ssv/data/record/2011> a ns1:Record ;
+    ns1:track <https://w3id.org/ssv/data/track/2011#1>,
+        <https://w3id.org/ssv/data/track/2011#10>,
+        <https://w3id.org/ssv/data/track/2011#11>,
+        <https://w3id.org/ssv/data/track/2011#12>,
+        <https://w3id.org/ssv/data/track/2011#13>,
+        <https://w3id.org/ssv/data/track/2011#14>,
+        <https://w3id.org/ssv/data/track/2011#15>,
+        <https://w3id.org/ssv/data/track/2011#16>,
+        <https://w3id.org/ssv/data/track/2011#17>,
+        <https://w3id.org/ssv/data/track/2011#18>,
+        <https://w3id.org/ssv/data/track/2011#19>,
+        <https://w3id.org/ssv/data/track/2011#2>,
+        <https://w3id.org/ssv/data/track/2011#20>,
+        <https://w3id.org/ssv/data/track/2011#21>,
+        <https://w3id.org/ssv/data/track/2011#3>,
+        <https://w3id.org/ssv/data/track/2011#4>,
+        <https://w3id.org/ssv/data/track/2011#5>,
+        <https://w3id.org/ssv/data/track/2011#6>,
+        <https://w3id.org/ssv/data/track/2011#7>,
+        <https://w3id.org/ssv/data/track/2011#8>,
+        <https://w3id.org/ssv/data/track/2011#9> ;
     ns1:track_count 22 .
 

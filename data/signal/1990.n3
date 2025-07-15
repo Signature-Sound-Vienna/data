@@ -1,59 +1,59 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/0.9/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#1> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#1> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/1.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#1> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#1> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/1.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#10> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#10> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/10.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#10> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#10> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/10.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#11> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#11> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/11.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#11> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#11> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/11.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#12> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#12> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/12.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#12> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#12> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/12.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#13> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#13> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/13.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#13> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#13> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/13.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#14> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#14> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/14.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#14> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#14> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/14.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#2> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#2> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/2.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#2> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#2> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/2.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#3> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#3> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/3.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#3> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#3> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/3.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#4> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#4> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/4.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#4> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#4> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/4.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#5> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#5> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/5.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#5> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#5> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/5.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#6> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#6> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/6.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#6> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#6> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/6.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#7> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#7> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/7.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#7> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#7> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/7.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#8> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#8> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/8.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#8> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#8> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/8.peaks.json> .
 
-<https://w3id.org/ssv/0.9/data/signal/1990#9> a ns1:Signal ;
-    ns1:published_as <https://w3id.org/ssv/0.9/data/track/1990#9> ;
-    ns2:peaks <https://w3id.org/ssv/0.9/data/peaks/1990/9.peaks.json> .
+<https://w3id.org/ssv/data/signal/1990#9> a ns1:Signal ;
+    ns1:published_as <https://w3id.org/ssv/data/track/1990#9> ;
+    ns2:peaks <https://w3id.org/ssv/data/peaks/1990/9.peaks.json> .
 
