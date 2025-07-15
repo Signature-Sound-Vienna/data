@@ -1,5 +1,5 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/vocab#> .
 
 <https://w3id.org/ssv/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/data/track/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1> ;

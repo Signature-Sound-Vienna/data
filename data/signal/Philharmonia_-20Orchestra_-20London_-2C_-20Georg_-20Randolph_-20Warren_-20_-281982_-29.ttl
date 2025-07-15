@@ -1,4 +1,4 @@
-@prefix ns1: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
 <https://w3id.org/ssv/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1> a ns2:Signal ;

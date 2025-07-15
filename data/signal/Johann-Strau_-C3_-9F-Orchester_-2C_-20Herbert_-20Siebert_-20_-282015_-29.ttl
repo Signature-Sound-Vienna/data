@@ -1,5 +1,5 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/vocab#> .
 
 <https://w3id.org/ssv/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1> ;

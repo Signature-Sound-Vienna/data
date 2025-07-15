@@ -1,4 +1,4 @@
-@prefix ns1: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
 <https://w3id.org/ssv/data/signal/2018#1> a ns2:Signal ;

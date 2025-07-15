@@ -1,5 +1,5 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/vocab#> .
 
 <https://w3id.org/ssv/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-205_-20-_-20Bruckner_-20Symphony_-20No._-207#1> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/data/track/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-205_-20-_-20Bruckner_-20Symphony_-20No._-207#1> .
