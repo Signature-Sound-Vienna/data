@@ -1,4 +1,4 @@
-@prefix ns1: <https://w3id.org/ssv/TISMIR/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/data/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
 <https://w3id.org/ssv/TISMIR/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1> a ns2:Signal ;

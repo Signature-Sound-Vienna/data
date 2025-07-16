@@ -1,5 +1,5 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/TISMIR/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
 
 <https://w3id.org/ssv/TISMIR/data/signal/1993#1> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/1993#1> ;
