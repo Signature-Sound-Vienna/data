@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "oa": "http://www.w3.org/ns/oa#",
+    "anno": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/oa/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/selection/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "dcterms:creator": {
+    "@id": "https://orcid.org/0000-0002-2055-273X",
+    "rdfs:label": "Dr. Chanda VanderHart"
+  },
+  "@type": "oa:Annotation",
+  "@id": "anno:ExSph.jsonld",
+  "oa:motivatedBy": "mao:commentary",
+  "oa:hasBody": [
+    {
+      "@type": "oa:TextualBody",
+      "rdf:value": "In the coda of the waltz there is a surprising piano marking following an upwards swell leading up to bar 255 which is completely ignored by the VPO in early recordings where they do not reduce the dynamic level at all, and simply march through, more or less in tempo. The reason for this is unknown -- perhaps the dynamic was seen as illogical -- it is certainly unusual from a musical perspective -- perhaps it was not written in the scores the ensemble accessed at the time, or perhaps it was simply overlooked. First with the 1987 performance under Herbert von Karajan is this dynamic shift taken seriously; Karajan builds in a ritardando starting in the prior bar  to lead into the dynamic shift organically, then calls for a much sweeter, less martial feeling, making the section emulate a melancholy reminiscence instead of a triumph. This seems to have set the tone, as all VPO recordings following in 1987 utilize the same approach. There is a strong argument to be made that this interpretation was something Karajan brought to the VPO; in his recording with the Berlin Philharmonic of Sphärenklänge back in 1971 he takes the same tack."
+    }
+  ],
+  "oa:hasTarget": [
+    {
+      "@id": "musMat:ExSph.jsonld"
+    }
+  ]
+}
