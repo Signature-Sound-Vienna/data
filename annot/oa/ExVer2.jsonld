@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "oa": "http://www.w3.org/ns/oa#",
+    "anno": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/oa/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/selection/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "dcterms:creator": {
+    "@id": "https://orcid.org/0000-0002-2055-273X",
+    "rdfs:label": "Dr. Chanda VanderHart"
+  },
+  "@type": "oa:Annotation",
+  "@id": "anno:ExVer2.jsonld",
+  "oa:motivatedBy": "mao:commentary",
+  "oa:hasBody": [
+    {
+      "@type": "oa:TextualBody",
+      "rdf:value": "The Boskovsky-era New Years’ concerts were famous for their relative irreverence, the bulk of which was instigated by percussionist Franz Broschek. The Vergnügungszug recording dating from this era involves several unscored interventions, including Broschek 'tuning' the Kondukteurhorn at the openings, and adding an impromptu Kondukteurhorn blast at the very end of the piece as well. He also adds an unscored interruption at the end of first ending of the trio by blowing a whistle and holding up a small signal indicating a halt in the place in the score indicated here, at the end of bar 94. The Neujahrsrede follows, led by Boskovsky, with ensemble responding 'Prosit, Neujahr!' Thereafter the repeat in the score is taken and the piece continues. This exact dramaturgy was reenacted by conductor Andrea Colombini with the Lucca Philharmonic Orchestra for their New Year's Eve concert on 31 December 2011. They employ a wood-block train whistle, long and rectangular in shape instead of a horn of any kind, but 'tune' it before the piece begins (just like Broschek), and Colombini stops the orchestra with a whistle in exactly the same place, right before the trio, wishing the audience 'Buon Anno' and even sounding the whistle one more time after the piece has ended."
+    }
+  ],
+  "oa:hasTarget": [
+    {
+      "@id": "musMat:ExVer2.jsonld"
+    }
+  ]
+}
