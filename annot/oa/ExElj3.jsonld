@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "oa": "http://www.w3.org/ns/oa#",
+    "anno": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/oa/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/selection/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "dcterms:creator": {
+    "@id": "https://orcid.org/0000-0002-2055-273X",
+    "rdfs:label": "Dr. Chanda VanderHart"
+  },
+  "@type": "oa:Annotation",
+  "@id": "anno:ExElj3.jsonld",
+  "oa:motivatedBy": "mao:commentary",
+  "oa:hasBody": [
+    {
+      "@type": "oa:TextualBody",
+      "rdf:value": "Only two of our recordings follow the form laid out in the critical edition score by scholar Michael Rot in the Neue Johann Strauss Gesamtausgabe, neither of which are the Vienna Philharmonic Orchestra. Matthias Georg Kendlinger's Tyrolian K & K Philharmoniker recorded one such version in 2010, and the Wiener Johann Strauss Orchester under specialist Alfred Echwé provide the other."
+    }
+  ],
+  "oa:hasTarget": [
+    {
+      "@id": "musMat:ExElj3.jsonld"
+    }
+  ]
+}
