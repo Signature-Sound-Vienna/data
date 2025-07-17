@@ -1,0 +1,233 @@
+{
+  "@context": {
+    "ssv": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/selection/",
+    "schema": "https://schema.org/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/"
+  },
+  "@id": "selection:ExFled.jsonld",
+  "@type": [
+    "mao:Selection",
+    "schema:Dataset"
+  ],
+  "dcterms:created": "2024-05-28T11:11:39.054Z",
+  "dcterms:creator": {
+    "@id": "https://ssv.solidcommunity.net/profile/card#me"
+  },
+  "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
+  "frbr:part": [
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ngssgmk"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n8bblqg"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n7affzd"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nm40kkt"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nrj2re"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ns11ksx"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ri1kzn7"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rbcopbq"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n27wm41"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n78n2rn"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nswaot0"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nndfn8m"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nwwth4f"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nz5ee50"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rh4io4f"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rcda79x"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n4z5myf"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n1ow9hs"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n8395y9"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n7w6hs9"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#njbmxct"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#na9bcls"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#r9d81ig"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rofguf1"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n60cxbn"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n8uymog"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n6ayi5m"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n3kuqlw"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nr111w5"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#sa9y8ju"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rshzgzd"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n5lrx6e"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#na6q7ax"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ndcsoqn"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rb7emke"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nse9je"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#snyylia"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n691z2s"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nbk7pi0"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n5h471d"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#saprphs"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#r9om0wr"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nke1z6f"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n39evw3"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ngqc4n2"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rk2h1d6"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n4n4dpt"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#skv7j8y"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nj9ysql"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nge9ezh"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n2xuhq3"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#s9sjg44"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ru5p4lg"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nab2zkf"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n87oh8g"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n37av55"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#rmjcq05"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nfqgaus"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#spl472w"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nurlrd7"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#npr8p2z"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n42bd3j"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#sksubho"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#r11jcmq"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#nhdggl4"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#ngv807t"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#n2evd9f"
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei#na2cueb"
+    }
+  ],
+  "rdfs:label": "TISMIR Example 5.2.3 (Fledermaus overture)",
+  "schema:about": {
+    "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Fledermaus-Ouverture_Eulenburg/main/Fledermaus-Ouverture-Eulenburg.mei"
+  }
+}
