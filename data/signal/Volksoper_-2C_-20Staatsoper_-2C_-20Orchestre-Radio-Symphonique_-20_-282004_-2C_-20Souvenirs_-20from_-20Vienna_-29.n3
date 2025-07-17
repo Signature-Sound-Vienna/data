@@ -1,4 +1,4 @@
-@prefix ns1: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns1: <https://w3id.org/ssv/vocab#> .
 @prefix ns2: <http://purl.org/ontology/mo/> .
 
 <https://w3id.org/ssv/TISMIR/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1> a ns2:Signal ;

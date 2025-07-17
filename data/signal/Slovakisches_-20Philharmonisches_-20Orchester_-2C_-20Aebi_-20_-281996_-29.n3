@@ -1,5 +1,5 @@
 @prefix ns1: <http://purl.org/ontology/mo/> .
-@prefix ns2: <https://w3id.org/ssv/data/vocab#> .
+@prefix ns2: <https://w3id.org/ssv/vocab#> .
 
 <https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1> ;
