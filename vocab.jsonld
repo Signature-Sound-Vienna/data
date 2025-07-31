@@ -1,0 +1,8 @@
+{
+  "@id": "https://w3id.org/ssv/vocab#peaks",
+  "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+  "http://www.w3.org/2000/01/rdf-schema#domain": {
+    "@id": "http://purl.org/ontology/mo/Signal"
+  },
+  "http://www.w3.org/2000/01/rdf-schema#label": "Associates a Signal as defined by the Music Ontology with peaks (waveform envelope) features, suitable, e.g., to visualise the waveform where the signal itself is unavailable due to copyright restrictions."
+}
