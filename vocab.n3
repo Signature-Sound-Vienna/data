@@ -1,0 +1,8 @@
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssv: <https://w3id.org/ssv/vocab#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .  
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ssv:peaks a rdf:Property ;
+  rdfs:domain mo:Signal ;
+  rdfs:label "Associates a Signal as defined by the Music Ontology with peaks (waveform envelope) features, suitable, e.g., to visualise the waveform where the signal itself is unavailable due to copyright restrictions." .

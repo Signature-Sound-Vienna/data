@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ssv": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/selection/",
+    "schema": "https://schema.org/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "tl": "http://purl.org/NET/c4dm/timeline.owl#"
+  },
+  "@id": "selection:ExampleG-audio2.jsonld",
+  "@type": [
+    "mao:Selection",
+    "schema:Dataset"
+  ],
+  "dcterms:created": "2024-05-27T13:55:58.231Z",
+  "dcterms:creator": {
+    "@id": "https://ssv.solidcommunity.net/profile/card#me"
+  },
+  "frbr:part": [
+    {
+      "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202/01-Kaiser-Walzer.wav#t=282.74,289.64",
+      "@type": "tl:Interval",
+      "tl:onTimeLine": {
+        "@id": "https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"
+      }
+    }
+  ],
+  "rdfs:label": "Example G: Falk, Orchester der Wiener Volksoper (1988)",
+  "schema:about": {
+    "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
+  }
+}

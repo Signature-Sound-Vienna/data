@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:mo="http://purl.org/ontology/mo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:ssv="https://w3id.org/ssv/vocab#">
+  <rdf:Description rdf:about="https://w3id.org/ssv/vocab#peaks">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/vocab#peaks">
+    <rdfs:domain rdf:resource="http://purl.org/ontology/mo/Signal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/vocab#peaks">
+    <rdfs:label>Associates a Signal as defined by the Music Ontology with peaks (waveform envelope) features, suitable, e.g., to visualise the waveform where the signal itself is unavailable due to copyright restrictions.</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ssv": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/hand/annot/mao/selection/",
+    "schema": "https://schema.org/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "tl": "http://purl.org/NET/c4dm/timeline.owl#"
+  },
+  "@id": "selection:ExampleG-audio1.jsonld",
+  "@type": [
+    "mao:Selection",
+    "schema:Dataset"
+  ],
+  "dcterms:created": "2024-05-27T13:55:58.231Z",
+  "dcterms:creator": {
+    "@id": "https://ssv.solidcommunity.net/profile/card#me"
+  },
+  "frbr:part": [
+    {
+      "@id": "https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/02-The%20Emperor%20Waltz%2COP.437.wav#t=281.48,288.87",
+      "@type": "tl:Interval",
+      "tl:onTimeLine": {
+        "@id": "https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2"
+      }
+    }
+  ],
+  "rdfs:label": "Example G: Bernstein, New York Philharmonic (1982)",
+  "schema:about": {
+    "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
+  }
+}

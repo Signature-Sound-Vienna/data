@@ -1,0 +1,81 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/release/1995",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"1995 New Year's Concert\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1995#16"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/record/1995"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"1995 New Year's Concert\""
+      },
+      {
+        "@value": "Record: \"1995 New Year's Concert\""
+      }
+    ]
+  }
+]
