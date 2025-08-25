@@ -1,5 +1,32 @@
 [
   {
+    "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/01-The%20Blue%20Danube%20Waltz%2COP.314.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/2b689f58-8fbe-4fd6-8fa4-b5a9884f4528"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"The Blue Danube Waltz, op. 314\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -27,51 +54,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/2b689f58-8fbe-4fd6-8fa4-b5a9884f4528"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"The Blue Danube Waltz, op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4",
+    "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/04-Artist%27s%20Life%2COP.316.wav"
+        "@id": "https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/02-The%20Emperor%20Waltz%2COP.437.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5e177c46-a933-48c1-9bce-efe2eb45881f"
+        "@id": "https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Artist's Life, op. 316\""
+        "@value": "Track: \"The Emperor Waltz, op. 437\""
       }
     ]
   },
@@ -103,29 +108,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2",
+    "@id": "https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/02-The%20Emperor%20Waltz%2COP.437.wav"
+        "@id": "https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/04-Artist%27s%20Life%2COP.316.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/d19a9ecc-4a9c-4aa2-9a98-31c67789e7ed"
+        "@id": "https://musicbrainz.org/track/5e177c46-a933-48c1-9bce-efe2eb45881f"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"The Emperor Waltz, op. 437\""
+        "@value": "Track: \"Artist's Life, op. 316\""
       }
     ]
   }

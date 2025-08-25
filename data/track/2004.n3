@@ -75,20 +75,20 @@
     ns1:track_number 2 .
 
 <https://w3id.org/ssv/data/track/2004#20> a ns1:Track ;
-    rdfs:label "Track: \"New Year ́s Address\"" ;
+    rdfs:label "Track: \"New Year's Address\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/2004/19%20-%20Indianer-Galopp%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/245039d2-118b-48d3-9a00-e64c177b4b05> ;
     ns1:track_number 20 .
 
 <https://w3id.org/ssv/data/track/2004#21> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, Walzer\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/2004/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/2004/21%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/b7714abc-daa7-4c4e-bdba-9d0118fd06ad> ;
     ns1:track_number 21 .
 
 <https://w3id.org/ssv/data/track/2004#22> a ns1:Track ;
     rdfs:label "Track: Radetzky-Marsch" ;
-    ns1:available_as <https://w3id.org/ssv/audio/2004/21%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/2004/22%20-%20Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/c16bcc16-e0ee-47f4-9414-ed1c9278736a> ;
     ns1:track_number 22 .
 

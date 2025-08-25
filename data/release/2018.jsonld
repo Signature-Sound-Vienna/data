@@ -6,7 +6,7 @@
     ],
     "http://purl.org/dc/terms/title": [
       {
-        "@value": "\"Neujahrskonzert / New Year ́s Concert 2018\""
+        "@value": "\"Neujahrskonzert / New Year´s Concert 2018\""
       }
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
@@ -15,9 +15,6 @@
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
-      {
-        "@id": "https://w3id.org/ssv/data/signal/2018#1"
-      },
       {
         "@id": "https://w3id.org/ssv/data/signal/2018#2"
       },
@@ -74,6 +71,9 @@
       },
       {
         "@id": "https://w3id.org/ssv/data/signal/2018#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/2018#21"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -83,10 +83,10 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Release: \"Neujahrskonzert / New Year ́s Concert 2018\""
+        "@value": "Release: \"Neujahrskonzert / New Year´s Concert 2018\""
       },
       {
-        "@value": "Record: \"Neujahrskonzert / New Year ́s Concert 2018\""
+        "@value": "Record: \"Neujahrskonzert / New Year´s Concert 2018\""
       }
     ]
   }

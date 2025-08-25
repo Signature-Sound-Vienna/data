@@ -1,49 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/signal/2003#8",
+    "@id": "https://w3id.org/ssv/data/signal/2003#9",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/2003#8"
+        "@id": "https://w3id.org/ssv/data/track/2003#9"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/8.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#22",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#22"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/22.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#17"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/17.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/2003/9.peaks.json"
       }
     ]
   },
@@ -64,54 +32,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/2003#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#7"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/7.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#11"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/11.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#3"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/3.peaks.json"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/signal/2003#19",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -128,22 +48,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/2003#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#9"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/9.peaks.json"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/signal/2003#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -151,22 +55,6 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/data/track/2003#1"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#2"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/2.peaks.json"
       }
     ]
   },
@@ -187,38 +75,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/2003#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#12"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/12.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#23",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#23"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/23.peaks.json"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/signal/2003#15",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -231,22 +87,6 @@
     "https://w3id.org/ssv/vocab#peaks": [
       {
         "@id": "https://w3id.org/ssv/data/peaks/2003/15.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/2003#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/2003#14"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/14.peaks.json"
       }
     ]
   },
@@ -267,6 +107,22 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/signal/2003#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#16"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/16.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/signal/2003#13",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -283,18 +139,66 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/2003#16",
+    "@id": "https://w3id.org/ssv/data/signal/2003#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/2003#16"
+        "@id": "https://w3id.org/ssv/data/track/2003#7"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/16.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/2003/7.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#10"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/10.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#22"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/22.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#3"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/3.peaks.json"
       }
     ]
   },
@@ -315,6 +219,22 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/signal/2003#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#8"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/8.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/signal/2003#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -331,18 +251,98 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/2003#10",
+    "@id": "https://w3id.org/ssv/data/signal/2003#14",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/2003#10"
+        "@id": "https://w3id.org/ssv/data/track/2003#14"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/2003/10.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/2003/14.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#2"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/2.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#23",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#23"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/23.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#12"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/12.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#11"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/11.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/2003#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/2003#17"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/2003/17.peaks.json"
       }
     ]
   },

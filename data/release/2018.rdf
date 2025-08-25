@@ -7,12 +7,11 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/data/release/2018">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Neujahrskonzert / New Year ́s Concert 2018"</dcterms:title>
-    <rdfs:label>Release: "Neujahrskonzert / New Year ́s Concert 2018"</rdfs:label>
-    <rdfs:label>Record: "Neujahrskonzert / New Year ́s Concert 2018"</rdfs:label>
+    <dcterms:title>"Neujahrskonzert / New Year´s Concert 2018"</dcterms:title>
+    <rdfs:label>Release: "Neujahrskonzert / New Year´s Concert 2018"</rdfs:label>
+    <rdfs:label>Record: "Neujahrskonzert / New Year´s Concert 2018"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/data/record/2018"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#1"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#2"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#3"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#4"/>
@@ -32,5 +31,6 @@
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#18"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#19"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#20"/>
+    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2018#21"/>
   </rdf:Description>
 </rdf:RDF>

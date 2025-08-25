@@ -1,0 +1,51 @@
+@prefix ns1: <https://w3id.org/ssv/vocab#> .
+@prefix ns2: <http://purl.org/ontology/mo/> .
+
+<https://w3id.org/ssv/data/signal/1979#1> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#1> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/1.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#10> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#10> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/10.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#11> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#11> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/11.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#12> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#12> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/12.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#2> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#2> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/2.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#3> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#3> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/3.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#4> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#4> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/4.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#5> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#5> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/5.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#6> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#6> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/6.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#7> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#7> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/7.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#8> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#8> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/8.peaks.json> .
+
+<https://w3id.org/ssv/data/signal/1979#9> a ns2:Signal ;
+    ns2:published_as <https://w3id.org/ssv/data/track/1979#9> ;
+    ns1:peaks <https://w3id.org/ssv/data/peaks/1979/9.peaks.json> .
+

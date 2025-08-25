@@ -1,5 +1,21 @@
 [
   {
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/5.peaks.json"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#6",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
@@ -16,34 +32,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7",
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#10",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7"
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#10"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/7.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/5.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/10.peaks.json"
       }
     ]
   },
@@ -64,34 +64,50 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8",
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8"
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/8.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/1.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9",
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#11",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9"
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#11"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/9.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/11.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#4"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/4.peaks.json"
       }
     ]
   },
@@ -128,66 +144,50 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#4",
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#4"
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/4.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/8.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#10",
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#10"
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/10.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/7.peaks.json"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#11",
+    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#11"
+        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/11.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/1.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/9.peaks.json"
       }
     ]
   }

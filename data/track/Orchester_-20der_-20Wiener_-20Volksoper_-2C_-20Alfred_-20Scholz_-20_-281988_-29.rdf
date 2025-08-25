@@ -4,19 +4,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#4">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#2">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Eljen A Magyar!"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/04-Eljen%20a%20Magyar%20op.%20332.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/829602dc-2e61-36da-8757-ca8efdd39d47"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: Liebeslieder</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/07-Liebeslieder%20op.%20114.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/29260429-0974-3ea7-bbb3-618daef746f0"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
+    <rdfs:label>Track: Annen-Polka</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/02-Annen-Polka%20op.%20117.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -24,6 +17,13 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
     <rdfs:label>Track: Schatz-Walzer</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/09-Schatz-Walzer%20op.%20418.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/05-An%20der%20schoenen%20blauen%20Donau%20op.%20314.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
@@ -39,13 +39,6 @@
     <rdfs:label>Track: "Perpetuum mobile"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/08-Perpetuum%20mobile%20op.%20257.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/0c4c2a4c-e21e-3ba0-b884-0a47b3d03efa"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/05-An%20der%20schoenen%20blauen%20Donau%20op.%20314.wav"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#3">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
     <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/ad4c2cc5-5469-3e6c-bc07-84156c9514ce"/>
@@ -60,11 +53,18 @@
     <rdfs:label>Track: "Wiener Blut"</rdfs:label>
     <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/01-Wiener%20Blut%20op.%20345.wav"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#2">
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#7">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/29260429-0974-3ea7-bbb3-618daef746f0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: Annen-Polka</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/02-Annen-Polka%20op.%20117.wav"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/829602dc-2e61-36da-8757-ca8efdd39d47"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
+    <rdfs:label>Track: Liebeslieder</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/07-Liebeslieder%20op.%20114.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f30f3235-c2ad-342c-9017-58fc592d73fb"/>
+    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
+    <rdfs:label>Track: "Eljen A Magyar!"</rdfs:label>
+    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29/04-Eljen%20a%20Magyar%20op.%20332.wav"/>
   </rdf:Description>
 </rdf:RDF>

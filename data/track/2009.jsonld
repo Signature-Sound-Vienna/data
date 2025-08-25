@@ -6,7 +6,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/01%20-%20Ouvert%C3%BCre%20aus%20%27Eine%20Nacht%20in%20Venedig%27%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/02%20-%20Ouvert%C3%BCre%20aus%20%27Eine%20Nacht%20in%20Venedig%27%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -27,137 +27,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#18",
+    "@id": "https://w3id.org/ssv/data/track/2009#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/17%20-%20So%20%C3%A4ngstlich%20sind%20wir%20nicht%21%2C%20Polka%20schnell%2C%20op.%20413%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/13%20-%20Alexandrinen-Polka%2C%20Polka%20francaise%2C%20op.%20198%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/43889172-d670-4693-b59c-d8aa1dc2b398"
+        "@id": "https://musicbrainz.org/track/ffc07cc1-bc59-4bb1-9767-26f7f55ea700"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
+        "@value": 13
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"So ängstlich sind wir nicht!, Polka schnell, op. 413\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/03%20-%20Annen-Polka%2C%20op.%20117%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c61625e9-d9d0-43fd-b689-4cf083fb2df6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Annen-Polka, op. 117\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/11%20-%20Zampa-Galopp%2C%20op.%2062%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5e1d2e8e-4b8c-4538-8352-fcab6320d581"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Zampa-Galopp, op. 62\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/07%20-%20Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/28971d7f-1583-4c05-ad0e-7e9b9b593a9e"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/02%20-%20M%C3%A4rchen%20aus%20dem%20Orient%2C%20Walzer%2C%20op.%20444%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/781307da-53eb-4fd3-a0e9-f4b658aca059"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Märchen aus dem Orient, Walzer, op. 444\""
+        "@value": "Track: \"Alexandrinen-Polka, Polka francaise, op. 198\""
       }
     ]
   },
@@ -168,7 +60,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/04%20-%20Schnellpost-Polka%2C%20Polka%20schnell%2C%20op.%20159%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/05%20-%20Schnellpost-Polka%2C%20Polka%20schnell%2C%20op.%20159%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -189,83 +81,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#20",
+    "@id": "https://w3id.org/ssv/data/track/2009#16",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/18%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/16%20-%20%C3%89ljen%20a%20Magyar%21%2C%20Polka%20schnell%2C%20op.%20332%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/f9830b67-c6bd-42e8-acee-252a7a5d0149"
+        "@id": "https://musicbrainz.org/track/5ae752d8-6f29-42c8-80eb-590d7ec3f220"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 20
+        "@value": 16
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"An der schönen, blauen Donau, Walzer, op. 314\""
+        "@value": "Track: \"Éljen a Magyar!, Polka schnell, op. 332\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#22",
+    "@id": "https://w3id.org/ssv/data/track/2009#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/03%20-%20M%C3%A4rchen%20aus%20dem%20Orient%2C%20Walzer%2C%20op.%20444%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5a85d736-78e1-49f9-9b87-02ec5c238cf7"
+        "@id": "https://musicbrainz.org/track/781307da-53eb-4fd3-a0e9-f4b658aca059"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 22
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Closing Credits\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#15",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/14%20-%20Sph%C3%A4renn-Kl%C3%A4nge%2C%20Walzer%2C%20op.%20235%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/21fa70b3-c258-4ea2-9d08-8c26b6404ac5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 15
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sphärenn-Klänge, Walzer, op. 235\""
+        "@value": "Track: \"Märchen aus dem Orient, Walzer, op. 444\""
       }
     ]
   },
@@ -276,7 +141,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/13%20-%20Unter%20Donner%20und%20Blitz%2C%20Polka%20schnell%2C%20op.%20324%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/14%20-%20Unter%20Donner%20und%20Blitz%2C%20Polka%20schnell%2C%20op.%20324%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -297,83 +162,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#6",
+    "@id": "https://w3id.org/ssv/data/track/2009#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/05%20-%20Rosen%20aus%20dem%20S%C3%BCden%2C%20Walzer%2C%20op.%20388%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/09%20-%20Einzugs-Marsch%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/d4efe0c2-e604-4ad3-b69c-890be7f110de"
+        "@id": "https://musicbrainz.org/track/f7da80ac-351a-4ccb-a95e-4b9d46930954"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Rosen aus dem Süden, Walzer, op. 388\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#17",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/16%20-%20Sinfonie%20Nr.%2045%20in%20fis-Moll%2C%20%27Abschiedssinfonie%27%20-%20Joseph%20Haydn.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/cdc75700-7919-4b14-a870-61dab666d792"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Sinfonie Nr. 45 in fis-Moll, 'Abschiedssinfonie'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#21",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1d2092a1-a8d3-4bea-8d44-c544af13da41"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch, op. 228 - Johann Strauss I\""
+        "@value": "Track: \"Einzugs-Marsch aus 'Der Zigeunerbaron'\""
       }
     ]
   },
@@ -384,7 +195,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/09%20-%20Schatz-Walzer%2C%20op.%20418%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/10%20-%20Schatz-Walzer%2C%20op.%20418%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -405,40 +216,13 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/06%20-%20Freikugeln%2C%20Polka%20schnell%2C%20op.%20326%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/56a32f59-c193-4495-b810-69b3c0f57e7c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Freikugeln, Polka schnell, op. 326\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/2009#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/10%20-%20Valse%20espagnole%20-%20Joseph%20Hellmesberger%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/11%20-%20Valse%20espagnole%20-%20Joseph%20Hellmesberger%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -455,6 +239,195 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Valse espagnole\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/18%20-%20So%20%C3%A4ngstlich%20sind%20wir%20nicht%21%2C%20Polka%20schnell%2C%20op.%20413%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/43889172-d670-4693-b59c-d8aa1dc2b398"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"So ängstlich sind wir nicht!, Polka schnell, op. 413\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#17",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/17%20-%20Sinfonie%20Nr.%2045%20in%20fis-Moll%2C%20%27Abschiedssinfonie%27%20-%20Joseph%20Haydn.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/cdc75700-7919-4b14-a870-61dab666d792"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Sinfonie Nr. 45 in fis-Moll, 'Abschiedssinfonie'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#22",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5a85d736-78e1-49f9-9b87-02ec5c238cf7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Closing Credits\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#20",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/20%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f9830b67-c6bd-42e8-acee-252a7a5d0149"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 20
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen, blauen Donau, Walzer, op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/12%20-%20Zampa-Galopp%2C%20op.%2062%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/5e1d2e8e-4b8c-4538-8352-fcab6320d581"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Zampa-Galopp, op. 62\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/06%20-%20Rosen%20aus%20dem%20S%C3%BCden%2C%20Walzer%2C%20op.%20388%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d4efe0c2-e604-4ad3-b69c-890be7f110de"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rosen aus dem Süden, Walzer, op. 388\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#21",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1d2092a1-a8d3-4bea-8d44-c544af13da41"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch, op. 228 - Johann Strauss I\""
       }
     ]
   },
@@ -481,29 +454,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#13",
+    "@id": "https://w3id.org/ssv/data/track/2009#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/12%20-%20Alexandrinen-Polka%2C%20Polka%20francaise%2C%20op.%20198%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/07%20-%20Freikugeln%2C%20Polka%20schnell%2C%20op.%20326%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ffc07cc1-bc59-4bb1-9767-26f7f55ea700"
+        "@id": "https://musicbrainz.org/track/56a32f59-c193-4495-b810-69b3c0f57e7c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Alexandrinen-Polka, Polka francaise, op. 198\""
+        "@value": "Track: \"Freikugeln, Polka schnell, op. 326\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#15",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/15%20-%20Sph%C3%A4renn-Kl%C3%A4nge%2C%20Walzer%2C%20op.%20235%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/21fa70b3-c258-4ea2-9d08-8c26b6404ac5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Sphären-Klänge, Walzer, op. 235\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/2009#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2009/04%20-%20Annen-Polka%2C%20op.%20117%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c61625e9-d9d0-43fd-b689-4cf083fb2df6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Annen-Polka, op. 117\""
       }
     ]
   },
@@ -514,7 +541,7 @@
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/17%20-%20So%20%C3%A4ngstlich%20sind%20wir%20nicht%21%2C%20Polka%20schnell%2C%20op.%20413%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/18%20-%20So%20%C3%A4ngstlich%20sind%20wir%20nicht%21%2C%20Polka%20schnell%2C%20op.%20413%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
@@ -535,56 +562,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/2009#16",
+    "@id": "https://w3id.org/ssv/data/track/2009#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2009/15%20-%20%C3%89ljen%20a%20Magyar%21%2C%20Polka%20schnell%2C%20op.%20332%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2009/08%20-%20Ouvert%C3%BCre%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5ae752d8-6f29-42c8-80eb-590d7ec3f220"
+        "@id": "https://musicbrainz.org/track/28971d7f-1583-4c05-ad0e-7e9b9b593a9e"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Éljen a Magyar!, Polka schnell, op. 332\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/2009#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2009/08%20-%20Einzugs-Marsch%20aus%20%27Der%20Zigeunerbaron%27%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f7da80ac-351a-4ccb-a95e-4b9d46930954"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Einzugs-Marsch aus 'Der Zigeunerbaron'\""
+        "@value": "Track: \"Ouvertüre aus 'Der Zigeunerbaron'\""
       }
     ]
   }

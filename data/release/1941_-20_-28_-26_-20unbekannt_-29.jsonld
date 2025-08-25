@@ -1,0 +1,78 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/release/1941_-20_-28_-26_-20unbekannt_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "__NONE__"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/data/signal/1941_-20_-28_-26_-20unbekannt_-29#15"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/data/record/1941_-20_-28_-26_-20unbekannt_-29"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\""
+      },
+      {
+        "@value": "Record: \"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\""
+      }
+    ]
+  }
+]

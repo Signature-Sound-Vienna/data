@@ -76,13 +76,13 @@
 
 <https://w3id.org/ssv/data/track/2019#20> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, op. 314\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/2019/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/2019/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/bef2f7d4-57cc-471f-8afd-e404933c3e5a> ;
     ns1:track_number 20 .
 
 <https://w3id.org/ssv/data/track/2019#21> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/2019/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/2019/21%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/9e18e388-8034-4702-a896-954b47493ae5> ;
     ns1:track_number 21 .
 

@@ -64,7 +64,7 @@
 
 <https://w3id.org/ssv/data/track/2020#19> a ns1:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, op. 314\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/2020/18%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/2020/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/4975dd19-48e9-4bc3-8fe0-046486d7899c> ;
     ns1:track_number 19 .
 
@@ -76,7 +76,7 @@
 
 <https://w3id.org/ssv/data/track/2020#20> a ns1:Track ;
     rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
-    ns1:available_as <https://w3id.org/ssv/audio/2020/19%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:available_as <https://w3id.org/ssv/audio/2020/20%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/017a21fa-cc36-4e78-91d0-8f150d1f8cc1> ;
     ns1:track_number 20 .
 
@@ -93,7 +93,7 @@
     ns1:track_number 4 .
 
 <https://w3id.org/ssv/data/track/2020#5> a ns1:Track ;
-    rdfs:label "Track: \"Wo die Zitronen blüh ́n, op. 364\"" ;
+    rdfs:label "Track: \"Wo die Zitronen blüh´n, op. 364\"" ;
     ns1:available_as <https://w3id.org/ssv/audio/2020/05%20-%20Wo%20die%20Zitronen%20bl%C3%BCh%C2%B4n%2C%20op.%20364%20-%20Johann%20Strauss%20II.wav> ;
     ns1:musicbrainz <https://musicbrainz.org/track/a2af6bdf-4570-40fe-a67f-c9eefd675504> ;
     ns1:track_number 5 .

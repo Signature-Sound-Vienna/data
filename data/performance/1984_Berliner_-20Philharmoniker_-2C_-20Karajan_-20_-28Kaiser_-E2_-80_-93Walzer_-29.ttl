@@ -1,0 +1,8 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/data/performance/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7> a ns1:Performance ;
+    rdfs:label "Performance: \"Auf der Jagd, op. 373: Polka schnell\"" ;
+    ns1:performance_of <http://musicbrainz.org/work/f8d124e2-4480-3582-8a8c-74e55a5a676f> ;
+    ns1:recorded_as <https://w3id.org/ssv/data/signal/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7> .
+

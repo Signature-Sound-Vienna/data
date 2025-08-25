@@ -7,9 +7,9 @@
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/data/release/2000">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"NEW YEAR ́S CONCERT 2000"</dcterms:title>
-    <rdfs:label>Release: "NEW YEAR ́S CONCERT 2000"</rdfs:label>
-    <rdfs:label>Record: "NEW YEAR ́S CONCERT 2000"</rdfs:label>
+    <dcterms:title>"New Year's Concert 2000"</dcterms:title>
+    <rdfs:label>Release: "New Year's Concert 2000"</rdfs:label>
+    <rdfs:label>Record: "New Year's Concert 2000"</rdfs:label>
     <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
     <ns1:record rdf:resource="https://w3id.org/ssv/data/record/2000"/>
     <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/2000#1"/>

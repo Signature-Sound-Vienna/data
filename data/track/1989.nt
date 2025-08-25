@@ -1,0 +1,80 @@
+<https://w3id.org/ssv/data/track/1989#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/8374796a-b798-3f4b-990d-b181273193ee> .
+<https://w3id.org/ssv/data/track/1989#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/6288fc86-411f-3d3a-a133-a61de026a9d4> .
+<https://w3id.org/ssv/data/track/1989#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Éljen a Magyar! Op. 332\"" .
+<https://w3id.org/ssv/data/track/1989#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/10%20-%20Fr%C3%BChlingsstimmen%2C%20op.%20410%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/01%20-%20Accelerationen%2C%20op.%20234%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/09%20-%20Im%20Krapfenwaldl%2C%20op.%20336%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: Pizzicato-Polka" .
+<https://w3id.org/ssv/data/track/1989#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bdc82d78-888d-34f2-9231-29f3a196d0ae> .
+<https://w3id.org/ssv/data/track/1989#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Im Krapfenwald'l, Op. 336\"" .
+<https://w3id.org/ssv/data/track/1989#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/5ae99a3f-388f-30ab-9ad3-1e4b981fcd57> .
+<https://w3id.org/ssv/data/track/1989#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#16> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky-Marsch, Op. 228\"" .
+<https://w3id.org/ssv/data/track/1989#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Bei uns z'Haus, Op. 361\"" .
+<https://w3id.org/ssv/data/track/1989#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/03%20-%20Bei%20uns%20z%27Haus%2C%20op.%20361%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/08%20-%20Eljen%20a%20Magyar%21%2C%20op.%20332%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/74d768ed-55a0-327b-88be-69387ef723bf> .
+<https://w3id.org/ssv/data/track/1989#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a0133e45-86b4-3d61-816b-afc726e23626> .
+<https://w3id.org/ssv/data/track/1989#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/06%20-%20K%C3%BCnstlerleben%2C%20op.%20316%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Ritter Pásmán, Op. 441: Csárdás\"" .
+<https://w3id.org/ssv/data/track/1989#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"An der schönen blauen Donau, Op. 314\"" .
+<https://w3id.org/ssv/data/track/1989#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/11%20-%20Pizzicato-Polka%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/1989#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/05%20-%20Ouvert%C3%BCre%20aus%20%27Die%20Fledermaus%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Accelerationen, Op. 234\"" .
+<https://w3id.org/ssv/data/track/1989#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Libelle, Op. 204\"" .
+<https://w3id.org/ssv/data/track/1989#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/12%20-%20Cs%C3%A1rd%C3%A1s%20aus%20%27Ritter%20Pazman%27%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Plappermaulchen Polka, Op. 245\"" .
+<https://w3id.org/ssv/data/track/1989#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4d232dca-ecb2-3266-992f-60e4c2e69940> .
+<https://w3id.org/ssv/data/track/1989#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/07%20-%20Moulinet-Polka%2C%20op%2057%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/1989#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d86aeae2-f54f-336e-bb14-ef84f91f0329> .
+<https://w3id.org/ssv/data/track/1989#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/15%20-%20An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20op%20314%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Jockey-Polka, Op. 278\"" .
+<https://w3id.org/ssv/data/track/1989#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/e863cd5a-73e9-381d-8474-b7405a71677e> .
+<https://w3id.org/ssv/data/track/1989#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/3086e6ef-7b88-3fdb-b1bc-f344e00992a4> .
+<https://w3id.org/ssv/data/track/1989#16> <http://purl.org/ontology/mo/track_number> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/46a8d6cd-0928-327c-ada3-ad5302025973> .
+<https://w3id.org/ssv/data/track/1989#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/04%20-%20Die%20Libelle%2C%20op.%20204%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/1989#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/27069d12-8001-3a21-aede-852213e6762e> .
+<https://w3id.org/ssv/data/track/1989#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Moulinet Polka, Op. 57\"" .
+<https://w3id.org/ssv/data/track/1989#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9c9262ba-2a08-3ba5-ae6e-f900b2f9e2e2> .
+<https://w3id.org/ssv/data/track/1989#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Frühlingsstimmen, Op. 410\"" .
+<https://w3id.org/ssv/data/track/1989#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/93c22b06-0dd4-3c51-a68d-2d1238c89fa0> .
+<https://w3id.org/ssv/data/track/1989#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Bauern, Op. 276\"" .
+<https://w3id.org/ssv/data/track/1989#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Künstler-Leben, Op. 316\"" .
+<https://w3id.org/ssv/data/track/1989#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/data/track/1989#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Die Fledermaus: Overture\"" .
+<https://w3id.org/ssv/data/track/1989#16> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/9127b9fa-60ad-37b6-be45-4ecf136f680f> .
+<https://w3id.org/ssv/data/track/1989#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/data/track/1989#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/13%20-%20Plapperm%C3%A4ulchen%2C%20musikalischer%20Scherz%2C%20op.%20245%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/1989#16> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/16%20-%20Radetzky-Marsch%2C%20op.%20228%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/data/track/1989#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/eb6d3caf-1d30-34bc-971e-9c321746e786> .
+<https://w3id.org/ssv/data/track/1989#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/14%20-%20Jockey-Polka%2C%20op.%20278%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/data/track/1989#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1989/02%20-%20Bauern-Polka%2C%20op.%20276%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/data/track/1989#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .

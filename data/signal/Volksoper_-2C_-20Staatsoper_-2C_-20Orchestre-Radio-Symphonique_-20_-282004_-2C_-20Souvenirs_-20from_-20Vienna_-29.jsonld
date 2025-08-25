@@ -1,49 +1,17 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1",
+    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#7",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1"
+        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#7"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/1.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#3"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/3.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#8"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/8.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/7.peaks.json"
       }
     ]
   },
@@ -60,6 +28,22 @@
     "https://w3id.org/ssv/vocab#peaks": [
       {
         "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/2.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/9.peaks.json"
       }
     ]
   },
@@ -96,18 +80,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9",
+    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9"
+        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/9.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/1.peaks.json"
       }
     ]
   },
@@ -128,18 +112,34 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#7",
+    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#7"
+        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#3"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/7.peaks.json"
+        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/3.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#8"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/data/peaks/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29/8.peaks.json"
       }
     ]
   }

@@ -1,8 +1,67 @@
 [
   {
+    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/02-Ouvert%C3%BCre%20zur%20Operatte%20_Die%20Fledermaus_%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c37b1efb-0fe8-4dac-9dd9-3267c3a3fa5a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre zur Operette 'Die Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/08-Rosen%20aus%20dem%20S%C3%BCden%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Rosen aus dem Süden op. 388, Walzer\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/07-%C3%89ljen%20a%20Mag%C3%BDar%21%2C%20Sohann%20Strau%C3%9F.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -22,9 +81,95 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/10-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/804e38d3-0636-40db-be15-4f13b166b049"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen, blauen Donau op. 314, Walzer\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/05-Einzugsmarsch%20aus%20der%20Operette%20_Der%20Zigeunerbaron_%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d7973f7f-08b9-4630-9846-4dd3ca75b5ed"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Einzugsmarsch aus der Operette 'Der Zigeunerbaron'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/09-Egyptischer%20Marsch%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b9c01d6a-8df8-4ce5-843a-0e6e681805d6"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Egyptischer Marsch op. 335\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/01-Nordseebilder%2C%20Johann%20Strau%C3%9F.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -48,6 +193,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/04-Kaiserwalzer%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
         "@id": "https://musicbrainz.org/track/9fdf2d30-028d-469e-bdd1-7f0ec7238228"
@@ -69,6 +219,11 @@
     "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/06-Kl%C3%A4nge%20der%20Heimat%20aus%20_Die%20Fledermaus_%2C%20Johann%20Strau%C3%9F.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -92,6 +247,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/03-Im%20Krapfenwaldl%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
         "@id": "https://musicbrainz.org/track/b7f7ef30-6723-4b17-8f88-56c9db34f054"
@@ -110,75 +270,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/804e38d3-0636-40db-be15-4f13b166b049"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen, blauen Donau op. 314, Walzer\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c37b1efb-0fe8-4dac-9dd9-3267c3a3fa5a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre zur Operette 'Die Fledermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b9c01d6a-8df8-4ce5-843a-0e6e681805d6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Egyptischer Marsch op. 335\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/11-Radetzky-Marsch%2C%20Johann%20Strau%C3%9F%20%28Vater%29.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -194,50 +293,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Radetzky-Marsch op. 228\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d7973f7f-08b9-4630-9846-4dd3ca75b5ed"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Einzugsmarsch aus der Operette 'Der Zigeunerbaron'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Rosen aus dem Süden op. 388, Walzer\""
       }
     ]
   }

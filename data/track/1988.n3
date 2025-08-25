@@ -1,0 +1,94 @@
+@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/data/track/1988#1> a ns1:Track ;
+    rdfs:label "Track: \"'Donna Diana': Overture\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/01-Donna%20Diana%20-%20Emil%20Nikolaus%20von%20Reznicek.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/49d332d5-5b4c-4f57-8aea-220e04c0ba45> ;
+    ns1:track_number 1 .
+
+<https://w3id.org/ssv/data/track/1988#10> a ns1:Track ;
+    rdfs:label "Track: \"You Millions, I Embrace You\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/10-Seid%20umschlungen%2C%20Millionen%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/3fe60053-8ac2-451c-b38d-6f0f8a798890> ;
+    ns1:track_number 10 .
+
+<https://w3id.org/ssv/data/track/1988#11> a ns1:Track ;
+    rdfs:label "Track: \"Perpetuum mobile\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/11-Perpetuum%20mobile%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/b4cbd468-2e2c-4e6f-b831-b4d4704d858e> ;
+    ns1:track_number 11 .
+
+<https://w3id.org/ssv/data/track/1988#12> a ns1:Track ;
+    rdfs:label "Track: \"On the Wing\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/12-In%20Fluge%20-%20Josef%20Strauss.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/369d351f-2a53-4191-8683-eac5611ddf9a> ;
+    ns1:track_number 12 .
+
+<https://w3id.org/ssv/data/track/1988#13> a ns1:Track ;
+    rdfs:label "Track: \"Bandits' Galop\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/13-Banditen-Galopp%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/a86b79ee-d995-4e89-a419-066ef3727164> ;
+    ns1:track_number 13 .
+
+<https://w3id.org/ssv/data/track/1988#14> a ns1:Track ;
+    rdfs:label "Track: \"The Blue Danube\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/14-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/fd624864-13a2-4bab-8124-5c92d04803f4> ;
+    ns1:track_number 14 .
+
+<https://w3id.org/ssv/data/track/1988#15> a ns1:Track ;
+    rdfs:label "Track: \"Radetzky March\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/15-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/018b632e-8c8b-46e3-9aa3-918cb46193b1> ;
+    ns1:track_number 15 .
+
+<https://w3id.org/ssv/data/track/1988#2> a ns1:Track ;
+    rdfs:label "Track: \"Burning Love\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/02-Brennende%20Liebe%20-%20Josef%20Strauss.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/60370095-13bb-4523-bb80-6f21e9992bbd> ;
+    ns1:track_number 2 .
+
+<https://w3id.org/ssv/data/track/1988#3> a ns1:Track ;
+    rdfs:label "Track: \"On Holiday\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/03-Auf%20Ferienreise%20-%20Josef%20Strauss.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/f6b948c9-545e-4a67-a4e9-0f8e97285794> ;
+    ns1:track_number 3 .
+
+<https://w3id.org/ssv/data/track/1988#4> a ns1:Track ;
+    rdfs:label "Track: \"'Die Fledermaus': Overture\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/04-Die%20Fledermaus%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/23e6d2a6-51ce-473b-b165-2aa79eff0f15> ;
+    ns1:track_number 4 .
+
+<https://w3id.org/ssv/data/track/1988#5> a ns1:Track ;
+    rdfs:label "Track: \"New Pizzicato Polka\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/05-Neue%20Pizzicato%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/d4aa566f-2e49-42c2-90aa-0f2ad27231bb> ;
+    ns1:track_number 5 .
+
+<https://w3id.org/ssv/data/track/1988#6> a ns1:Track ;
+    rdfs:label "Track: \"Let Life Be Joyful\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/06-Freut%20euch%20des%20Lebens%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/77940b8c-e64e-409c-92c0-207cc666ceda> ;
+    ns1:track_number 6 .
+
+<https://w3id.org/ssv/data/track/1988#7> a ns1:Track ;
+    rdfs:label "Track: \"A Masked Ball - Quadrille\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/07-Un%20ballo%20in%20maschera%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/ffa65ae6-1c66-4a48-8d84-f437971bc200> ;
+    ns1:track_number 7 .
+
+<https://w3id.org/ssv/data/track/1988#8> a ns1:Track ;
+    rdfs:label "Track: \"Chit-Chat Polka\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/08-Tritsch-Trasch-Polka%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/bcc363a0-4a2c-4702-9c6e-744eab3f1fb9> ;
+    ns1:track_number 8 .
+
+<https://w3id.org/ssv/data/track/1988#9> a ns1:Track ;
+    rdfs:label "Track: \"Light of Heart\"" ;
+    ns1:available_as <https://w3id.org/ssv/audio/1988/09-Leichtes%20Blut%20-%20Johann%20Strauss%20II.wav> ;
+    ns1:musicbrainz <https://musicbrainz.org/track/4832fdff-2c7f-47b9-b929-dbffa35a9c17> ;
+    ns1:track_number 9 .
+
