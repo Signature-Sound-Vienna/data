@@ -4,14 +4,19 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonzert / New Year´s Concert 2018\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/7af1eeac-7aaa-47ad-a99b-30a6e4c4ee39"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -84,9 +89,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonzert / New Year´s Concert 2018\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert / New Year´s Concert 2018\""
       }
     ]
   }

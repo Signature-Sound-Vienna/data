@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/2022> a ns1:Release ;
-    rdfs:label "Record: \"NEW YEAER ́S CONCERT 2022\"",
-        "Release: \"NEW YEAER ́S CONCERT 2022\"" ;
+ssvrel:2022 a mo:Release ;
+    rdfs:label "Release: \"NEW YEAER ́S CONCERT 2022\"" ;
+    dcterms:publisher mblabel:10920823-9ed8-45d9-adb3-69fc22475ab0 ;
     dcterms:title "\"NEW YEAER ́S CONCERT 2022\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/2022#1>,
+    mo:musicbrainz mbrelease:b8a7ebf3-8b78-4861-89b5-a4e1924cd391 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/2022#1>,
         <https://w3id.org/ssv/data/signal/2022#10>,
         <https://w3id.org/ssv/data/signal/2022#11>,
         <https://w3id.org/ssv/data/signal/2022#12>,
@@ -25,5 +29,5 @@
         <https://w3id.org/ssv/data/signal/2022#7>,
         <https://w3id.org/ssv/data/signal/2022#8>,
         <https://w3id.org/ssv/data/signal/2022#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/2022> .
+    mo:record ssvrec:2022 .
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
@@ -9,18 +9,19 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"The Perfect Strauss"</dcterms:title>
     <rdfs:label>Release: "The Perfect Strauss"</rdfs:label>
-    <rdfs:label>Record: "The Perfect Strauss"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/cd086466-4365-4f3d-a6e0-240965daee7a"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/d2a857fe-a9ba-4273-a5d2-456598eeaf09"/>
+    <mo:catalogue_number>CO 862872</mo:catalogue_number>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10"/>
   </rdf:Description>
 </rdf:RDF>

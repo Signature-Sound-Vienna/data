@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
@@ -9,16 +9,17 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2"</dcterms:title>
     <rdfs:label>Release: "Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2"</rdfs:label>
-    <rdfs:label>Record: "Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/record/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#8"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/data/record/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/d293ae6d-d919-4a74-beab-a79eb0bd1bb0"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/08fbffc2-0af1-49be-85cc-4bc958c74f04"/>
+    <mo:catalogue_number>160304</mo:catalogue_number>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#8"/>
   </rdf:Description>
 </rdf:RDF>

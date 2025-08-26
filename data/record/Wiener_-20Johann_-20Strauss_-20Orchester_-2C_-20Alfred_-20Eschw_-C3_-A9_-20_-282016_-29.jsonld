@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/7b0dae19-dac9-471c-a11b-c33f7c4418db"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1"
@@ -52,6 +57,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\""
       }
     ]
   }

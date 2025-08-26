@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="https://w3id.org/ssv/vocab#"
-   xmlns:ns2="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:ssvo="https://w3id.org/ssv/vocab#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/1.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5"/>
-  </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/4.peaks.json"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/4.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1">
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/1.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/2.peaks.json"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/2.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3">
-    <ns1:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/3.peaks.json"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/3.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns2:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5">
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/data/peaks/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/5.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5"/>
   </rdf:Description>
 </rdf:RDF>

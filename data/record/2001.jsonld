@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/d7c7b916-b582-4b21-9c20-109d9295c060"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2001#1"
@@ -70,6 +75,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 2001 / New Year's Concert\""
       }
     ]
   }

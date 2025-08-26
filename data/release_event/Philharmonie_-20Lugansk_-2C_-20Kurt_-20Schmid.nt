@@ -1,0 +1,5 @@
+_:Nb18718d4b340473dac985173bc89d5f3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/data/release_event/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/data/release_event/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/data/release_event/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> .
+<https://w3id.org/ssv/data/release_event/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> <https://purl.org/NET/c4dm/event.owl#time> _:Nb18718d4b340473dac985173bc89d5f3 .

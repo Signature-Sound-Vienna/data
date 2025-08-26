@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/record/1995> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/track/1995#1>,
+ssvrec:1995 a mo:Record ;
+    rdfs:label "Record: \"1995 New Year's Concert\"" ;
+    mo:musicbrainz mbrelease:147e8ba3-dd4d-4a14-9d2e-ae4b5f154ca2 ;
+    mo:track <https://w3id.org/ssv/data/track/1995#1>,
         <https://w3id.org/ssv/data/track/1995#10>,
         <https://w3id.org/ssv/data/track/1995#11>,
         <https://w3id.org/ssv/data/track/1995#12>,
@@ -18,5 +23,5 @@
         <https://w3id.org/ssv/data/track/1995#7>,
         <https://w3id.org/ssv/data/track/1995#8>,
         <https://w3id.org/ssv/data/track/1995#9> ;
-    ns1:track_count 17 .
+    mo:track_count 17 .
 

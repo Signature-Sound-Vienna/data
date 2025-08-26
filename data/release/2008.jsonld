@@ -4,14 +4,19 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/89a9993d-1dad-4445-a3d7-1d8df04f7e7b"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonzert 2008\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/c67b3abe-731d-48ff-ba76-2adf3c83693d"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -93,9 +98,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonzert 2008\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert 2008\""
       }
     ]
   }

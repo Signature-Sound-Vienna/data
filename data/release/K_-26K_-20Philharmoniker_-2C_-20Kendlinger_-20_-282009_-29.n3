@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> a ns1:Release ;
-    rdfs:label "Record: \"Kendlinger dirigiert Strauß 2009\"",
-        "Release: \"Kendlinger dirigiert Strauß 2009\"" ;
+ssvrel:K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29 a mo:Release ;
+    rdfs:label "Release: \"Kendlinger dirigiert Strauß 2009\"" ;
+    dcterms:publisher mblabel:6286c949-348a-4f0b-bda3-695e4a90574c ;
     dcterms:title "\"Kendlinger dirigiert Strauß 2009\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1>,
+    mo:catalogue_number "1200" ;
+    mo:musicbrainz mbrelease:db25b941-3918-4cd6-81bb-9373fb85a8e8 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1>,
         <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#10>,
         <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11>,
         <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#2>,
@@ -18,5 +23,5 @@
         <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#7>,
         <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#8>,
         <https://w3id.org/ssv/data/signal/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> .
+    mo:record ssvrec:K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29 .
 

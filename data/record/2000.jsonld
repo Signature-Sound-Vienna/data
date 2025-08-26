@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/cffbb7cd-93cf-4dee-aaf4-97aff1f1af18"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2000#1"
@@ -67,6 +72,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 20
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"New Year's Concert 2000\""
       }
     ]
   }

@@ -1,22 +1,23 @@
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#14> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#8> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#12> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#10> .
-<https://w3id.org/ssv/data/release/1989> <http://www.w3.org/2000/01/rdf-schema#label> "Record: \"New Year's Concert 1989\"" .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#2> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#7> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/data/record/1989> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#4> .
+<https://w3id.org/ssv/data/release/1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/dc/terms/publisher> <https://musicbrainz.org/label/b3ef69bb-f621-4435-aef4-742194dd96fe> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#13> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#1> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/catalogue_number> "__NONE__" .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#8> .
-<https://w3id.org/ssv/data/release/1989> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"New Year's Concert 1989\"" .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#6> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#11> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#14> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/catalogue_number> "M2XK 45564" .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#10> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/release/38edd7b5-ca95-4c16-9ff5-8e85f12a47ba> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#3> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#9> .
-<https://w3id.org/ssv/data/release/1989> <http://purl.org/dc/terms/title> "\"New Year's Concert 1989\"" .
-<https://w3id.org/ssv/data/release/1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Release> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/record> <https://w3id.org/ssv/data/record/1989> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#5> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#7> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#15> .
+<https://w3id.org/ssv/data/release/1989> <http://www.w3.org/2000/01/rdf-schema#label> "Release: \"New Year's Concert 1989\"" .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#11> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/dc/terms/title> "\"New Year's Concert 1989\"" .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#2> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#4> .
 <https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#16> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#9> .
+<https://w3id.org/ssv/data/release/1989> <http://purl.org/ontology/mo/publication_of> <https://w3id.org/ssv/data/signal/1989#6> .

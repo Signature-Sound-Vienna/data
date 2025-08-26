@@ -27,6 +27,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/07-Wine%2C%20Women%20and%20Song%20Waltz%28Wein%2C%20Weib%20and%20Gesang%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e8d05781-bffa-474d-9212-9f0d0ae40ae0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wine, Women And Song Waltz\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -50,87 +77,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Vienna Bon Bons\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/09-Cagliostrowalzer.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f9aff878-c7f2-45a5-8067-afd42601e4fe"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Cagliostrowalzer"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/08-Vienna%20Blood%28Wiener%20Blut%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4d48a200-7bc3-45f0-9531-9701236c0a25"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Vienna Blood\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/10-The%20Voices%20of%20Spring%20Waltz%20%28Freuhlingstimmenwalzer%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d8f358d1-2539-4a9f-b115-7e34dbea1d1b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"The Voices Of Spring Waltz\""
       }
     ]
   },
@@ -162,60 +108,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/03-Emperor%20Waltz.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e4b96216-b429-4e19-a593-8a994fd402ad"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Emperor Waltz\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/01-Blue%20Danube%20Waltz.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6ee7bb9b-13af-48cd-9e35-07bb00ad745c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Blue Danube Waltz\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -239,60 +131,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Myrtle Blossom Waltz\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/04-Morning%20Papers%20Waltz%28Morgenblaetterwalzer%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ae5bdb84-5909-4670-af48-4d2db413c1a7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morning Papers Waltz\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/07-Wine%2C%20Women%20and%20Song%20Waltz%28Wein%2C%20Weib%20and%20Gesang%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/e8d05781-bffa-474d-9212-9f0d0ae40ae0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wine, Women And Song Waltz\""
       }
     ]
   },
@@ -324,6 +162,114 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/09-Cagliostrowalzer.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f9aff878-c7f2-45a5-8067-afd42601e4fe"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Cagliostrowalzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/01-Blue%20Danube%20Waltz.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6ee7bb9b-13af-48cd-9e35-07bb00ad745c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Blue Danube Waltz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#4",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/04-Morning%20Papers%20Waltz%28Morgenblaetterwalzer%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ae5bdb84-5909-4670-af48-4d2db413c1a7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 4
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morning Papers Waltz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/08-Vienna%20Blood%28Wiener%20Blut%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/4d48a200-7bc3-45f0-9531-9701236c0a25"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Vienna Blood\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -347,6 +293,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"The Artist's Life Waltz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/03-Emperor%20Waltz.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e4b96216-b429-4e19-a593-8a994fd402ad"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Emperor Waltz\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz/10-The%20Voices%20of%20Spring%20Waltz%20%28Freuhlingstimmenwalzer%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d8f358d1-2539-4a9f-b115-7e34dbea1d1b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"The Voices Of Spring Waltz\""
       }
     ]
   }

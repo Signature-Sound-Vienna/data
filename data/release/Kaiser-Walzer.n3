@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/Kaiser-Walzer> a ns1:Release ;
-    rdfs:label "Record: Kaiser-Walzer",
-        "Release: Kaiser-Walzer" ;
+ssvrel:Kaiser-Walzer a mo:Release ;
+    rdfs:label "Release: Kaiser-Walzer" ;
+    dcterms:publisher mblabel:8307df44-cd4d-4bf9-b543-12a581a78c65 ;
     dcterms:title "Kaiser-Walzer" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/Kaiser-Walzer#1>,
+    mo:catalogue_number "LC 4238" ;
+    mo:musicbrainz mbrelease:f11b197e-c4ba-4ce5-a057-51766d73dad7 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/Kaiser-Walzer#1>,
         <https://w3id.org/ssv/data/signal/Kaiser-Walzer#2>,
         <https://w3id.org/ssv/data/signal/Kaiser-Walzer#3>,
         <https://w3id.org/ssv/data/signal/Kaiser-Walzer#4>,
@@ -16,5 +21,5 @@
         <https://w3id.org/ssv/data/signal/Kaiser-Walzer#7>,
         <https://w3id.org/ssv/data/signal/Kaiser-Walzer#8>,
         <https://w3id.org/ssv/data/signal/Kaiser-Walzer#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/Kaiser-Walzer> .
+    mo:record ssvrec:Kaiser-Walzer .
 

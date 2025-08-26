@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/data/record/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12"/>
+    <rdfs:label>Record: "Johann Strauss Fenstkonzert"</rdfs:label>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</mo:track_count>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/4a0a2868-6710-4c93-adcd-e29303f896f9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12"/>
   </rdf:Description>
 </rdf:RDF>

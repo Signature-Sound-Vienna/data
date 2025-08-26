@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/b3ef69bb-f621-4435-aef4-742194dd96fe"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"New Year's Concert 1989\""
@@ -11,7 +16,12 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "M2XK 45564"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/38edd7b5-ca95-4c16-9ff5-8e85f12a47ba"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -72,9 +82,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"New Year's Concert 1989\""
-      },
-      {
-        "@value": "Record: \"New Year's Concert 1989\""
       }
     ]
   }

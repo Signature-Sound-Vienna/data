@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/5a584032-dcef-41bb-9f8b-19540116fb1c"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\""
@@ -11,7 +16,12 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "431 628-2"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/2cc12160-c816-4b94-871f-4649edf5c490"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -75,9 +85,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\""
       }
     ]
   }

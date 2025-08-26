@@ -4,14 +4,19 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/f6fb21a4-8d7a-4c70-b453-2ee059e831db"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/f0fdaeee-9821-422b-a1fc-2f1cb4f6f720"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -69,9 +74,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\""
-      },
-      {
-        "@value": "Record: \"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\""
       }
     ]
   }

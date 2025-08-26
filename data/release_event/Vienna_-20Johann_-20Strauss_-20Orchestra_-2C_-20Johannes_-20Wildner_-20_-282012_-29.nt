@@ -1,0 +1,7 @@
+_:N9ecd69d3ae3a4203bcb4eddfb6f171f8 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/data/release_event/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/data/release_event/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N9ecd69d3ae3a4203bcb4eddfb6f171f8 .
+<https://w3id.org/ssv/data/release/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29> <http://purl.org/dc/terms/issued> "2012" .
+<https://w3id.org/ssv/data/release_event/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29> .
+_:N9ecd69d3ae3a4203bcb4eddfb6f171f8 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/data/release_event/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .

@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/2001> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert 2001 / New Year's Concert\"",
-        "Release: \"Neujahrskonzert 2001 / New Year's Concert\"" ;
+ssvrel:2001 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert 2001 / New Year's Concert\"" ;
+    dcterms:publisher mblabel:452068a5-f686-44c9-9978-af10c0979f67 ;
     dcterms:title "\"Neujahrskonzert 2001 / New Year's Concert\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/2001#1>,
+    mo:musicbrainz mbrelease:d7c7b916-b582-4b21-9c20-109d9295c060 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/2001#1>,
         <https://w3id.org/ssv/data/signal/2001#10>,
         <https://w3id.org/ssv/data/signal/2001#11>,
         <https://w3id.org/ssv/data/signal/2001#12>,
@@ -27,5 +31,5 @@
         <https://w3id.org/ssv/data/signal/2001#7>,
         <https://w3id.org/ssv/data/signal/2001#8>,
         <https://w3id.org/ssv/data/signal/2001#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/2001> .
+    mo:record ssvrec:2001 .
 

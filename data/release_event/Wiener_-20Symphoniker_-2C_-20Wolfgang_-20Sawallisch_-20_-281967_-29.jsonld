@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1990"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/release_event/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N1164a29fee5b444b83353eaf4ebcc06a"
+      }
+    ]
+  },
+  {
+    "@id": "_:N1164a29fee5b444b83353eaf4ebcc06a",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1990"
+      }
+    ]
+  }
+]

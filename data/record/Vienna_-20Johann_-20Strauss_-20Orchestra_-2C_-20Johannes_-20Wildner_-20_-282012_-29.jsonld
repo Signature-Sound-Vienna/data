@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/0d82d84f-2f65-411d-9327-87c5aae74b1b"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29#1"
@@ -43,6 +48,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Strauss Family: Favourite Dances\""
       }
     ]
   }

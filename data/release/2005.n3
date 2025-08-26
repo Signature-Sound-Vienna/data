@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/2005> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert 2005\"",
-        "Release: \"Neujahrskonzert 2005\"" ;
+ssvrel:2005 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert 2005\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
     dcterms:title "\"Neujahrskonzert 2005\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/2005#1>,
+    mo:musicbrainz mbrelease:54f455c5-f883-4024-a3c2-b74d0e9795ff ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/2005#1>,
         <https://w3id.org/ssv/data/signal/2005#10>,
         <https://w3id.org/ssv/data/signal/2005#11>,
         <https://w3id.org/ssv/data/signal/2005#12>,
@@ -30,5 +34,5 @@
         <https://w3id.org/ssv/data/signal/2005#7>,
         <https://w3id.org/ssv/data/signal/2005#8>,
         <https://w3id.org/ssv/data/signal/2005#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/2005> .
+    mo:record ssvrec:2005 .
 

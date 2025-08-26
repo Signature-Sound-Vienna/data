@@ -9,9 +9,9 @@
         "@value": "Neujahrskonzert"
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/ad297a80-f5ec-4073-8df8-a873d39d30a1"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -63,9 +63,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: Neujahrskonzert"
-      },
-      {
-        "@value": "Record: Neujahrskonzert"
       }
     ]
   }

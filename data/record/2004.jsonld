@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/2df2c3a0-91ff-4082-b94e-6353c0884662"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2004#1"
@@ -76,6 +81,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 23
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"New Year's Concert 2004\""
       }
     ]
   }

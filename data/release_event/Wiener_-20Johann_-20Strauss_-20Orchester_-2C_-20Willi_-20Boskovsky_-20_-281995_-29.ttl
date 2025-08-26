@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrevent:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29 ;
+    ev:time [ a tl:Instant ;
+            tl:atYear "1995"^^xsd:gYear ] .
+
+ssvrel:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29 dcterms:issued "1995" .
+

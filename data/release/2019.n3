@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/2019> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert 2019\"",
-        "Release: \"Neujahrskonzert 2019\"" ;
+ssvrel:2019 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert 2019\"" ;
+    dcterms:publisher mblabel:10920823-9ed8-45d9-adb3-69fc22475ab0 ;
     dcterms:title "\"Neujahrskonzert 2019\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/2019#1>,
+    mo:musicbrainz mbrelease:670877b2-6362-4d9b-8618-fcac18fe4f64 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/2019#1>,
         <https://w3id.org/ssv/data/signal/2019#10>,
         <https://w3id.org/ssv/data/signal/2019#11>,
         <https://w3id.org/ssv/data/signal/2019#12>,
@@ -28,5 +32,5 @@
         <https://w3id.org/ssv/data/signal/2019#7>,
         <https://w3id.org/ssv/data/signal/2019#8>,
         <https://w3id.org/ssv/data/signal/2019#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/2019> .
+    mo:record ssvrec:2019 .
 

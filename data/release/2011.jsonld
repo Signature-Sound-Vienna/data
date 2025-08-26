@@ -4,14 +4,19 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/f18f3b31-8263-4de3-966a-fda317492d3d"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonzert 2011\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/0323f5ef-937b-4f9f-a37e-e11156612393"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -87,9 +92,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonzert 2011\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert 2011\""
       }
     ]
   }

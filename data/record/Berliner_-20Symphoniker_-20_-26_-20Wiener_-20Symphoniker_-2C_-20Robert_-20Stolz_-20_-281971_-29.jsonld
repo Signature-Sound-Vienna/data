@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/c5b3f01e-3434-415f-a7f3-4679eed18b12"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#1"
@@ -61,6 +66,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Wiener Musik Vol. 3\""
       }
     ]
   }

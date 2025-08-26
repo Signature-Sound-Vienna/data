@@ -1,28 +1,55 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#5",
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/aa71d28f-eb0e-34a1-afed-cc9aa9b1f5cc"
+        "@id": "https://musicbrainz.org/track/d8a5658d-4556-3336-aaf3-46eba5df9b20"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"G'schichten aus dem Wienerwald\""
+        "@value": "Track: Radetzky-Marsch"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/10-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Unter%20Donner%20und%20Blitz%20%28Lorin%20Maazel%29%201983.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/035a3e5b-c60f-3963-a5bb-570874c93168"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Unter Donner und Blitz\""
       }
     ]
   },
@@ -54,33 +81,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/09-Johann%20und%20Josef%20Strau%C3%9F%20-%20Pizzicato-Polka%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6906662b-14cc-374d-a0e9-326bae2bace9"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Pizzicato-Polka"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -108,29 +108,110 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#4",
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/04-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Auf%20Ferienreisen%20%28Claudio%20Abbado%29%201988.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/09-Johann%20und%20Josef%20Strau%C3%9F%20-%20Pizzicato-Polka%20%28Herbert%20von%20Karajan%29%201987.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/734aaf73-6193-3033-b396-237614a1fc10"
+        "@id": "https://musicbrainz.org/track/6906662b-14cc-374d-a0e9-326bae2bace9"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Auf Ferienreisen\""
+        "@value": "Track: Pizzicato-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d9e030de-e936-34fd-90b2-9687054014db"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/42e5946c-cc1a-3e84-b288-ce12b59a522d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Tritsch-Tratsch-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/07-Josef%20Strau%C3%9F%20-%20Ohne%20Sorgen%20%28Lorin%20Maazel%29%201981.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7a3fe86d-0939-36da-8f8d-77622b17f413"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ohne Sorgen\""
       }
     ]
   },
@@ -189,137 +270,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#2",
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/42e5946c-cc1a-3e84-b288-ce12b59a522d"
+        "@id": "https://musicbrainz.org/track/aa71d28f-eb0e-34a1-afed-cc9aa9b1f5cc"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Tritsch-Tratsch-Polka"
+        "@value": "Track: \"G'schichten aus dem Wienerwald\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#10",
+    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/10-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Unter%20Donner%20und%20Blitz%20%28Lorin%20Maazel%29%201983.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/04-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Auf%20Ferienreisen%20%28Claudio%20Abbado%29%201988.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/035a3e5b-c60f-3963-a5bb-570874c93168"
+        "@id": "https://musicbrainz.org/track/734aaf73-6193-3033-b396-237614a1fc10"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Unter Donner und Blitz\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/07-Josef%20Strau%C3%9F%20-%20Ohne%20Sorgen%20%28Lorin%20Maazel%29%201981.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7a3fe86d-0939-36da-8f8d-77622b17f413"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ohne Sorgen\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d9e030de-e936-34fd-90b2-9687054014db"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/mixed_-20_-28Golden_-20Classics_-29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Golden_-20Classics_-29/12-Johann%20Strau%C3%9F%2C%20Vater%20-%20Radetzky-Marsch%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d8a5658d-4556-3336-aaf3-46eba5df9b20"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Radetzky-Marsch"
+        "@value": "Track: \"Auf Ferienreisen\""
       }
     ]
   }

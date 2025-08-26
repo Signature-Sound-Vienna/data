@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/48a87af9-b956-4190-9431-9ec2557a3b20"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2015#1"
@@ -73,6 +78,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 2015\""
       }
     ]
   }

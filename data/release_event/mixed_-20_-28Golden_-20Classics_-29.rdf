@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tl="http://purl.org/NET/c4dm/timeline.owl#"
+>
+  <rdf:Description rdf:nodeID="N34f8e6cd3a804ca180533a1f92577313">
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+    <tl:atYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1991</tl:atYear>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release/mixed_-20_-28Golden_-20Classics_-29">
+    <dcterms:issued>1991</dcterms:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release_event/mixed_-20_-28Golden_-20Classics_-29">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/data/release/mixed_-20_-28Golden_-20Classics_-29"/>
+    <ev:time rdf:nodeID="N34f8e6cd3a804ca180533a1f92577313"/>
+  </rdf:Description>
+</rdf:RDF>

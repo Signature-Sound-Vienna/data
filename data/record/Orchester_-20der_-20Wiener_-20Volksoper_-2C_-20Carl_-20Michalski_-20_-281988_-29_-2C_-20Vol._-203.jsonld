@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/43717924-9114-40df-bc95-ab2eb65c198a"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#1"
@@ -37,6 +42,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Unvergessene Melodien Vo. 3 / Unforgettable Melodies Vol. 3\""
       }
     ]
   }

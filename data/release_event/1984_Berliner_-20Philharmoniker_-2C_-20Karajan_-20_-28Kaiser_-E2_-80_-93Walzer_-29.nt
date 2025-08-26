@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/data/release_event/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/data/release_event/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/data/release_event/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29> .
+<https://w3id.org/ssv/data/release/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29> <http://purl.org/dc/terms/issued> "1983-05-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/ssv/data/release_event/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29> <https://purl.org/NET/c4dm/event.owl#time> _:Nc0cd5e851cf947faacb2f18127002002 .
+_:Nc0cd5e851cf947faacb2f18127002002 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:Nc0cd5e851cf947faacb2f18127002002 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .

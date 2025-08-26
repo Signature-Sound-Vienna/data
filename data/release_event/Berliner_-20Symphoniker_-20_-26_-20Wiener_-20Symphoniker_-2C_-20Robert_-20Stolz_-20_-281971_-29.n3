@@ -1,0 +1,11 @@
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+
+ssvrevent:Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29 ;
+    ev:time [ a tl:Instant ] .
+

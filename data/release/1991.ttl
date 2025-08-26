@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/1991> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\"",
-        "Release: \"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\"" ;
+ssvrel:1991 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
     dcterms:title "\"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/1991#1>,
+    mo:catalogue_number "431 628-2" ;
+    mo:musicbrainz mbrelease:2cc12160-c816-4b94-871f-4649edf5c490 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/1991#1>,
         <https://w3id.org/ssv/data/signal/1991#10>,
         <https://w3id.org/ssv/data/signal/1991#11>,
         <https://w3id.org/ssv/data/signal/1991#12>,
@@ -24,5 +29,5 @@
         <https://w3id.org/ssv/data/signal/1991#7>,
         <https://w3id.org/ssv/data/signal/1991#8>,
         <https://w3id.org/ssv/data/signal/1991#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/1991> .
+    mo:record ssvrec:1991 .
 

@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/b6f21150-61fa-4ac8-be0d-59e5bc7d8da9"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#1"
@@ -34,6 +39,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: Strauss"
       }
     ]
   }

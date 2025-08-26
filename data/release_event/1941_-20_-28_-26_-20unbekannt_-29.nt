@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/data/release_event/1941_-20_-28_-26_-20unbekannt_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N2db1d79c6fd3444a858c964f33dd650c .
+<https://w3id.org/ssv/data/release/1941_-20_-28_-26_-20unbekannt_-29> <http://purl.org/dc/terms/issued> "2008" .
+<https://w3id.org/ssv/data/release_event/1941_-20_-28_-26_-20unbekannt_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/1941_-20_-28_-26_-20unbekannt_-29> .
+<https://w3id.org/ssv/data/release_event/1941_-20_-28_-26_-20unbekannt_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:N2db1d79c6fd3444a858c964f33dd650c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/data/release_event/1941_-20_-28_-26_-20unbekannt_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+_:N2db1d79c6fd3444a858c964f33dd650c <http://purl.org/NET/c4dm/timeline.owl#atYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .

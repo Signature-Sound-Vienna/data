@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> <http://purl.org/dc/terms/issued> "2017" .
+<https://w3id.org/ssv/data/release_event/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> .
+<https://w3id.org/ssv/data/release_event/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/data/release_event/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/data/release_event/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N45a1e5bfdc0c465782f558e94892be82 .
+_:N45a1e5bfdc0c465782f558e94892be82 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+_:N45a1e5bfdc0c465782f558e94892be82 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .

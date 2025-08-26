@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/data/release_event/2016> <https://purl.org/NET/c4dm/event.owl#time> _:Na1e4f85ca5124be981f6a919ac437f6b .
+_:Na1e4f85ca5124be981f6a919ac437f6b <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/data/release_event/2016> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/2016> .
+_:Na1e4f85ca5124be981f6a919ac437f6b <http://purl.org/NET/c4dm/timeline.owl#atYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/data/release_event/2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/data/release_event/2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/data/release/2016> <http://purl.org/dc/terms/issued> "2016" .

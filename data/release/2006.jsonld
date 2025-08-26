@@ -4,14 +4,19 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/5a584032-dcef-41bb-9f8b-19540116fb1c"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonert 2006\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/574be46c-daea-4993-bf09-8043cfcba6ba"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -99,9 +104,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonert 2006\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonert 2006\""
       }
     ]
   }

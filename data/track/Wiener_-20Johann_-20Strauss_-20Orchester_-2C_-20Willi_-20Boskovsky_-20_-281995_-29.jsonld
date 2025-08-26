@@ -1,113 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/05-K%C3%BCnstlerleben%2C%20Waltz%20Op.%20316e.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f3937011-c571-429f-be01-1d564cb5757f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Künstlerleben, Waltz Op. 316\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/10-Kaiser-Walzer%2C%20Op.437.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0ae831c8-dcd2-41c6-9040-8c7df7411e29"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Kaiser-Walzer, Op.437\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/01-An%20Der%20Sch%C3%B6nen%2C%20Blauen%20Donau%2C%20Waltz%20Op.%20314.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/93be5262-38b7-41b7-911c-6cb22d8ae125"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An Der Schönen, Blauen Donau, Waltz Op. 314\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/04-Neue%20Pizzicato%20Polka%2C%20Op.%20449.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/db06dd15-1ff2-4da7-88a4-d6b2ba71d61d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Neue Pizzicato Polka, Op. 449\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -162,6 +54,60 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/06-Eine%20Nacht%20In%20Venedig%20-%20Overture.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/742d4895-dbdc-4afe-b1c2-16d61f77fc1b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Eine Nacht In Venedig - Overture\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/10-Kaiser-Walzer%2C%20Op.437.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0ae831c8-dcd2-41c6-9040-8c7df7411e29"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Kaiser-Walzer, Op.437\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -189,29 +135,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6",
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/06-Eine%20Nacht%20In%20Venedig%20-%20Overture.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/04-Neue%20Pizzicato%20Polka%2C%20Op.%20449.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/742d4895-dbdc-4afe-b1c2-16d61f77fc1b"
+        "@id": "https://musicbrainz.org/track/db06dd15-1ff2-4da7-88a4-d6b2ba71d61d"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Eine Nacht In Venedig - Overture\""
+        "@value": "Track: \"Neue Pizzicato Polka, Op. 449\""
       }
     ]
   },
@@ -266,6 +212,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Geschichten Aus Dem Wienerwald, Waltz Op.325\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/05-K%C3%BCnstlerleben%2C%20Waltz%20Op.%20316e.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f3937011-c571-429f-be01-1d564cb5757f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Künstlerleben, Waltz Op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29/01-An%20Der%20Sch%C3%B6nen%2C%20Blauen%20Donau%2C%20Waltz%20Op.%20314.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/93be5262-38b7-41b7-911c-6cb22d8ae125"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An Der Schönen, Blauen Donau, Waltz Op. 314\""
       }
     ]
   }

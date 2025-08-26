@@ -1,28 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/track/1980#5",
+    "@id": "https://w3id.org/ssv/data/track/1980#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1980/05-Banditen-Galopp%2C%20Op.378%20-%20Johann%20Strauss%2C%20Sohn.wav"
+        "@id": "https://w3id.org/ssv/audio/1980/09-Fata%20Morgana%2C%20Op.330%20-%20Johann%20Strauss%2C%20Sohn.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/f52c2cdc-85be-4996-9107-4c12f7981591"
+        "@id": "https://musicbrainz.org/track/5008de94-8766-441a-8356-1bf1ab686f82"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Banditen-Galopp, Op.378\""
+        "@value": "Track: \"Fata Morgana, Op.330\""
       }
     ]
   },
@@ -54,56 +54,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1980#3",
+    "@id": "https://w3id.org/ssv/data/track/1980#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1980/03-Perpetuum%20mobile%2C%20Op.257%20-%20Johann%20Strauss%2C%20Sohn.wav"
+        "@id": "https://w3id.org/ssv/audio/1980/06-Eingesendet%2C%20Op.240%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/7c295867-14d0-4a76-bdef-a8356c77950d"
+        "@id": "https://musicbrainz.org/track/140891a9-886a-4527-86dc-bda101bee385"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Perpetuum mobile, Op.257\""
+        "@value": "Track: \"Eingesendet, Op.240\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1980#12",
+    "@id": "https://w3id.org/ssv/data/track/1980#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1980/12-Radetzky-Marsch%2C%20Op.228%20-%20Johann%20Strauss%2C%20Vater.wav"
+        "@id": "https://w3id.org/ssv/audio/1980/05-Banditen-Galopp%2C%20Op.378%20-%20Johann%20Strauss%2C%20Sohn.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ea2c4886-df2c-4f6c-8f55-a2a7579ef70f"
+        "@id": "https://musicbrainz.org/track/f52c2cdc-85be-4996-9107-4c12f7981591"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Radetzky-Marsch, Op.228\""
+        "@value": "Track: \"Banditen-Galopp, Op.378\""
       }
     ]
   },
@@ -135,83 +135,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1980#6",
+    "@id": "https://w3id.org/ssv/data/track/1980#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1980/06-Eingesendet%2C%20Op.240%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1980/02-Neue%20Pizzicato-Polka%2C%20Op.449%20-%20Johann%20Strauss%2C%20Sohn.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/140891a9-886a-4527-86dc-bda101bee385"
+        "@id": "https://musicbrainz.org/track/31fdcb56-225d-4229-af18-d30ce3275fc7"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Eingesendet, Op.240\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1980#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1980/07-Orphee%20aux%20enfers_%20Overture%20-%20Jacques%20Offenbach.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/bfbd3375-4c9f-455d-8dd6-168b253aef34"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"'Orphee aux enfers' Overture\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1980#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1980/04-Wiener%20Blut%2C%20Op.354%20-%20Johann%20Strauss%2C%20Sohn.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6dc005cb-e5d5-485e-8b35-54be594c459c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wiener Blut, Op.354\""
+        "@value": "Track: \"Neue Pizzicato-Polka, Op.449\""
       }
     ]
   },
@@ -243,56 +189,110 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1980#9",
+    "@id": "https://w3id.org/ssv/data/track/1980#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1980/09-Fata%20Morgana%2C%20Op.330%20-%20Johann%20Strauss%2C%20Sohn.wav"
+        "@id": "https://w3id.org/ssv/audio/1980/03-Perpetuum%20mobile%2C%20Op.257%20-%20Johann%20Strauss%2C%20Sohn.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5008de94-8766-441a-8356-1bf1ab686f82"
+        "@id": "https://musicbrainz.org/track/7c295867-14d0-4a76-bdef-a8356c77950d"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Fata Morgana, Op.330\""
+        "@value": "Track: \"Perpetuum mobile, Op.257\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1980#2",
+    "@id": "https://w3id.org/ssv/data/track/1980#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1980/02-Neue%20Pizzicato-Polka%2C%20Op.449%20-%20Johann%20Strauss%2C%20Sohn.wav"
+        "@id": "https://w3id.org/ssv/audio/1980/04-Wiener%20Blut%2C%20Op.354%20-%20Johann%20Strauss%2C%20Sohn.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/31fdcb56-225d-4229-af18-d30ce3275fc7"
+        "@id": "https://musicbrainz.org/track/6dc005cb-e5d5-485e-8b35-54be594c459c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Neue Pizzicato-Polka, Op.449\""
+        "@value": "Track: \"Wiener Blut, Op.354\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1980#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1980/12-Radetzky-Marsch%2C%20Op.228%20-%20Johann%20Strauss%2C%20Vater.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ea2c4886-df2c-4f6c-8f55-a2a7579ef70f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch, Op.228\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1980#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1980/07-Orphee%20aux%20enfers_%20Overture%20-%20Jacques%20Offenbach.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bfbd3375-4c9f-455d-8dd6-168b253aef34"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"'Orphee aux enfers' Overture\""
       }
     ]
   },

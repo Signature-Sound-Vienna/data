@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/data/release/2005> <http://purl.org/dc/terms/issued> "2005" .
+_:N22b232740bc6475380bbe52227ef02d0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/data/release_event/2005> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/2005> .
+<https://w3id.org/ssv/data/release_event/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/data/release_event/2005> <https://purl.org/NET/c4dm/event.owl#time> _:N22b232740bc6475380bbe52227ef02d0 .
+<https://w3id.org/ssv/data/release_event/2005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:N22b232740bc6475380bbe52227ef02d0 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2005"^^<http://www.w3.org/2001/XMLSchema#gYear> .

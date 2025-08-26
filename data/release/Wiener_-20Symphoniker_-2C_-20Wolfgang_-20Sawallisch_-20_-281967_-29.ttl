@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> a ns1:Release ;
-    rdfs:label "Record: \"Johann Strauss Fenstkonzert\"",
-        "Release: \"Johann Strauss Fenstkonzert\"" ;
+ssvrel:Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29 a mo:Release ;
+    rdfs:label "Release: \"Johann Strauss Fenstkonzert\"" ;
+    dcterms:publisher mblabel:d899163b-c33f-44b9-9b6a-c6cbf07f2f0f ;
     dcterms:title "\"Johann Strauss Fenstkonzert\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1>,
+    mo:catalogue_number "C236901A" ;
+    mo:musicbrainz mbrelease:4a0a2868-6710-4c93-adcd-e29303f896f9 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1>,
         <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#10>,
         <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#11>,
         <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12>,
@@ -19,5 +24,5 @@
         <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#7>,
         <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#8>,
         <https://w3id.org/ssv/data/signal/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#9> ;
-    ns1:record <https://w3id.org/ssv/data/record/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> .
+    mo:record ssvrec:Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29 .
 

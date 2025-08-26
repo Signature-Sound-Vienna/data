@@ -1,5 +1,113 @@
 [
   {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/03-Fr%C3%BChlingsstimmenwalser_Valse%20du%20Printemps%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/dc5e00c3-77a4-412a-8708-ca3e9d39c4d3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Frühlingsstimmenwalzer"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/11-An%20der%20sch%C3%B6nen%20blauen%20Donau_Le%20beau%20danube%20Bleu%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/95233bd2-982e-427a-97bd-cdc78c6af029"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/01-Ouverture%20Die%20feldermaus%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/adaffc4e-c667-44a6-85ca-5ca77c200183"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouverture zu 'Die Feldermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/12-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Radetzky-Marsch"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -27,29 +135,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#3",
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/03-Fr%C3%BChlingsstimmenwalser_Valse%20du%20Printemps%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/06-KaiserWalser%20_%20Valse%20de%20l%27empereur%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/dc5e00c3-77a4-412a-8708-ca3e9d39c4d3"
+        "@id": "https://musicbrainz.org/track/48b7f1ae-db42-43c4-b4a3-6d79d06197c1"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Frühlingsstimmenwalzer"
+        "@value": "Track: Kaiserwalzer"
       }
     ]
   },
@@ -108,87 +216,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/01-Ouverture%20Die%20feldermaus%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/adaffc4e-c667-44a6-85ca-5ca77c200183"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouverture zu 'Die Feldermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/05-G%27schichten%20aus%20dem%20wienerwald_La%20maison%20de%20la%20foret%20noire%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d4eafc0c-03a1-48f3-a9fd-560c62769386"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichten aus dem Wienerwald\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/12-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6e9835df-741a-4b22-bd92-e9cb0ca2216a"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Radetzky-Marsch"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -243,33 +270,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/06-KaiserWalser%20_%20Valse%20de%20l%27empereur%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/48b7f1ae-db42-43c4-b4a3-6d79d06197c1"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Kaiserwalzer"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -297,29 +297,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#11",
+    "@id": "https://w3id.org/ssv/data/track/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/11-An%20der%20sch%C3%B6nen%20blauen%20Donau_Le%20beau%20danube%20Bleu%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29/05-G%27schichten%20aus%20dem%20wienerwald_La%20maison%20de%20la%20foret%20noire%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/95233bd2-982e-427a-97bd-cdc78c6af029"
+        "@id": "https://musicbrainz.org/track/d4eafc0c-03a1-48f3-a9fd-560c62769386"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"An der schönen blauen Donau\""
+        "@value": "Track: \"G'schichten aus dem Wienerwald\""
       }
     ]
   }

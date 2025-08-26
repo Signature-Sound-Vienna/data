@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/28ad74dd-19f4-449c-bf9c-266918cefd6a"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"New Year's Concert 1999\""
@@ -11,7 +16,12 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "74321 61687 2"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/2f7d8273-81d5-45ed-8b1b-57cdd2af9ae8"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -66,9 +76,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"New Year's Concert 1999\""
-      },
-      {
-        "@value": "Record: \"New Year's Concert 1999\""
       }
     ]
   }

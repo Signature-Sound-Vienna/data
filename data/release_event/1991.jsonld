@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/data/release_event/1991",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/data/release/1991"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N0bf45e2acf5b4fb88fdf9551f6ff15c3"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0bf45e2acf5b4fb88fdf9551f6ff15c3",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1991"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/release/1991",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1991"
+      }
+    ]
+  }
+]

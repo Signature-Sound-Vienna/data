@@ -1,16 +1,21 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
 
-<https://w3id.org/ssv/data/release/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> a ns1:Release ;
-    rdfs:label "Record: \"Wiener Compositionen\"",
-        "Release: \"Wiener Compositionen\"" ;
+ssvrel:Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29 a mo:Release ;
+    rdfs:label "Release: \"Wiener Compositionen\"" ;
+    dcterms:publisher mblabel:e91cb336-3cf1-4002-b51c-bdab8d2b27c6 ;
     dcterms:title "\"Wiener Compositionen\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1>,
+    mo:catalogue_number "AD-03981" ;
+    mo:musicbrainz mbrelease:74a17833-5e6a-48ed-9045-7869a0f7f303 ;
+    mo:publication_of <https://w3id.org/ssv/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1>,
         <https://w3id.org/ssv/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2>,
         <https://w3id.org/ssv/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3>,
         <https://w3id.org/ssv/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4>,
         <https://w3id.org/ssv/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5> ;
-    ns1:record <https://w3id.org/ssv/data/record/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> .
+    mo:record ssvrec:Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29 .
 

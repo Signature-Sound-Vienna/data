@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/748d0541-fb09-47a2-a83c-ab376f42ffc9"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2011_-20_-28Kendlinger_-29#1"
@@ -58,6 +63,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Kendlinger dirigiert Strauß 2011\""
       }
     ]
   }

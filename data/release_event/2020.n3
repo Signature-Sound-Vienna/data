@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrevent:2020 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:2020 ;
+    ev:time [ a tl:Instant ;
+            tl:atYear "2020"^^xsd:gYear ] .
+
+ssvrel:2020 dcterms:issued "2020" .
+

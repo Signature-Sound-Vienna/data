@@ -1,0 +1,7 @@
+_:N3a45c9587b9141ef9a0cfa1b13fe0adf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/data/release_event/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N3a45c9587b9141ef9a0cfa1b13fe0adf .
+_:N3a45c9587b9141ef9a0cfa1b13fe0adf <http://purl.org/NET/c4dm/timeline.owl#atYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/data/release_event/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/data/release/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> .
+<https://w3id.org/ssv/data/release/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> <http://purl.org/dc/terms/issued> "1996" .
+<https://w3id.org/ssv/data/release_event/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/data/release_event/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .

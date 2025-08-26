@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/08fbffc2-0af1-49be-85cc-4bc958c74f04"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
@@ -11,7 +16,12 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "160304"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/d293ae6d-d919-4a74-beab-a79eb0bd1bb0"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -48,9 +58,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
-      },
-      {
-        "@value": "Record: \"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
       }
     ]
   }

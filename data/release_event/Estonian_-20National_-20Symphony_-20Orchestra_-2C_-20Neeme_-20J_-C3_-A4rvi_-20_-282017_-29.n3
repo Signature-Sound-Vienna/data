@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrevent:Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29 ;
+    ev:time [ a tl:Instant ;
+            tl:atYear "2017"^^xsd:gYear ] .
+
+ssvrel:Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29 dcterms:issued "2017-05" .
+

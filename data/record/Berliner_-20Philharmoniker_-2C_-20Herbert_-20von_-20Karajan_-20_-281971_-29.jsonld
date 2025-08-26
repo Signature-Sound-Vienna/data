@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/a9f717e5-4db4-4cd7-9285-55630114968a"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#1"
@@ -43,6 +48,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Walzer / Polkas / Märsche\""
       }
     ]
   }

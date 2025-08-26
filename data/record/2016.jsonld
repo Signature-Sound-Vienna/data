@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/79dc6ccd-9870-466d-883b-4a3cb4af088f"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2016#1"
@@ -82,6 +87,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 25
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 2016\""
       }
     ]
   }

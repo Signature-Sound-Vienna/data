@@ -4,14 +4,19 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonzert 2015\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/48a87af9-b956-4190-9431-9ec2557a3b20"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -87,9 +92,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonzert 2015\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert 2015\""
       }
     ]
   }

@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/54f455c5-f883-4024-a3c2-b74d0e9795ff"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2005#1"
@@ -79,6 +84,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 24
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 2005\""
       }
     ]
   }

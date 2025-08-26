@@ -9,9 +9,9 @@
         "@value": "\"Wiener Walzer\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/4261dc30-5ed8-4658-8621-e2ab6540a216"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -42,9 +42,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Wiener Walzer\""
-      },
-      {
-        "@value": "Record: \"Wiener Walzer\""
       }
     ]
   }

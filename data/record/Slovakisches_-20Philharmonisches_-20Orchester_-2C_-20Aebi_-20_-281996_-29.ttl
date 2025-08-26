@@ -1,11 +1,16 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/record/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1>,
+ssvrec:Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29 a mo:Record ;
+    rdfs:label "Record: \"Wiener Compositionen\"" ;
+    mo:musicbrainz mbrelease:74a17833-5e6a-48ed-9045-7869a0f7f303 ;
+    mo:track <https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1>,
         <https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2>,
         <https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3>,
         <https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4>,
         <https://w3id.org/ssv/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5> ;
-    ns1:track_count 6 .
+    mo:track_count 6 .
 

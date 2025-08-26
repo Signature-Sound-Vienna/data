@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
@@ -9,25 +9,26 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Wiener Musik Vol. 3"</dcterms:title>
     <rdfs:label>Release: "Wiener Musik Vol. 3"</rdfs:label>
-    <rdfs:label>Record: "Wiener Musik Vol. 3"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/data/record/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#14"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#15"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#16"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#17"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/data/record/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/c5b3f01e-3434-415f-a7f3-4679eed18b12"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/bcfe9a38-dfe8-42ad-b021-406b2a912e53"/>
+    <mo:catalogue_number>258658</mo:catalogue_number>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#15"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#16"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/data/signal/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29#17"/>
   </rdf:Description>
 </rdf:RDF>

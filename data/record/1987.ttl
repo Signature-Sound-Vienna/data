@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/record/1987> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/track/1987#1>,
+ssvrec:1987 a mo:Record ;
+    rdfs:label "Record: \"Das legendärste Neujahrskonzert! (1987\"" ;
+    mo:musicbrainz mbrelease:6a222f79-522e-4333-8d03-36d649555790 ;
+    mo:track <https://w3id.org/ssv/data/track/1987#1>,
         <https://w3id.org/ssv/data/track/1987#10>,
         <https://w3id.org/ssv/data/track/1987#11>,
         <https://w3id.org/ssv/data/track/1987#12>,
@@ -17,5 +22,5 @@
         <https://w3id.org/ssv/data/track/1987#7>,
         <https://w3id.org/ssv/data/track/1987#8>,
         <https://w3id.org/ssv/data/track/1987#9> ;
-    ns1:track_count 16 .
+    mo:track_count 16 .
 

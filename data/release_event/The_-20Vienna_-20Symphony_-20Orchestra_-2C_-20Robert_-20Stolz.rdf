@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tl="http://purl.org/NET/c4dm/timeline.owl#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz">
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2006-02-08</dcterms:issued>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release_event/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz"/>
+    <ev:time rdf:nodeID="Ndb203534818e4cbeac1ef1cd7c668a1f"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Ndb203534818e4cbeac1ef1cd7c668a1f">
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+    <tl:atYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2006</tl:atYear>
+  </rdf:Description>
+</rdf:RDF>

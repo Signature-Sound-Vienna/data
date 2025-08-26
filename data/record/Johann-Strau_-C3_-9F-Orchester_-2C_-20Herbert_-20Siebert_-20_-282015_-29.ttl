@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/data/record/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1>,
+ssvrec:Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29 a mo:Record ;
+    rdfs:label "Record: Neujahrskonzert" ;
+    mo:musicbrainz mbrelease:05aaba2d-77fe-4d39-b516-12a88a53394e ;
+    mo:track <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1>,
         <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#10>,
         <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#11>,
         <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#12>,
@@ -18,5 +23,5 @@
         <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#7>,
         <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#8>,
         <https://w3id.org/ssv/data/track/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#9> ;
-    ns1:track_count 17 .
+    mo:track_count 17 .
 

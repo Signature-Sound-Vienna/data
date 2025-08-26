@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tl="http://purl.org/NET/c4dm/timeline.owl#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release_event/Kaiser-Walzer">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/data/release/Kaiser-Walzer"/>
+    <ev:time rdf:nodeID="N6839166c1fbb48aa806c2312f5860911"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N6839166c1fbb48aa806c2312f5860911">
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+    <tl:atYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1997</tl:atYear>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/release/Kaiser-Walzer">
+    <dcterms:issued>1997</dcterms:issued>
+  </rdf:Description>
+</rdf:RDF>

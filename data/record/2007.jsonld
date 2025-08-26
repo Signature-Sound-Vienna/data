@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/838d02cf-3897-42cc-a259-e9a43dc085d7"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/2007#1"
@@ -70,6 +75,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 21
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 2007\""
       }
     ]
   }

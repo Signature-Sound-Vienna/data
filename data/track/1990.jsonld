@@ -1,32 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/data/track/1990#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1990/08-Im%20Sturmschritt%2C%20Polka%20schnell%20op.%20348%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/f2511162-b2a4-35a1-b016-4e9751effebb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Im Sturmschritt\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/1990#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -54,6 +27,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/1990#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1990/08-Im%20Sturmschritt%2C%20Polka%20schnell%20op.%20348%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/f2511162-b2a4-35a1-b016-4e9751effebb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Im Sturmschritt\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/1990#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -77,6 +77,114 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Die Emancipirte\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1990#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1990/05-Sport-Polka%2C%20op.%20170%20-%20Joseph%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6b2798cc-d221-3d96-a8d7-cb856263ba4d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Sport-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1990#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1990/11-Eplosions-Polka%2C%20op.%2043%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/7101acce-be75-3b57-b3d9-bc8c80c7a35b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Explosions-Polka"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1990#13",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1990/13-An%20der%20schoenen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/138c8906-a817-31c5-991f-5657b017a4d8"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 13
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1990#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1990/06-Sympathie%2C%20Polka%20mazur%20op.%2073%20-%20Joseph%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ad0616ee-0765-3e02-8a64-18cf707bc5bb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Sympathie"
       }
     ]
   },
@@ -135,6 +243,33 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/1990#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1990/12-Eingesendet%2C%20Polka%20schnell%20op.%20240%20-%20Joseph%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b03fc305-bb7d-3c75-9728-61ad89940918"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Eingesendet"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/1990#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -158,60 +293,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Geschichten aus dem Wienerwald\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1990#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1990/13-An%20der%20schoenen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/138c8906-a817-31c5-991f-5657b017a4d8"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1990#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1990/11-Eplosions-Polka%2C%20op.%2043%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7101acce-be75-3b57-b3d9-bc8c80c7a35b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Explosions-Polka"
       }
     ]
   },
@@ -270,60 +351,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1990#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1990/06-Sympathie%2C%20Polka%20mazur%20op.%2073%20-%20Joseph%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/ad0616ee-0765-3e02-8a64-18cf707bc5bb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Sympathie"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1990#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1990/12-Eingesendet%2C%20Polka%20schnell%20op.%20240%20-%20Joseph%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b03fc305-bb7d-3c75-9728-61ad89940918"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Eingesendet"
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/1990#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -347,33 +374,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Wiener Blut\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1990#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1990/05-Sport-Polka%2C%20op.%20170%20-%20Joseph%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6b2798cc-d221-3d96-a8d7-cb856263ba4d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Sport-Polka"
       }
     ]
   }

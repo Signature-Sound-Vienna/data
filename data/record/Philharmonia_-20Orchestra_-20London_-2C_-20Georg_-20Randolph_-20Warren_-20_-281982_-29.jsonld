@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/f5897301-818e-4aaf-9c52-27f339bb3849"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1"
@@ -31,6 +36,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Berühmte Ouvertüren\""
       }
     ]
   }

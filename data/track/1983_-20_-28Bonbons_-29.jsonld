@@ -27,114 +27,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/02-Velocipede%2C%20Polka%20schnell%20op.%20259%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d9c0174b-7ffb-4be9-ae67-2335fd9c9117"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Velocipede, Polka schnell op. 259\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#8",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/08-Wo%20die%20Zitronen%20blueh%27n%2C%20Walzer%20op.%20364%20-%20Johann%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/60fab5d1-850c-4d26-9d6d-b1272a77d6eb"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Wo die Zitronen blueh'n, Walzer op. 364\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/10-Indigo%20und%20die%20vierzig%20Raeuber_%20Ouvertuere%20-%20Johann%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a2f47784-21e4-4892-b58c-12ec2d52ec38"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"'Indigo und die vierzig Raeuber' Ouvertuere\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/09-Aus%20der%20Ferne%2C%20Polka%20mazur%20op.%20270%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/1c9df36b-9d46-4510-ba05-893ca20cd74d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Aus der Ferne, Polka mazur op. 270\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -243,6 +135,60 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/09-Aus%20der%20Ferne%2C%20Polka%20mazur%20op.%20270%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/1c9df36b-9d46-4510-ba05-893ca20cd74d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Aus der Ferne, Polka mazur op. 270\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/10-Indigo%20und%20die%20vierzig%20Raeuber_%20Ouvertuere%20-%20Johann%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a2f47784-21e4-4892-b58c-12ec2d52ec38"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"'Indigo und die vierzig Raeuber' Ouvertuere\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -266,6 +212,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Wiener Bonbons, Walzer op. 307\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#2",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/02-Velocipede%2C%20Polka%20schnell%20op.%20259%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d9c0174b-7ffb-4be9-ae67-2335fd9c9117"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 2
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Velocipede, Polka schnell op. 259\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/data/track/1983_-20_-28Bonbons_-29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1983_-20_-28Bonbons_-29/08-Wo%20die%20Zitronen%20blueh%27n%2C%20Walzer%20op.%20364%20-%20Johann%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/60fab5d1-850c-4d26-9d6d-b1272a77d6eb"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wo die Zitronen blueh'n, Walzer op. 364\""
       }
     ]
   }

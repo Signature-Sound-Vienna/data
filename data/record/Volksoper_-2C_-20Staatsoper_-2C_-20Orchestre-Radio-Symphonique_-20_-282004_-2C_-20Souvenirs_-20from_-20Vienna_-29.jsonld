@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/ab23f254-a8cb-4cb0-9aa6-ee51c906a0d5"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/data/track/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1"
@@ -37,6 +42,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\""
       }
     ]
   }

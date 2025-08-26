@@ -1,147 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#14">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/abbb4835-b84a-4dd4-88f4-92d288303081"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/abbb4835-b84a-4dd4-88f4-92d288303081"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</mo:track_number>
     <rdfs:label>Track: "Luzifer‐Polka, op. 266"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/14%20-%20Luzifer-Polka%20op.%20266%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#15">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/46e58881-cc2f-44a8-9518-a39dea19f1de"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</ns1:track_number>
-    <rdfs:label>Track: "Ohne Sorgen, Polka schnell, op. 271"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/15%20-%20Ohne%20Sorgen%2C%20Polka%20schnell%20op.%20271%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#1">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/627b2e42-3f09-43ec-afa3-7c4398ce7b3b"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</ns1:track_number>
-    <rdfs:label>Track: "Radetzky‐Marsch, op. 228 (original version)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/01%20-%20Radetzky-Marsch%20op.%20228%20%28original%20version%29%20-%20Johann%20Strauss%20I.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#9">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/b8b31738-d491-42c2-8a22-a35bb05e4161"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_number>
-    <rdfs:label>Track: "Dorfschwalben aus Österreich, Walzer, op. 164"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/09%20-%20Dorfschwalben%20aus%20%C3%96sterreich%2C%20Walzer%20op.%20164%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#3">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1391f5f0-205c-4370-b692-ffcdfeec0667"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</ns1:track_number>
-    <rdfs:label>Track: "Jägers Lust, Jagd‐Galopp, op. 82"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/03%20-%20J%C3%A4gers%20Lust%2C%20Jagd-Galopp%20op.%2082%20-%20Joseph%20Lanner.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/14%20-%20Luzifer-Polka%20op.%20266%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#19">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/63e7d106-7fcb-40ac-9160-6bfb8ba7a14e"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/63e7d106-7fcb-40ac-9160-6bfb8ba7a14e"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</mo:track_number>
     <rdfs:label>Track: "Harlekin Polka (Ballet)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/19%20-%20Harlekin-Polka%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#4">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/897c6c50-f7c2-489b-b073-f319d7f9e70a"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</ns1:track_number>
-    <rdfs:label>Track: "Morgenblätter, Walzer, op. 279"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/04%20-%20Morgenbl%C3%A4tter%2C%20Walzer%20op.%20279%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#18">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/1c448b1a-51c3-458c-a61d-9296cb590b04"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</ns1:track_number>
-    <rdfs:label>Track: "Der Kobold (Ballet)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/18%20-%20Der%20Kobold%20-%20Johann%20Strauss%20II.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/19%20-%20Harlekin-Polka%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#6">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/f64b6e30-c26e-4134-b911-97c89971b756"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/f64b6e30-c26e-4134-b911-97c89971b756"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</mo:track_number>
     <rdfs:label>Track: "Electrofor‐Polka schnell, op. 297"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/06%20-%20Electrofor-Polka%20schnell%20op.%20297%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#8">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/10eadc81-6801-4753-955e-7ffb7c94055c"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</ns1:track_number>
-    <rdfs:label>Track: "Harlekin‐Polka, op. 48"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/08%20-%20Harlekin-Polka%20op.%2048%20-%20Josef%20Strauss.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#16">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/67008649-856a-4a39-88a1-17106a41f8de"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_number>
-    <rdfs:label>Track: "An der schönen blauen Donau, Walzer, op. 314"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/16%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#20">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/00769c3a-7a93-4657-bb6d-68fdfe9ecda0"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
-    <rdfs:label>Track: "Vergnügungszug, Polka schnell (Ballet)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/20%20-%20Vergn%C3%BCgungszug%2C%20Polka%20schnell%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#7">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7d9274a3-479a-4067-887e-344dc6f3b019"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</ns1:track_number>
-    <rdfs:label>Track: "Overture to Eine Nacht in Venedig (Berlin version)"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/07%20-%20Overture%20to%20%27Eine%20Nacht%20in%20Venedig%27%20%28Berlin%20version%29%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#2">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/603e69f5-c94d-4729-914c-f04bde2ff44d"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</ns1:track_number>
-    <rdfs:label>Track: "Die Schönbrunner, Walzer, op. 200"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/02%20-%20Die%20Sch%C3%B6nbrunner%2C%20Walzer%20op.%20200%20-%20Joseph%20Lanner.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#13">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/8925ded9-0afd-4c05-a500-47f0d57d6fa4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</ns1:track_number>
-    <rdfs:label>Track: "Der Kobold, Polka Mazur, op. 226"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/13%20-%20Der%20Kobold%2C%20Polka%20Mazur%20op.%20226%20-%20Johann%20Strauss%20II.wav"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#11">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/d90e5893-14b1-4ec4-b75a-73a3d40c7a80"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</ns1:track_number>
-    <rdfs:label>Track: "Vergnügungszug, Polka schnell, op. 281"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/11%20-%20Vergn%C3%BCgungszug%2C%20Polka%20schnell%20op.%20281%20-%20Johann%20Strauss%20II.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/06%20-%20Electrofor-Polka%20schnell%20op.%20297%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#10">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/7fe26d5c-7d7e-49b6-b936-d5f2ae3057b4"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/7fe26d5c-7d7e-49b6-b936-d5f2ae3057b4"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</mo:track_number>
     <rdfs:label>Track: "Steyrische Tänze, op. 165"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/10%20-%20Steyrische%20T%C3%A4nze%209op.%20165%20-%20Joseph%20Lanner.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/10%20-%20Steyrische%20T%C3%A4nze%209op.%20165%20-%20Joseph%20Lanner.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#17">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/07cc6d78-a77e-4070-83f1-b8b10c78a31a"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/07cc6d78-a77e-4070-83f1-b8b10c78a31a"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</mo:track_number>
     <rdfs:label>Track: "Radetzky‐Marsch, op. 228"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/17%20-%20Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/17%20-%20Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#20">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/00769c3a-7a93-4657-bb6d-68fdfe9ecda0"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</mo:track_number>
+    <rdfs:label>Track: "Vergnügungszug, Polka schnell (Ballet)"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/20%20-%20Vergn%C3%BCgungszug%2C%20Polka%20schnell%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/7d9274a3-479a-4067-887e-344dc6f3b019"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</mo:track_number>
+    <rdfs:label>Track: "Overture to Eine Nacht in Venedig (Berlin version)"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/07%20-%20Overture%20to%20%27Eine%20Nacht%20in%20Venedig%27%20%28Berlin%20version%29%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#4">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/897c6c50-f7c2-489b-b073-f319d7f9e70a"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</mo:track_number>
+    <rdfs:label>Track: "Morgenblätter, Walzer, op. 279"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/04%20-%20Morgenbl%C3%A4tter%2C%20Walzer%20op.%20279%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#11">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/d90e5893-14b1-4ec4-b75a-73a3d40c7a80"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</mo:track_number>
+    <rdfs:label>Track: "Vergnügungszug, Polka schnell, op. 281"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/11%20-%20Vergn%C3%BCgungszug%2C%20Polka%20schnell%20op.%20281%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#13">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/8925ded9-0afd-4c05-a500-47f0d57d6fa4"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</mo:track_number>
+    <rdfs:label>Track: "Der Kobold, Polka Mazur, op. 226"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/13%20-%20Der%20Kobold%2C%20Polka%20Mazur%20op.%20226%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/10eadc81-6801-4753-955e-7ffb7c94055c"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</mo:track_number>
+    <rdfs:label>Track: "Harlekin‐Polka, op. 48"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/08%20-%20Harlekin-Polka%20op.%2048%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#3">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/1391f5f0-205c-4370-b692-ffcdfeec0667"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</mo:track_number>
+    <rdfs:label>Track: "Jägers Lust, Jagd‐Galopp, op. 82"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/03%20-%20J%C3%A4gers%20Lust%2C%20Jagd-Galopp%20op.%2082%20-%20Joseph%20Lanner.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#1">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/627b2e42-3f09-43ec-afa3-7c4398ce7b3b"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</mo:track_number>
+    <rdfs:label>Track: "Radetzky‐Marsch, op. 228 (original version)"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/01%20-%20Radetzky-Marsch%20op.%20228%20%28original%20version%29%20-%20Johann%20Strauss%20I.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#18">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/1c448b1a-51c3-458c-a61d-9296cb590b04"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</mo:track_number>
+    <rdfs:label>Track: "Der Kobold (Ballet)"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/18%20-%20Der%20Kobold%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#9">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/b8b31738-d491-42c2-8a22-a35bb05e4161"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</mo:track_number>
+    <rdfs:label>Track: "Dorfschwalben aus Österreich, Walzer, op. 164"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/09%20-%20Dorfschwalben%20aus%20%C3%96sterreich%2C%20Walzer%20op.%20164%20-%20Josef%20Strauss.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#2">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/603e69f5-c94d-4729-914c-f04bde2ff44d"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</mo:track_number>
+    <rdfs:label>Track: "Die Schönbrunner, Walzer, op. 200"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/02%20-%20Die%20Sch%C3%B6nbrunner%2C%20Walzer%20op.%20200%20-%20Joseph%20Lanner.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#5">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/cfdef74f-1307-40aa-8d21-35bb01cc9d05"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/cfdef74f-1307-40aa-8d21-35bb01cc9d05"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</mo:track_number>
     <rdfs:label>Track: "Electro‐magnetische Polka, op. 110"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/05%20-%20Electro-magnetische%20Polka%20op.%20110%20-%20Johann%20Strauss%20II.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/05%20-%20Electro-magnetische%20Polka%20op.%20110%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#15">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/46e58881-cc2f-44a8-9518-a39dea19f1de"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</mo:track_number>
+    <rdfs:label>Track: "Ohne Sorgen, Polka schnell, op. 271"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/15%20-%20Ohne%20Sorgen%2C%20Polka%20schnell%20op.%20271%20-%20Josef%20Strauss.wav"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#12">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
-    <ns1:musicbrainz rdf:resource="https://musicbrainz.org/track/eb89530e-3a38-4552-a0d6-56d5e21da5dd"/>
-    <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</ns1:track_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/eb89530e-3a38-4552-a0d6-56d5e21da5dd"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</mo:track_number>
     <rdfs:label>Track: "Seid umschlungen, Millionen, Walzer, op. 443"</rdfs:label>
-    <ns1:available_as rdf:resource="https://w3id.org/ssv/audio/2001/12%20-%20Seid%20umschlungen%2C%20Millionen%2C%20Walzer%20op.%20443%20-%20Johann%20Strauss%20II.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/12%20-%20Seid%20umschlungen%2C%20Millionen%2C%20Walzer%20op.%20443%20-%20Johann%20Strauss%20II.wav"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/data/track/2001#16">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/67008649-856a-4a39-88a1-17106a41f8de"/>
+    <mo:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</mo:track_number>
+    <rdfs:label>Track: "An der schönen blauen Donau, Walzer, op. 314"</rdfs:label>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/2001/16%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%20II.wav"/>
   </rdf:Description>
 </rdf:RDF>
