@@ -1,0 +1,36 @@
+{
+  "@context": {
+    "ssv": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/",
+    "musMat": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/musicalMaterial/",
+    "extract": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/extract/",
+    "selection": "https://raw.githubusercontent.com/Signature-Sound-Vienna/data/TISMIR/annot/mao/selection/",
+    "schema": "https://schema.org/",
+    "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
+    "frbr": "http://purl.org/vocab/frbr/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "tl": "http://purl.org/NET/c4dm/timeline.owl#"
+  },
+  "@id": "selection:ExDonau-audio5.jsonld",
+  "@type": [
+    "mao:Selection",
+    "schema:Dataset"
+  ],
+  "dcterms:created": "2024-05-27T13:55:58.231Z",
+  "dcterms:creator": {
+    "@id": "https://ssv.solidcommunity.net/profile/card#me"
+  },
+  "frbr:part": [
+    {
+      "@id": "https://w3id.org/ssv/audio/2017/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav#t=14.05,21.49",
+      "@type": "tl:Interval",
+      "tl:onTimeLine": {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2017#20"
+      }
+    }
+  ],
+  "rdfs:label": "TISMIR Example 5.2.2: Vienna Philharmonic Orchestra (2017) -- An der schönen blauen Donau",
+  "schema:about": {
+    "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Op314_Donauwalzer_Breitkopf/main/Longest_Version_Krauss.mei"
+  }
+}
