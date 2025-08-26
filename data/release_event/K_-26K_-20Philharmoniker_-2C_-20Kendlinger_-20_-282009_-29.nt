@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/0.9/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> .
+_:Nb2ddb69be957456f885b0057515412cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+_:Nb2ddb69be957456f885b0057515412cb <http://purl.org/NET/c4dm/timeline.owl#atYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/0.9/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> <https://purl.org/NET/c4dm/event.owl#time> _:Nb2ddb69be957456f885b0057515412cb .
+<https://w3id.org/ssv/0.9/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/0.9/data/release/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> <http://purl.org/dc/terms/issued> "2009" .
+<https://w3id.org/ssv/0.9/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .

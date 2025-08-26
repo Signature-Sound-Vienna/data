@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release_event/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/release/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N5182eb9ce42c48eb89145f0582679e22"
+      }
+    ]
+  },
+  {
+    "@id": "_:N5182eb9ce42c48eb89145f0582679e22",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ]
+  }
+]

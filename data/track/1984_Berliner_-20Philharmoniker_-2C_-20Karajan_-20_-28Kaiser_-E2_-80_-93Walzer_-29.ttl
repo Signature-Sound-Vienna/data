@@ -1,0 +1,47 @@
+@prefix mbtrack: <https://musicbrainz.org/track/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#1> a mo:Track ;
+    rdfs:label "Track: \"Kaiser–Walzer, op. 437\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/01-Kaiser%E2%80%93Walzer%2C%20op.%20437.wav> ;
+    mo:musicbrainz mbtrack:83870041-e855-3b97-825c-8ce7525c91fa ;
+    mo:track_number 1 .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#2> a mo:Track ;
+    rdfs:label "Track: \"Tritsch–Tratsch–Polka, op. 214\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/02-Tritsch%E2%80%93Tratsch%E2%80%93Polka%2C%20op.%20214.wav> ;
+    mo:musicbrainz mbtrack:da5a04d3-3990-319f-aea3-53f6e2f93864 ;
+    mo:track_number 2 .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#3> a mo:Track ;
+    rdfs:label "Track: \"Rosen aus dem Süden, op. 388: Waltzer\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/03-Rosen%20aus%20dem%20S%C3%BCden%2C%20op.%20388_%20Waltzer.wav> ;
+    mo:musicbrainz mbtrack:6fc84e7b-c897-3305-bcc8-2077902df98b ;
+    mo:track_number 3 .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#4> a mo:Track ;
+    rdfs:label "Track: \"»Der Zigeunerbaron«: Ouvertüre\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/04-%C2%BBDer%20Zigeunerbaron%C2%AB_%20Ouvert%C3%BCre.wav> ;
+    mo:musicbrainz mbtrack:48ed74c2-58d7-3aef-8329-65ae0fdd394d ;
+    mo:track_number 4 .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#5> a mo:Track ;
+    rdfs:label "Track: \"Annen–Polka, op. 117: Polka française\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/05-Annen%E2%80%93Polka%2C%20op.%20117_%20Polka%20fran%C3%A7aise.wav> ;
+    mo:musicbrainz mbtrack:57ef0152-9340-326a-a9c6-9b51a733302b ;
+    mo:track_number 5 .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#6> a mo:Track ;
+    rdfs:label "Track: \"Wein, Weib, Gesang, op. 333: Walzer\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/06-Wein%2C%20Weib%2C%20Gesang%2C%20op.%20333_%20Walzer.wav> ;
+    mo:musicbrainz mbtrack:436f9f7d-bd1f-3fc6-88c9-7a6368de175c ;
+    mo:track_number 6 .
+
+<https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7> a mo:Track ;
+    rdfs:label "Track: \"Auf der Jagd, op. 373: Polka schnell\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/07-Auf%20der%20Jagd%2C%20op.%20373_%20Polka%20schnell.wav> ;
+    mo:musicbrainz mbtrack:a5ca808b-0859-3e19-b60c-d0a88efece1c ;
+    mo:track_number 7 .
+

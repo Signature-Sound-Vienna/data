@@ -1,18 +1,23 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29> a ns1:Release ;
-    rdfs:label "Record: \"Berühmte Ouvertüren\"",
-        "Release: \"Berühmte Ouvertüren\"" ;
+ssvrel:Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29 a mo:Release ;
+    rdfs:label "Release: \"Berühmte Ouvertüren\"" ;
+    dcterms:publisher mblabel:f00633d2-4783-4b68-8cac-27725df9b690 ;
     dcterms:title "\"Berühmte Ouvertüren\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1>,
+    mo:catalogue_number "INT 830.814" ;
+    mo:musicbrainz mbrelease:f5897301-818e-4aaf-9c52-27f339bb3849 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#4>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#6>,
         <https://w3id.org/ssv/0.9/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#7> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29> .
+    mo:record ssvrec:Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29 .
 

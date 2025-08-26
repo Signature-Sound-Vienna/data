@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#1>,
+ssvrec:Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29 a mo:Record ;
+    rdfs:label "Record: \"Walzer / Polkas / Märsche\"" ;
+    mo:musicbrainz mbrelease:a9f717e5-4db4-4cd7-9285-55630114968a ;
+    mo:track <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#1>,
         <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#10>,
         <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#11>,
         <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#2>,
@@ -13,5 +18,5 @@
         <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#7>,
         <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#8>,
         <https://w3id.org/ssv/0.9/data/track/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#9> ;
-    ns1:track_count 12 .
+    mo:track_count 12 .
 

@@ -1,0 +1,11 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mbartist: <https://musicbrainz.org/artist/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performer/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7> a mo:MusicArtist ;
+    rdfs:label "Performer: \"Johann Strauss\"" ;
+    mo:musicbrainz mbartist:8255db36-4902-4cf6-8612-0f2b4288bc9a ;
+    mo:performed <https://w3id.org/ssv/0.9/data/performance/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7> ;
+    foaf:name "\"Johann Strauss\"" .
+

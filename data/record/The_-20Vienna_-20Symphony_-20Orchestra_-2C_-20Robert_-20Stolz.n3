@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1>,
+ssvrec:The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz a mo:Record ;
+    rdfs:label "Record: \"Strauss Waltzes\"" ;
+    mo:musicbrainz mbrelease:f7123288-b791-4040-bacb-215ffa2add45 ;
+    mo:track <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1>,
         <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10>,
         <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#11>,
         <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#12>,
@@ -15,5 +20,5 @@
         <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7>,
         <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8>,
         <https://w3id.org/ssv/0.9/data/track/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9> ;
-    ns1:track_count 14 .
+    mo:track_count 14 .
 

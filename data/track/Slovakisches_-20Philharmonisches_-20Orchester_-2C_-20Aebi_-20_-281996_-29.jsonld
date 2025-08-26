@@ -1,5 +1,32 @@
 [
   {
+    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/09a59cd1-36a9-48c4-ba5e-750c9420c352"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Wiener Blut\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -54,29 +81,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/05-Johann%20Strauss%20Jr.%20-%20Wiener%20Blut.wav"
+        "@id": "https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/01-Johann%20Strauss%20Jr.%20-%20Donau%20Walzer.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/09a59cd1-36a9-48c4-ba5e-750c9420c352"
+        "@id": "https://musicbrainz.org/track/5caadb02-a961-43b5-92be-3c72cc87d1dd"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wiener Blut\""
+        "@value": "Track: \"Donau Walzer\""
       }
     ]
   },
@@ -104,33 +131,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Strauss Walzer\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29/01-Johann%20Strauss%20Jr.%20-%20Donau%20Walzer.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/5caadb02-a961-43b5-92be-3c72cc87d1dd"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Donau Walzer\""
       }
     ]
   }

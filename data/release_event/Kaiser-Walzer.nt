@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/0.9/data/release_event/Kaiser-Walzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/0.9/data/release_event/Kaiser-Walzer> <https://purl.org/NET/c4dm/event.owl#time> _:N6839166c1fbb48aa806c2312f5860911 .
+_:N6839166c1fbb48aa806c2312f5860911 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/0.9/data/release/Kaiser-Walzer> <http://purl.org/dc/terms/issued> "1997" .
+<https://w3id.org/ssv/0.9/data/release_event/Kaiser-Walzer> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/Kaiser-Walzer> .
+_:N6839166c1fbb48aa806c2312f5860911 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release_event/Kaiser-Walzer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .

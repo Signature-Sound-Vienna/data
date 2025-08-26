@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/2004> a ns1:Release ;
-    rdfs:label "Record: \"New Year ́s Concert 2004\"",
-        "Release: \"New Year ́s Concert 2004\"" ;
-    dcterms:title "\"New Year ́s Concert 2004\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2004#1>,
+ssvrel:2004 a mo:Release ;
+    rdfs:label "Release: \"New Year's Concert 2004\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
+    dcterms:title "\"New Year's Concert 2004\"" ;
+    mo:catalogue_number "073 097-9" ;
+    mo:musicbrainz mbrelease:2df2c3a0-91ff-4082-b94e-6353c0884662 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/2004#1>,
         <https://w3id.org/ssv/0.9/data/signal/2004#10>,
         <https://w3id.org/ssv/0.9/data/signal/2004#11>,
         <https://w3id.org/ssv/0.9/data/signal/2004#12>,
@@ -29,5 +34,5 @@
         <https://w3id.org/ssv/0.9/data/signal/2004#7>,
         <https://w3id.org/ssv/0.9/data/signal/2004#8>,
         <https://w3id.org/ssv/0.9/data/signal/2004#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/2004> .
+    mo:record ssvrec:2004 .
 

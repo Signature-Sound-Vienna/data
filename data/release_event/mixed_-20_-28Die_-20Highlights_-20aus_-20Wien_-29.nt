@@ -1,0 +1,5 @@
+<https://w3id.org/ssv/0.9/data/release_event/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+_:N375fca6b51064d068053487db2e4b7bf <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release_event/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N375fca6b51064d068053487db2e4b7bf .
+<https://w3id.org/ssv/0.9/data/release_event/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/0.9/data/release_event/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29> .

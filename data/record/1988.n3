@@ -1,0 +1,26 @@
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrec:1988 a mo:Record ;
+    rdfs:label "Record: \"New Year's Concert 1988\"" ;
+    mo:musicbrainz mbrelease:f01454db-cb35-4967-972b-3c8a733bf462 ;
+    mo:track <https://w3id.org/ssv/0.9/data/track/1988#1>,
+        <https://w3id.org/ssv/0.9/data/track/1988#10>,
+        <https://w3id.org/ssv/0.9/data/track/1988#11>,
+        <https://w3id.org/ssv/0.9/data/track/1988#12>,
+        <https://w3id.org/ssv/0.9/data/track/1988#13>,
+        <https://w3id.org/ssv/0.9/data/track/1988#14>,
+        <https://w3id.org/ssv/0.9/data/track/1988#15>,
+        <https://w3id.org/ssv/0.9/data/track/1988#2>,
+        <https://w3id.org/ssv/0.9/data/track/1988#3>,
+        <https://w3id.org/ssv/0.9/data/track/1988#4>,
+        <https://w3id.org/ssv/0.9/data/track/1988#5>,
+        <https://w3id.org/ssv/0.9/data/track/1988#6>,
+        <https://w3id.org/ssv/0.9/data/track/1988#7>,
+        <https://w3id.org/ssv/0.9/data/track/1988#8>,
+        <https://w3id.org/ssv/0.9/data/track/1988#9> ;
+    mo:track_count 16 .
+

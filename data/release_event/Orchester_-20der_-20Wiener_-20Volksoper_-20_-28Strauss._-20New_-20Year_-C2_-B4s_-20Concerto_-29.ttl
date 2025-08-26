@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/0.9/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrevent:Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29 ;
+    ev:time [ a tl:Instant ;
+            tl:atYear "2001"^^xsd:gYear ] .
+
+ssvrel:Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29 dcterms:issued "2001" .
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/1941_-20_-28_-26_-20unbekannt_-29">
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1941_-20_-28_-26_-20unbekannt_-29#3"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</mo:track_count>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/f0fdaeee-9821-422b-a1fc-2f1cb4f6f720"/>
+    <rdfs:label>Record: "Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern"</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

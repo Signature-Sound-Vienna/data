@@ -1,0 +1,89 @@
+@prefix mbtrack: <https://musicbrainz.org/track/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/0.9/data/track/1999#1> a mo:Track ;
+    rdfs:label "Track: \"Sinngedichte, Walzer, Op 1\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/01-Sinngedichte%2C%20op.1%20-%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:54c77e57-939e-383d-8ed3-d9250e92d5e1 ;
+    mo:track_number 1 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#10> a mo:Track ;
+    rdfs:label "Track: \"Banditen-Galopp, Op. 378\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/10-Banditen-Galopp%2C%20op.378%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:3712cb6f-4c1e-39fe-aa99-09233e56637b ;
+    mo:track_number 10 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#11> a mo:Track ;
+    rdfs:label "Track: \"Unter Donner und Blitz, Polka-schnell, Op 324\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/11-Unter%20Donner%20und%20Blitz%2C%20op.324%20-%20Polka%20schnell%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:4e42ca6b-9bc1-3d35-b6e8-d5eae5bf6443 ;
+    mo:track_number 11 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#12> a mo:Track ;
+    rdfs:label "Track: \"Perpetuum mobile, Op. 257\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/12-Perpetuum%20Mobile%2C%20op.257%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:a8c37b0f-5135-3a36-bcf6-03135ee24f8c ;
+    mo:track_number 12 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#13> a mo:Track ;
+    rdfs:label "Track: \"An der schönen blauen Donau, Walzer, Op. 314\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/13-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20op.314%20-%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:0427856d-c0d7-30e0-ba96-3ef29e84d9ba ;
+    mo:track_number 13 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#14> a mo:Track ;
+    rdfs:label "Track: \"Radetzky-Marsch, Op. 228\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/14-Radetzky-Marsch%2C%20op.228%20-%20Johann%20Strauss%20I.wav> ;
+    mo:musicbrainz mbtrack:b3d4ebe8-d322-3d55-953d-98643eadcf5a ;
+    mo:track_number 14 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#2> a mo:Track ;
+    rdfs:label "Track: \"Scherz-Polka, Op. 72\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/02-Scherz-Polka%2C%20op.72%20-%20Johann%20Strauss%20II%20%5Bviolin%20%26%20orchestra%5D.wav> ;
+    mo:musicbrainz mbtrack:f61c5d65-c149-3d7a-8a33-23428e86dd6a ;
+    mo:track_number 2 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#3> a mo:Track ;
+    rdfs:label "Track: \"Furioso-Galopp, Op. 114\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/03-Furioso-Galopp%20%28nach%20Franz%20Liszt%29%2C%20op.114%20-%20Johann%20Strauss%20I.wav> ;
+    mo:musicbrainz mbtrack:b9cc6552-4871-3629-a87f-2474bd1324d3 ;
+    mo:track_number 3 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#4> a mo:Track ;
+    rdfs:label "Track: \"Geschichten aus dem Wiener Wald, Op. 325\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/04-Geschichten%20aus%20dem%20Wienerwald%2C%20op.325%20-%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:59b5836e-75c2-378e-a670-968de9121a39 ;
+    mo:track_number 4 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#5> a mo:Track ;
+    rdfs:label "Track: \"Tritsch-Tratsch Polka, Polka schnell, Op. 214\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/05-Tritsch-Tratsch-Polka%2C%20op.214%20-%20Polka%20schnell%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:e888c54c-2c18-307f-8a45-6f1bf04527b3 ;
+    mo:track_number 5 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#6> a mo:Track ;
+    rdfs:label "Track: \"Donauweibchen, Walzer, Op. 427\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/06-Donauweibchen%2C%20op.427%20-%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:d3e0fb75-3f76-3cd9-b94c-2368627be452 ;
+    mo:track_number 6 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#7> a mo:Track ;
+    rdfs:label "Track: \"Hopser Polka, Op. 28\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/07-Hopser%20Polka%2C%20op.28%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:2941f8dc-2ccc-3d2f-84cf-6ad7f23d2632 ;
+    mo:track_number 7 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#8> a mo:Track ;
+    rdfs:label "Track: \"Walzer a la Paganini, Op. 11\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/08-Walzer%20%C3%A1%20la%20Paganini%2C%20op.11%20-%20Johann%20Strauss%20I%20%5Bviolin%20%26%20orchestra%5D.wav> ;
+    mo:musicbrainz mbtrack:467a2006-da28-31f2-bad9-75ad6c4f9594 ;
+    mo:track_number 8 .
+
+<https://w3id.org/ssv/0.9/data/track/1999#9> a mo:Track ;
+    rdfs:label "Track: \"Künsterleben, Walzer, Op. 316\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1999/09-K%C3%BCnstlerleben%2C%20op.316%20-%20Walzer%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:652ea3c0-1e33-30db-9e8b-a24c879140e9 ;
+    mo:track_number 9 .
+

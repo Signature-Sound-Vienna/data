@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release/2022",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2022"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release_event/2022",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/release/2022"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N0b16c122f1c249bc8c7da7d0dbc324a8"
+      }
+    ]
+  },
+  {
+    "@id": "_:N0b16c122f1c249bc8c7da7d0dbc324a8",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2022"
+      }
+    ]
+  }
+]

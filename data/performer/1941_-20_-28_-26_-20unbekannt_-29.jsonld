@@ -1,0 +1,28 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/performer/1941_-20_-28_-26_-20unbekannt_-29#15",
+    "@type": [
+      "http://purl.org/ontology/mo/MusicArtist"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/artist/d770374d-05e9-4ed3-a068-3fbd4e6e4dd6"
+      }
+    ],
+    "http://purl.org/ontology/mo/performed": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/performance/1941_-20_-28_-26_-20unbekannt_-29#15"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Performer: \"Wiener Philharmoniker\""
+      }
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "\"Wiener Philharmoniker\""
+      }
+    ]
+  }
+]

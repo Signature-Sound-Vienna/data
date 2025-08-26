@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202">
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</mo:track_count>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/d293ae6d-d919-4a74-beab-a79eb0bd1bb0"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#8"/>
+    <rdfs:label>Record: "Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

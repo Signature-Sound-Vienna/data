@@ -1,32 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#10",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/10-Csardas%20aus%20_Die%20Fledermaus_%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/61a63c63-25a6-3c2f-8966-d347d7ec0a1e"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus: Csárdás\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/1994#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -50,6 +23,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Aus der Ferne\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/08-L%27Enfantillage%2C%20Polka%20fran%C3%A7aise%20op.%20202%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/800addd1-2322-3831-ad59-39256b3a9771"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: L'Enfantillage"
       }
     ]
   },
@@ -81,83 +81,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#11",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/11-G%27schichten%20aus%20dem%20Wienerwald%2C%20Walzer%20op.%20325%20-%20Johann%20Strauss%2C%20Jr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/12-Ohne%20Sorgen%2C%20Polka%20schnell%20op.%20271%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/a7aa5b27-aeb6-3b17-b2bd-2b1ac8d260bd"
+        "@id": "https://musicbrainz.org/track/1531c3d5-3709-3d9b-ba37-a37c5afc1bfb"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"G'schichten aus dem Wienerwald\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/07-Die%20Sch%C3%B6nbrunner%2C%20Walzer%20op.%20200%20-%20Joseph%20Lanner.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/36ae3cc1-92c9-3f92-a802-850cf4a25e19"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Schönbrunner\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/1994/02-Accelerationen%2C%20Walzer%20%20op.%20234%20-%20Johann%20Strauss%2C%20Jr.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/90c78039-b170-31a2-9363-7894481b8af7"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Accelerationen"
+        "@value": "Track: \"Ohne Sorgen\""
       }
     ]
   },
@@ -189,29 +135,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#4",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/04-Feuerfest%2C%20Polka%20fran%C3%A7aise%20op.%20269%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/07-Die%20Sch%C3%B6nbrunner%2C%20Walzer%20op.%20200%20-%20Joseph%20Lanner.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/961e8181-f8ed-3c84-b5ad-fdce34feafe4"
+        "@id": "https://musicbrainz.org/track/36ae3cc1-92c9-3f92-a802-850cf4a25e19"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Feuerfest!"
+        "@value": "Track: \"Die Schönbrunner\""
       }
     ]
   },
@@ -243,56 +189,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#14",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/14-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/05-Lieder-Quadrille%20op.%20275%20-%20Johann%20Strauss%2C%20Jr.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/901a89c0-e47f-3b8b-b731-4ed76acb5ce8"
+        "@id": "https://musicbrainz.org/track/5c7bde14-e73b-31ff-b816-b8acbfba90db"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"An der schönen blauen Donau\""
+        "@value": "Track: Lieder-Quadrille"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/08-L%27Enfantillage%2C%20Polka%20fran%C3%A7aise%20op.%20202%20-%20Johann%20Strauss%2C%20Jr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/04-Feuerfest%2C%20Polka%20fran%C3%A7aise%20op.%20269%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/800addd1-2322-3831-ad59-39256b3a9771"
+        "@id": "https://musicbrainz.org/track/961e8181-f8ed-3c84-b5ad-fdce34feafe4"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: L'Enfantillage"
+        "@value": "Track: Feuerfest!"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/10-Csardas%20aus%20_Die%20Fledermaus_%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/61a63c63-25a6-3c2f-8966-d347d7ec0a1e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus: Csárdás\""
       }
     ]
   },
@@ -351,56 +324,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/05-Lieder-Quadrille%20op.%20275%20-%20Johann%20Strauss%2C%20Jr.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/02-Accelerationen%2C%20Walzer%20%20op.%20234%20-%20Johann%20Strauss%2C%20Jr.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5c7bde14-e73b-31ff-b816-b8acbfba90db"
+        "@id": "https://musicbrainz.org/track/90c78039-b170-31a2-9363-7894481b8af7"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Lieder-Quadrille"
+        "@value": "Track: Accelerationen"
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/1994#12",
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/1994/12-Ohne%20Sorgen%2C%20Polka%20schnell%20op.%20271%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/1994/14-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Walzer%20op.%20314%20-%20Johann%20Strauss%2C%20Jr.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/1531c3d5-3709-3d9b-ba37-a37c5afc1bfb"
+        "@id": "https://musicbrainz.org/track/901a89c0-e47f-3b8b-b731-4ed76acb5ce8"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
+        "@value": 14
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ohne Sorgen\""
+        "@value": "Track: \"An der schönen blauen Donau\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/1994#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1994/11-G%27schichten%20aus%20dem%20Wienerwald%2C%20Walzer%20op.%20325%20-%20Johann%20Strauss%2C%20Jr.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a7aa5b27-aeb6-3b17-b2bd-2b1ac8d260bd"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichten aus dem Wienerwald\""
       }
     ]
   }

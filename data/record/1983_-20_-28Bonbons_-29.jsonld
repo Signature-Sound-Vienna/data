@@ -4,21 +4,20 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
-    "http://purl.org/ontology/mo/track": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#1"
-      },
+        "@id": "https://musicbrainz.org/release/1ba171fd-eb65-4c2a-b1ab-9cdd71518171"
+      }
+    ],
+    "http://purl.org/ontology/mo/track": [
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#3"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#1"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#8"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#6"
@@ -27,10 +26,16 @@
         "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#3"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#4"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1983_-20_-28Bonbons_-29#10"
@@ -40,6 +45,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Wiener Bonbons: Neujahrskonzert 1983\""
       }
     ]
   }

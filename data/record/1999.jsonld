@@ -1,0 +1,68 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/record/1999",
+    "@type": [
+      "http://purl.org/ontology/mo/Record"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/2f7d8273-81d5-45ed-8b1b-57cdd2af9ae8"
+      }
+    ],
+    "http://purl.org/ontology/mo/track": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1999#13"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_count": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"New Year's Concert 1999\""
+      }
+    ]
+  }
+]

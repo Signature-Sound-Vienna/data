@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1987">
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#15"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#4"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <dcterms:title>"Das legendärste Neujahrskonzert! (1987"</dcterms:title>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1987"/>
     <rdfs:label>Release: "Das legendärste Neujahrskonzert! (1987"</rdfs:label>
-    <rdfs:label>Record: "Das legendärste Neujahrskonzert! (1987"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1987"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#14"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1987#15"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/6a222f79-522e-4333-8d03-36d649555790"/>
   </rdf:Description>
 </rdf:RDF>

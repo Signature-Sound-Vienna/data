@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/2002> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/2002#1>,
+ssvrec:2002 a mo:Record ;
+    rdfs:label "Record: \"New Year's Concert 2002\"" ;
+    mo:musicbrainz mbrelease:eab4736a-9304-4c07-bcda-1476c75d9a93 ;
+    mo:track <https://w3id.org/ssv/0.9/data/track/2002#1>,
         <https://w3id.org/ssv/0.9/data/track/2002#10>,
         <https://w3id.org/ssv/0.9/data/track/2002#11>,
         <https://w3id.org/ssv/0.9/data/track/2002#12>,
@@ -24,5 +29,5 @@
         <https://w3id.org/ssv/0.9/data/track/2002#7>,
         <https://w3id.org/ssv/0.9/data/track/2002#8>,
         <https://w3id.org/ssv/0.9/data/track/2002#9> ;
-    ns1:track_count 23 .
+    mo:track_count 23 .
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1989">
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#15"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#16"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1989#6"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/b3ef69bb-f621-4435-aef4-742194dd96fe"/>
+    <mo:catalogue_number>M2XK 45564</mo:catalogue_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/38edd7b5-ca95-4c16-9ff5-8e85f12a47ba"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1989"/>
+    <rdfs:label>Release: "New Year's Concert 1989"</rdfs:label>
+    <dcterms:title>"New Year's Concert 1989"</dcterms:title>
+  </rdf:Description>
+</rdf:RDF>

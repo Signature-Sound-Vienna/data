@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/e8129380-502c-4020-bf31-31d8d21726f0"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Strauss in St Petersburg\""
@@ -11,69 +16,74 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "CHAN 10937"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/48fc8a10-dee1-4339-a6c9-a9ea5dfe74b3"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#2"
-      },
-      {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#7"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#10"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#11"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#12"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#13"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#14"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#15"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#16"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#17"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#18"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#19"
       },
       {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#18"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#15"
+      },
+      {
         "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#16"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#12"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -84,9 +94,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Strauss in St Petersburg\""
-      },
-      {
-        "@value": "Record: \"Strauss in St Petersburg\""
       }
     ]
   }

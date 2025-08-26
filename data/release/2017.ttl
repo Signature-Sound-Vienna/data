@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/2017> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert / New Year ́s Concert 2017\"",
-        "Release: \"Neujahrskonzert / New Year ́s Concert 2017\"" ;
-    dcterms:title "\"Neujahrskonzert / New Year ́s Concert 2017\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2017#1>,
+ssvrel:2017 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert / New Year's Concert 2017\"" ;
+    dcterms:publisher mblabel:10920823-9ed8-45d9-adb3-69fc22475ab0 ;
+    dcterms:title "\"Neujahrskonzert / New Year's Concert 2017\"" ;
+    mo:musicbrainz mbrelease:9c78224c-0042-40fd-aabf-023b18525a5f ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/2017#1>,
         <https://w3id.org/ssv/0.9/data/signal/2017#10>,
         <https://w3id.org/ssv/0.9/data/signal/2017#11>,
         <https://w3id.org/ssv/0.9/data/signal/2017#12>,
@@ -28,5 +32,5 @@
         <https://w3id.org/ssv/0.9/data/signal/2017#7>,
         <https://w3id.org/ssv/0.9/data/signal/2017#8>,
         <https://w3id.org/ssv/0.9/data/signal/2017#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/2017> .
+    mo:record ssvrec:2017 .
 

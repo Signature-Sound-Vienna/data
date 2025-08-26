@@ -1,0 +1,77 @@
+@prefix mbtrack: <https://musicbrainz.org/track/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/ssv/0.9/data/track/1979#1> a mo:Track ;
+    rdfs:label "Track: \"Music of the Spheres, op. 235\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/01-Sph%C3%A4ren-Kl%C3%A4nge%2C%20walzer%2C%20Op.%20235%20-%20Josef%20Strauss.wav> ;
+    mo:musicbrainz mbtrack:a06c7da4-105f-4480-a65e-86f4fdf8fc40 ;
+    mo:track_number 1 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#10> a mo:Track ;
+    rdfs:label "Track: \"Light of Heart, op. 319\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/10-Leichtes%20Blut%2C%20polka%20schnell%2C%20Op.%20319%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:9c927cb6-41df-477f-83e1-9b65bcb26baf ;
+    mo:track_number 10 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#11> a mo:Track ;
+    rdfs:label "Track: \"The Blue Danube, op. 314\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/11-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20walzer%2C%20Op.%20314%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:bccfb0ee-ceb6-4f95-8fab-cacdb624756f ;
+    mo:track_number 11 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#12> a mo:Track ;
+    rdfs:label "Track: \"Radetzky-Marsch, op. 228\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/12-Radetzky-Marsch%2C%20Op.%20228%20-%20Johann%20Strauss%20I.wav> ;
+    mo:musicbrainz mbtrack:df7e3c6b-765c-4ec8-bf7a-752822766cc9 ;
+    mo:track_number 12 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#2> a mo:Track ;
+    rdfs:label "Track: \"If You Please!, op. 372\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/02-Bitte%20sch%C3%B6n%21%2C%20polka%2C%20Op.%20372%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:c4d5da36-31de-459d-9e97-069671fe9dfe ;
+    mo:track_number 2 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#3> a mo:Track ;
+    rdfs:label "Track: \"Wine, Women and Song, op. 333\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/03-Wein%2C%20Weib%20und%20Gesang%2C%20waltz%2C%20Op.%20333%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:8999a1b2-3c08-400e-afcf-a5bafdc3a6ec ;
+    mo:track_number 3 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#4> a mo:Track ;
+    rdfs:label "Track: \"The Little Mill, op. 57\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/04-Moulinet%20Polka%2C%20Op.%2057%20-%20Josef%20Strauss.wav> ;
+    mo:musicbrainz mbtrack:6c3ebdf9-d3ff-4bed-b919-ab28333c8811 ;
+    mo:track_number 4 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#5> a mo:Track ;
+    rdfs:label "Track: \"Tik-Tak, op. 365\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/05-Tik-Tak%2C%20polka%20schnell%2C%20Op.%20365%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:e30895eb-fc72-4d6b-b201-5c37a57c3e9c ;
+    mo:track_number 5 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#6> a mo:Track ;
+    rdfs:label "Track: \"Pizzicato Polka\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/06-Pizzicato%20Polka%2C%20Op.%20234%20-%20Johann%20Strauss%20II%20%26%20Josef%20Strauss.wav> ;
+    mo:musicbrainz mbtrack:4617a4ab-4d07-42ba-8620-9b26f6367276 ;
+    mo:track_number 6 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#7> a mo:Track ;
+    rdfs:label "Track: \"With Us, At Home, op. 361\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/07-Bei%20uns%20z%27Haus%2C%20waltz%2C%20Op.%20361%20-%20Johan%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:1d6bee17-e570-463c-906d-dd410c8ca0b3 ;
+    mo:track_number 7 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#8> a mo:Track ;
+    rdfs:label "Track: \"At the Hunt, op. 373\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/08-Auf%20der%20Jagd%2C%20polka%20schnell%2C%20Op.%20373%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:1335b07b-b981-4b63-b6b7-4e4e3b127e3e ;
+    mo:track_number 8 .
+
+<https://w3id.org/ssv/0.9/data/track/1979#9> a mo:Track ;
+    rdfs:label "Track: \"At the Hunt (encore)\"" ;
+    mo:available_as <https://w3id.org/ssv/audio/1979/09-Auf%20der%20Jagd%2C%20polka%20schnell%2C%20Op.%20373%20%28encore%29%20-%20Johann%20Strauss%20II.wav> ;
+    mo:musicbrainz mbtrack:ae6c378b-0c79-4e59-8e2c-18b7ed774501 ;
+    mo:track_number 9 .
+

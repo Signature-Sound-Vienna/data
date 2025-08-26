@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release/Kaiser-Walzer",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1997"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release_event/Kaiser-Walzer",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/release/Kaiser-Walzer"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N6839166c1fbb48aa806c2312f5860911"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6839166c1fbb48aa806c2312f5860911",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1997"
+      }
+    ]
+  }
+]

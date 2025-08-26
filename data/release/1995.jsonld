@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"1995 New Year's Concert\""
@@ -11,15 +16,26 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "SK 66 860"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/147e8ba3-dd4d-4a14-9d2e-ae4b5f154ca2"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#11"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#10"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1995#3"
@@ -28,40 +44,34 @@
         "@id": "https://w3id.org/ssv/0.9/data/signal/1995#4"
       },
       {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#7"
+      },
+      {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1995#5"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1995#6"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#7"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#10"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#11"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#12"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#13"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#16"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1995#14"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#15"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#13"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#16"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1995#15"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -72,9 +82,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"1995 New Year's Concert\""
-      },
-      {
-        "@value": "Record: \"1995 New Year's Concert\""
       }
     ]
   }

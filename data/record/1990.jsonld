@@ -4,54 +4,64 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/dd1c844d-d27c-4174-9d5d-80ee52a7d8bc"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#2"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#13"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#12"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1990#5"
       },
       {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#2"
+      },
+      {
         "@id": "https://w3id.org/ssv/0.9/data/track/1990#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#14"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1990#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#8"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#4"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1990#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1990#3"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1990#10"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1990#11"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#12"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#13"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1990#14"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 15
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 1990\""
       }
     ]
   }

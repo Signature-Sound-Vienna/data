@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/0.9/data/release_event/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:Ndb203534818e4cbeac1ef1cd7c668a1f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release_event/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> <https://purl.org/NET/c4dm/event.owl#time> _:Ndb203534818e4cbeac1ef1cd7c668a1f .
+<https://w3id.org/ssv/0.9/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> <http://purl.org/dc/terms/issued> "2006-02-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<https://w3id.org/ssv/0.9/data/release_event/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> .
+_:Ndb203534818e4cbeac1ef1cd7c668a1f <http://purl.org/NET/c4dm/timeline.owl#atYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/0.9/data/release_event/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .

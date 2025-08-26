@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/0.9/data/release_event/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/0.9/data/release_event/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> .
+_:Nd03280dc4e2e44dbb1f192497cdafb78 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> <http://purl.org/dc/terms/issued> "1990" .
+<https://w3id.org/ssv/0.9/data/release_event/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> <https://purl.org/NET/c4dm/event.owl#time> _:Nd03280dc4e2e44dbb1f192497cdafb78 .
+<https://w3id.org/ssv/0.9/data/release_event/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:Nd03280dc4e2e44dbb1f192497cdafb78 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .

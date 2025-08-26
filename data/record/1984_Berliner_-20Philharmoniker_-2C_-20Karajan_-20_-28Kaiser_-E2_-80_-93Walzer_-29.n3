@@ -1,0 +1,18 @@
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrec:1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29 a mo:Record ;
+    rdfs:label "Record: Kaiser–Walzer" ;
+    mo:musicbrainz mbrelease:253a89bf-7451-4845-bb93-3d78e3c26bbc ;
+    mo:track <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#1>,
+        <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#2>,
+        <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#3>,
+        <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#4>,
+        <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#5>,
+        <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#6>,
+        <https://w3id.org/ssv/0.9/data/track/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7> ;
+    mo:track_count 8 .
+

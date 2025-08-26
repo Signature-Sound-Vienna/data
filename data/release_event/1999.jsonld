@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release/1999",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1999"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release_event/1999",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/release/1999"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:Nbedc04113991469b8c1996e1aad97b8a"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nbedc04113991469b8c1996e1aad97b8a",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1999"
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/performance/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Performance"/>
+    <mo:performance_of rdf:resource="http://musicbrainz.org/work/f8d124e2-4480-3582-8a8c-74e55a5a676f"/>
+    <rdfs:label>Performance: "Auf der Jagd, op. 373: Polka schnell"</rdfs:label>
+    <mo:recorded_as rdf:resource="https://w3id.org/ssv/0.9/data/signal/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#7"/>
+  </rdf:Description>
+</rdf:RDF>

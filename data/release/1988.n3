@@ -1,0 +1,31 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+
+ssvrel:1988 a mo:Release ;
+    rdfs:label "Release: \"New Year's Concert 1988\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
+    dcterms:title "\"New Year's Concert 1988\"" ;
+    mo:catalogue_number "423 662-2" ;
+    mo:musicbrainz mbrelease:f01454db-cb35-4967-972b-3c8a733bf462 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/1988#1>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#10>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#11>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#12>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#13>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#14>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#15>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#2>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#3>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#4>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#5>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#6>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#7>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#8>,
+        <https://w3id.org/ssv/0.9/data/signal/1988#9> ;
+    mo:record ssvrec:1988 .
+

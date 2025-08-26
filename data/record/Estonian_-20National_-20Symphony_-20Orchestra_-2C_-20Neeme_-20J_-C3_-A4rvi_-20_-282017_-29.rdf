@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29">
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#19"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#16"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#20"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#18"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#17"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#2"/>
+    <rdfs:label>Record: "Strauss in St Petersburg"</rdfs:label>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/48fc8a10-dee1-4339-a6c9-a9ea5dfe74b3"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#12"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#13"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#14"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#15"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#16"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#17"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#18"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#19"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#20"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</mo:track_count>
   </rdf:Description>
 </rdf:RDF>

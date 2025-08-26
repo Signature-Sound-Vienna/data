@@ -1,0 +1,11 @@
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/0.9/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+
+ssvrevent:Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29 ;
+    ev:time [ a tl:Instant ] .
+

@@ -4,70 +4,39 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
-    "http://purl.org/dc/terms/title": [
+    "http://purl.org/dc/terms/publisher": [
       {
-        "@value": "\"Neujharskonzert 2016\""
+        "@id": "https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/dc/terms/title": [
       {
-        "@value": "__NONE__"
+        "@value": "\"Neujahrskonzert 2016\""
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/79dc6ccd-9870-466d-883b-4a3cb4af088f"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#18"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#3"
-      },
-      {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#6"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#8"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#6"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#10"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#11"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#12"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#13"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#14"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#15"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#16"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#17"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#18"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#23"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#19"
@@ -76,16 +45,52 @@
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#20"
       },
       {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#8"
+      },
+      {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#21"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#22"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#23"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#16"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#9"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/2016#24"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/2016#12"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -95,10 +100,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Release: \"Neujharskonzert 2016\""
-      },
-      {
-        "@value": "Record: \"Neujharskonzert 2016\""
+        "@value": "Release: \"Neujahrskonzert 2016\""
       }
     ]
   }

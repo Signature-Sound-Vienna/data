@@ -4,36 +4,35 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/9c78224c-0042-40fd-aabf-023b18525a5f"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#2"
-      },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#3"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#14"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#5"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#1"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#6"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#17"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#7"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#21"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#9"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#13"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#6"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#11"
@@ -42,10 +41,16 @@
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#12"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#13"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#2"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#14"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#19"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#4"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#15"
@@ -54,25 +59,30 @@
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#16"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#17"
-      },
-      {
         "@id": "https://w3id.org/ssv/0.9/data/track/2017#18"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#19"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#5"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#20"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/2017#21"
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/2017#7"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert / New Year's Concert 2017\""
       }
     ]
   }

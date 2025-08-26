@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/1987> a ns1:Release ;
-    rdfs:label "Record: \"Das legendärste Neujahrskonzert! (1987\"",
-        "Release: \"Das legendärste Neujahrskonzert! (1987\"" ;
+ssvrel:1987 a mo:Release ;
+    rdfs:label "Release: \"Das legendärste Neujahrskonzert! (1987\"" ;
+    dcterms:publisher mblabel:10920823-9ed8-45d9-adb3-69fc22475ab0 ;
     dcterms:title "\"Das legendärste Neujahrskonzert! (1987\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/1987#1>,
+    mo:musicbrainz mbrelease:6a222f79-522e-4333-8d03-36d649555790 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/1987#1>,
         <https://w3id.org/ssv/0.9/data/signal/1987#10>,
         <https://w3id.org/ssv/0.9/data/signal/1987#11>,
         <https://w3id.org/ssv/0.9/data/signal/1987#12>,
@@ -22,5 +26,5 @@
         <https://w3id.org/ssv/0.9/data/signal/1987#7>,
         <https://w3id.org/ssv/0.9/data/signal/1987#8>,
         <https://w3id.org/ssv/0.9/data/signal/1987#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/1987> .
+    mo:record ssvrec:1987 .
 

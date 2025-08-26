@@ -1,0 +1,35 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+
+ssvrel:2001 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert 2001 / New Year's Concert\"" ;
+    dcterms:publisher mblabel:452068a5-f686-44c9-9978-af10c0979f67 ;
+    dcterms:title "\"Neujahrskonzert 2001 / New Year's Concert\"" ;
+    mo:musicbrainz mbrelease:d7c7b916-b582-4b21-9c20-109d9295c060 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/2001#1>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#10>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#11>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#12>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#13>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#14>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#15>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#16>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#17>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#18>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#19>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#2>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#20>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#3>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#4>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#5>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#6>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#7>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#8>,
+        <https://w3id.org/ssv/0.9/data/signal/2001#9> ;
+    mo:record ssvrec:2001 .
+

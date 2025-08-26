@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29",
+    "@type": [
+      "https://purl.org/NET/c4dm/event.owl#Event",
+      "http://purl.org/ontology/mo/ReleaseEvent"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/release/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:Nf90622e490d64760a6ad227e5164f494"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nf90622e490d64760a6ad227e5164f494",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ]
+  }
+]

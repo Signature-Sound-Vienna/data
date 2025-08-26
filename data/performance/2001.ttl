@@ -1,0 +1,7 @@
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/0.9/data/performance/2001#20> a mo:Performance ;
+    rdfs:label "Performance: \"Vergnügungszug, Polka schnell (Ballet)\"" ;
+    mo:recorded_as <https://w3id.org/ssv/0.9/data/signal/2001#20> .
+

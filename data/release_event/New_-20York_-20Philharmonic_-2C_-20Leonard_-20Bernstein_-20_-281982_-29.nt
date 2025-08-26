@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/0.9/data/release_event/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+_:Nb0925961b29946e8b76f01b2116f4063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release_event/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:Nb0925961b29946e8b76f01b2116f4063 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1987"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/0.9/data/release_event/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> .
+<https://w3id.org/ssv/0.9/data/release/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> <http://purl.org/dc/terms/issued> "1987" .
+<https://w3id.org/ssv/0.9/data/release_event/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> <https://purl.org/NET/c4dm/event.owl#time> _:Nb0925961b29946e8b76f01b2116f4063 .

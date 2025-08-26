@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29">
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/0.9/data/release/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29"/>
+    <ev:time rdf:nodeID="Nf90622e490d64760a6ad227e5164f494"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf90622e490d64760a6ad227e5164f494">
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+  </rdf:Description>
+</rdf:RDF>

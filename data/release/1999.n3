@@ -1,0 +1,30 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+
+ssvrel:1999 a mo:Release ;
+    rdfs:label "Release: \"New Year's Concert 1999\"" ;
+    dcterms:publisher mblabel:28ad74dd-19f4-449c-bf9c-266918cefd6a ;
+    dcterms:title "\"New Year's Concert 1999\"" ;
+    mo:catalogue_number "74321 61687 2" ;
+    mo:musicbrainz mbrelease:2f7d8273-81d5-45ed-8b1b-57cdd2af9ae8 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/1999#1>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#10>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#11>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#12>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#13>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#14>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#2>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#3>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#4>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#5>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#6>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#7>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#8>,
+        <https://w3id.org/ssv/0.9/data/signal/1999#9> ;
+    mo:record ssvrec:1999 .
+

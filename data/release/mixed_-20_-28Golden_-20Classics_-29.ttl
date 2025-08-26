@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/mixed_-20_-28Golden_-20Classics_-29> a ns1:Release ;
-    rdfs:label "Record: \"Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien\"",
-        "Release: \"Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien\"" ;
+ssvrel:mixed_-20_-28Golden_-20Classics_-29 a mo:Release ;
+    rdfs:label "Release: \"Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
     dcterms:title "\"Golden Classics: Das Neujahrskonzert: Die Highlights aus Wien\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#1>,
+    mo:catalogue_number "449 597-2" ;
+    mo:musicbrainz mbrelease:91cf58bc-e105-4a1f-a816-31d543e8e670 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#1>,
         <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#10>,
         <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#11>,
         <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#12>,
@@ -19,5 +24,5 @@
         <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#7>,
         <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#8>,
         <https://w3id.org/ssv/0.9/data/signal/mixed_-20_-28Golden_-20Classics_-29#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/mixed_-20_-28Golden_-20Classics_-29> .
+    mo:record ssvrec:mixed_-20_-28Golden_-20Classics_-29 .
 

@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/2008> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonzert 2008\"",
-        "Release: \"Neujahrskonzert 2008\"" ;
+ssvrel:2008 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonzert 2008\"" ;
+    dcterms:publisher mblabel:89a9993d-1dad-4445-a3d7-1d8df04f7e7b ;
     dcterms:title "\"Neujahrskonzert 2008\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2008#1>,
+    mo:musicbrainz mbrelease:c67b3abe-731d-48ff-ba76-2adf3c83693d ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/2008#1>,
         <https://w3id.org/ssv/0.9/data/signal/2008#10>,
         <https://w3id.org/ssv/0.9/data/signal/2008#11>,
         <https://w3id.org/ssv/0.9/data/signal/2008#12>,
@@ -30,5 +34,5 @@
         <https://w3id.org/ssv/0.9/data/signal/2008#7>,
         <https://w3id.org/ssv/0.9/data/signal/2008#8>,
         <https://w3id.org/ssv/0.9/data/signal/2008#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/2008> .
+    mo:record ssvrec:2008 .
 

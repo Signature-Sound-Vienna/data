@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1999">
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/28ad74dd-19f4-449c-bf9c-266918cefd6a"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1999#6"/>
+    <dcterms:title>"New Year's Concert 1999"</dcterms:title>
+    <mo:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1999"/>
+    <rdfs:label>Release: "New Year's Concert 1999"</rdfs:label>
+    <mo:catalogue_number>74321 61687 2</mo:catalogue_number>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/2f7d8273-81d5-45ed-8b1b-57cdd2af9ae8"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+  </rdf:Description>
+</rdf:RDF>

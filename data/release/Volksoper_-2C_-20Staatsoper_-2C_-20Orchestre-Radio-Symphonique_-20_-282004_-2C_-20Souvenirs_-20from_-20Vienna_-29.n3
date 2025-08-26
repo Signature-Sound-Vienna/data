@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29> a ns1:Release ;
-    rdfs:label "Record: \"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\"",
-        "Release: \"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\"" ;
+ssvrel:Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29 a mo:Release ;
+    rdfs:label "Release: \"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\"" ;
+    dcterms:publisher mblabel:5fae6b29-a5a3-4db6-ba5f-93a6926d235f ;
     dcterms:title "\"Souvenirs from Vienna: Famous Waltzes Polkas and Ouvertures\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1>,
+    mo:catalogue_number "3680722" ;
+    mo:musicbrainz mbrelease:ab23f254-a8cb-4cb0-9aa6-ee51c906a0d5 ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#2>,
         <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#3>,
         <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#4>,
@@ -16,5 +21,5 @@
         <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#7>,
         <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#8>,
         <https://w3id.org/ssv/0.9/data/signal/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29> .
+    mo:record ssvrec:Volksoper_-2C_-20Staatsoper_-2C_-20Orchestre-Radio-Symphonique_-20_-282004_-2C_-20Souvenirs_-20from_-20Vienna_-29 .
 

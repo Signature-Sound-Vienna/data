@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/0.9/data/record/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1>,
+ssvrec:K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29 a mo:Record ;
+    rdfs:label "Record: \"Kendlinger dirigiert Strauß 2009\"" ;
+    mo:musicbrainz mbrelease:db25b941-3918-4cd6-81bb-9373fb85a8e8 ;
+    mo:track <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#1>,
         <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#10>,
         <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#11>,
         <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#2>,
@@ -13,5 +18,5 @@
         <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#7>,
         <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#8>,
         <https://w3id.org/ssv/0.9/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282009_-29#9> ;
-    ns1:track_count 12 .
+    mo:track_count 12 .
 

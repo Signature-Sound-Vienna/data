@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release_event/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/release/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N375fca6b51064d068053487db2e4b7bf"
+      }
+    ]
+  },
+  {
+    "@id": "_:N375fca6b51064d068053487db2e4b7bf",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ]
+  }
+]

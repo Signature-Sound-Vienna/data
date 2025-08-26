@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> a ns1:Release ;
-    rdfs:label "Record: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"",
-        "Release: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
+ssvrel:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29 a mo:Release ;
+    rdfs:label "Release: \"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
+    dcterms:publisher mblabel:73b562c6-cc9f-4e0d-9ae1-888b835445da ;
     dcterms:title "\"Kaiser-Walzer live in concert: Jubiläumskonzert No.4\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1>,
+    mo:catalogue_number "WJSO-004" ;
+    mo:musicbrainz mbrelease:7b0dae19-dac9-471c-a11b-c33f7c4418db ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12>,
@@ -21,5 +26,5 @@
         <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#8>,
         <https://w3id.org/ssv/0.9/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29> .
+    mo:record ssvrec:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29 .
 

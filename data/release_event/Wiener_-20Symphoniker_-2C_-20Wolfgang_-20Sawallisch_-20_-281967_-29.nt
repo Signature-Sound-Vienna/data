@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N1164a29fee5b444b83353eaf4ebcc06a .
+_:N1164a29fee5b444b83353eaf4ebcc06a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> .
+<https://w3id.org/ssv/0.9/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> <http://purl.org/dc/terms/issued> "1990" .
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:N1164a29fee5b444b83353eaf4ebcc06a <http://purl.org/NET/c4dm/timeline.owl#atYear> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .

@@ -1,13 +1,17 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
 
-<https://w3id.org/ssv/0.9/data/release/2006> a ns1:Release ;
-    rdfs:label "Record: \"Neujahrskonert 2006\"",
-        "Release: \"Neujahrskonert 2006\"" ;
+ssvrel:2006 a mo:Release ;
+    rdfs:label "Release: \"Neujahrskonert 2006\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
     dcterms:title "\"Neujahrskonert 2006\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/0.9/data/signal/2006#1>,
+    mo:musicbrainz mbrelease:574be46c-daea-4993-bf09-8043cfcba6ba ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/2006#1>,
         <https://w3id.org/ssv/0.9/data/signal/2006#10>,
         <https://w3id.org/ssv/0.9/data/signal/2006#11>,
         <https://w3id.org/ssv/0.9/data/signal/2006#12>,
@@ -32,5 +36,5 @@
         <https://w3id.org/ssv/0.9/data/signal/2006#7>,
         <https://w3id.org/ssv/0.9/data/signal/2006#8>,
         <https://w3id.org/ssv/0.9/data/signal/2006#9> ;
-    ns1:record <https://w3id.org/ssv/0.9/data/record/2006> .
+    mo:record ssvrec:2006 .
 

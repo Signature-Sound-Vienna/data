@@ -4,21 +4,26 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/9f486d4f-7b40-494c-9e62-f9ccea273b36"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#1"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#4"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#12"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1992#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#2"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1992#6"
@@ -27,37 +32,39 @@
         "@id": "https://w3id.org/ssv/0.9/data/track/1992#7"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#10"
-      },
-      {
         "@id": "https://w3id.org/ssv/0.9/data/track/1992#11"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#12"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#4"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1992#13"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#14"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#10"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/track/1992#15"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/track/1992#16"
+        "@id": "https://w3id.org/ssv/0.9/data/track/1992#14"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"New Year ́s Concert / Neujahrskonzert 1992\""
       }
     ]
   }

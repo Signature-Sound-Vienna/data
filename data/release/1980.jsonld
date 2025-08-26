@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/5a584032-dcef-41bb-9f8b-19540116fb1c"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Neujahrskonzert 1980\""
@@ -11,45 +16,50 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "400 040-2"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/f074056a-312c-484a-aa01-d52e3e17ce56"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#4"
-      },
-      {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1980#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#7"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1980#8"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#9"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#4"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1980#10"
       },
       {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#11"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#2"
       },
       {
         "@id": "https://w3id.org/ssv/0.9/data/signal/1980#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1980#9"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -60,9 +70,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Neujahrskonzert 1980\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert 1980\""
       }
     ]
   }

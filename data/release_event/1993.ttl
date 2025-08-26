@@ -1,0 +1,16 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/0.9/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrevent:1993 a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:1993 ;
+    ev:time [ a tl:Instant ;
+            tl:atYear "1993"^^xsd:gYear ] .
+
+ssvrel:1993 dcterms:issued "1993" .
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/release/1988">
+    <mo:catalogue_number>423 662-2</mo:catalogue_number>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/5a584032-dcef-41bb-9f8b-19540116fb1c"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#15"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/0.9/data/signal/1988#9"/>
+    <rdfs:label>Release: "New Year's Concert 1988"</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <dcterms:title>"New Year's Concert 1988"</dcterms:title>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/f01454db-cb35-4967-972b-3c8a733bf462"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/0.9/data/record/1988"/>
+  </rdf:Description>
+</rdf:RDF>

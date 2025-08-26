@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/1987">
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#15"/>
+    <rdfs:label>Record: "Das legendärste Neujahrskonzert! (1987"</rdfs:label>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/6a222f79-522e-4333-8d03-36d649555790"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</mo:track_count>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#12"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#13"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#14"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1987#15"/>
   </rdf:Description>
 </rdf:RDF>

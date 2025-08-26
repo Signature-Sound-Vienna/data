@@ -1,0 +1,32 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/0.9/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/0.9/data/release/> .
+
+ssvrel:1989 a mo:Release ;
+    rdfs:label "Release: \"New Year's Concert 1989\"" ;
+    dcterms:publisher mblabel:b3ef69bb-f621-4435-aef4-742194dd96fe ;
+    dcterms:title "\"New Year's Concert 1989\"" ;
+    mo:catalogue_number "M2XK 45564" ;
+    mo:musicbrainz mbrelease:38edd7b5-ca95-4c16-9ff5-8e85f12a47ba ;
+    mo:publication_of <https://w3id.org/ssv/0.9/data/signal/1989#1>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#10>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#11>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#12>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#13>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#14>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#15>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#16>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#2>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#3>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#4>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#5>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#6>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#7>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#8>,
+        <https://w3id.org/ssv/0.9/data/signal/1989#9> ;
+    mo:record ssvrec:1989 .
+

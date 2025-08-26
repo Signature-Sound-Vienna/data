@@ -1,55 +1,82 @@
 [
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#6",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/06-Johann%20Strau%C3%9F%2C%20Vater%20-%20Seufzer-Galopp%20%28Claudio%20Abbado%29%201991.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b9573b35-9210-4de2-ad47-7fe7c45b277c"
+        "@id": "https://musicbrainz.org/track/24564bb1-17cb-4cd6-bb3e-9b057e67c23c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Seufzer-Galopp (Claudio Abbado) 1991\""
+        "@value": "Track: \"Die Fledermaus (Herbert von Karajan) 1987\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/07-Josef%20Strau%C3%9F%20-%20Ohne%20Sorgen%20%28Lorin%20Maazel%29%201981.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/93f95530-dd78-461b-9612-878310454b0a"
+        "@id": "https://musicbrainz.org/track/4ec61969-142a-4f86-b217-097997c99b03"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ohne Sorgen (Lorin Maazel) 1981\""
+        "@value": "Track: \"Tritsch-Tratsch-Polka (Lorin Maazel) 1981\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/09-Johann%20und%20Josef%20Strau%C3%9F%20-%20Pizzicato-Polka%20%28Herbert%20von%20Karajan%29%201987.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/dd47bfdb-c9d5-40b0-905b-f1ff3b2aa8df"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 9
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Pizzicato-Polka (Herbert von Karajan) 1987\""
       }
     ]
   },
@@ -81,29 +108,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/07-Josef%20Strau%C3%9F%20-%20Ohne%20Sorgen%20%28Lorin%20Maazel%29%201981.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/5e98444b-6b2c-4b3e-b49f-6ae43471fe3c"
+        "@id": "https://musicbrainz.org/track/93f95530-dd78-461b-9612-878310454b0a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"G'Schichten aus dem Wienerwald (Lorin Maazel) 1983\""
+        "@value": "Track: \"Ohne Sorgen (Lorin Maazel) 1981\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/08-Josef%20Strau%C3%9F%20-%20Aquarellen%20%28Claudio%20Abbado%29%201991.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a7414b8d-01be-4323-8ff6-5e97c2b67b93"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Aquarellen (Claudio Abbado) 1991\""
       }
     ]
   },
@@ -162,83 +216,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#8",
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/08-Josef%20Strau%C3%9F%20-%20Aquarellen%20%28Claudio%20Abbado%29%201991.wav"
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/05-Johann%20Strau%C3%9F%2C%20Sohn%20-%20G%27Schichten%20aus%20dem%20Wienerwald%20%28Lorin%20Maazel%29%201983.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/a7414b8d-01be-4323-8ff6-5e97c2b67b93"
+        "@id": "https://musicbrainz.org/track/5e98444b-6b2c-4b3e-b49f-6ae43471fe3c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Aquarellen (Claudio Abbado) 1991\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#2",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/02-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Tritsch-Tratsch-Polka%20%28Lorin%20Maazel%29%201981.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/4ec61969-142a-4f86-b217-097997c99b03"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Tritsch-Tratsch-Polka (Lorin Maazel) 1981\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/01-Johann%20Strau%C3%9F%2C%20Sohn%20-%20Die%20Fledermaus%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/24564bb1-17cb-4cd6-bb3e-9b057e67c23c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus (Herbert von Karajan) 1987\""
+        "@value": "Track: \"G'Schichten aus dem Wienerwald (Lorin Maazel) 1983\""
       }
     ]
   },
@@ -270,33 +270,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#9",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/09-Johann%20und%20Josef%20Strau%C3%9F%20-%20Pizzicato-Polka%20%28Herbert%20von%20Karajan%29%201987.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/dd47bfdb-c9d5-40b0-905b-f1ff3b2aa8df"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Pizzicato-Polka (Herbert von Karajan) 1987\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -320,6 +293,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"An der schönen blauen Donau (Herbert von Karajan) 1987\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/track/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/mixed_-20_-28Die_-20Highlights_-20aus_-20Wien_-29/06-Johann%20Strau%C3%9F%2C%20Vater%20-%20Seufzer-Galopp%20%28Claudio%20Abbado%29%201991.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b9573b35-9210-4de2-ad47-7fe7c45b277c"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Seufzer-Galopp (Claudio Abbado) 1991\""
       }
     ]
   }

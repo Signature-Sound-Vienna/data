@@ -1,0 +1,85 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/0.9/data/release/1988",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/5a584032-dcef-41bb-9f8b-19540116fb1c"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"New Year's Concert 1988\""
+      }
+    ],
+    "http://purl.org/ontology/mo/catalogue_number": [
+      {
+        "@value": "423 662-2"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/f01454db-cb35-4967-972b-3c8a733bf462"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/signal/1988#9"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/0.9/data/record/1988"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"New Year's Concert 1988\""
+      }
+    ]
+  }
+]

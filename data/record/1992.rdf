@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/1992">
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#14"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/9f486d4f-7b40-494c-9e62-f9ccea273b36"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#12"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#13"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#14"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#15"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1992#16"/>
+    <rdfs:label>Record: "New Year ́s Concert / Neujahrskonzert 1992"</rdfs:label>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</mo:track_count>
   </rdf:Description>
 </rdf:RDF>

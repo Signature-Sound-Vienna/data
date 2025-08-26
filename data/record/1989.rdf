@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/0.9/data/record/1989">
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/0.9/data/track/1989#16"/>
+    <rdfs:label>Record: "New Year's Concert 1989"</rdfs:label>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/38edd7b5-ca95-4c16-9ff5-8e85f12a47ba"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</mo:track_count>
+  </rdf:Description>
+</rdf:RDF>

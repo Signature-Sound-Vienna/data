@@ -1,0 +1,5 @@
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/0.9/data/release/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29> .
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+_:Nf90622e490d64760a6ad227e5164f494 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/0.9/data/release_event/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29> <https://purl.org/NET/c4dm/event.owl#time> _:Nf90622e490d64760a6ad227e5164f494 .
