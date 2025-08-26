@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29> a ns1:Release ;
-    rdfs:label "Record: \"The Perfect Strauss\"",
-        "Release: \"The Perfect Strauss\"" ;
+ssvrel:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29 a mo:Release ;
+    rdfs:label "Release: \"The Perfect Strauss\"" ;
+    dcterms:publisher mblabel:d2a857fe-a9ba-4273-a5d2-456598eeaf09 ;
     dcterms:title "\"The Perfect Strauss\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1>,
+    mo:catalogue_number "CO 862872" ;
+    mo:musicbrainz mbrelease:cd086466-4365-4f3d-a6e0-240965daee7a ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#2>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#3>,
@@ -17,5 +22,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29> .
+    mo:record ssvrec:Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29 .
 

@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1990"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:Nd03280dc4e2e44dbb1f192497cdafb78"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nd03280dc4e2e44dbb1f192497cdafb78",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1990"
+      }
+    ]
+  }
+]

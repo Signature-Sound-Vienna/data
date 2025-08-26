@@ -1,0 +1,71 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/1979",
+    "@type": [
+      "http://purl.org/ontology/mo/Release"
+    ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/e406ef86-9f69-4ec4-ba5e-203b9e12f50b"
+      }
+    ],
+    "http://purl.org/dc/terms/title": [
+      {
+        "@value": "\"New Year's Day Concert 1979 (Extracts) / Concert Du Novel An 1979 (Extraits) / Neujahrskonzert 1979 (Auszüge)\""
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/d7b7ec0c-5921-41e5-aa95-c892887d7a14"
+      }
+    ],
+    "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1979#10"
+      }
+    ],
+    "http://purl.org/ontology/mo/record": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/record/1979"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Release: \"New Year's Day Concert 1979 (Extracts) / Concert Du Novel An 1979 (Extraits) / Neujahrskonzert 1979 (Auszüge)\""
+      }
+    ]
+  }
+]

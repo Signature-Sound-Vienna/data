@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/1999">
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1999#13"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/2f7d8273-81d5-45ed-8b1b-57cdd2af9ae8"/>
+    <rdfs:label>Record: "New Year's Concert 1999"</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</mo:track_count>
+  </rdf:Description>
+</rdf:RDF>

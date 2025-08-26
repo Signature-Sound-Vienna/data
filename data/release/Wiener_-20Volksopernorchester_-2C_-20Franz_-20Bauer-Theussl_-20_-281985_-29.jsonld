@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/4e825b04-3ea6-4d13-824a-6135e2425984"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"J. Strauss\""
@@ -11,12 +16,26 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "416819-2"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/d410c7d2-8b8b-42c3-b8a8-0943fe579d35"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#5"
+      },
+      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#8"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#2"
@@ -28,16 +47,7 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#4"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#5"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#7"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#8"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -48,9 +58,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"J. Strauss\""
-      },
-      {
-        "@value": "Record: \"J. Strauss\""
       }
     ]
   }

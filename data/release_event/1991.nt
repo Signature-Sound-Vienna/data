@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/TISMIR/data/release_event/1991> <https://purl.org/NET/c4dm/event.owl#time> _:N0bf45e2acf5b4fb88fdf9551f6ff15c3 .
+_:N0bf45e2acf5b4fb88fdf9551f6ff15c3 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1991"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release_event/1991> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/1991> .
+<https://w3id.org/ssv/TISMIR/data/release/1991> <http://purl.org/dc/terms/issued> "1991" .
+<https://w3id.org/ssv/TISMIR/data/release_event/1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:N0bf45e2acf5b4fb88fdf9551f6ff15c3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .

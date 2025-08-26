@@ -1,0 +1,75 @@
+<https://w3id.org/ssv/TISMIR/data/track/1988#1> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/49d332d5-5b4c-4f57-8aea-220e04c0ba45> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#5> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/d4aa566f-2e49-42c2-90aa-0f2ad27231bb> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#1> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/01-Donna%20Diana%20-%20Emil%20Nikolaus%20von%20Reznicek.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#11> <http://purl.org/ontology/mo/track_number> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#6> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Let Life Be Joyful\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#2> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/02-Brennende%20Liebe%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#9> <http://purl.org/ontology/mo/track_number> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#10> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"You Millions, I Embrace You\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#15> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/018b632e-8c8b-46e3-9aa3-918cb46193b1> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#15> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/15-Radetzky-Marsch%20-%20Johann%20Strauss%20I.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#2> <http://purl.org/ontology/mo/track_number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#7> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/07-Un%20ballo%20in%20maschera%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#9> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Light of Heart\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#4> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/23e6d2a6-51ce-473b-b165-2aa79eff0f15> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#14> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"The Blue Danube\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#6> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/06-Freut%20euch%20des%20Lebens%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#5> <http://purl.org/ontology/mo/track_number> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#11> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/11-Perpetuum%20mobile%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#10> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/10-Seid%20umschlungen%2C%20Millionen%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#12> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/12-In%20Fluge%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#5> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/05-Neue%20Pizzicato%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#12> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"On the Wing\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#13> <http://purl.org/ontology/mo/track_number> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#12> <http://purl.org/ontology/mo/track_number> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#13> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Bandits' Galop\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#3> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/f6b948c9-545e-4a67-a4e9-0f8e97285794> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#14> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/fd624864-13a2-4bab-8124-5c92d04803f4> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#13> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/a86b79ee-d995-4e89-a419-066ef3727164> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#1> <http://purl.org/ontology/mo/track_number> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#7> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"A Masked Ball - Quadrille\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#14> <http://purl.org/ontology/mo/track_number> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#2> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Burning Love\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#8> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Chit-Chat Polka\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#15> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Radetzky March\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#10> <http://purl.org/ontology/mo/track_number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#8> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/bcc363a0-4a2c-4702-9c6e-744eab3f1fb9> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#11> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"Perpetuum mobile\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#13> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/13-Banditen-Galopp%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#9> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/4832fdff-2c7f-47b9-b929-dbffa35a9c17> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#3> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/03-Auf%20Ferienreise%20-%20Josef%20Strauss.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#9> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/09-Leichtes%20Blut%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#3> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"On Holiday\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#15> <http://purl.org/ontology/mo/track_number> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#1> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"'Donna Diana': Overture\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#14> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/14-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#11> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/b4cbd468-2e2c-4e6f-b831-b4d4704d858e> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#5> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"New Pizzicato Polka\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#8> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/08-Tritsch-Trasch-Polka%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#4> <http://purl.org/ontology/mo/track_number> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#2> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/60370095-13bb-4523-bb80-6f21e9992bbd> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#4> <http://www.w3.org/2000/01/rdf-schema#label> "Track: \"'Die Fledermaus': Overture\"" .
+<https://w3id.org/ssv/TISMIR/data/track/1988#7> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/ffa65ae6-1c66-4a48-8d84-f437971bc200> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#6> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/77940b8c-e64e-409c-92c0-207cc666ceda> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#12> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/369d351f-2a53-4191-8683-eac5611ddf9a> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#10> <http://purl.org/ontology/mo/musicbrainz> <https://musicbrainz.org/track/3fe60053-8ac2-451c-b38d-6f0f8a798890> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#4> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1988/04-Die%20Fledermaus%20-%20Johann%20Strauss%20II.wav> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#8> <http://purl.org/ontology/mo/track_number> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1988#3> <http://purl.org/ontology/mo/track_number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .

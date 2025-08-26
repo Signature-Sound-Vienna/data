@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29">
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/7b0dae19-dac9-471c-a11b-c33f7c4418db"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/73b562c6-cc9f-4e0d-9ae1-888b835445da"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29"/>
     <dcterms:title>"Kaiser-Walzer live in concert: Jubiläumskonzert No.4"</dcterms:title>
+    <mo:catalogue_number>WJSO-004</mo:catalogue_number>
     <rdfs:label>Release: "Kaiser-Walzer live in concert: Jubiläumskonzert No.4"</rdfs:label>
-    <rdfs:label>Record: "Kaiser-Walzer live in concert: Jubiläumskonzert No.4"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#14"/>
   </rdf:Description>
 </rdf:RDF>

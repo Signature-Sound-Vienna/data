@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> a ns1:Release ;
-    rdfs:label "Record: \"Unvergessene Melodien\"",
-        "Release: \"Unvergessene Melodien\"" ;
+ssvrel:Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29 a mo:Release ;
+    rdfs:label "Release: \"Unvergessene Melodien\"" ;
+    dcterms:publisher mblabel:1c0ee8d0-04a3-4060-86c0-99bb0eb7b481 ;
     dcterms:title "\"Unvergessene Melodien\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1>,
+    mo:catalogue_number "160 303" ;
+    mo:musicbrainz mbrelease:e4956644-5570-4129-8e8d-f6c0f872f815 ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#2>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#3>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#4>,
@@ -16,5 +21,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29> .
+    mo:record ssvrec:Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29 .
 

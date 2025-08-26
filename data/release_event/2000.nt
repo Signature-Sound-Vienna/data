@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/TISMIR/data/release_event/2000> <https://purl.org/NET/c4dm/event.owl#time> _:Nacc3af82c71947fdbad3623b13bc74e9 .
+_:Nacc3af82c71947fdbad3623b13bc74e9 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release/2000> <http://purl.org/dc/terms/issued> "2000" .
+<https://w3id.org/ssv/TISMIR/data/release_event/2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/2000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:Nacc3af82c71947fdbad3623b13bc74e9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/TISMIR/data/release_event/2000> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/2000> .

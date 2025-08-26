@@ -9,50 +9,50 @@
         "@value": "Neujahrskonzert"
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/ad297a80-f5ec-4073-8df8-a873d39d30a1"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#4"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#3"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -63,9 +63,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: Neujahrskonzert"
-      },
-      {
-        "@value": "Record: Neujahrskonzert"
       }
     ]
   }

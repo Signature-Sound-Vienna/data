@@ -4,39 +4,29 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/670877b2-6362-4d9b-8618-fcac18fe4f64"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#7"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#10"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#8"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#10"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#14"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#12"
@@ -45,13 +35,13 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#13"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#14"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#15"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#16"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#19"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#21"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#17"
@@ -60,19 +50,39 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#18"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#19"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#1"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#20"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#21"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2019#16"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 22
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 2019\""
       }
     ]
   }

@@ -1,0 +1,74 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/record/1989",
+    "@type": [
+      "http://purl.org/ontology/mo/Record"
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/38edd7b5-ca95-4c16-9ff5-8e85f12a47ba"
+      }
+    ],
+    "http://purl.org/ontology/mo/track": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1989#16"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_count": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 17
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"New Year's Concert 1989\""
+      }
+    ]
+  }
+]

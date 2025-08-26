@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/2002> a ns1:Release ;
-    rdfs:label "Record: \"NEW YEAR ́S CONCERT 2002\"",
-        "Release: \"NEW YEAR ́S CONCERT 2002\"" ;
-    dcterms:title "\"NEW YEAR ́S CONCERT 2002\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/2002#1>,
+ssvrel:2002 a mo:Release ;
+    rdfs:label "Release: \"New Year's Concert 2002\"" ;
+    dcterms:publisher mblabel:ef10abaf-ad2f-4c86-8f9a-31bc11afa4a6 ;
+    dcterms:title "\"New Year's Concert 2002\"" ;
+    mo:catalogue_number "107189" ;
+    mo:musicbrainz mbrelease:eab4736a-9304-4c07-bcda-1476c75d9a93 ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/2002#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/2002#10>,
         <https://w3id.org/ssv/TISMIR/data/signal/2002#11>,
         <https://w3id.org/ssv/TISMIR/data/signal/2002#12>,
@@ -29,5 +34,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/2002#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/2002#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/2002#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/2002> .
+    mo:record ssvrec:2002 .
 

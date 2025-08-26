@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/1980">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#9"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/1980"/>
     <dcterms:title>"Neujahrskonzert 1980"</dcterms:title>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/5a584032-dcef-41bb-9f8b-19540116fb1c"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/f074056a-312c-484a-aa01-d52e3e17ce56"/>
+    <mo:catalogue_number>400 040-2</mo:catalogue_number>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
     <rdfs:label>Release: "Neujahrskonzert 1980"</rdfs:label>
-    <rdfs:label>Record: "Neujahrskonzert 1980"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/1980"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1980#12"/>
   </rdf:Description>
 </rdf:RDF>

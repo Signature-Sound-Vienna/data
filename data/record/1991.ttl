@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/TISMIR/data/record/1991> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/TISMIR/data/track/1991#1>,
+ssvrec:1991 a mo:Record ;
+    rdfs:label "Record: \"Neujahrskonzert in Wien 1991: New Year's Concert in Vienna\"" ;
+    mo:musicbrainz mbrelease:2cc12160-c816-4b94-871f-4649edf5c490 ;
+    mo:track <https://w3id.org/ssv/TISMIR/data/track/1991#1>,
         <https://w3id.org/ssv/TISMIR/data/track/1991#10>,
         <https://w3id.org/ssv/TISMIR/data/track/1991#11>,
         <https://w3id.org/ssv/TISMIR/data/track/1991#12>,
@@ -19,5 +24,5 @@
         <https://w3id.org/ssv/TISMIR/data/track/1991#7>,
         <https://w3id.org/ssv/TISMIR/data/track/1991#8>,
         <https://w3id.org/ssv/TISMIR/data/track/1991#9> ;
-    ns1:track_count 18 .
+    mo:track_count 18 .
 

@@ -1,55 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#16",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/16%20-%20Aquarellen%2C%20Walzer%20op.%20258%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/03%20-%20Heldengedichte%2C%20Walzer%20op.%2087%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/e11cd5da-ab83-4f8c-bf57-b6ce4054c5c2"
+        "@id": "https://musicbrainz.org/track/805c6c1f-1f77-4ee0-956f-391ecfab184b"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 16
+        "@value": 3
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Aquarellen, Walzer op. 258\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#5",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/05%20-%20In%20lauschiger%20Nacht%2C%20Walzer%20op.%20488%20-%20Carl%20Michael%20Ziehrer.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/75d23793-9d8e-4232-a5a1-1dafc8324292"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"In lauschiger Nacht, Walzer op. 488\""
+        "@value": "Track: \"Heldengeschichte, Walzer op. 87\""
       }
     ]
   },
@@ -81,164 +54,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#2",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/02%20-%20Wer%20tanzt%20mit%2C%20Polka%20schnell%20op.%20251%20-%20Eduard%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/10%20-%20Auf%20und%20davon%2C%20Polka%20schnell%20op.%2073%20-%20Eduard%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/80c1e0e3-c40e-4da8-930c-a75ddb1711d8"
+        "@id": "https://musicbrainz.org/track/049f912b-1a1a-40d2-86ab-c3e907a3c74a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 10
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Wer tanzt mit?, Polka schnell op. 251\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/06%20-%20Frisch%20heran%21%2C%20Polka%20schnell%20op.%20386%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0eac24e0-eb12-409e-9fe5-8fb0364848d3"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Frisch heran!, Polka schnell op. 386\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/07%20-%20Ouvert%C3%BCre%20zu%20Isabella%20-%20Franz%20von%20Supp%C3%A8.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/dd31a644-8389-475f-9170-1d1817d94180"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Ouvertüre zu Isabella\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#18",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/18%20-%20Neujahrsgru%C3%9F.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/75250e1f-fcf5-4176-b018-d2a2eb02f44f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 18
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Neujahrsgruß"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/12%20-%20For%20ever%2C%20Polka%20schnell%20op.%20193%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/16c1cee7-1565-4319-8605-17298f231ac6"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"For ever, Polka schnell op. 193\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/01%20-%20Intro.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/72277cc1-8f29-4151-a40a-57614978a8a5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: Intro"
+        "@value": "Track: \"Auf und davon, Polka schnell op. 73\""
       }
     ]
   },
@@ -270,110 +108,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#8",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#17",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/08%20-%20Perlen%20der%20Liebe%2C%20Walzer%20op.%2039%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/17%20-%20Banditen-Galopp%2C%20Polka%20schnell%20op.%20378%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ade71993-1f4f-435f-9945-786d08a04b27"
+        "@id": "https://musicbrainz.org/track/b279f03e-0eb9-4dcf-b9a0-57747722545a"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 17
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Perlen der Liebe, Walzer op. 39\""
+        "@value": "Track: \"Banditen-Galopp, Polka schnell op. 378\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#10",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/10%20-%20Auf%20und%20davon%2C%20Polka%20schnell%20op.%2073%20-%20Eduard%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/02%20-%20Wer%20tanzt%20mit%2C%20Polka%20schnell%20op.%20251%20-%20Eduard%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/049f912b-1a1a-40d2-86ab-c3e907a3c74a"
+        "@id": "https://musicbrainz.org/track/80c1e0e3-c40e-4da8-930c-a75ddb1711d8"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Auf und davon, Polka schnell op. 73\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/13%20-%20Zeisserln%2C%20Walzer%20op.%20114%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0159d511-37f4-4494-9a84-232f6a829ec5"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Zeisserln, Walzer op. 114\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#14",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/2023/14%20-%20Glocken-Polka%20und%20Galopp%20-%20Joseph%20Hellmesberger%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b104f81f-c562-4c4c-86c0-43d53738c1cf"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Glocken-Polka und Galopp\""
+        "@value": "Track: \"Wer tanzt mit?, Polka schnell op. 251\""
       }
     ]
   },
@@ -432,56 +216,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#21",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/21%20-%20Outro.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/13%20-%20Zeisserln%2C%20Walzer%20op.%20114%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/cffe26e8-f830-4fde-a812-dfb967c008fd"
+        "@id": "https://musicbrainz.org/track/0159d511-37f4-4494-9a84-232f6a829ec5"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 21
+        "@value": 13
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: Outro"
+        "@value": "Track: \"Zeisserln, Walzer op. 114\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#3",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#12",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/03%20-%20Heldengedichte%2C%20Walzer%20op.%2087%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/12%20-%20For%20ever%2C%20Polka%20schnell%20op.%20193%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/805c6c1f-1f77-4ee0-956f-391ecfab184b"
+        "@id": "https://musicbrainz.org/track/16c1cee7-1565-4319-8605-17298f231ac6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
+        "@value": 12
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Heldengeschichte, Walzer op. 87\""
+        "@value": "Track: \"For ever, Polka schnell op. 193\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/06%20-%20Frisch%20heran%21%2C%20Polka%20schnell%20op.%20386%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0eac24e0-eb12-409e-9fe5-8fb0364848d3"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Frisch heran!, Polka schnell op. 386\""
       }
     ]
   },
@@ -513,6 +324,141 @@
     ]
   },
   {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#16",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/16%20-%20Aquarellen%2C%20Walzer%20op.%20258%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/e11cd5da-ab83-4f8c-bf57-b6ce4054c5c2"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Aquarellen, Walzer op. 258\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#14",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/14%20-%20Glocken-Polka%20und%20Galopp%20-%20Joseph%20Hellmesberger%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b104f81f-c562-4c4c-86c0-43d53738c1cf"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 14
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Glocken-Polka und Galopp\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#8",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/08%20-%20Perlen%20der%20Liebe%2C%20Walzer%20op.%2039%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ade71993-1f4f-435f-9945-786d08a04b27"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 8
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Perlen der Liebe, Walzer op. 39\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#18",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/18%20-%20Neujahrsgru%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/75250e1f-fcf5-4176-b018-d2a2eb02f44f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 18
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Neujahrsgruß"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/01%20-%20Intro.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/72277cc1-8f29-4151-a40a-57614978a8a5"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: Intro"
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -540,29 +486,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#17",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#21",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/2023/17%20-%20Banditen-Galopp%2C%20Polka%20schnell%20op.%20378%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/2023/21%20-%20Outro.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b279f03e-0eb9-4dcf-b9a0-57747722545a"
+        "@id": "https://musicbrainz.org/track/cffe26e8-f830-4fde-a812-dfb967c008fd"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 17
+        "@value": 21
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Banditen-Galopp, Polka schnell op. 378\""
+        "@value": "Track: Outro"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/07%20-%20Ouvert%C3%BCre%20zu%20Isabella%20-%20Franz%20von%20Supp%C3%A8.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/dd31a644-8389-475f-9170-1d1817d94180"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre zu Isabella\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/2023#5",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/2023/05%20-%20In%20lauschiger%20Nacht%2C%20Walzer%20op.%20488%20-%20Carl%20Michael%20Ziehrer.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/75d23793-9d8e-4232-a5a1-1dafc8324292"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 5
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"In lauschiger Nacht, Walzer op. 488\""
       }
     ]
   }

@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/TISMIR/data/release_event/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> .
+_:N4660bb396dc041669ed2beb1ef6f6516 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+_:N4660bb396dc041669ed2beb1ef6f6516 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N4660bb396dc041669ed2beb1ef6f6516 .
+<https://w3id.org/ssv/TISMIR/data/release/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> <http://purl.org/dc/terms/issued> "2015" .

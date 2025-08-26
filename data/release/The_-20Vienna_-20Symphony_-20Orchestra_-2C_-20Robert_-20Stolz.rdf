@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz">
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Strauss Waltzes"</dcterms:title>
     <rdfs:label>Release: "Strauss Waltzes"</rdfs:label>
-    <rdfs:label>Record: "Strauss Waltzes"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz#13"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/The_-20Vienna_-20Symphony_-20Orchestra_-2C_-20Robert_-20Stolz"/>
+    <dcterms:title>"Strauss Waltzes"</dcterms:title>
+    <mo:catalogue_number>CD 512</mo:catalogue_number>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/c1d6451b-fecb-40f7-ac90-538f5abc269a"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/f7123288-b791-4040-bacb-215ffa2add45"/>
   </rdf:Description>
 </rdf:RDF>

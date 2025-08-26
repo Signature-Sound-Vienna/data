@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2001"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29",
+    "@type": [
+      "https://purl.org/NET/c4dm/event.owl#Event",
+      "http://purl.org/ontology/mo/ReleaseEvent"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N3a4835b5bd5341e88db4c97dc992c85f"
+      }
+    ]
+  },
+  {
+    "@id": "_:N3a4835b5bd5341e88db4c97dc992c85f",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2001"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
+
+ssvrel:1979 a mo:Release ;
+    rdfs:label "Release: \"New Year's Day Concert 1979 (Extracts) / Concert Du Novel An 1979 (Extraits) / Neujahrskonzert 1979 (Auszüge)\"" ;
+    dcterms:publisher mblabel:e406ef86-9f69-4ec4-ba5e-203b9e12f50b ;
+    dcterms:title "\"New Year's Day Concert 1979 (Extracts) / Concert Du Novel An 1979 (Extraits) / Neujahrskonzert 1979 (Auszüge)\"" ;
+    mo:musicbrainz mbrelease:d7b7ec0c-5921-41e5-aa95-c892887d7a14 ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/1979#1>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#10>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#11>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#12>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#2>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#3>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#4>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#5>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#6>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#7>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#8>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1979#9> ;
+    mo:record ssvrec:1979 .
+

@@ -1,0 +1,5 @@
+<https://w3id.org/ssv/TISMIR/data/release_event/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N5182eb9ce42c48eb89145f0582679e22 .
+<https://w3id.org/ssv/TISMIR/data/release_event/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/Berliner_-20Symphoniker_-20_-26_-20Wiener_-20Symphoniker_-2C_-20Robert_-20Stolz_-20_-281971_-29> .
+_:N5182eb9ce42c48eb89145f0582679e22 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .

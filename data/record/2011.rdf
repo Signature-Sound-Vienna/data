@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/2011">
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#20"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#19"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#21"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#18"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#17"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#16"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#11"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/0323f5ef-937b-4f9f-a37e-e11156612393"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#12"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#13"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#14"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#15"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#16"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#17"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#18"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#19"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#20"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2011#21"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</mo:track_count>
+    <rdfs:label>Record: "Neujahrskonzert 2011"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

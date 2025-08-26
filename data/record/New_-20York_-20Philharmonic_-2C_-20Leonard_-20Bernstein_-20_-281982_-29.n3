@@ -1,11 +1,16 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/TISMIR/data/record/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1>,
+ssvrec:New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29 a mo:Record ;
+    rdfs:label "Record: \"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\"" ;
+    mo:musicbrainz mbrelease:acc9df97-95e0-4635-8525-d6cbe1efd48a ;
+    mo:track <https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1>,
         <https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2>,
         <https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3>,
         <https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4>,
         <https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5> ;
-    ns1:track_count 6 .
+    mo:track_count 6 .
 

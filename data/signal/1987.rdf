@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
-   xmlns:ns2="https://w3id.org/ssv/vocab#"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:ssvo="https://w3id.org/ssv/vocab#"
 >
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#11">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/11.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#13">
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/13.peaks.json"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#13"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#11"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#14">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/14.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#14"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#15">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/15.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#15"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#6">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/6.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#6"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#5">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/5.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#8">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/8.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#8"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#9">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/9.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#2">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/2.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#2"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#1">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/1.peaks.json"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#1"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/1.peaks.json"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#1"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#4">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/4.peaks.json"/>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#15">
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#4"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#13">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/13.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#13"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#10">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/10.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#10"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#12">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/12.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#12"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#7">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/7.peaks.json"/>
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#7"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/15.peaks.json"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#15"/>
   </rdf:Description>
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#3">
-    <ns2:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/3.peaks.json"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/3.peaks.json"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#3"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
-    <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#11">
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/11.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#8">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#8"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/8.peaks.json"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#2">
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#2"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/2.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#7">
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#7"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/7.peaks.json"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#10">
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#10"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/10.peaks.json"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#12">
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#12"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/12.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#9">
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/9.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#6">
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#6"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/6.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#5">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/5.peaks.json"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#4">
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/4.peaks.json"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1987#14">
+    <mo:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1987#14"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
+    <ssvo:peaks rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1987/14.peaks.json"/>
   </rdf:Description>
 </rdf:RDF>

@@ -4,21 +4,17 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/b8a7ebf3-8b78-4861-89b5-a4e1924cd391"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#1"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#9"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#5"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#6"
@@ -27,28 +23,37 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#7"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#8"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#5"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#10"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#11"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#12"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#13"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#18"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#14"
       },
       {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#10"
+      },
+      {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#11"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#13"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#4"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#16"
@@ -57,13 +62,18 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#17"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#18"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/2022#8"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 19
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"NEW YEAER ́S CONCERT 2022\""
       }
     ]
   }

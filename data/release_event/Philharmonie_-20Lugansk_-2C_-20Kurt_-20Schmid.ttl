@@ -1,0 +1,11 @@
+@prefix ev: <https://purl.org/NET/c4dm/event.owl#> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
+@prefix ssvrevent: <https://w3id.org/ssv/TISMIR/data/release_event/> .
+@prefix tl: <http://purl.org/NET/c4dm/timeline.owl#> .
+
+ssvrevent:Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid a mo:ReleaseEvent,
+        ev:Event ;
+    mo:release ssvrel:Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid ;
+    ev:time [ a tl:Instant ] .
+

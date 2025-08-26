@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/d2a857fe-a9ba-4273-a5d2-456598eeaf09"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"The Perfect Strauss\""
@@ -11,10 +16,33 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "CO 862872"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/cd086466-4365-4f3d-a6e0-240965daee7a"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6"
+      },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#1"
       },
@@ -22,25 +50,7 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#6"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#7"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#9"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Willi_-20Boskovsky_-20_-281995_-29#10"
@@ -54,9 +64,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"The Perfect Strauss\""
-      },
-      {
-        "@value": "Record: \"The Perfect Strauss\""
       }
     ]
   }

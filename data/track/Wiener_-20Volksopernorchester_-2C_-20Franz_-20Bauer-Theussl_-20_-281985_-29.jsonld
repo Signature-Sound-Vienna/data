@@ -1,5 +1,59 @@
 [
   {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29/07-Morgenbl%C3%A4tter%2C%20Op.%20279%20-%20Johann%20Strauss%20%28son%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a75955a0-9efd-4f7a-a43b-36cdb0f8364f"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Morgenblätter, Op. 279\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29/03-Pizzicato%20Polka%20-%20Johann%20and%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/0273d27d-ff96-472b-b4e5-919076a4280e"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Pizzicato Polka\""
+      }
+    ]
+  },
+  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -23,6 +77,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Künstlerleben, Op. 316\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29/01-Die%20Fledermaus%20-%20Ouverture%20-%20Johann%20Strauss%20%28son%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/d878d678-1543-46d1-be7f-f818b6566202"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Die Fledermaus - Ouverture\""
       }
     ]
   },
@@ -81,60 +162,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#7",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29/07-Morgenbl%C3%A4tter%2C%20Op.%20279%20-%20Johann%20Strauss%20%28son%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/a75955a0-9efd-4f7a-a43b-36cdb0f8364f"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Morgenblätter, Op. 279\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#1",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29/01-Die%20Fledermaus%20-%20Ouverture%20-%20Johann%20Strauss%20%28son%29.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/d878d678-1543-46d1-be7f-f818b6566202"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Die Fledermaus - Ouverture\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -185,33 +212,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Frühlingsstimmen, Op. 410\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29/03-Pizzicato%20Polka%20-%20Johann%20and%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/0273d27d-ff96-472b-b4e5-919076a4280e"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Pizzicato Polka\""
       }
     ]
   }

@@ -1,0 +1,25 @@
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ssvrec:1999 a mo:Record ;
+    rdfs:label "Record: \"New Year's Concert 1999\"" ;
+    mo:musicbrainz mbrelease:2f7d8273-81d5-45ed-8b1b-57cdd2af9ae8 ;
+    mo:track <https://w3id.org/ssv/TISMIR/data/track/1999#1>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#10>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#11>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#12>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#13>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#14>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#2>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#3>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#4>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#5>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#6>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#7>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#8>,
+        <https://w3id.org/ssv/TISMIR/data/track/1999#9> ;
+    mo:track_count 15 .
+

@@ -4,21 +4,17 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/f11b197e-c4ba-4ce5-a057-51766d73dad7"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
       {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#9"
+      },
+      {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#5"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#6"
@@ -30,13 +26,27 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#8"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#9"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#3"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#5"
       }
     ],
     "http://purl.org/ontology/mo/track_count": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: Kaiser-Walzer"
       }
     ]
   }

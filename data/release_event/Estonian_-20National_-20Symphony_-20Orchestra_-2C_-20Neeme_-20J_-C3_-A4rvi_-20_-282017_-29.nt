@@ -1,0 +1,7 @@
+<https://w3id.org/ssv/TISMIR/data/release_event/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29> .
+_:N6a31607da6424fdb867673131f1b5b46 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:N6a31607da6424fdb867673131f1b5b46 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release_event/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N6a31607da6424fdb867673131f1b5b46 .
+<https://w3id.org/ssv/TISMIR/data/release/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29> <http://purl.org/dc/terms/issued> "2017-05" .

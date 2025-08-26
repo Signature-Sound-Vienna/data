@@ -1,0 +1,7 @@
+_:N34f8e6cd3a804ca180533a1f92577313 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1991"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release_event/mixed_-20_-28Golden_-20Classics_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N34f8e6cd3a804ca180533a1f92577313 .
+_:N34f8e6cd3a804ca180533a1f92577313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/TISMIR/data/release_event/mixed_-20_-28Golden_-20Classics_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/mixed_-20_-28Golden_-20Classics_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/TISMIR/data/release_event/mixed_-20_-28Golden_-20Classics_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/mixed_-20_-28Golden_-20Classics_-29> .
+<https://w3id.org/ssv/TISMIR/data/release/mixed_-20_-28Golden_-20Classics_-29> <http://purl.org/dc/terms/issued> "1991" .

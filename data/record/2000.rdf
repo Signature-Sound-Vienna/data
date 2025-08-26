@@ -1,29 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/2000">
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#19"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#17"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#18"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#16"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#1"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#12"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#13"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#14"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#15"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#16"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#17"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#18"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2000#19"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/cffbb7cd-93cf-4dee-aaf4-97aff1f1af18"/>
+    <rdfs:label>Record: "New Year's Concert 2000"</rdfs:label>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</mo:track_count>
   </rdf:Description>
 </rdf:RDF>

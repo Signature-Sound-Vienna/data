@@ -1,0 +1,67 @@
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix ssvo: <https://w3id.org/ssv/vocab#> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#1> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#1> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/1.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#10> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#10> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/10.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#11> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#11> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/11.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#12> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#12> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/12.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#13> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#13> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/13.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#14> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#14> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/14.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#15> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#15> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/15.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#16> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#16> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/16.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#2> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#2> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/2.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#3> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#3> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/3.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#4> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#4> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/4.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#5> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#5> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/5.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#6> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#6> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/6.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#7> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#7> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/7.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#8> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#8> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/8.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1989#9> a mo:Signal ;
+    mo:published_as <https://w3id.org/ssv/TISMIR/data/track/1989#9> ;
+    ssvo:peaks <https://w3id.org/ssv/TISMIR/data/peaks/1989/9.peaks.json> .
+

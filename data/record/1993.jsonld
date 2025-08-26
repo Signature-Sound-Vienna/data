@@ -4,36 +4,17 @@
     "@type": [
       "http://purl.org/ontology/mo/Record"
     ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/3979bfc4-e6e7-4b68-ba02-6fbc3cc9608e"
+      }
+    ],
     "http://purl.org/ontology/mo/track": [
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#7"
-      },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#8"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#10"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#2"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#11"
@@ -42,10 +23,34 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#12"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#13"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#10"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#6"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#3"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#14"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#13"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1993#15"
@@ -55,6 +60,11 @@
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
         "@value": 16
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Record: \"Neujahrskonzert 1993\""
       }
     ]
   }

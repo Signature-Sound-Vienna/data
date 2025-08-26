@@ -1,0 +1,30 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
+
+ssvrel:1941_-20_-28_-26_-20unbekannt_-29 a mo:Release ;
+    rdfs:label "Release: \"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\"" ;
+    dcterms:publisher mblabel:f6fb21a4-8d7a-4c70-b453-2ee059e831db ;
+    dcterms:title "\"Anna beim Neujahrskonzer der Wierner Philharmoniker: Das erste Neujahrskonzert der Wiener Philharmoniker aus 1941 unter C. Krauss mit drei Bonus-Nummern\"" ;
+    mo:musicbrainz mbrelease:f0fdaeee-9821-422b-a1fc-2f1cb4f6f720 ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#1>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#10>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#11>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#12>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#13>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#14>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#15>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#2>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#3>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#4>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#5>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#6>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#7>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#8>,
+        <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#9> ;
+    mo:record ssvrec:1941_-20_-28_-26_-20unbekannt_-29 .
+

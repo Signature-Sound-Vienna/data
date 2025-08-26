@@ -1,0 +1,7 @@
+_:Na6fa19fff087473cabf3747afab021f9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+_:Na6fa19fff087473cabf3747afab021f9 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release_event/2015> <https://purl.org/NET/c4dm/event.owl#time> _:Na6fa19fff087473cabf3747afab021f9 .
+<https://w3id.org/ssv/TISMIR/data/release_event/2015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/2015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/TISMIR/data/release/2015> <http://purl.org/dc/terms/issued> "2015" .
+<https://w3id.org/ssv/TISMIR/data/release_event/2015> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/2015> .

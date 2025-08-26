@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/2011">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Neujahrskonzert 2011"</dcterms:title>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#16"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#19"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#21"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#20"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#4"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#18"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#17"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#15"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/0323f5ef-937b-4f9f-a37e-e11156612393"/>
     <rdfs:label>Release: "Neujahrskonzert 2011"</rdfs:label>
-    <rdfs:label>Record: "Neujahrskonzert 2011"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/2011"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#14"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#15"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#16"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#17"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#18"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#19"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#20"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/2011#21"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/f18f3b31-8263-4de3-966a-fda317492d3d"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
+    <mo:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/2011"/>
+    <dcterms:title>"Neujahrskonzert 2011"</dcterms:title>
   </rdf:Description>
 </rdf:RDF>

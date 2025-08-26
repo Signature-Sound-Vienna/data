@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/b8d33bec-92cc-40d9-bd92-4eb089b401a9"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\""
@@ -11,7 +16,12 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "MYK 42604"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/acc9df97-95e0-4635-8525-d6cbe1efd48a"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -19,16 +29,16 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#4"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#3"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -39,9 +49,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\""
-      },
-      {
-        "@value": "Record: \"The Blue Danube / Artist's Life / The Emperor Waltz / Voices of Spring / Vienna Blood Waltz\""
       }
     ]
   }

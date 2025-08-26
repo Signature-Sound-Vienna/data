@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/2007",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/2007"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N753886a6417044b280f428649caa5834"
+      }
+    ]
+  },
+  {
+    "@id": "_:N753886a6417044b280f428649caa5834",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2007"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/2007",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2007"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tl="http://purl.org/NET/c4dm/timeline.owl#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release_event/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29">
+    <ev:time rdf:nodeID="N1164a29fee5b444b83353eaf4ebcc06a"/>
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/TISMIR/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N1164a29fee5b444b83353eaf4ebcc06a">
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+    <tl:atYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1990</tl:atYear>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/Wiener_-20Symphoniker_-2C_-20Wolfgang_-20Sawallisch_-20_-281967_-29">
+    <dcterms:issued>1990</dcterms:issued>
+  </rdf:Description>
+</rdf:RDF>

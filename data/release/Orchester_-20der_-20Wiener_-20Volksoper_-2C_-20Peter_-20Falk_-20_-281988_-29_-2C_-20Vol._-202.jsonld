@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/08fbffc2-0af1-49be-85cc-4bc958c74f04"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
@@ -11,10 +16,21 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "160304"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/d293ae6d-d919-4a74-beab-a79eb0bd1bb0"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#8"
+      },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"
       },
@@ -25,19 +41,13 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#3"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#5"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#6"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#7"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#8"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#4"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -48,9 +58,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
-      },
-      {
-        "@value": "Record: \"Unvergessene Melodien Vol. 2 / Unforgettable Melodies Vol. 2\""
       }
     ]
   }

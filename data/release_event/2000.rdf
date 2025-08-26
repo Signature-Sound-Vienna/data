@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tl="http://purl.org/NET/c4dm/timeline.owl#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release_event/2000">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <ev:time rdf:nodeID="Nacc3af82c71947fdbad3623b13bc74e9"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/TISMIR/data/release/2000"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nacc3af82c71947fdbad3623b13bc74e9">
+    <tl:atYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2000</tl:atYear>
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/2000">
+    <dcterms:issued>2000</dcterms:issued>
+  </rdf:Description>
+</rdf:RDF>

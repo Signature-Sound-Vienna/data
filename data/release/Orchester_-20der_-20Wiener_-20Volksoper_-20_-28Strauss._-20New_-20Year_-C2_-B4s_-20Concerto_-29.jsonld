@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/9dce19a1-8dcd-45e9-ab84-ab2c8ba7c864"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "Strauss"
@@ -11,10 +16,21 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "3630012"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/b6f21150-61fa-4ac8-be0d-59e5bc7d8da9"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#4"
+      },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#1"
       },
@@ -22,19 +38,13 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#5"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#6"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#3"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8"
@@ -48,9 +58,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: Strauss"
-      },
-      {
-        "@value": "Record: Strauss"
       }
     ]
   }

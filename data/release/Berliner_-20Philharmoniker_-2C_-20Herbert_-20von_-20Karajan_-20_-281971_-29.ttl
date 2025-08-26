@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29> a ns1:Release ;
-    rdfs:label "Record: \"Walzer / Polkas / Märsche\"",
-        "Release: \"Walzer / Polkas / Märsche\"" ;
+ssvrel:Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29 a mo:Release ;
+    rdfs:label "Release: \"Walzer / Polkas / Märsche\"" ;
+    dcterms:publisher mblabel:5a584032-dcef-41bb-9f8b-19540116fb1c ;
     dcterms:title "\"Walzer / Polkas / Märsche\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#1>,
+    mo:catalogue_number "449 768-2" ;
+    mo:musicbrainz mbrelease:a9f717e5-4db4-4cd7-9285-55630114968a ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#10>,
         <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#11>,
         <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#2>,
@@ -18,5 +23,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29> .
+    mo:record ssvrec:Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29 .
 

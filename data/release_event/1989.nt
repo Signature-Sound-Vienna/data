@@ -1,0 +1,7 @@
+_:Na5d1863952554a979d12d335d423a9c9 <http://purl.org/NET/c4dm/timeline.owl#atYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release/1989> <http://purl.org/dc/terms/issued> "1989" .
+<https://w3id.org/ssv/TISMIR/data/release_event/1989> <https://purl.org/NET/c4dm/event.owl#time> _:Na5d1863952554a979d12d335d423a9c9 .
+<https://w3id.org/ssv/TISMIR/data/release_event/1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+_:Na5d1863952554a979d12d335d423a9c9 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .
+<https://w3id.org/ssv/TISMIR/data/release_event/1989> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/1989> .

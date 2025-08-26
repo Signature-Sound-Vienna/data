@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2012"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29",
+    "@type": [
+      "https://purl.org/NET/c4dm/event.owl#Event",
+      "http://purl.org/ontology/mo/ReleaseEvent"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/Vienna_-20Johann_-20Strauss_-20Orchestra_-2C_-20Johannes_-20Wildner_-20_-282012_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N9ecd69d3ae3a4203bcb4eddfb6f171f8"
+      }
+    ]
+  },
+  {
+    "@id": "_:N9ecd69d3ae3a4203bcb4eddfb6f171f8",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2012"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "2017-05"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:N6a31607da6424fdb867673131f1b5b46"
+      }
+    ]
+  },
+  {
+    "@id": "_:N6a31607da6424fdb867673131f1b5b46",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "2017"
+      }
+    ]
+  }
+]

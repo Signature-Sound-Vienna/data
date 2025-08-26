@@ -1,13 +1,15 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> a ns1:Release ;
-    rdfs:label "Record: Neujahrskonzert",
-        "Release: Neujahrskonzert" ;
+ssvrel:Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid a mo:Release ;
+    rdfs:label "Release: Neujahrskonzert" ;
     dcterms:title "Neujahrskonzert" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1>,
+    mo:musicbrainz mbrelease:ad297a80-f5ec-4073-8df8-a873d39d30a1 ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#10>,
         <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#11>,
         <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#12>,
@@ -20,5 +22,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid> .
+    mo:record ssvrec:Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid .
 

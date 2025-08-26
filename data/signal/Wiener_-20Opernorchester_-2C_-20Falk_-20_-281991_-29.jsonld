@@ -16,34 +16,18 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#1",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#1"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#5"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/1.peaks.json"
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Signal"
-    ],
-    "http://purl.org/ontology/mo/published_as": [
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#6"
-      }
-    ],
-    "https://w3id.org/ssv/vocab#peaks": [
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/6.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/5.peaks.json"
       }
     ]
   },
@@ -80,18 +64,34 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#5",
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Signal"
     ],
     "http://purl.org/ontology/mo/published_as": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#5"
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#1"
       }
     ],
     "https://w3id.org/ssv/vocab#peaks": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/5.peaks.json"
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/1.peaks.json"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Signal"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#6"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/6.peaks.json"
       }
     ]
   }

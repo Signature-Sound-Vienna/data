@@ -1,55 +1,55 @@
 [
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#2",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/08-Tritsch-Tratsch%20-%20Polka%20Op.%20214%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/02-Pizzicato%20Polka%20-%20Johann%20Strauss%20II%2C%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b432bad3-0124-3896-a307-f22e7593baba"
+        "@id": "https://musicbrainz.org/track/9c6f377a-2460-39c5-afbf-d2bf3f358f54"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 2
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Tritsch-Tratsch-Polka, Op. 214\""
+        "@value": "Track: \"Pizzicato Polka\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#6",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/06-Luxury%20Train-Polka-Galop%20Op.314%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/01-Emperor%20Waltz%20Op.437%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/1fdd1dc5-77c7-3dfd-bfa7-e3573ce370a1"
+        "@id": "https://musicbrainz.org/track/2180dae6-e1c8-3491-80b3-c6a3ec1b4797"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
+        "@value": 1
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Vergnügungszug-Polka-Galop / Luxury Train-Polka-Galop, Op. 281\""
+        "@value": "Track: \"Kaiserwalzer / Emperor Waltz, Op. 437\""
       }
     ]
   },
@@ -81,29 +81,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#2",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/02-Pizzicato%20Polka%20-%20Johann%20Strauss%20II%2C%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/08-Tritsch-Tratsch%20-%20Polka%20Op.%20214%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/9c6f377a-2460-39c5-afbf-d2bf3f358f54"
+        "@id": "https://musicbrainz.org/track/b432bad3-0124-3896-a307-f22e7593baba"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 2
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Pizzicato Polka\""
+        "@value": "Track: \"Tritsch-Tratsch-Polka, Op. 214\""
       }
     ]
   },
@@ -135,33 +135,6 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/03-Tales%20from%20the%20Vienna%20Woods-Waltz%20Op.325%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/6b5c11c3-69ab-3e2d-ac3f-78d4c30cea2b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"G'schichte aus dem Wienderwald-Walzer / Tales from the Vienna Forest - Waltz, Op. 325\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -189,29 +162,56 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#1",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#6",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/01-Emperor%20Waltz%20Op.437%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/06-Luxury%20Train-Polka-Galop%20Op.314%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/2180dae6-e1c8-3491-80b3-c6a3ec1b4797"
+        "@id": "https://musicbrainz.org/track/1fdd1dc5-77c7-3dfd-bfa7-e3573ce370a1"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 6
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Kaiserwalzer / Emperor Waltz, Op. 437\""
+        "@value": "Track: \"Vergnügungszug-Polka-Galop / Luxury Train-Polka-Galop, Op. 281\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-20_-28Strauss._-20New_-20Year_-C2_-B4s_-20Concerto_-29/03-Tales%20from%20the%20Vienna%20Woods-Waltz%20Op.325%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/6b5c11c3-69ab-3e2d-ac3f-78d4c30cea2b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"G'schichte aus dem Wienderwald-Walzer / Tales from the Vienna Forest - Waltz, Op. 325\""
       }
     ]
   }

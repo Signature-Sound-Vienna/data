@@ -1,113 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/12-%C3%89ljen%20a%20Magy%C3%A1r%2C%20Polka%20schnell%20op.%20332%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/32d79a87-86fb-40e5-a00c-3de755874227"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 12
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Éljen a Magyár, Polka schnell op. 332\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/06-V%C3%A9locip%C3%A8de%2C%20Polka%20schnell%20op.%20259%20-%20Josef%20Strauss.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/bc3115c0-33f7-4bd3-9ad7-c9a95ae6f29b"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Vélocipède, Polka schnell op. 259\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#13",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/13-Kaiser-Walzer%20op.%20437%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/bb3cf88d-3f45-4e77-bed6-82a459f2af1c"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 13
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Kaiser-Walzer op. 437\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/11-Geschichten%20aus%20dem%20Wienerwald%2C%20Walzer%20op.%20325%20-%20Johann%20Strauss%20II.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/7e2d50a9-3fdb-462d-add9-9dee32fb5709"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Geschichten aus dem Wienerwald, Walzer op. 325\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#3",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -131,6 +23,33 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Die Bajadere, Polka schnell op. 351\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/10-Klipp-Klapp%2C%20Galopp%20op.%20466%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/ea2f5f6d-1f70-4192-ac2f-d06dd3e7af1d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 10
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Klipp-Klapp, Galopp op. 466\""
       }
     ]
   },
@@ -189,29 +108,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/01-Ouvert%C3%BCre%20zur%20Operette%20%27Carneval%20in%20Rom%27%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/05-Die%20tanzende%20Muse%2C%20Polka%20Mazur%20op.%20266%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/a4850754-be3c-4e06-93c0-d2e9f5ff41b7"
+        "@id": "https://musicbrainz.org/track/afd2bd2d-5f2c-4ed6-a4b9-5bb9010bbcb4"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 1
+        "@value": 5
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Ouvertüre zur Operette 'Carneval in Rom'\""
+        "@value": "Track: \"Die tanzende Muse, Polka Mazur op. 266\""
       }
     ]
   },
@@ -243,56 +162,83 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#5",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#14",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/05-Die%20tanzende%20Muse%2C%20Polka%20Mazur%20op.%20266%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/afd2bd2d-5f2c-4ed6-a4b9-5bb9010bbcb4"
+        "@id": "https://musicbrainz.org/track/9dd36569-cf2d-4b7c-ab66-9acc71e948aa"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 5
+        "@value": 14
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Die tanzende Muse, Polka Mazur op. 266\""
+        "@value": "Track: \"Radetzky-Marsch op. 228\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#13",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/07-Fransactionen%2C%20Walzer%20op.%20184%20-%20Josef%20Strauss.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/13-Kaiser-Walzer%20op.%20437%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/4f7702c9-720c-472b-98ee-4b45f27ccf9d"
+        "@id": "https://musicbrainz.org/track/bb3cf88d-3f45-4e77-bed6-82a459f2af1c"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 13
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Transactionen, Walzer op. 184\""
+        "@value": "Track: \"Kaiser-Walzer op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/06-V%C3%A9locip%C3%A8de%2C%20Polka%20schnell%20op.%20259%20-%20Josef%20Strauss.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/bc3115c0-33f7-4bd3-9ad7-c9a95ae6f29b"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Vélocipède, Polka schnell op. 259\""
       }
     ]
   },
@@ -324,56 +270,110 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#10",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#11",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/10-Klipp-Klapp%2C%20Galopp%20op.%20466%20-%20Johann%20Strauss%20II.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/11-Geschichten%20aus%20dem%20Wienerwald%2C%20Walzer%20op.%20325%20-%20Johann%20Strauss%20II.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/ea2f5f6d-1f70-4192-ac2f-d06dd3e7af1d"
+        "@id": "https://musicbrainz.org/track/7e2d50a9-3fdb-462d-add9-9dee32fb5709"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 10
+        "@value": 11
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Klipp-Klapp, Galopp op. 466\""
+        "@value": "Track: \"Geschichten aus dem Wienerwald, Walzer op. 325\""
       }
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#14",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#7",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
     "http://purl.org/ontology/mo/available_as": [
       {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/14-Radetzky-Marsch%20op.%20228%20-%20Johann%20Strauss%20I.wav"
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/07-Fransactionen%2C%20Walzer%20op.%20184%20-%20Josef%20Strauss.wav"
       }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/9dd36569-cf2d-4b7c-ab66-9acc71e948aa"
+        "@id": "https://musicbrainz.org/track/4f7702c9-720c-472b-98ee-4b45f27ccf9d"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 14
+        "@value": 7
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Radetzky-Marsch op. 228\""
+        "@value": "Track: \"Transactionen, Walzer op. 184\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#1",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/01-Ouvert%C3%BCre%20zur%20Operette%20%27Carneval%20in%20Rom%27%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/a4850754-be3c-4e06-93c0-d2e9f5ff41b7"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 1
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Ouvertüre zur Operette 'Carneval in Rom'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29#12",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Johann_-20Strauss_-20Orchester_-2C_-20Alfred_-20Eschw_-C3_-A9_-20_-282016_-29/12-%C3%89ljen%20a%20Magy%C3%A1r%2C%20Polka%20schnell%20op.%20332%20-%20Johann%20Strauss%20II.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/32d79a87-86fb-40e5-a00c-3de755874227"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 12
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Éljen a Magyár, Polka schnell op. 332\""
       }
     ]
   }

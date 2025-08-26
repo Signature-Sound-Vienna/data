@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/2017">
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#17"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#21"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#20"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#19"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#16"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#18"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#7"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/9c78224c-0042-40fd-aabf-023b18525a5f"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</mo:track_count>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#9"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#10"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#11"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#12"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#13"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#14"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#15"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#16"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#17"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#18"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#19"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#20"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2017#21"/>
+    <rdfs:label>Record: "Neujahrskonzert / New Year's Concert 2017"</rdfs:label>
   </rdf:Description>
 </rdf:RDF>

@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29> a ns1:Release ;
-    rdfs:label "Record: \"J. Strauss\"",
-        "Release: \"J. Strauss\"" ;
+ssvrel:Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29 a mo:Release ;
+    rdfs:label "Release: \"J. Strauss\"" ;
+    dcterms:publisher mblabel:4e825b04-3ea6-4d13-824a-6135e2425984 ;
     dcterms:title "\"J. Strauss\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#1>,
+    mo:catalogue_number "416819-2" ;
+    mo:musicbrainz mbrelease:d410c7d2-8b8b-42c3-b8a8-0943fe579d35 ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#2>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#3>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#4>,
@@ -15,5 +20,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#6>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29#8> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29> .
+    mo:record ssvrec:Wiener_-20Volksopernorchester_-2C_-20Franz_-20Bauer-Theussl_-20_-281985_-29 .
 

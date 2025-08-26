@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/f00633d2-4783-4b68-8cac-27725df9b690"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Berühmte Ouvertüren\""
@@ -11,7 +16,12 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "INT 830.814"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/f5897301-818e-4aaf-9c52-27f339bb3849"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
@@ -19,22 +29,22 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#1"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#6"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Philharmonia_-20Orchestra_-20London_-2C_-20Georg_-20Randolph_-20Warren_-20_-281982_-29#3"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -45,9 +55,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Berühmte Ouvertüren\""
-      },
-      {
-        "@value": "Record: \"Berühmte Ouvertüren\""
       }
     ]
   }

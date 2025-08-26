@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/1c0ee8d0-04a3-4060-86c0-99bb0eb7b481"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Unvergessene Melodien\""
@@ -11,36 +16,41 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "160 303"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/e4956644-5570-4129-8e8d-f6c0f872f815"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#8"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#3"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#4"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#5"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#3"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#6"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#7"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#8"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#5"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Alfred_-20Scholz_-20_-281988_-29#7"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -51,9 +61,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Unvergessene Melodien\""
-      },
-      {
-        "@value": "Record: \"Unvergessene Melodien\""
       }
     ]
   }

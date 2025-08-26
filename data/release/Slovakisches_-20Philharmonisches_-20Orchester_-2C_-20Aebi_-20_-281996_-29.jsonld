@@ -4,6 +4,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/e91cb336-3cf1-4002-b51c-bdab8d2b27c6"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Wiener Compositionen\""
@@ -11,24 +16,29 @@
     ],
     "http://purl.org/ontology/mo/catalogue_number": [
       {
-        "@value": "__NONE__"
+        "@value": "AD-03981"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/74a17833-5e6a-48ed-9045-7869a0f7f303"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#2"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#4"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#1"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Slovakisches_-20Philharmonisches_-20Orchester_-2C_-20Aebi_-20_-281996_-29#3"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -39,9 +49,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Wiener Compositionen\""
-      },
-      {
-        "@value": "Record: \"Wiener Compositionen\""
       }
     ]
   }

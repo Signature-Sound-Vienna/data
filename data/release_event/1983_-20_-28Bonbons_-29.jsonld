@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/1983_-20_-28Bonbons_-29",
+    "@type": [
+      "https://purl.org/NET/c4dm/event.owl#Event",
+      "http://purl.org/ontology/mo/ReleaseEvent"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/1983_-20_-28Bonbons_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:Ncb367266fcfb42219c505aca96705d57"
+      }
+    ]
+  },
+  {
+    "@id": "_:Ncb367266fcfb42219c505aca96705d57",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1983"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/1983_-20_-28Bonbons_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1983"
+      }
+    ]
+  }
+]

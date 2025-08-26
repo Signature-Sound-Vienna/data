@@ -4,34 +4,51 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
-    "http://purl.org/dc/terms/title": [
+    "http://purl.org/dc/terms/publisher": [
       {
-        "@value": "\"Neujahrskonzert / New Year ́s Concert 2018\""
+        "@id": "https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/dc/terms/title": [
       {
-        "@value": "__NONE__"
+        "@value": "\"Neujahrskonzert / New Year´s Concert 2018\""
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/release/7af1eeac-7aaa-47ad-a99b-30a6e4c4ee39"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#1"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#17"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#13"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#2"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#3"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#14"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#4"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#18"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#5"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#16"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#6"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#12"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#19"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#21"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#10"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#7"
@@ -40,40 +57,28 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#8"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#9"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#3"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#10"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#20"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#4"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#9"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#11"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#12"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#13"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#14"
-      },
-      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#15"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#16"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#17"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#18"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#19"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#20"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/2018#6"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -83,10 +88,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Release: \"Neujahrskonzert / New Year ́s Concert 2018\""
-      },
-      {
-        "@value": "Record: \"Neujahrskonzert / New Year ́s Concert 2018\""
+        "@value": "Release: \"Neujahrskonzert / New Year´s Concert 2018\""
       }
     ]
   }

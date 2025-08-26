@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/2001">
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#15"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#19"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#20"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#16"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#14"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#17"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#13"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#18"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/2001#10"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</mo:track_count>
+    <rdfs:label>Record: "Neujahrskonzert 2001 / New Year's Concert"</rdfs:label>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/d7c7b916-b582-4b21-9c20-109d9295c060"/>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
+  </rdf:Description>
+</rdf:RDF>

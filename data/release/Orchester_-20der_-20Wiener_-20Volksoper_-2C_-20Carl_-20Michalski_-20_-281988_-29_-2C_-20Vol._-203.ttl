@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203> a ns1:Release ;
-    rdfs:label "Record: \"Unvergessene Melodien Vo. 3 / Unforgettable Melodies Vol. 3\"",
-        "Release: \"Unvergessene Melodien Vo. 3 / Unforgettable Melodies Vol. 3\"" ;
+ssvrel:Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203 a mo:Release ;
+    rdfs:label "Release: \"Unvergessene Melodien Vo. 3 / Unforgettable Melodies Vol. 3\"" ;
+    dcterms:publisher mblabel:08fbffc2-0af1-49be-85cc-4bc958c74f04 ;
     dcterms:title "\"Unvergessene Melodien Vo. 3 / Unforgettable Melodies Vol. 3\"" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#1>,
+    mo:catalogue_number "160305" ;
+    mo:musicbrainz mbrelease:43717924-9114-40df-bc95-ab2eb65c198a ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#2>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#3>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#4>,
@@ -16,5 +21,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203> .
+    mo:record ssvrec:Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Carl_-20Michalski_-20_-281988_-29_-2C_-20Vol._-203 .
 

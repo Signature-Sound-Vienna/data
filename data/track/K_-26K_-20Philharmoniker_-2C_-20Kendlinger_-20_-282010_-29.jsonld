@@ -1,23 +1,28 @@
 [
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/09-Egyptischer%20Marsch%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/da0f683d-e3e1-4f57-9644-3b0e5901d723"
+        "@id": "https://musicbrainz.org/track/b9c01d6a-8df8-4ce5-843a-0e6e681805d6"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 7
+        "@value": 9
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Éljen a Magýar! op. 332, Polka schnell\""
+        "@value": "Track: \"Egyptischer Marsch op. 335\""
       }
     ]
   },
@@ -25,6 +30,11 @@
     "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#1",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/01-Nordseebilder%2C%20Johann%20Strau%C3%9F.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -44,75 +54,14 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#4",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9fdf2d30-028d-469e-bdd1-7f0ec7238228"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 4
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Kaiserwalzer op. 437\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/950f8a85-73f6-4548-b296-809ded5b0da0"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Klänge der Heimat, Csárdás der Rosalinde aus 'Die Fledermaus'\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b7f7ef30-6723-4b17-8f88-56c9db34f054"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Im Krapfenwaldl op. 336, Polka francaise\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#10",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/10-An%20der%20sch%C3%B6nen%2C%20blauen%20Donau%2C%20Johann%20Strau%C3%9F.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -136,6 +85,11 @@
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/02-Ouvert%C3%BCre%20zur%20Operatte%20_Die%20Fledermaus_%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
         "@id": "https://musicbrainz.org/track/c37b1efb-0fe8-4dac-9dd9-3267c3a3fa5a"
@@ -154,46 +108,29 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#9",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/08-Rosen%20aus%20dem%20S%C3%BCden%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/b9c01d6a-8df8-4ce5-843a-0e6e681805d6"
+        "@id": "https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 9
+        "@value": 8
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Egyptischer Marsch op. 335\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/c65f1aab-1cfb-4c63-b0af-7f13c985423d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 11
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Radetzky-Marsch op. 228\""
+        "@value": "Track: \"Rosen aus dem Süden op. 388, Walzer\""
       }
     ]
   },
@@ -201,6 +138,11 @@
     "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#5",
     "@type": [
       "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/05-Einzugsmarsch%20aus%20der%20Operette%20_Der%20Zigeunerbaron_%2C%20Johann%20Strau%C3%9F.wav"
+      }
     ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
@@ -220,24 +162,137 @@
     ]
   },
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#8",
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
     ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/04-Kaiserwalzer%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
     "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@id": "https://musicbrainz.org/track/4309c5a0-3769-495b-94dd-09a6bfe383ed"
+        "@id": "https://musicbrainz.org/track/9fdf2d30-028d-469e-bdd1-7f0ec7238228"
       }
     ],
     "http://purl.org/ontology/mo/track_number": [
       {
         "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 8
+        "@value": 4
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
-        "@value": "Track: \"Rosen aus dem Süden op. 388, Walzer\""
+        "@value": "Track: \"Kaiserwalzer op. 437\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/03-Im%20Krapfenwaldl%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b7f7ef30-6723-4b17-8f88-56c9db34f054"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Im Krapfenwaldl op. 336, Polka francaise\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#7",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/07-%C3%89ljen%20a%20Mag%C3%BDar%21%2C%20Sohann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/da0f683d-e3e1-4f57-9644-3b0e5901d723"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 7
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Éljen a Magýar! op. 332, Polka schnell\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/06-Kl%C3%A4nge%20der%20Heimat%20aus%20_Die%20Fledermaus_%2C%20Johann%20Strau%C3%9F.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/950f8a85-73f6-4548-b296-809ded5b0da0"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Klänge der Heimat, Csárdás der Rosalinde aus 'Die Fledermaus'\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29#11",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29/11-Radetzky-Marsch%2C%20Johann%20Strau%C3%9F%20%28Vater%29.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/c65f1aab-1cfb-4c63-b0af-7f13c985423d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 11
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Radetzky-Marsch op. 228\""
       }
     ]
   }

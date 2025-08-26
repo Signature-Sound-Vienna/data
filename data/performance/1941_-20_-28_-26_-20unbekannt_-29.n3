@@ -1,0 +1,7 @@
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://w3id.org/ssv/TISMIR/data/performance/1941_-20_-28_-26_-20unbekannt_-29#15> a mo:Performance ;
+    rdfs:label "Performance: \"15-Radetzky-Marsch, Op. 228 - Johann Strauss I\"" ;
+    mo:recorded_as <https://w3id.org/ssv/TISMIR/data/signal/1941_-20_-28_-26_-20unbekannt_-29#15> .
+

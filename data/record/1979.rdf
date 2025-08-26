@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/1979">
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#10"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#11"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#5"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#12"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1979#4"/>
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</mo:track_count>
+    <rdfs:label>Record: "New Year's Day Concert 1979 (Extracts) / Concert Du Novel An 1979 (Extraits) / Neujahrskonzert 1979 (Auszüge)"</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/d7b7ec0c-5921-41e5-aa95-c892887d7a14"/>
+  </rdf:Description>
+</rdf:RDF>

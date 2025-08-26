@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
    xmlns:dcterms="http://purl.org/dc/terms/"
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/1990">
-    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
-    <dcterms:title>"Neujahrskonzert 1990"</dcterms:title>
+    <mo:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/1990"/>
+    <dcterms:publisher rdf:resource="https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"/>
     <rdfs:label>Release: "Neujahrskonzert 1990"</rdfs:label>
-    <rdfs:label>Record: "Neujahrskonzert 1990"</rdfs:label>
-    <ns1:catalogue_number>__NONE__</ns1:catalogue_number>
-    <ns1:record rdf:resource="https://w3id.org/ssv/TISMIR/data/record/1990"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#1"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#2"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#3"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#4"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#5"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#6"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#7"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#8"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#9"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#10"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#11"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#12"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#13"/>
-    <ns1:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#7"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#10"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#11"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#14"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#12"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#9"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#13"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#1"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#3"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#6"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#5"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#2"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#8"/>
+    <mo:publication_of rdf:resource="https://w3id.org/ssv/TISMIR/data/signal/1990#4"/>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/dd1c844d-d27c-4174-9d5d-80ee52a7d8bc"/>
+    <dcterms:title>"Neujahrskonzert 1990"</dcterms:title>
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/Release"/>
   </rdf:Description>
 </rdf:RDF>

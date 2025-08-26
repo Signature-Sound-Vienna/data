@@ -1,0 +1,39 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29",
+    "http://purl.org/dc/terms/issued": [
+      {
+        "@value": "1987"
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:Nb0925961b29946e8b76f01b2116f4063"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb0925961b29946e8b76f01b2116f4063",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ],
+    "http://purl.org/NET/c4dm/timeline.owl#atYear": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+        "@value": "1987"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:ev="https://purl.org/NET/c4dm/event.owl#"
+   xmlns:mo="http://purl.org/ontology/mo/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tl="http://purl.org/NET/c4dm/timeline.owl#"
+>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release_event/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29">
+    <rdf:type rdf:resource="http://purl.org/ontology/mo/ReleaseEvent"/>
+    <rdf:type rdf:resource="https://purl.org/NET/c4dm/event.owl#Event"/>
+    <mo:release rdf:resource="https://w3id.org/ssv/TISMIR/data/release/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29"/>
+    <ev:time rdf:nodeID="N19a7d6632b654abd92df67ef01a99c47"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N19a7d6632b654abd92df67ef01a99c47">
+    <tl:atYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1997</tl:atYear>
+    <rdf:type rdf:resource="http://purl.org/NET/c4dm/timeline.owl#Instant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/release/Berliner_-20Philharmoniker_-2C_-20Herbert_-20von_-20Karajan_-20_-281971_-29">
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-09-01</dcterms:issued>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,13 +1,18 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mblabel: <https://musicbrainz.org/label/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
+@prefix ssvrel: <https://w3id.org/ssv/TISMIR/data/release/> .
 
-<https://w3id.org/ssv/TISMIR/data/release/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> a ns1:Release ;
-    rdfs:label "Record: Neujahrskonzert",
-        "Release: Neujahrskonzert" ;
+ssvrel:Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29 a mo:Release ;
+    rdfs:label "Release: Neujahrskonzert" ;
+    dcterms:publisher mblabel:6844efda-a451-431e-8cc1-48ab111b4711 ;
     dcterms:title "Neujahrskonzert" ;
-    ns1:catalogue_number "__NONE__" ;
-    ns1:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1>,
+    mo:catalogue_number "CLB1015-2" ;
+    mo:musicbrainz mbrelease:05aaba2d-77fe-4d39-b516-12a88a53394e ;
+    mo:publication_of <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#1>,
         <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#10>,
         <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#11>,
         <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#12>,
@@ -23,5 +28,5 @@
         <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#7>,
         <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#8>,
         <https://w3id.org/ssv/TISMIR/data/signal/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29#9> ;
-    ns1:record <https://w3id.org/ssv/TISMIR/data/record/Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29> .
+    mo:record ssvrec:Johann-Strau_-C3_-9F-Orchester_-2C_-20Herbert_-20Siebert_-20_-282015_-29 .
 

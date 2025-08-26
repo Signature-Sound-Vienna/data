@@ -1,0 +1,25 @@
+[
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/release_event/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid",
+    "@type": [
+      "http://purl.org/ontology/mo/ReleaseEvent",
+      "https://purl.org/NET/c4dm/event.owl#Event"
+    ],
+    "http://purl.org/ontology/mo/release": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/release/Philharmonie_-20Lugansk_-2C_-20Kurt_-20Schmid"
+      }
+    ],
+    "https://purl.org/NET/c4dm/event.owl#time": [
+      {
+        "@id": "_:Nb18718d4b340473dac985173bc89d5f3"
+      }
+    ]
+  },
+  {
+    "@id": "_:Nb18718d4b340473dac985173bc89d5f3",
+    "@type": [
+      "http://purl.org/NET/c4dm/timeline.owl#Instant"
+    ]
+  }
+]

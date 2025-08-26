@@ -1,59 +1,5 @@
 [
   {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#3",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/03-Liebeslieder-Walzer%2C%20Op.%20114.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/9265b766-e85b-4490-8d10-223a1c2d0d83"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 3
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"Liebeslieder-Walzer, Op. 114\""
-      }
-    ]
-  },
-  {
-    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#6",
-    "@type": [
-      "http://purl.org/ontology/mo/Track"
-    ],
-    "http://purl.org/ontology/mo/available_as": [
-      {
-        "@id": "https://w3id.org/ssv/audio/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/06-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Op.%20314.wav"
-      }
-    ],
-    "http://purl.org/ontology/mo/musicbrainz": [
-      {
-        "@id": "https://musicbrainz.org/track/b42dda4a-1514-4dc4-aa3d-13df07e3233d"
-      }
-    ],
-    "http://purl.org/ontology/mo/track_number": [
-      {
-        "@type": "http://www.w3.org/2001/XMLSchema#integer",
-        "@value": 6
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#label": [
-      {
-        "@value": "Track: \"An der schönen blauen Donau, Op. 314\""
-      }
-    ]
-  },
-  {
     "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#4",
     "@type": [
       "http://purl.org/ontology/mo/Track"
@@ -131,6 +77,60 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Wiener Bonbons, Op. 307\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#6",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/06-An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20Op.%20314.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/b42dda4a-1514-4dc4-aa3d-13df07e3233d"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 6
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"An der schönen blauen Donau, Op. 314\""
+      }
+    ]
+  },
+  {
+    "@id": "https://w3id.org/ssv/TISMIR/data/track/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29#3",
+    "@type": [
+      "http://purl.org/ontology/mo/Track"
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/Wiener_-20Opernorchester_-2C_-20Falk_-20_-281991_-29/03-Liebeslieder-Walzer%2C%20Op.%20114.wav"
+      }
+    ],
+    "http://purl.org/ontology/mo/musicbrainz": [
+      {
+        "@id": "https://musicbrainz.org/track/9265b766-e85b-4490-8d10-223a1c2d0d83"
+      }
+    ],
+    "http://purl.org/ontology/mo/track_number": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": 3
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label": [
+      {
+        "@value": "Track: \"Liebeslieder-Walzer, Op. 114\""
       }
     ]
   },

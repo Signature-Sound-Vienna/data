@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rdf:RDF
-   xmlns:ns1="http://purl.org/ontology/mo/"
+   xmlns:mo="http://purl.org/ontology/mo/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/record/Kaiser-Walzer">
+    <mo:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</mo:track_count>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#9"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#1"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#6"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#7"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#8"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#3"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#4"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#2"/>
+    <mo:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#5"/>
+    <rdfs:label>Record: Kaiser-Walzer</rdfs:label>
+    <mo:musicbrainz rdf:resource="https://musicbrainz.org/release/f11b197e-c4ba-4ce5-a057-51766d73dad7"/>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Record"/>
-    <ns1:track_count rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</ns1:track_count>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#1"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#2"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#3"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#4"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#5"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#6"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#7"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#8"/>
-    <ns1:track rdf:resource="https://w3id.org/ssv/TISMIR/data/track/Kaiser-Walzer#9"/>
   </rdf:Description>
 </rdf:RDF>

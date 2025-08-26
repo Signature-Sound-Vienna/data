@@ -1,0 +1,7 @@
+_:N4b6b809c43c04296a2257febfe8f4c88 <http://purl.org/NET/c4dm/timeline.owl#atYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<https://w3id.org/ssv/TISMIR/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/ReleaseEvent> .
+<https://w3id.org/ssv/TISMIR/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29> <http://purl.org/ontology/mo/release> <https://w3id.org/ssv/TISMIR/data/release/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29> .
+<https://w3id.org/ssv/TISMIR/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://purl.org/NET/c4dm/event.owl#Event> .
+<https://w3id.org/ssv/TISMIR/data/release/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29> <http://purl.org/dc/terms/issued> "2010" .
+<https://w3id.org/ssv/TISMIR/data/release_event/K_-26K_-20Philharmoniker_-2C_-20Kendlinger_-20_-282010_-29> <https://purl.org/NET/c4dm/event.owl#time> _:N4b6b809c43c04296a2257febfe8f4c88 .
+_:N4b6b809c43c04296a2257febfe8f4c88 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/timeline.owl#Instant> .

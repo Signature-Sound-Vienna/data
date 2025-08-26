@@ -1,8 +1,13 @@
-@prefix ns1: <http://purl.org/ontology/mo/> .
+@prefix mbrelease: <https://musicbrainz.org/release/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ssvrec: <https://w3id.org/ssv/TISMIR/data/record/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<https://w3id.org/ssv/TISMIR/data/record/2011> a ns1:Record ;
-    ns1:track <https://w3id.org/ssv/TISMIR/data/track/2011#1>,
+ssvrec:2011 a mo:Record ;
+    rdfs:label "Record: \"Neujahrskonzert 2011\"" ;
+    mo:musicbrainz mbrelease:0323f5ef-937b-4f9f-a37e-e11156612393 ;
+    mo:track <https://w3id.org/ssv/TISMIR/data/track/2011#1>,
         <https://w3id.org/ssv/TISMIR/data/track/2011#10>,
         <https://w3id.org/ssv/TISMIR/data/track/2011#11>,
         <https://w3id.org/ssv/TISMIR/data/track/2011#12>,
@@ -23,5 +28,5 @@
         <https://w3id.org/ssv/TISMIR/data/track/2011#7>,
         <https://w3id.org/ssv/TISMIR/data/track/2011#8>,
         <https://w3id.org/ssv/TISMIR/data/track/2011#9> ;
-    ns1:track_count 22 .
+    mo:track_count 22 .
 

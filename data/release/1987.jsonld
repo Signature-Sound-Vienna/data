@@ -4,49 +4,33 @@
     "@type": [
       "http://purl.org/ontology/mo/Release"
     ],
+    "http://purl.org/dc/terms/publisher": [
+      {
+        "@id": "https://musicbrainz.org/label/10920823-9ed8-45d9-adb3-69fc22475ab0"
+      }
+    ],
     "http://purl.org/dc/terms/title": [
       {
         "@value": "\"Das legendärste Neujahrskonzert! (1987\""
       }
     ],
-    "http://purl.org/ontology/mo/catalogue_number": [
+    "http://purl.org/ontology/mo/musicbrainz": [
       {
-        "@value": "__NONE__"
+        "@id": "https://musicbrainz.org/release/6a222f79-522e-4333-8d03-36d649555790"
       }
     ],
     "http://purl.org/ontology/mo/publication_of": [
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#1"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#2"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#10"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#3"
       },
       {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#4"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#5"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#6"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#7"
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#11"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#8"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#9"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#10"
-      },
-      {
-        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#11"
       },
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#12"
@@ -55,10 +39,31 @@
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#13"
       },
       {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#9"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#7"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#1"
+      },
+      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#14"
       },
       {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#6"
+      },
+      {
         "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#15"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#2"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#5"
+      },
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/1987#4"
       }
     ],
     "http://purl.org/ontology/mo/record": [
@@ -69,9 +74,6 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Release: \"Das legendärste Neujahrskonzert! (1987\""
-      },
-      {
-        "@value": "Record: \"Das legendärste Neujahrskonzert! (1987\""
       }
     ]
   }
