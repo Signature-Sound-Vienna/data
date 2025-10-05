@@ -25,11 +25,11 @@
       "@id": "https://w3id.org/ssv/audio/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr/02-Kaiserwalzer%20Op.%20437.wav#t=71.66,115.86",
       "@type": "tl:Interval",
       "tl:onTimeLine": {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#2"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Wiener_-20Philharmoniker_-20_-2810_-20CDs_4-6_-29__CD_-206_-20-_-20Johann_-20Strauss_-20Jr#38"
       }
     }
   ],
-  "rdfs:label": "Example H: Vienna Philharonic Orchestra (1946)",
+  "rdfs:label": "Example H: Karajan, Vienna Philharmonic Orchestra (1946)",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
   }
