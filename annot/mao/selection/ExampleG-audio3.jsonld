@@ -11,26 +11,25 @@
     "dcterms": "http://purl.org/dc/terms/",
     "tl": "http://purl.org/NET/c4dm/timeline.owl#"
   },
-  "@id": "selection:ExampleG-audio2.jsonld",
+  "@id": "selection:ExampleG-audio3.jsonld",
   "@type": [
     "mao:Selection",
     "schema:Dataset"
   ],
-  "dcterms:created": "2024-05-28T11:06:41.160Z",
+  "dcterms:created": "2024-05-27T13:55:58.231Z",
   "dcterms:creator": {
     "@id": "https://ssv.solidcommunity.net/profile/card#me"
   },
-  "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
   "frbr:part": [
     {
-      "@id": "https://w3id.org/ssv/audio/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29/01-Kaiser%E2%80%93Walzer%2C%20op.%20437.wav#t=281.48,288.87",
+      "@id": "https://w3id.org/ssv/audio/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202/01-Kaiser-Walzer.wav#t=282.74,289.64",
       "@type": "tl:Interval",
       "tl:onTimeLine": {
-        "@id": "https://w3id.org/ssv/0.9/data/signal/1984_Berliner_-20Philharmoniker_-2C_-20Karajan_-20_-28Kaiser_-E2_-80_-93Walzer_-29#1"
+        "@id": "https://w3id.org/ssv/0.9/data/signal/Orchester_-20der_-20Wiener_-20Volksoper_-2C_-20Peter_-20Falk_-20_-281988_-29_-2C_-20Vol._-202#1"
       }
     }
   ],
-  "rdfs:label": "Example G: Karajan, Berliner Philharmoniker (1984)",
+  "rdfs:label": "Example G: Falk, Orchester der Wiener Volksoper (1988)",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn-Op437_Kaiser-Walzer_Breitkopf/main/Kaiser-Walzer_Breitkopf-expanded.mei"
   }
