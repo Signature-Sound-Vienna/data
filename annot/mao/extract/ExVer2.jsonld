@@ -23,6 +23,9 @@
   "frbr:embodiment": [
     {
       "@id": "selection:ExVer2.jsonld"
+    },
+    {
+      "@id": "selection:ExVer2-audio1.jsonld"
     }
   ],
   "rdfs:label": "TISMIR Example 5.2.5b (Vergnügungszug)",

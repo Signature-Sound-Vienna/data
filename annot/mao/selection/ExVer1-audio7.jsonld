@@ -8,54 +8,28 @@
     "mao": "https://domestic-beethoven.eu/ontology/1.0/music-annotation-ontology.ttl#",
     "frbr": "http://purl.org/vocab/frbr/core#",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-    "dcterms": "http://purl.org/dc/terms/"
+    "dcterms": "http://purl.org/dc/terms/",
+    "tl": "http://purl.org/NET/c4dm/timeline.owl#"
   },
-  "@id": "extract:ExVer1.jsonld",
+  "@id": "selection:ExVer1-audio7.jsonld",
   "@type": [
-    "mao:Extract",
+    "mao:Selection",
     "schema:Dataset"
   ],
-  "dcterms:created": "2024-05-28T12:25:15.532Z",
+  "dcterms:created": "2026-07-10T12:00:00.000Z",
   "dcterms:creator": {
     "@id": "https://ssv.solidcommunity.net/profile/card#me"
   },
-  "dcterms:provenance": "Generated using mei-friend v.1.0.14: https://mei-friend.mdw.ac.at",
-  "frbr:embodiment": [
+  "frbr:part": [
     {
-      "@id": "selection:ExVer1.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio1.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio2.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio3.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio4.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio6.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio7.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio8.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio9.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio10.jsonld"
-    },
-    {
-      "@id": "selection:ExVer1-audio11.jsonld"
+      "@id": "https://w3id.org/ssv/audio/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29/12-Vergn%C3%BCgungszug%2C%20Op.%20281.wav#t=90.33,94.99",
+      "@type": "tl:Interval",
+      "tl:onTimeLine": {
+        "@id": "https://w3id.org/ssv/TISMIR/data/signal/Estonian_-20National_-20Symphony_-20Orchestra_-2C_-20Neeme_-20J_-C3_-A4rvi_-20_-282017_-29#12"
+      }
     }
   ],
-  "rdfs:label": "TISMIR Example 5.2.5a (Vergnügungszug)",
+  "rdfs:label": "TISMIR Example 5.2.5a: Estonian National Symphony Orchestra, Neeme Järvi (2017) -- Vergnügungszug",
   "schema:about": {
     "@id": "https://raw.githubusercontent.com/Signature-Sound-Vienna/Johann-Strauss-Sohn_Op281_Vergnuegungszug_Spina/main/Josef-Strauss_Vergnuegungszug_Spina.mei"
   }
