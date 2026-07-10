@@ -44,3 +44,4 @@
 <https://w3id.org/ssv/TISMIR/data/signal/1980-1983#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Signal> .
 <https://w3id.org/ssv/TISMIR/data/signal/1980-1983#7> <http://purl.org/ontology/mo/published_as> <https://w3id.org/ssv/TISMIR/data/track/1980-1983#7> .
 <https://w3id.org/ssv/TISMIR/data/signal/1980-1983#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Signal> .
+<https://w3id.org/ssv/TISMIR/data/signal/1980-1983#17> <https://w3id.org/ssv/vocab#peaks> <https://w3id.org/ssv/TISMIR/data/peaks/1980-1983/17.peaks.json> .

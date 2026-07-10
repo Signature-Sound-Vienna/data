@@ -142,4 +142,7 @@
     <ns1:track_number rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</ns1:track_number>
     <rdfs:label>Track: "Delirien Op.212"</rdfs:label>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/1980-1983#17">
+    <x:available_as xmlns:x="http://purl.org/ontology/mo/" rdf:resource="https://w3id.org/ssv/audio/1980-1983/06-Strauss%20Johann%20Jr%20%20_%20Vergn%C3%BCgungszug%20Op.281.wav"/>
+  </rdf:Description>
 </rdf:RDF>

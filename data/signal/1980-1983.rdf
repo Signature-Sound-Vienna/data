@@ -95,4 +95,7 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/1980-1983#19"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/1980-1983#17">
+    <x:peaks xmlns:x="https://w3id.org/ssv/vocab#" rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/1980-1983/17.peaks.json"/>
+  </rdf:Description>
 </rdf:RDF>

@@ -5,7 +5,7 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/track/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29#1">
-    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein_-20_-281982_-29/01-The%20Blue%20Danube%20Waltz%2COP.314.wav"/>
+    <mo:available_as rdf:resource="https://w3id.org/ssv/audio/New_-20York_-20Philharmonic_-2C_-20Leonard_-20Bernstein/1%20-%20The%20Blue%20Danube%20Waltz.wav"/>
     <mo:musicbrainz rdf:resource="https://musicbrainz.org/track/2b689f58-8fbe-4fd6-8fa4-b5a9884f4528"/>
     <rdfs:label>Track: "The Blue Danube Waltz, op. 314"</rdfs:label>
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Track"/>

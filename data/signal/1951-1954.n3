@@ -87,3 +87,7 @@
 <https://w3id.org/ssv/TISMIR/data/signal/1951-1954#9> a ns1:Signal ;
     ns1:published_as <https://w3id.org/ssv/TISMIR/data/track/1951-1954#9> .
 
+
+<https://w3id.org/ssv/TISMIR/data/signal/1951-1954#9> <https://w3id.org/ssv/vocab#peaks> <https://w3id.org/ssv/TISMIR/data/peaks/1951-1954/9.peaks.json> .
+
+<https://w3id.org/ssv/TISMIR/data/signal/1951-1954#13> <https://w3id.org/ssv/vocab#peaks> <https://w3id.org/ssv/TISMIR/data/peaks/1951-1954/13.peaks.json> .

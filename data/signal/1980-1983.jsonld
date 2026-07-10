@@ -85,6 +85,11 @@
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1980-1983#17"
       }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/1980-1983/17.peaks.json"
+      }
     ]
   },
   {

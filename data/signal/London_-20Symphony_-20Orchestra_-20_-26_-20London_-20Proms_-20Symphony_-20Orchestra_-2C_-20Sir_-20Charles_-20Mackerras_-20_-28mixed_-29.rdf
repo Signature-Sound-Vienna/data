@@ -107,4 +107,7 @@
     <rdf:type rdf:resource="http://purl.org/ontology/mo/Signal"/>
     <ns1:published_as rdf:resource="https://w3id.org/ssv/TISMIR/data/track/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#3"/>
   </rdf:Description>
+  <rdf:Description rdf:about="https://w3id.org/ssv/TISMIR/data/signal/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29#2">
+    <x:peaks xmlns:x="https://w3id.org/ssv/vocab#" rdf:resource="https://w3id.org/ssv/TISMIR/data/peaks/London_-20Symphony_-20Orchestra_-20_-26_-20London_-20Proms_-20Symphony_-20Orchestra_-2C_-20Sir_-20Charles_-20Mackerras_-20_-28mixed_-29/2.peaks.json"/>
+  </rdf:Description>
 </rdf:RDF>

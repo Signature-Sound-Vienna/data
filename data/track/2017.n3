@@ -77,7 +77,7 @@
 
 <https://w3id.org/ssv/TISMIR/data/track/2017#20> a mo:Track ;
     rdfs:label "Track: \"An der schönen blauen Donau, op. 314\"" ;
-    mo:available_as <https://w3id.org/ssv/audio/2017/20%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
+    mo:available_as <https://w3id.org/ssv/audio/2017/19%20-%20An%20der%20sch%C3%B6nen%20blauen%20Donau%2C%20op.%20314%20-%20Johann%20Strauss%20II.wav> ;
     mo:musicbrainz mbtrack:daea0c8d-a479-406b-b8df-acb8a1fab29e ;
     mo:track_number 20 .
 

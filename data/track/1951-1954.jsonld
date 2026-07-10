@@ -393,6 +393,11 @@
       {
         "@value": "Track: \"Éljen a Magyar, Polka, Op.332\""
       }
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1951-1954/09-StraussII_%C3%89ljen%20a%20Magyar%2C%20Polka%2C%20Op.332.wav"
+      }
     ]
   },
   {
@@ -436,6 +441,11 @@
     "http://www.w3.org/2000/01/rdf-schema#label": [
       {
         "@value": "Track: \"Vergnugunszug, Polka schnell, Op.281\""
+      }
+    ],
+    "http://purl.org/ontology/mo/available_as": [
+      {
+        "@id": "https://w3id.org/ssv/audio/1951-1954/13-StraussII_Vergnugungszug%2C%20Op.281%2C%20Polka%20schnell.wav"
       }
     ]
   },

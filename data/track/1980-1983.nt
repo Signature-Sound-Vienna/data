@@ -90,3 +90,4 @@
 <https://w3id.org/ssv/TISMIR/data/track/1980-1983#6> <http://purl.org/ontology/mo/track_number> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/TISMIR/data/track/1980-1983#7> <http://purl.org/ontology/mo/track_number> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://w3id.org/ssv/TISMIR/data/track/1980-1983#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Track> .
+<https://w3id.org/ssv/TISMIR/data/track/1980-1983#17> <http://purl.org/ontology/mo/available_as> <https://w3id.org/ssv/audio/1980-1983/06-Strauss%20Johann%20Jr%20%20_%20Vergn%C3%BCgungszug%20Op.281.wav> .

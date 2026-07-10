@@ -41,6 +41,11 @@
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1951-1954#13"
       }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/1951-1954/13.peaks.json"
+      }
     ]
   },
   {
@@ -150,6 +155,11 @@
     "http://purl.org/ontology/mo/published_as": [
       {
         "@id": "https://w3id.org/ssv/TISMIR/data/track/1951-1954#9"
+      }
+    ],
+    "https://w3id.org/ssv/vocab#peaks": [
+      {
+        "@id": "https://w3id.org/ssv/TISMIR/data/peaks/1951-1954/9.peaks.json"
       }
     ]
   },
